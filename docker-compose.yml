@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: heartcenter_db
+      POSTGRES_USER: heartcenter_user
+      POSTGRES_PASSWORD: yourpassword
+    volumes:
+      - ${PWD}/data:/var/lib/postgresql/data
+    networks:
+      - heartcenter_net
+
+  redis:
+    image: redis:6
+    networks:
+      - heartcenter_net
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.15.0
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - 9200:9200
+    networks:
+      - heartcenter_net
+
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+      - elasticsearch
+    networks:
+      - heartcenter_net
+
+volumes:
+  postgres_data:
+
+networks:
+  heartcenter_net:
+    driver: bridge
