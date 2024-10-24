@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease List</title>
+</head>
+<body>
+    <h1>Diseases</h1>
+    <ul>
+        {% for disease in diseases %}
+            <li><a href="{% url 'diseases:disease_detail' disease.pk %}">{{ disease.name }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

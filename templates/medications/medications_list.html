@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medication List</title>
+</head>
+<body>
+    <h1>Medications</h1>
+    <ul>
+        {% for medication in medications %}
+            <li>
+                <a href="{% url 'medications:medication_detail' medication.pk %}">{{ medication.name }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Supplement List</title>
+</head>
+<body>
+    <h1>Supplements</h1>
+    <ul>
+        {% for supplement in supplements %}
+            <li>
+                <a href="{% url 'supplements:supplement_detail' supplement.pk %}">{{ supplement.name }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

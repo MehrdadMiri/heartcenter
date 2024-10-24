@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ doctor.name }}</title>
+</head>
+<body>
+    <h1>{{ doctor.name }}</h1>
+    <p><strong>Specialty:</strong> {{ doctor.specialty }}</p>
+    <p><strong>Contact Info:</strong> {{ doctor.contact_info }}</p>
+    <a href="{% url 'doctors:doctor_list' %}">Back to Doctor List</a>
+</body>
+</html>

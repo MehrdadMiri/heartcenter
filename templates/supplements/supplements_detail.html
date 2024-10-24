@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ supplement.name }}</title>
+</head>
+<body>
+    <h1>{{ supplement.name }}</h1>
+    <p><strong>Description:</strong> {{ supplement.description }}</p>
+    <p><strong>Benefits:</strong> {{ supplement.benefits }}</p>
+    <p><strong>Side Effects:</strong> {{ supplement.side_effects }}</p>
+    <a href="{% url 'supplements:supplement_list' %}">Back to Supplement List</a>
+</body>
+</html>

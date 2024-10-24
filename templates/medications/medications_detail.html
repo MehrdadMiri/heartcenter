@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ medication.name }}</title>
+</head>
+<body>
+    <h1>{{ medication.name }}</h1>
+    <p><strong>Description:</strong> {{ medication.description }}</p>
+    <p><strong>Uses:</strong> {{ medication.uses }}</p>
+    <p><strong>Side Effects:</strong> {{ medication.side_effects }}</p>
+    <a href="{% url 'medications:medication_list' %}">Back to Medication List</a>
+</body>
+</html>
