@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Irbesartan is an angiotensin II receptor blocker (ARB) used primarily to treat high blood pressure (hypertension) and to protect the kidneys in patients with diabetes. By blocking the action of angiotensin II, a substance in the body that causes blood vessels to constrict, Irbesartan helps to relax blood vessels, lower blood pressure, and reduce the workload on the heart.",
+    "uses": "Irbesartan is commonly used to manage hypertension in adult patients, helping to prevent complications such as stroke and heart attack. It may also be prescribed for patients suffering from diabetic nephropathy, a kidney disease caused by diabetes, to slow the progression of kidney damage and preserve renal function.\n\nIn addition, Irbesartan can be utilized in certain cases of heart failure, either alone or in combination with other heart medications, to improve heart function and relieve symptoms. It is sometimes used for patients who cannot tolerate ACE inhibitors, as it tends not to cause the persistent cough associated with that medication class.",
+    "side effects": [
+      "Dizziness or lightheadedness: May occur when standing up quickly, due to a sudden drop in blood pressure.",
+      "Fatigue: Patients may feel unusually tired or weak.",
+      "Kidney dysfunction: Irbesartan can affect kidney function, which may need to be monitored with blood tests.",
+      "Elevated potassium levels: Higher potassium levels (hyperkalemia) can occur, leading to serious heart problems if left untreated.",
+      "Angioedema: Rarely, some patients may experience swelling of the face, lips, throat, or tongue, which can be life-threatening."
+    ]
+  },
+  "fa": {
+    "description": "ایربیسارتان یک مسدودکننده گیرنده آنژیوتنسین II (ARB) است که عمدتاً برای درمان فشار خون بالا ( hypertension ) و حفاظت از کلیه‌ها در بیماران دیابتی استفاده می‌شود. با مسدود کردن عملکرد آنژیوتنسین II، ماده‌ای در بدن که باعث تنگ شدن عروق خونی می‌شود، ایربیسارتان به شل کردن عروق خونی، کاهش فشار خون و کاهش بار کاری قلب کمک می‌کند.",
+    "uses": "ایربیسارتان معمولاً برای مدیریت فشار خون بالا در بیماران بزرگسال تجویز می‌شود، که به جلوگیری از عوارضی مانند سکته مغزی و حمله قلبی کمک می‌کند. همچنین ممکن است برای بیمارانی که از نفروپاتی دیابتی رنج می‌برند، بیماری کلیوی ناشی از دیابت، تجویز شود تا پیشرفت آسیب کلیوی را کند کرده و عملکرد کلیه را حفظ کند.\n\nعلاوه بر این، ایربیسارتان می‌تواند در برخی موارد نارسایی قلبی، به‌تنهایی یا در ترکیب با سایر داروهای قلبی، برای بهبود عملکرد قلب و تسکین علائم مورد استفاده قرار گیرد. این دارو گاهی برای بیمارانی که نمی‌توانند از مهارکننده‌های ACE استفاده کنند، تجویز می‌شود، زیرا معمولاً باعث سرفه مداوم همراه با این دسته از داروها نمی‌شود.",
+    "side effects": [
+      "سرگیجه یا سبکی سر: ممکن است زمانی که فرد به سرعت می‌ایستد، به دلیل افت ناگهانی فشار خون رخ بدهد.",
+      "خستگی: بیماران ممکن است احساس خستگی یا ضعف غیرعادی کنند.",
+      "اختلال عملکرد کلیه: ایربیسارتان می‌تواند بر عملکرد کلیه تأثیر بگذارد، که ممکن است نیاز به نظارت با آزمایشات خونی داشته باشد.",
+      "افزایش سطح پتاسیم: سطح بالاتر پتاسیم (هایپرکالمی) ممکن است رخ دهد که در صورت عدم درمان می‌تواند به مشکلات جدی قلبی منجر شود.",
+      "آنگیوئدم: به‌ندرت، برخی بیماران ممکن است ورم صورت، لب‌ها، گلو یا زبان را تجربه کنند که می‌تواند تهدیدکننده زندگی باشد."
+    ]
+  }
+}

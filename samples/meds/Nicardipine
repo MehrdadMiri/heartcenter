@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Nicardipine is a calcium channel blocker that is primarily used to treat hypertension (high blood pressure) and angina (chest pain due to heart-related issues). By inhibiting calcium influx into vascular smooth muscle, it causes vasodilation, resulting in reduced blood pressure and decreased cardiac workload. Nicardipine is often utilized in both acute and chronic settings, especially for patients who may require rapid blood pressure control or management of chronic hypertension.",
+    
+    "uses": "Nicardipine is commonly prescribed to patients with elevated blood pressure, particularly in critical care and surgical settings where immediate reduction in blood pressure is necessary. It is also used in the management of stable and unstable angina, helping to alleviate chest pain by improving blood flow to the heart. Additionally, it may be beneficial for certain types of migraines and in the treatment of Raynaud's phenomenon by improving circulation.",
+    
+    "side effects": [
+      "Headache: A common side effect that may occur due to dilation of blood vessels.",
+      "Dizziness: Can occur as a result of lowered blood pressure, leading to lightheadedness.",
+      "Flushing: Temporary redness of the skin, especially in the face, due to vasodilation.",
+      "Edema: Swelling in the legs or ankles due to fluid retention.",
+      "Nausea: Some patients may experience gastrointestinal discomfort."
+    ]
+  },
+  "fa": {
+    "description": "نیکاردیپین یک مسدودکننده کانال کلسیم است که عمدتاً برای درمان فشار خون بالا و آنژین (درد قفسه سینه ناشی از مسائل قلبی) استفاده می‌شود. با جلوگیری از ورود کلسیم به عضلات صاف عروق، باعث گشادشدگی عروق می‌شود و در نتیجه فشار خون را کاهش و بار قلبی را کاهش می‌دهد. نیکاردیپین معمولاً در محیط‌های حاد و مزمن، به ویژه برای بیمارانی که نیاز به کنترل سریع فشار خون دارند، مورد استفاده قرار می‌گیرد.",
+    
+    "uses": "نیکاردیپین معمولاً برای بیماران دارای فشار خون بالا تجویز می‌شود، به ویژه در مراقبت‌های ویژه و محیط‌های جراحی که کنترل فوری فشار خون ضروری است. همچنین در مدیریت آنژین پایدار و ناپایدار، به کاهش درد قفسه سینه و بهبود جریان خون به قلب کمک می‌کند. علاوه بر این، ممکن است در درمان انواع خاصی از میگرن و پدیده رینود با بهبود گردش خون مفید باشد.",
+    
+    "side effects": [
+      "سردرد: یک عارضه شایع که ممکن است به دلیل گشاد شدن عروق بروز کند.",
+      "سرگیجه: ممکن است به دلیل کاهش فشار خون، منجر به سبکی سر شود.",
+      "قرمزی صورت: پوست ممکن است به طور موقت در ناحیه صورت به دلیل گشاد شدن عروق قرمز شود.",
+      "ادم: تورم در پاها یا مچ‌ها به دلیل احتباس مایعات.",
+      "تهوع: برخی از بیماران ممکن است ناراحتی روده‌ای را تجربه کنند."
+    ]
+  }
+}

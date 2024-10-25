@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Glucosamine is a natural compound found in cartilage, which is the tough tissue that cushions joints. It is commonly used as a dietary supplement to help manage symptoms of osteoarthritis and joint pain. Glucosamine is available in various forms, including glucosamine sulfate, glucosamine hydrochloride, and N-acetyl glucosamine, and is often taken in combination with chondroitin sulfate, another joint health supplement, to enhance its effects.",
+    "benefits": "Glucosamine may help reduce joint pain and stiffness, improve joint function, and slow the deterioration of cartilage in individuals with osteoarthritis. Some studies suggest that it may contribute to better mobility and quality of life for those suffering from joint conditions.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Constipation",
+      "Heartburn",
+      "Stomach pain",
+      "Allergic reactions (especially in individuals sensitive to shellfish)",
+      "Drowsiness",
+      "Headaches"
+    ]
+  },
+  "fa": {
+    "description": "گلوکزامین یک ترکیب طبیعی است که در غضروف وجود دارد، که بافت سختی است که مفاصل را محافظت می‌کند. این ماده به طور معمول به عنوان یک مکمل غذایی برای کمک به مدیریت علائم استئوآرتریت و درد مفاصل مورد استفاده قرار می‌گیرد. گلوکزامین به شکل‌های مختلفی از جمله گلوکزامین سولفات، گلوکزامین هیدروکلراید و N-استیل گلوکزامین در دسترس است و اغلب همراه با کندرویتین سولفات، یک مکمل سلامتی مفاصل دیگر، برای تقویت اثرات آن مصرف می‌شود.",
+    "benefits": "گلوکزامین ممکن است به کاهش درد و سفتی مفاصل، بهبود عملکرد مفاصل و کند کردن تخریب غضروف در افرادی که مبتلا به استئوآرتریت هستند، کمک کند. برخی از مطالعات نشان می‌دهد که ممکن است به بهبود تحرک و کیفیت زندگی برای افرادی که از شرایط مفصلی رنج می‌برند، کمک کند.",
+    "side effects": [
+      "تهوع",
+      "اسهال",
+      "یبوست",
+      "سوزش سر دل",
+      "درد معده",
+      "واکنش‌های آلرژیک (به‌ویژه در افرادی که به غذاهای دریایی حساس هستند)",
+      "خواب‌آلودگی",
+      "سردرد"
+    ]
+  }
+}

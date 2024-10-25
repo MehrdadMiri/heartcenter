@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Heart valve disease refers to a range of conditions that affect one or more of the four heart valves—mitral, aortic, tricuspid, and pulmonary. These valves control the flow of blood through the heart and can become stenotic (narrowed) or regurgitant (leaky), leading to heart problems. Over time, valve disease can result in heart enlargement, heart failure, and other serious complications if not treated effectively.",
+    "symptoms": [
+      "Shortness of breath: Patients may experience difficulty breathing during physical activity or even at rest due to inefficient blood flow.",
+      "Chest pain: Discomfort or pain in the chest region may occur, often indicative of underlying heart strain or ischemia.",
+      "Fatigue: A general sense of tiredness or decreased energy levels can occur due to reduced cardiac output.",
+      "Palpitations: Patients may feel a fluttering or racing heartbeat caused by arrhythmias associated with valve dysfunction.",
+      "Swelling: Edema in the legs, ankles, or abdomen may arise due to fluid accumulation as the heart struggles to pump effectively.",
+      "Dizziness or fainting: Reduced blood flow can lead to episodes of lightheadedness or syncope."
+    ],
+    "treatments": "Treatment for heart valve disease typically depends on the severity of the condition and symptoms. Options include: \n\n- **Medications:** Doctors often prescribe medications such as diuretics, beta-blockers, or anticoagulants to manage symptoms and reduce the heart's workload. \n- **Monitoring:** For mild cases, regular follow-up with echocardiograms and monitoring may suffice. \n- **Surgical Repair or Replacement:** For moderate to severe cases, surgical intervention may be necessary. This could involve repairing the affected valve (valvuloplasty) or replacing it with a mechanical or biological prosthetic valve. \n- **Catheter-Based Procedures:** Less invasive options like transcatheter aortic valve replacement (TAVR) are increasingly used for patients at higher risk for open-heart surgery. \n\nThe approach will be personalized based on the individual’s overall health, the type of valve affected, and the specific issues present."
+  },
+  "fa": {
+    "description": "بیماری دریچه قلب به مجموعه‌ای از شرایط اطلاق می‌شود که یک یا چند مورد از چهار دریچه قلب—میترال، آئورتی، تریکوسپید و ریوی—را تحت تاثیر قرار می‌دهد. این دریچه‌ها جریان خون در قلب را کنترل کرده و ممکن است باریک (تنگ‌شدگی) یا نشت‌دهنده (نشتی) شوند که منجر به مشکلات قلبی می‌شود. با گذشت زمان، بیماری دریچه‌ای می‌تواند به بزرگ شدن قلب، نارسایی قلبی و سایر عوارض جدی منجر شود اگر به‌طور مؤثر درمان نشود.",
+    "symptoms": [
+      "تنگی نفس: بیماران ممکن است با دشواری در تنفس هنگام فعالیت بدنی یا حتی در حالت استراحت مواجه شوند.",
+      "درد قفسه سینه: احساس ناراحتی یا درد در ناحیه سینه، اغلب نشانه‌ای از فشار یا ایسکمی قلب است.",
+      "خستگی: احساس کلی خستگی یا کاهش سطح انرژی می‌تواند به دلیل کاهش خروج قلب باشد.",
+      "تپش قلب: بیماران ممکن است احساس تپش یا ضربان سریع قلب داشته باشند که ناشی از آریتمی‌های مربوط به اختلال دریچه است.",
+      "تورم: ورم در پاها، مچ پا یا شکم ممکن است به دلیل تجمع مایع به وجود آید.",
+      "سرگیجه یا غش: کاهش جریان خون می‌تواند منجر به بروز علائم سرگیجه یا غش شود."
+    ],
+    "treatments": "درمان بیماری دریچه قلب معمولاً به شدت وضعیت و علائم بستگی دارد. گزینه‌ها شامل: \n\n- **داروها:** پزشکان معمولاً داروهایی مانند دیورتیک‌ها، بتا بلاکرها یا ضد انعقادها را برای کنترل علائم و کاهش بار قلب تجویز می‌کنند. \n- **نظارت:** در موارد خفیف، پیگیری منظم با اکوکاردیوگرافی‌ها و نظارت ممکن است کافی باشد. \n- **عمل جراحی ترمیم یا تعویض:** برای موارد متوسط تا شدید، مداخله جراحی ممکن است ضروری باشد. این ممکن است شامل ترمیم دریچه آسیب‌دیده (والولوپلاستی) یا تعویض آن با یک دریچه پروتزی مکانیکی یا بیولوژیکی باشد. \n- **روش‌های مبتنی بر کاتتر:** گزینه‌های کمتر تهاجمی مانند تعویض دریچه آئورت از طریق کاتتر (TAVR) به طور فزاینده‌ای برای بیمارانی که در معرض خطر بیشتر برای جراحی قلب باز هستند، استفاده می‌شود. \n\nرویکرد بر اساس سلامت کلی فرد، نوع دریچه تحت تأثیر و مشکلات خاص موجود، شخصی‌سازی خواهد شد."
+  }
+}

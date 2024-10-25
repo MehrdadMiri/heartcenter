@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Enoxaparin is an anticoagulant (blood thinner) that belongs to a class of medications known as low molecular weight heparins (LMWH). It is commonly used to prevent and treat deep vein thrombosis (DVT) and pulmonary embolism (PE), particularly in patients undergoing surgery, those with limited mobility, and patients with certain medical conditions like cancer or heart disease. Enoxaparin works by inhibiting the formation of blood clots by inactivating factor Xa and, to a lesser extent, factor IIa (thrombin) in the coagulation cascade.",
+    "uses": "Enoxaparin is primarily used for the prevention of venous thromboembolism, especially in patients who have undergone orthopedic or abdominal surgery. It is also used for the treatment of established DVT and PE, and may be employed in specific cases of acute coronary syndrome (ACS) to improve cardiac outcomes. Additionally, it is used in pregnant women who require anticoagulation therapy due to specific health risks, providing safety for the fetus while managing the mother’s condition.",
+    "side effects": [
+      "Bleeding: Increased risk of bleeding complications, which can manifest as unusual bruising, nosebleeds, or gastrointestinal bleeding.",
+      "Thrombocytopenia: A decrease in platelet count, which may lead to an increased risk of bleeding.",
+      "Injection site reactions: Pain, redness, or swelling at the injection site.",
+      "Allergic reactions: Potential for allergic reactions including rash, itching, or anaphylaxis.",
+      "Liver enzyme elevation: Possible increase in liver enzymes, which may indicate liver injury."
+    ]
+  },
+  "fa": {
+    "description": "انوکساپارین یک آنتی‌کوآگولانت (رقیق‌کننده خون) است که به کلاس داروهای موسوم به هپارین‌های با وزن مولکولی کم (LMWH) تعلق دارد. این دارو به طور معمول برای پیشگیری و درمان ترومبوز وریدی عمقی (DVT) و آمبولی ریه (PE) استفاده می‌شود، به ویژه در بیمارانی که تحت عمل جراحی قرار گرفته‌اند، کسانی که تحرک محدودی دارند و بیمارانی با برخی شرایط پزشکی مانند سرطان یا بیماری قلبی. انوکساپارین با مهار تشکیل لخته‌های خونی از طریق غیرفعال کردن فاکتور Xa و به میزان کمتری فاکتور IIa (ترومبین) در زنجیره انعقاد خون عمل می‌کند.",
+    "uses": "انوکساپارین عمدتاً برای پیشگیری از ترومبوز وریدی ‌مؤثر است، به‌ویژه در بیمارانی که تحت عمل جراحی ارتوپدی یا شکمی قرار گرفته‌اند. همچنین برای درمان DVT و PE موجود مورد استفاده قرار می‌گیرد و ممکن است در موارد خاص سندرم کرونری حاد (ACS) برای بهبود نتایج قلبی به کار رود. علاوه بر این، در زنان باردار که نیاز به درمان آنتی‌کوآگولانت به علت برخی خطرات بهداشتی دارند، استفاده می‌شود تا ایمنی جنین را فراهم کند و در عین حال وضعیت مادر را مدیریت کند.",
+    "side effects": [
+      "خونریزی: افزایش خطر عوارض خونریزی، که ممکن است به صورت کبودی غیرمعمول، خونریزی از بینی یا خونریزی گوارشی ظاهر شود.",
+      "ترومبوسیتوپنی: کاهش شمارش پلاکت‌ها که ممکن است منجر به افزایش خطر خونریزی شود.",
+      "واکنش‌های محل تزریق: درد، قرمزی یا ورم در محل تزریق.",
+      "واکنش‌های آلرژیک: احتمال بروز واکنش‌های آلرژیک شامل rash، خارش یا آنافیلاکسی.",
+      "افزایش آنزیم‌های کبدی: افزایش ممکن آنزیم‌های کبدی که ممکن است نشان دهنده آسیب کبدی باشد."
+    ]
+  }
+}

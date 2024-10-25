@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Postural Orthostatic Tachycardia Syndrome (POTS) is a condition that affects the autonomic nervous system, characterized by an abnormal increase in heart rate that occurs when a person transitions from lying down to a standing position. This syndrome leads to a variety of symptoms that can significantly impact daily life and may be associated with other underlying health conditions, such as Ehlers-Danlos syndrome or chronic fatigue syndrome.",
+    "symptoms": [
+      "Excessive heart rate increase: A heart rate increase of more than 30 beats per minute upon standing.",
+      "Dizziness or lightheadedness: A frequent feeling of being faint, especially when standing up.",
+      "Fatigue: Chronic and overwhelming fatigue that is often debilitating.",
+      "Palpitations: Noticeable heartbeats or the sensation of racing heart.",
+      "Nausea: A feeling of sickness or an urge to vomit.",
+      "Sweating abnormalities: Either excessive sweating or a decreased ability to sweat.",
+      "Tremors: Shaking or trembling, particularly in the extremities.",
+      "Visual disturbances: Blurred vision or tunnel vision when standing."
+    ],
+    "treatments": "Treatment for POTS often involves a combination of lifestyle changes, dietary adjustments, physical therapy, and medications. Increasing fluid and salt intake can help expand blood volume and improve blood flow. Patients are encouraged to wear compression garments to help reduce blood pooling in the legs. Regular physical exercise, particularly strength training and cardiovascular activities, can increase tolerance to standing. Medications such as beta-blockers, fludrocortisone, or midodrine may be prescribed to manage heart rate and blood pressure. It is essential for patients to work closely with their healthcare provider to create a customized treatment plan that addresses their specific symptoms and needs."
+  },
+  "fa": {
+    "description": "سندرم تاکی‌کاردیای وضعیتی ارتواستاتیک (POTS) یک اختلال است که بر سیستم عصبی خودکار تأثیر می‌گذارد و با افزایش غیرطبیعی ضربان قلب هنگام تغییر از حالت درازکش به ایستاده مشخص می‌شود. این سندرم منجر به بروز مجموعه‌ای از علائم می‌شود که می‌تواند به طور قابل‌توجهی بر کیفیت زندگی روزمره تأثیر بگذارد و ممکن است با سایر مشکلات بهداشتی مرتبط باشد، مانند سندرم اهرلر-دانلوس یا خستگی مزمن.",
+    "symptoms": [
+      "افزایش ضربان قلب: افزایش بیش از 30 ضربه در دقیقه هنگام ایستادن.",
+      "سرگیجه یا سبکی سر: احساس مکرر بی‌حالی، به‌ویژه هنگام ایستادن.",
+      "خستگی: خستگی مزمن و بیش از اندازه که اغلب ناتوان‌کننده است.",
+      "تپش قلب: ضربان‌های قابل‌توجه یا احساس تند زدن قلب.",
+      "تهوع: احساس بیماری یا تمایل به استفراغ.",
+      "اختلالات عرق کردن: عرق کردن زیاد یا کاهش توانایی عرق کردن.",
+      "لرزش: لرزش یا تکان خوردن، به‌ویژه در اندام‌ها.",
+      "اختلالات بینایی: تاری دید یا دید تونلی هنگام ایستادن."
+    ],
+    "treatments": "درمان POTS معمولاً شامل ترکیبی از تغییرات سبک زندگی، تعدیلات غذایی، فیزیوتراپی و داروها است. افزایش مصرف مایعات و نمک می‌تواند به افزایش حجم خون و بهبود جریان خون کمک کند. به بیماران توصیه می‌شود از لباس‌های فشاری استفاده کنند تا از تجمع خون در پاها جلوگیری شود. تمرینات ورزشی منظم، به‌ویژه تمرینات قدرتی و قلبی، می‌تواند تحمل ایستادن را افزایش دهد. داروهایی مانند بتا-بلوک‌ها، فلودروکورتیزون یا میدوژین ممکن است برای مدیریت ضربان قلب و فشار خون تجویز شوند. بسیار مهم است که بیماران به‌طور نزدیک با ارائه‌دهنده خدمات بهداشتی خود همکاری کنند تا یک برنامه درمانی سفارشی که به علائم و نیازهای خاص آن‌ها پاسخ می‌دهد، ایجاد کنند."
+  }
+}

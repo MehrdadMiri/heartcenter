@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Isoproterenol is a synthetic catecholamine that acts as a non-selective beta-adrenergic agonist. It is primarily used in the treatment of bradycardia (abnormally slow heart rate), heart block, and certain types of asthma. By stimulating beta-1 and beta-2 adrenergic receptors, isoproterenol increases heart rate, myocardial contractility, and bronchodilation, thereby improving cardiac output and facilitating breathing in patients with respiratory distress.",
+    "uses": "Isoproterenol is commonly indicated for the management of severe bradycardia, particularly in cases where the patient is symptomatic and other therapy is not feasible. It is also used in emergency situations to manage heart block when pacing is not available. In addition, isoproterenol may be utilized to provide bronchodilation in patients with acute asthma attacks or chronic obstructive pulmonary disease (COPD). Its role in treating these conditions stems from its ability to relax airway smooth muscles, thereby enhancing airflow.",
+    "side effects": [
+      "Tachycardia - Increased heart rate that can lead to palpitations.",
+      "Hypertension - Elevated blood pressure which can be harmful, especially in patients with cardiovascular issues.",
+      "Tremors - Uncontrollable shaking or trembling, particularly in the hands and arms.",
+      "Headache - Could occur due to vascular changes or as a central nervous system effect.",
+      "Nausea - Stomach upset or discomfort that may lead to vomiting in some cases."
+    ]
+  },
+  "fa": {
+    "description": "ایزوپروترنول یک کاتهکول آمین مصنوعی است که به عنوان یک آگونیست غیر انتخابی بتا-آدرنرژیک عمل می‌کند. این دارو عمدتاً در درمان برادیکاردی (ضربان قلب غیرطبیعی کند)،‌ بلوک قلبی و برخی انواع آسم مورد استفاده قرار می‌گیرد. با تحریک گیرنده‌های بتا-۱ و بتا-۲ آدرنرژیک، ایزوپروترنول ضربان قلب، انقباض عضلانی قلب و برونکودیلاتاسیون را افزایش می‌دهد و بدین ترتیب برونده قلبی را بهبود بخشیده و تنفس را در بیمارانی که دچار تنگی نفس هستند تسهیل می‌کند.",
+    "uses": "ایزوپروترنول معمولاً برای مدیریت برادیکاردی شدید تعیین می‌شود، به ویژه در مواردی که بیمار علائم دارد و درمان‌های دیگر قابل انجام نیست. همچنین در شرایط اضطراری برای مدیریت بلوک قلبی هنگامی که پیسینگ در دسترس نیست، مورد استفاده قرار می‌گیرد. علاوه بر این، ایزوپروترنول ممکن است برای فراهم کردن برونکودیلاتاسیون در بیمارانی با حملات حاد آسم یا بیماری مزمن انسدادی ریه (COPD) استفاده شود. نقش آن در درمان این شرایط به دلیل توانایی آن در شل کردن عضلات صاف راه‌های هوایی و افزایش جریان هوا است.",
+    "side effects": [
+      "تاکی‌کاردی - افزایش ضربان قلب که می‌تواند به احساس تپش قلب منجر شود.",
+      "فشار خون بالا - بالا رفتن فشار خون که می‌تواند برای بیمارانی که مشکلات قلبی دارند مضر باشد.",
+      "لرزش - لرزش یا تکان‌های غیر قابل کنترل، به ویژه در دست‌ها و بازوها.",
+      "سردرد - ممکن است به دلیل تغییرات عروقی یا به عنوان اثر سیستم عصبی مرکزی بروز کند.",
+      "تهوع - ناراحتی یا درد شکم که ممکن است در برخی موارد منجر به استفراغ شود."
+    ]
+  }
+}

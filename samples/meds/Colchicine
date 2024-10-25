@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Colchicine is a medication primarily used to treat gout and familial Mediterranean fever. It works by inhibiting the inflammatory response associated with gout attacks and reducing the buildup of uric acid crystals in the joints. The drug can also be utilized in managing pericarditis, helping to alleviate associated pain and inflammation by modifying the body’s immune response.",
+    
+    "uses": "Colchicine is commonly prescribed for treating acute gout flares by reducing pain and inflammation quickly. Its efficacy makes it an important option for patients who experience recurrent gout attacks. Additionally, it is utilized in the treatment of familial Mediterranean fever, a genetic condition that causes recurrent fevers and inflammation. Colchicine is also used in the management of pericarditis, aiding in reducing chest pain and preventing further episodes of inflammation in the heart’s lining.",
+
+    "side effects": [
+      "Nausea: A common gastrointestinal side effect characterized by an upset stomach and the urge to vomit.",
+      "Diarrhea: Frequent and watery bowel movements, which can lead to dehydration if severe.",
+      "Abdominal pain: Cramping or discomfort in the stomach area, which can range from mild to severe.",
+      "Fatigue: A general feeling of tiredness or lack of energy, often affecting daily activities.",
+      "Muscle weakness: A loss of strength in the muscles, potentially affecting mobility and coordination.",
+      "Bone marrow suppression: A rare but serious effect that can lead to decreased production of blood cells, increasing the risk of infections, anemia, or bleeding."
+    ]
+  },
+  "fa": {
+    "description": "کولچیسین دارویی است که عمدتاً برای درمان نقرس و تب مدیترانه‌ای خانوادگی استفاده می‌شود. این دارو با مهار پاسخ التهابی مرتبط با حملات نقرس و کاهش تجمع بلورهای اسید اوریک در مفاصل عمل می‌کند. این دارو همچنین در مدیریت پری‌کاردیت استفاده می‌شود و به تسکین درد و التهاب مرتبط کمک می‌کند.",
+    
+    "uses": "کولچیسین معمولاً برای درمان حملات حاد نقرس تجویز می‌شود و به سرعت درد و التهاب را کاهش می‌دهد. اثربخشی آن، این دارو را به گزینه مهمی برای بیمارانی که تحت حملات مکرر نقرس هستند، تبدیل می‌کند. علاوه بر این، در درمان تب مدیترانه‌ای خانوادگی، یک مشکل ژنتیکی که موجب تب و التهاب مکرر می‌شود، به کار می‌رود. کولچیسین همچنین در مدیریت پری‌کاردیت استفاده می‌شود و به کاهش درد قفسه سینه و جلوگیری از اپیزودهای بعدی التهاب در پوشش قلب کمک می‌کند.",
+
+    "side effects": [
+      "تهوع: یک اثر جانبی شایع گوارشی که با ناراحتی معده و میل به استفراغ مشخص می‌شود.",
+      "اسهال: حرکات روده‌ای مکرر و آبدار که در صورت شدت ممکن است منجر به کم آبی شود.",
+      "درد شکم: اسپاسم یا ناراحتی در ناحیه معده که می‌تواند از خفیف تا شدید متغیر باشد.",
+      "خستگی: احساس عمومی خستگی یا کمبود انرژی که معمولاً بر فعالیت‌های روزانه تأثیر می‌گذارد.",
+      "ضعف عضلانی: از دست دادن قدرت در عضلات که ممکن است بر تحرک و هماهنگی تأثیر بگذارد.",
+      "سرکوب مغز استخوان: یک اثر نادر اما جدی که می‌تواند منجر به کاهش تولید سلول‌های خونی شده و خطر عفونت، کم‌خونی یا خونریزی را افزایش دهد."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "en": {
+    "description": "Telmisartan is an angiotensin II receptor blocker (ARB) used primarily for managing high blood pressure (hypertension). By inhibiting the effects of angiotensin II, a hormone that narrows blood vessels, Telmisartan helps to relax and widen blood vessels, which in turn reduces blood pressure and decreases the workload on the heart. It may also provide kidney protection in patients with hypertension and type 2 diabetes.",
+    
+    "uses": "Telmisartan is commonly prescribed for the treatment of essential hypertension to lower blood pressure and reduce the risk of cardiovascular complications such as stroke and heart attack. It is also used in patients with type 2 diabetes for renal protection, as it has been shown to slow the progression of nephropathy in these individuals. 
+
+Additionally, Telmisartan may be used in combination with other antihypertensive medications to achieve better blood pressure control or to treat patients who are resistant to monotherapy. Its once-daily dosing provides convenience for patients, enhancing adherence to the treatment plan.",
+
+    "side effects": [
+      "Dizziness: A common side effect that can result from lowered blood pressure, causing lightheadedness or faintness.",
+      "Fatigue: Patients may feel unusually tired or weak.",
+      "Headache: Some individuals might experience mild to moderate headaches.",
+      "Nausea: Upset stomach or feelings of queasiness may occur.",
+      "Hyperkalemia: An increase in potassium levels in the blood, which can lead to serious health complications if not monitored.",
+      "Angioedema: A rare but serious allergic reaction that causes swelling in the deeper layers of the skin."
+    ]
+  },
+  "fa": {
+    "description": "تلمیسارت یک مسدودکننده گیرنده آنژیوتانسین II (ARB) است که عمدتاً برای مدیریت فشار خون بالا (هیپرتنسیون) استفاده می‌شود. با مهار اثرات آنژیوتانسین II، هورمونی که عروق خونی را تنگ می‌کند، تلمیسارت به آرامش و گشاد کردن عروق خونی کمک می‌کند که در نتیجه فشار خون کاهش یافته و بار کاری قلب کمتر می‌شود. این دارو همچنین ممکن است در بیماران مبتلا به فشار خون بالا و دیابت نوع 2 از کلیه‌ها محافظت کند.",
+    
+    "uses": "تلمیسارت معمولاً برای درمان هیپرتنسیون اولیه تجویز می‌شود تا فشار خون را کاهش دهد و خطر عوارض قلبی‌عروقی مانند سکته مغزی و حمله قلبی را کاهش دهد. همچنین در بیماران مبتلا به دیابت نوع 2 برای حفاظت کلیوی استفاده می‌شود، زیرا نشان داده شده است که پیشرفت نفروپاتی را در این بیماران کند می‌کند.
+
+علاوه بر این، تلمیسارت ممکن است به همراه سایر داروهای ضد فشار خون برای دستیابی به کنترل بهتر فشار خون یا درمان بیمارانی که به درمان مونو دارویی مقاوم هستند، استفاده شود. دوز روزانه یکبار آن راحتی بیشتری برای بیماران فراهم می‌کند و پیروی از برنامه درمانی را افزایش می‌دهد.",
+
+    "side effects": [
+      "سرگیجه: یک عارضه جانبی شایع است که می‌تواند ناشی از کاهش فشار خون باشد و موجب احساس سبکی یا غش شود.",
+      "خستگی: بیماران ممکن است احساس خستگی یا ضعف غیرمعمول داشته باشند.",
+      "سردرد: برخی افراد ممکن است سردردهای خفیف تا متوسط را تجربه کنند.",
+      "تهوع: ممکن است احساس ناراحتی معده یا حالت تهوع داشته باشند.",
+      "هیپرکالمی: افزایش سطح پتاسیم در خون که در صورت عدم کنترل می‌تواند به عوارض جدی سلامت منجر شود.",
+      "آنژیوادم: یک واکنش آلرژیک نادر اما جدی که باعث ورم در لایه‌های عمیق پوست می‌شود."
+    ]
+  }
+}

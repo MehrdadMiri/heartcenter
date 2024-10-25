@@ -1,0 +1,46 @@
+{
+  "en": {
+    "description": "Short QT Syndrome (SQTS) is a rare genetic disorder characterized by a significantly shortened QT interval on an electrocardiogram (ECG), which can lead to life-threatening heart arrhythmias. This condition is often associated with symptoms of palpitations, fainting, and even sudden cardiac arrest. The genetic mutations affecting ion channels in the heart contribute to abnormal electrical conduction, making individuals more susceptible to severe arrhythmias, particularly ventricular fibrillation. Diagnosis typically involves a detailed family history, a complete cardiovascular examination, and genetic testing to identify specific mutations.",
+    "symptoms": [
+      {
+        "symptom": "Palpitations",
+        "description": "Patients may experience irregular or racing heartbeats, often described as a fluttering sensation in the chest."
+      },
+      {
+        "symptom": "Syncope (Fainting)",
+        "description": "Episodes of fainting may occur, particularly during exercise or emotional stress, due to transient arrhythmias."
+      },
+      {
+        "symptom": "Seizures",
+        "description": "Some patients may experience seizures as a result of reduced blood flow to the brain caused by arrhythmias."
+      },
+      {
+        "symptom": "Sudden Cardiac Arrest",
+        "description": "In severe cases, individuals may be at risk of sudden cardiac arrest, which can be life-threatening without immediate intervention."
+      }
+    ],
+    "treatments": "Treatment for Short QT Syndrome primarily focuses on managing the risk of arrhythmias and preventing sudden cardiac events. Options may include: \n\n1. **Lifestyle Modifications**: Patients are advised to avoid stimulants such as caffeine, nicotine, and certain medications that could provoke arrhythmias. Additionally, engaging in regular follow-up care with a cardiologist is crucial. \n\n2. **Medications**: Beta-blockers may be used to help control heart rate and reduce arrhythmic events. In some cases, antiarrhythmic medications may also be prescribed. \n\n3. **Implantable Cardioverter-Defibrillator (ICD)**: For individuals at high risk of life-threatening arrhythmias, an ICD may be recommended. This device continuously monitors the heart's rhythm and can deliver shocks to restore a normal heartbeat. \n\n4. **Genetic Counseling**: Since SQTS can have a hereditary component, genetic counseling may be beneficial for the patient and family members, particularly for those considering family planning. \n\nOverall, treatment should be tailored to the individual patient based on their specific symptoms and risk factors, requiring a collaborative approach between the patient and their healthcare team."
+  },
+  "fa": {
+    "description": "بیماری کوتاه QT (SQTS) یک اختلال نادر ژنتیکی است که با کوتاه شدن قابل توجه فاصله QT در نوار قلب (ECG) مشخص می‌شود که می‌تواند منجر به آریتمی‌های قلبی تهدیدکننده حیات شود. این وضعیت معمولاً با علائم تپش قلب، غش و حتی ایست قلبی ناگهانی همراه است. جهش‌های ژنتیکی که بر کانال‌های یونی در قلب تأثیر می‌گذارند به واکنش الکتریکی غیرعادی منجر می‌شوند و باعث می‌شوند افراد به آریتمی‌های شدید، به ویژه فیibrillation بطنی، حساس‌تر باشند. تشخیص معمولاً شامل تاریخچه خانوادگی دقیق، معاینه کامل قلبی عروقی و آزمایش‌های ژنتیکی برای شناسایی جهش‌های خاص است.",
+    "symptoms": [
+      {
+        "symptom": "تپش قلب",
+        "description": "بیماران ممکن است تجربیات حس غیرعادی یا تند در ضربان قلب داشته باشند، که معمولاً به عنوان یک حس لرزش در قفسه سینه توصیف می‌شود."
+      },
+      {
+        "symptom": "غش",
+        "description": "حملات غش ممکن است به ویژه در حین ورزش یا استرس عاطفی رخ دهد که به دلیل آریتمی‌های گذرا است."
+      },
+      {
+        "symptom": "تشنج",
+        "description": "برخی از بیماران ممکن است به دلیل کاهش جریان خون به مغز ناشی از آریتمی دچار تشنج شوند."
+      },
+      {
+        "symptom": "ایست قلبی ناگهانی",
+        "description": "در موارد شدید، ممکن است افراد در معرض خطر ایست قلبی ناگهانی قرار داشته باشند که بدون مداخله فوری می‌تواند تهدید کننده حیات باشد."
+      }
+    ],
+    "treatments": "درمان بیماری کوتاه QT عمدتاً بر مدیریت ریسک آریتمی‌ها و پیشگیری از حوادث قلبی ناگهانی متمرکز است. گزینه‌ها شامل: \n\n1. **تغییرات در سبک زندگی**: توصیه می‌شود بیماران از محرک‌هایی مانند کافئین، نیکوتین و بعضی داروهایی که می‌توانند آریتمی‌ها را تحریک کنند، دوری کنند. علاوه بر این، شرکت در مراقبت‌های منظم با یک متخصص قلب بسیار مهم است. \n\n2. **داروها**: بتا بلوکرها می‌توانند برای کمک به کنترل ضربان قلب و کاهش رویدادهای آریتمی استفاده شوند. در برخی موارد، ممکن است داروهای ضد آریتمی نیز تجویز شوند. \n\n3. **دستگاه دیفیبریلاتور قابل کاشت (ICD)**: برای بیماران با ریسک بالا از آریتمی‌های تهدیدکننده زندگی، ممکن است استفاده از ICD توصیه شود. این دستگاه به طور مداوم ضربان قلب را زیر نظر دارد و می‌تواند شوک‌هایی برای احیای ضربان طبیعی ارسال کند. \n\n4. **مشاوره ژنتیکی**: از آن‌جایی که SQTS می‌تواند یک مؤلفه ارثی داشته باشد، مشاوره ژنتیکی ممکن است برای بیمار و اعضای خانواده، به ویژه برای کسانی که به فکر برنامه‌ریزی خانوادگی هستند، مفید باشد. \n\nبه طور کلی، درمان باید بر اساس علائم و عوامل خطر خاص بیمار به‌طور خاص طراحی شود و نیاز به همکاری نزدیک بین بیمار و تیم بهداشت و درمان او دارد."
+  }
+}

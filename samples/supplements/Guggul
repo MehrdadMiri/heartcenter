@@ -1,0 +1,42 @@
+{
+  "en": {
+    "description": "Guggul is a resin derived from the Commiphora mukul tree, traditionally used in Ayurvedic medicine for its potential health benefits, particularly in managing cholesterol levels, promoting weight loss, and enhancing thyroid function. Known for its anti-inflammatory and antioxidant properties, Guggul is often utilized for conditions such as arthritis, obesity, and cardiovascular diseases. Its active compounds, including guggulsterones, are believed to help regulate lipid metabolism and support overall metabolic health.",
+    "benefits": [
+      "May help lower cholesterol levels",
+      "Supports weight loss efforts",
+      "Promotes healthy thyroid function",
+      "Acts as an anti-inflammatory agent",
+      "Provides antioxidant protection",
+      "May aid in managing arthritis symptoms",
+      "Supports cardiovascular health"
+    ],
+    "side effects": [
+      "Gastrointestinal upset",
+      "Diarrhea",
+      "Nausea",
+      "Allergic skin reactions",
+      "Headache",
+      "Possible interactions with certain medications"
+    ]
+  },
+  "fa": {
+    "description": "گوگول یک رزین است که از درخت Commiphora mukul به‌دست می‌آید و به‌طور سنتی در طب آیورودا برای خواص سلامتی احتمالی‌اش مورد استفاده قرار می‌گیرد، به‌ویژه در مدیریت سطح کلسترول، ترویج کاهش وزن و تقویت عملکرد تیروئید. این ماده به خاطر خواص ضد التهابی و آنتی‌اکسیدانی‌اش شناخته شده است و معمولاً برای شرایطی مانند آرتریت، چاقی و بیماری‌های قلبی عروقی استفاده می‌شود. ترکیبات فعال آن، از جمله گگوگلسترون‌ها، به تنظیم متابولیسم لیپیدها و حمایت از سلامت متابولیک کلی بدن کمک می‌کنند.",
+    "benefits": [
+      "ممکن است به کاهش سطح کلسترول کمک کند",
+      "از تلاش‌های کاهش وزن حمایت می‌کند",
+      "عملکرد سالم تیروئید را ترویج می‌دهد",
+      "به‌عنوان یک عامل ضد التهابی عمل می‌کند",
+      "حفاظت آنتی‌اکسیدانی ارائه می‌دهد",
+      "ممکن است در مدیریت علائم آرتریت کمک کند",
+      "از سلامت قلب و عروق حمایت می‌کند"
+    ],
+    "side effects": [
+      "ناراحتی‌های گوارشی",
+      "اسهال",
+      "تهوع",
+      "واکنش‌های جلدی آلرژیک",
+      "سردرد",
+      "امکان تداخل با برخی داروها"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Flecainide is an antiarrhythmic medication that is primarily used to treat certain types of serious irregular heartbeat (arrhythmias), specifically atrial fibrillation and atrial flutter. It works by blocking specific electrical signals in the heart that cause irregular rhythms, helping to restore normal heart rhythm. Flecainide is usually prescribed when other medications have not been effective or are not suitable for the patient.",
+    "uses": "Flecainide is utilized for managing various forms of ventricular and supraventricular arrhythmias. It is particularly effective in treating atrial fibrillation and atrial flutter, allowing patients to achieve a more stable heart rhythm. Additionally, it may be used as a prophylactic treatment in patients at high risk of developing these arrhythmias.\n\nIn some cases, Flecainide may be prescribed for patients who have experienced life-threatening ventricular tachycardia. This medication is often reserved for use in patients without significant structural heart disease, as its use can carry risks in certain populations.",
+    "side effects": [
+      "Dizziness: A feeling of lightheadedness or unsteadiness that may occur, particularly when standing up quickly.",
+      "Heart failure: The worsening of heart function leading to symptoms such as shortness of breath, swelling in legs or feet, and fatigue.",
+      "Blurred vision: Difficulty seeing clearly which may occur in some patients.",
+      "Nausea: A feeling of sickness that may be accompanied by an urge to vomit.",
+      "Tremors: Involuntary shaking or trembling, especially in the hands."
+    ]
+  },
+  "fa": {
+    "description": "فلکایمید یک داروی ضد آریتمی است که عمدتاً برای درمان انواع خاصی از ضربان نامنظم قلب (آریتمی‌ها)، به ویژه فیibrillation دهلیزی و flutter دهلیزی استفاده می‌شود. این دارو با مسدود کردن سیگنال‌های الکتریکی خاص در قلب که باعث ریتم‌های نامنظم می‌شوند، کمک می‌کند تا ریتم طبیعی قلب بازگردانده شود. فلکایمید معمولاً هنگامی تجویز می‌شود که داروهای دیگر مؤثر نبوده یا برای بیمار مناسب نیستند.",
+    "uses": "فلکایمید برای مدیریت اشکال مختلف آریتمی‌های بطنی و فوق‌بطنی استفاده می‌شود. این دارو به‌ویژه در درمان فیibrillation دهلیزی و flutter دهلیزی موثر است و به بیماران کمک می‌کند تا ریتم قلبی پایدارتری داشته باشند. علاوه بر این، ممکن است به عنوان درمان پیشگیرانه در بیماران با خطر بالای ایجاد این آریتمی‌ها تجویز شود.\n\nدر برخی موارد، فلکایمید ممکن است برای بیمارانی که آریتمی بطنی تهدید کننده زندگی را تجربه کرده‌اند تجویز شود. این دارو اغلب برای استفاده در بیماران بدون بیماری قلبی ساختاری جدی محفوظ است، زیرا استفاده از آن می‌تواند در جمعیت‌های خاصی خطراتی به همراه داشته باشد.",
+    "side effects": [
+      "سرگیجه: حالتی از سبکی سر یا ناپایداری که ممکن است به ویژه هنگامی که به سرعت بلند می‌شوید اتفاق بیفتد.",
+      "نارسایی قلبی: بدتر شدن عملکرد قلب که منجر به علائمی مانند تنگی نفس، ورم در پاها یا پاها و خستگی می‌شود.",
+      "اختلال بینایی: دشواری در دیدن واضح که ممکن است در برخی از بیماران رخ دهد.",
+      "تهوع: حالتی از بیماری که ممکن است با تمایل به استفراغ همراه باشد.",
+      "لرزش: لرزش یا تکان‌های غیرارادی، به‌ویژه در دست‌ها."
+    ]
+  }
+}

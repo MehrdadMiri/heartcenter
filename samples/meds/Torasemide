@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Torasemide is a loop diuretic (water pill) used to reduce fluid retention (edema) associated with conditions such as heart failure, liver cirrhosis, and kidney disorders. It works by blocking the reabsorption of sodium and chloride in the kidneys, which leads to increased urine production and a subsequent decrease in fluid accumulation in the body. Torasemide is often prescribed in combination with other medications to manage hypertension and to alleviate symptoms of congestive heart failure.",
+    
+    "uses": "Torasemide is primarily used for the management of edema in patients with conditions like heart failure, liver cirrhosis, and renal disease. It is also effective in treating hypertension, either alone or as an adjunct to other antihypertensive agents. Additionally, it may be utilized in cases where other diuretics are ineffective or unsuitable, making it a versatile option in clinical practice.\n\nMoreover, torasemide can be beneficial in managing specific complications of heart or kidney diseases by helping to maintain fluid balance, thereby improving patients' overall quality of life and potentially reducing hospitalizations due to fluid overload.",
+    
+    "side effects": [
+      "Dehydration - excessive loss of fluid can lead to dehydration, causing symptoms like thirst, dry mouth, and dizziness.",
+      "Electrolyte imbalances - can lead to low potassium (hypokalemia) and sodium (hyponatremia) levels, which may cause muscle weakness, fatigue, and irregular heartbeats.",
+      "Kidney dysfunction - prolonged use can affect renal function, necessitating regular monitoring of kidney health.",
+      "Hypotension - can cause low blood pressure, resulting in symptoms like fainting or lightheadedness, especially when standing up quickly."
+    ]
+  },
+  "fa": {
+    "description": "توراسماید یک داروی دیورتیک از نوع حلقه‌ای (پیل آب) است که برای کاهش احتباس مایعات (ادم) مرتبط با شرایطی مانند نارسایی قلبی، سیروز کبدی و اختلالات کلیوی استفاده می‌شود. این دارو با مسدود کردن بازجذب سدیم و کلراید در کلیه‌ها عمل می‌کند و منجر به افزایش تولید ادرار و کاهش تجمع مایعات در بدن می‌شود. توراسماید معمولاً در ترکیب با سایر داروها برای مدیریت پرفشاری خون و کاهش علائم نارسایی قلبی تجویز می‌شود.",
+    
+    "uses": "تورسماید عمدتاً برای مدیریت ادم در بیماران با شرایطی مانند نارسایی قلبی، سیروز کبدی و بیماری‌های کلیوی استفاده می‌شود. این دارو همچنین در درمان پرفشاری خون مؤثر است، که می‌تواند به تنهایی یا به عنوان مکملی برای سایر داروهای ضد پرفشاری خون تجویز شود. علاوه بر این، در مواردی که سایر دیورتیک‌ها مؤثر یا مناسب نیستند، می‌تواند مورد استفاده قرار گیرد و به این ترتیب گزینه‌ای چندمنظوره در عمل بالینی است.\n\nعلاوه بر این، توراسماید می‌تواند در مدیریت عوارض خاص بیماری‌های قلبی یا کلیوی با کمک به حفظ تعادل مایعات مفید باشد، و به این ترتیب کیفیت کلی زندگی بیماران را بهبود بخشد و احتمال بستری شدن‌های ناشی از بار اضافی مایعات را کاهش دهد.",
+
+    "side effects": [
+      "کم آبی بدن - از دست دادن بیش از حد مایعات می‌تواند منجر به کم آبی شود و علائمی مانند تشنگی، خشکی دهان و سرگیجه را به همراه داشته باشد.",
+      "اختلالات الکترولیتی - می‌تواند به کاهش سطح پتاسیم (هیپوکلسمی) و سدیم (هیپو natriemia) منجر شود، که ممکن است سبب ضعف عضلانی، خستگی و نامرتب شدن ضربان قلب شود.",
+      "اختلال عملکرد کلیه - استفاده طولانی‌مدت می‌تواند عملکرد کلیه را تحت تأثیر قرار دهد و نیاز به نظارت منظم بر سلامت کلیوی داشته باشد.",
+      "فشار خون پایین - می‌تواند منجر به فشار خون پایین شود و علائمی مانند غش یا سرگیجه به ویژه هنگام ایستادن ناگهانی به همراه داشته باشد."
+    ]
+  }
+}

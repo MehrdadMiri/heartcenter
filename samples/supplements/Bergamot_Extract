@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Bergamot extract, derived from the peel of the bergamot orange (Citrus bergamia), is commonly used in aromatherapy and traditional medicine for its potential therapeutic properties, including its ability to improve mood, reduce anxiety, and promote relaxation. This extract is rich in flavonoids and essential oils that contribute to its antioxidant, anti-inflammatory, and antibacterial effects, making it popular in both dietary supplements and skincare products.",
+    "benefits": "Bergamot extract may help alleviate stress and anxiety, enhance digestive health, support cardiovascular health by regulating cholesterol levels, and boost mood and emotional well-being. Additionally, it has antimicrobial properties that can aid skin health and support the immune system.",
+    "side effects": [
+      "Skin irritation or allergic reactions",
+      "Photosensitivity or increased skin sensitivity to sunlight",
+      "Nausea or gastrointestinal discomfort",
+      "Headache",
+      "Dizziness",
+      "Potential interaction with certain medications (e.g., statins)"
+    ]
+ },
+ "fa": {
+     "description": "عصاره برگاموت که از پوست پرتقال برگاموت (Citrus bergamia) استخراج می‌شود، به طور معمول در آروماتراپی و طب سنتی برای خواص درمانی بالقوه‌اش مورد استفاده قرار می‌گیرد، از جمله توانایی آن در بهبود خلق‌وخوی، کاهش اضطراب و ترویج آرامش. این عصاره سرشار از فلاونوئیدها و روغن‌های ضروری است که به خواص آنتی‌اکسیدانی، ضد التهابی و آنتی باکتریالی آن کمک می‌کند و آن را در مکمل‌های غذایی و محصولات مراقبت از پوست محبوب می‌سازد.",
+     "benefits": "عصاره برگاموت ممکن است به کاهش استرس و اضطراب کمک کند، به بهبود سلامت گوارش کمک کرده، سلامت قلب و عروق را با تنظیم سطوح کلسترول پشتیبانی کند و خلق و خو و رفاه عاطفی را افزایش دهد. علاوه بر این، خواص ضد میکروبی آن می‌تواند به سلامت پوست و حمایت از سیستم ایمنی کمک کند.",
+     "side effects": [
+       "تحریکی یا واکنش آلرژیک پوستی",
+       "حساسیت به نور یا افزایش حساسیت پوست به نور خورشید",
+       "تهوع یا ناراحتی گوارشی",
+       "سردرد",
+       "سرگیجه",
+       "امکان تداخل با برخی داروها (مانند استاتین‌ها)"
+     ]
+ }
+}

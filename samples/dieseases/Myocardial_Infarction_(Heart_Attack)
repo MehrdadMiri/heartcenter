@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Myocardial infarction, commonly known as a heart attack, occurs when blood flow to a part of the heart is blocked for a long enough time that part of the heart muscle is damaged or dies. This blockage is often due to a buildup of fatty plaques in the coronary arteries, which can rupture and lead to the formation of a blood clot. Immediate medical attention is crucial to restore blood flow and minimize heart damage.",
+    "symptoms": [
+      "Chest Pain: Often described as a feeling of pressure, squeezing, fullness, or pain in the center or left side of the chest that lasts for more than a few minutes or goes away and comes back.",
+      "Shortness of Breath: This may occur with or without chest discomfort and can happen during rest or physical activity.",
+      "Nausea or Vomiting: Some individuals may experience stomach discomfort, indigestion, or a feeling of nausea.",
+      "Pain in Other Areas: Pain or discomfort may radiate to the shoulders, neck, arms, back, teeth, or jaw.",
+      "Cold Sweat: Sudden sweating without an apparent cause can be a sign of a heart attack.",
+      "Lightheadedness or Dizziness: Feeling faint, weak, or lightheaded could be indicative of heart issues."
+    ],
+    "treatments": "Treatment for myocardial infarction typically involves medications and procedures aimed at restoring blood flow to the heart. Immediate treatment includes aspirin to thin the blood and reduce clotting, along with nitroglycerin to relieve chest pain and improve blood flow. In addition, thrombolytics (clot busters) may be administered to dissolve blood clots. For more severe cases, procedures such as angioplasty and stenting may be performed to open blocked arteries. Long-term management may include lifestyle changes, medications such as beta-blockers, statins, and ACE inhibitors, and potentially cardiac rehabilitation to improve cardiovascular health."
+  },
+  "fa": {
+    "description": "مایوکاردیال انفارکشن، که به عنوان حمله قلبی شناخته می‌شود، زمانی رخ می‌دهد که جریان خون به بخشی از قلب به مدت کافی مسدود شود که بخشی از عضله قلب آسیب ببیند یا بمیرد. این انسداد معمولاً ناشی از انباشت پلاک‌های چربی در شریان‌های کرونری است که می‌تواند منفجر شود و منجر به تشکیل لخته خون شود. توجه پزشکی فوری برای بازگرداندن جریان خون و کاهش آسیب به قلب حیاتی است.",
+    "symptoms": [
+      "درد قفسه سینه: معمولاً به صورت احساس فشار، فشردگی، سیری یا درد در وسط یا سمت چپ قفسه سینه است که بیش از چند دقیقه طول می‌کشد یا می‌آید و می‌رود.",
+      "تنگی نفس: این ممکن است همزمان با ناراحتی قفسه سینه یا بدون آن رخ دهد و می‌تواند در حالت استراحت یا فعالیت بدنی اتفاق بیفتد.",
+      "حالت تهوع یا استفراغ: برخی افراد ممکن است احساس ناراحتی در معده، سوء هاضمه یا حالت تهوع کنند.",
+      "درد در نواحی دیگر: درد یا ناراحتی ممکن است به شانه‌ها، گردن، بازوها، کمر، دندان‌ها یا فک منتشر شود.",
+      "عرق سرد: تعریق ناگهانی بدون علت مشخص می‌تواند نشانه‌ای از حمله قلبی باشد.",
+      "سبکی سر یا سرگیجه: احساس ضعف، سبکی سر یا سرگیجه ممکن است نشان‌دهنده مشکلات قلبی باشد."
+    ],
+    "treatments": "درمان مایوکاردیال انفارکشن معمولاً شامل داروها و فرایندهایی است که هدف آن بازگرداندن جریان خون به قلب است. درمان فوری شامل آسپرین برای رقیق کردن خون و کاهش لخته‌سازی به همراه نیتروگلیسیرین برای کاهش درد قفسه سینه و بهبود جریان خون است. علاوه بر این، ترومبولیتیک‌ها (لخته‌شکن‌ها) ممکن است برای حل کردن لخته‌های خون تجویز شوند. برای موارد شدیدتر، فرایندهایی مانند آنژیوپلاستی و قرار دادن استنت ممکن است به منظور باز کردن شریان‌های مسدود شده انجام شود. مدیریت طولانی‌مدت ممکن است شامل تغییرات سبک زندگی، داروهایی مانند بتا بلاکرها، استاتین‌ها و مهارکننده‌های ACE، و احتمالاً توانبخشی قلبی برای بهبود سلامت قلب عروقی باشد."
+  }
+}

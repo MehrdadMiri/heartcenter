@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Coronary Artery Disease (CAD) is a condition characterized by the narrowing or blockage of the coronary arteries, which supply blood to the heart muscle. It is primarily caused by atherosclerosis, a build-up of cholesterol and fatty deposits (plaque) on the artery walls. This narrowing can lead to chest pain, heart attacks, and other serious cardiovascular complications.",
+    "symptoms": [
+      "Chest Pain (Angina): A sensation of tightness or squeezing in the chest that can occur with physical activity or stress.",
+      "Shortness of Breath: Difficulty breathing or feeling out of breath, especially during exertion.",
+      "Fatigue: Unusual tiredness or lack of energy during routine activities.",
+      "Heart Palpitations: The feeling of having a rapid or irregular heartbeat.",
+      "Nausea or Indigestion: Sometimes mistaken for indigestion, it can include feelings of nausea or discomfort in the stomach area.",
+      "Sweating: Profuse sweating that occurs without an obvious cause, sometimes accompanying other symptoms."
+    ],
+    "treatments": "Treatment for Coronary Artery Disease focuses on managing symptoms and preventing the progression of the disease. Lifestyle changes are crucial, such as adopting a heart-healthy diet, engaging in regular physical activity, quitting smoking, and managing stress. Medications may be prescribed, including antiplatelet agents like aspirin, beta-blockers to lower heart rate and blood pressure, statins to reduce cholesterol, and ACE inhibitors to help relax blood vessels. In more severe cases, surgical interventions such as angioplasty and stenting to widen blocked arteries or coronary artery bypass grafting (CABG) may be recommended. Ongoing monitoring and regular check-ups with a healthcare provider are essential to manage this condition effectively."
+ },
+ "fa": {
+    "description": "بیماری عروق کرونر (CAD) حالتی است که با تنگی یا انسداد عروق کرونر که خون را به عضله قلب می‌رسانند، مشخص می‌شود. این بیماری عمدتاً ناشی از آرتروسکلروزیس، انباشت کلسترول و زباله‌های چربی (پلاک) در دیواره‌های شریانی است. این تنگی می‌تواند منجر به درد قفسه سینه، حملات قلبی و سایر عوارض جدی قلبی عروقی شود.",
+    "symptoms": [
+      "درد قفسه سینه (آنژین): حسی از فشردگی یا فشردن در قفسه سینه که می‌تواند با فعالیت فیزیکی یا استرس اتفاق بیفتد.",
+      "تنفس کوتاه: دشواری در نفس کشیدن یا احساس کمبود نفس، به‌ویژه در حین فعالیت.",
+      "خستگی: خستگی غیرعادی یا کمبود انرژی در فعالیت‌های روزمره.",
+      "تپش قلب: احساس تپش سریع یا نامنظم قلب.",
+      "تهوع یا سوءهاضمه: گاهی به اشتباه به سوء هاضمه تعبیر می‌شود که می‌تواند شامل احساس تهوع یا ناراحتی در ناحیه شکم باشد.",
+      "عرق کردن: عرق‌ریزی زیاد که بدون علت واضحی رخ می‌دهد و ممکن است با سایر علائم همراه باشد."
+    ],
+    "treatments": "درمان بیماری عروق کرونر بر مدیریت علائم و پیشگیری از پیشرفت بیماری متمرکز است. تغییرات سبک زندگی بسیار مهم است، مانند اتخاذ یک رژیم غذایی سالم برای قلب، انجام فعالیت بدنی منظم، ترک سیگار و مدیریت استرس. ممکن است داروهایی تجویز شوند، از جمله داروهای ضد پلاکتی مانند آسپرین، بتا بلاکرها برای کاهش ضربان و فشار خون، استاتین‌ها برای کاهش کلسترول و مهارکننده‌های ACE برای کمک به شل کردن عروق خونی. در موارد شدیدتر، مداخلات جراحی مانند آنژیوپلاستی و استنت‌گذاری برای گشاد کردن عروق مسدود شده یا پیوند عروق کرونر (CABG) ممکن است توصیه شود. نظارت مداوم و معاینات منظم با پزشک برای مدیریت مؤثر این بیماری ضروری است."
+ }
+}

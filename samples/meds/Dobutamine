@@ -1,0 +1,26 @@
+```json
+{
+  "en": {
+    "description": "Dobutamine is a synthetic catecholamine and an inotropic agent that primarily increases cardiac output by enhancing myocardial contractility. It acts predominantly on beta-1 adrenergic receptors, leading to increased heart rate and improved stroke volume. Used primarily in acute heart failure and cardiogenic shock, dobutamine can help improve hemodynamic status in patients with decreased cardiac function. It is administered intravenously, allowing for rapid adjustment of dosing according to patient response.",
+    "uses": "Dobutamine is primarily used in the management of acute heart failure and cardiogenic shock, conditions where the heart is unable to pump effectively. It improves cardiac output and systemic perfusion in critically ill patients. Additionally, dobutamine is utilized in stress echocardiography to evaluate cardiac function, particularly in patients who are unable to exercise. The drug can be beneficial in perioperative settings to maintain hemodynamic stability in high-risk surgical patients.",
+    "side effects": [
+      "Tachycardia: An increased heart rate which can lead to palpitations or a sense of racing heart.",
+      "Hypertension: Elevated blood pressure may occur due to increased cardiac output.",
+      "Arrhythmias: Potentially serious irregular heartbeats can arise, particularly in patients with pre-existing heart conditions.",
+      "Nausea: Some patients may experience gastrointestinal upset and nausea as a side effect.",
+      "Headache: Headaches can occur, likely due to changes in blood flow and pressure."
+    ]
+  },
+  "fa": {
+    "description": "دوپوتامین یک کته کولامین سنتتیک و یک عامل اینوتروپیک است که به طور عمده تولید قلبی را با افزایش توان میوکارد افزایش می‌دهد. این دارو عمدتاً بر روی گیرنده‌های آدرنرژیک بتا-1 اثر می‌گذارد و منجر به افزایش ضربان قلب و بهبود حجم ضربه‌ای می‌شود. دوپوتامین عمدتاً در نارسایی حاد قلبی و شوک قلبی مورد استفاده قرار می‌گیرد و می‌تواند به بهبود وضعیت همودینامیک در بیماران با عملکرد قلبی کاهش یافته کمک کند. این دارو به صورت داخل وریدی تجویز می‌شود که امکان تنظیم سریع دوز بر اساس پاسخ بیمار را فراهم می‌کند.",
+    "uses": "دوپوتامین عمدتاً در مدیریت نارسایی حاد قلبی و شوک قلبی استفاده می‌شود، شرایطی که در آن قلب نمی‌تواند به طور مؤثر پمپاژ کند. این دارو خروجی قلبی و پرفیوژن سیستمیک را در بیماران به شدت بیمار بهبود می‌بخشد. علاوه بر این، دوپوتامین در اکوکاردیوگرافی استرس برای ارزیابی عملکرد قلبی، به ویژه در بیمارانی که نمی‌توانند ورزش کنند، مورد استفاده قرار می‌گیرد. این دارو می‌تواند در محیط‌های پری‌اوپراتیو برای حفظ پایداری همودینامیک در بیماران جراحی با ریسک بالا مفید باشد.",
+    "side effects": [
+      "تاکی‌کاردی: افزایش ضربان قلب که می‌تواند به تپش قلب یا احساس ضربان سریع قلب منجر شود.",
+      "فشار خون بالا: فشار خون بالا ممکن است به دلیل افزایش خروجی قلب رخ دهد.",
+      "آریتمی: ضربان‌های نامنظم قلبی می‌توانند بروز کنند، به ویژه در بیماران با شرایط قلبی موجود.",
+      "تهوع: برخی بیماران ممکن است تجربه ناراحتی گوارشی و تهوع را به عنوان عارضه جانبی داشته باشند.",
+      "سردرد: سردردها می‌تواند به وجود آید، احتمالاً به دلیل تغییرات در جریان خون و فشار."
+    ]
+  }
+}
+```

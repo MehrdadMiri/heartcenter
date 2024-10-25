@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Sotalol is a class III antiarrhythmic medication that works by blocking potassium channels in the heart, which helps to prolong the action potential and refractory period, thereby stabilizing the heart rhythm. It is primarily used to treat various types of ventricular and atrial arrhythmias, including atrial fibrillation and ventricular tachycardia. Sotalol can be administered orally or intravenously, making it a versatile option for managing heart rhythm disorders.",
+    "uses": "Sotalol is commonly prescribed for patients with ventricular tachycardia or atrial fibrillation, both of which are irregular heart rhythms. It is particularly useful for maintaining sinus rhythm after cardioversion in patients with atrial fibrillation. Additionally, Sotalol may be used in patients with a history of myocardial infarction to prevent life-threatening arrhythmias. In acute settings, intravenous Sotalol can be used to control rapid atrial fibrillation or atrial flutter episodes, providing a quick response to stabilizing heart rhythms.",
+
+    "side effects": [
+      "Fatigue: Patients may experience general tiredness or a reduction in energy levels.",
+      "Bradycardia: Sotalol can lead to an abnormally slow heart rate, which may require monitoring.",
+      "Hypotension: Low blood pressure is a potential side effect, leading to dizziness or fainting.",
+      "Palpitations: Some patients may experience a sensation of a racing or pounding heart.",
+      "QT Prolongation: Sotalol can prolong the QT interval on ECG, increasing the risk of life-threatening arrhythmias."
+    ]
+  },
+  "fa": {
+    "description": "سوتالول یک داروی ضد آریتمیک از کلاس III است که با مسدود کردن کانال‌های پتاسیم در قلب عمل می‌کند و به این ترتیب به طولانی شدن پتانسیل عمل و دوره عود کمک می‌کند و ریتم قلب را پایدار می‌سازد. این دارو به طور عمده برای درمان انواع آریتمی‌های بطنی و دهلیزی، از جمله فیبریلاسیون دهلیزی و تاکیCardی بطنی استفاده می‌شود. سوتالول می‌تواند به صورت خوراکی یا داخل وریدی تجویز شود که آن را به گزینه‌ای چندمنظوره برای مدیریت اختلالات ریتم قلبی تبدیل می‌کند.",
+    "uses": "سوتالول به طور متداول به بیماران مبتلا به تاکیCardی بطنی یا فیبریلاسیون دهلیزی تجویز می‌شود که هر دو ریتم‌های غیرطبیعی قلب هستند. این دارو به ویژه برای حفظ ریتم سینوسی پس از کاردیورژن در بیماران مبتلا به فیبریلاسیون دهلیزی مفید است. علاوه بر این، سوتالول ممکن است در بیماران با سابقه حمله قلبی برای جلوگیری از آریتمی‌های تهدید کننده زندگی استفاده شود. در مواقع حاد، سوتالول داخل وریدی می‌تواند برای کنترل اپیزودهای فیبریلاسیون یا فلتر دهلیزی سریع استفاده شود و پاسخ سریعی به تثبیت ریتم‌های قلبی ارائه دهد.",
+    
+    "side effects": [
+      "خستگی: بیماران ممکن است خستگی عمومی یا کاهش سطح انرژی را تجربه کنند.",
+      "برادیCardی: سوتالول می‌تواند منجر به ضربان قلب به طور غیرطبیعی کند، که ممکن است نیاز به نظارت داشته باشد.",
+      "فشار خون پایین: فشار خون پایین یک عارضه جانبی بالقوه است که می‌تواند منجر به سرگیجه یا غش شود.",
+      "ضربان قلب محسوس: برخی از بیماران ممکن است احساس سرعت یا تپش قلب را تجربه کنند.",
+      "طولانی شدن QT: سوتالول می‌تواند فاصله QT در نوار قلب را طولانی کند و خطر آریتمی‌های تهدید کننده زندگی را افزایش دهد."
+    ]
+  }
+}

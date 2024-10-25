@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Propafenone is an antiarrhythmic medication used to treat certain types of abnormal heart rhythms, specifically atrial fibrillation and atrial flutter. It works by blocking sodium channels in the heart, which helps to restore a normal rhythm and reduce irregular heartbeats. Propafenone can be used both as a long-term treatment option and for the acute management of arrhythmias, making it beneficial for patients experiencing recurrent episodes of cardiac dysrhythmias.",
+    "uses": "Propafenone is primarily used for managing supraventricular tachycardias, particularly atrial fibrillation and atrial flutter. It is effective in converting these arrhythmias back to normal sinus rhythm and can also be used to prevent recurrence.\n\nAdditionally, propafenone may be prescribed for patients with ventricular arrhythmias and as an alternative treatment for patients who are intolerant to other antiarrhythmic drugs. It's also utilized as a pretreatment before certain cardioversion procedures to improve the chances of successful rhythm restoration.",
+    "side effects": [
+      "Dizziness: A feeling of lightheadedness or unsteadiness, often caused by changes in blood flow or blood pressure.",
+      "Fatigue: A sense of extreme tiredness or lethargy that can affect daily activities.",
+      "Nausea: A sensation of discomfort in the stomach that often leads to vomiting.",
+      "Bradycardia: A slower than normal heart rate, which can lead to dizziness and fatigue.",
+      "Congestive heart failure: A condition where the heart is unable to pump effectively, leading to fluid buildup in the lungs and other areas.",
+      "Tremors: Involuntary shaking or trembling, often affecting the hands or other body parts."
+    ]
+  },
+  "fa": {
+    "description": "پروپافنون یک داروی ضد آریتمی است که برای درمان برخی از انواع ضربان‌های نامنظم قلب، به‌ویژه فیبریلاسیون دهلیزی وflutter دهلیزی استفاده می‌شود. این دارو با مسدود کردن کانال‌های سدیمی در قلب عمل می‌کند که به بازگرداندن ریتم طبیعی و کاهش ضربان‌های نامنظم کمک می‌کند. پروپافنون می‌تواند هم به‌عنوان یک گزینه درمانی بلندمدت و هم برای مدیریت فوری آریتمی‌ها مورد استفاده قرار گیرد و برای بیمارانی که با اپیزودهای مکرر دیسریتمی قلبی مواجه هستند، مفید است.",
+    "uses": "پروپافنون عمدتاً برای مدیریت تاکی‌کاردی‌های فوق بطنی، به‌ویژه فیبریلاسیون دهلیزی و flutter دهلیزی مورد استفاده قرار می‌گیرد. این دارو در تبدیل این آریتمی‌ها به ریتم سینوس طبیعی مؤثر است و می‌تواند از بروز مجدد آنها جلوگیری کند.\n\nعلاوه بر این، پروپافنون ممکن است برای بیمارانی که دچار آریتمی‌های بطنی هستند تجویز شود و به‌عنوان یک درمان جایگزین برای بیمارانی که تحمل داروهای ضد آریتمی دیگر را ندارند استفاده گردد. همچنین، از آن به‌عنوان پیش درمان قبل از برخی از روش‌های کاردیوورژن برای بهبود شانس بازگردانی ریتم استفاده می‌شود.",
+    "side effects": [
+      "سرگیجه: احساس سبکی یا عدم تعادل که اغلب ناشی از تغییرات در جریان خون یا فشار خون است.",
+      "خستگی: احساس خستگی یا کسل بودن که می‌تواند بر فعالیت‌های روزمره تأثیر بگذارد.",
+      "تهوع: احساسی از ناراحتی در معده که اغلب منجر به استفراغ می‌شود.",
+      "برادیکاردیا: ضربان قلب کمتر از حد نرمال که می‌تواند به سرگیجه و خستگی منجر شود.",
+      "نارسایی قلبی: وضعیتی که در آن قلب نمی‌تواند به‌طور مؤثر پمپاژ کند و باعث تجمع مایع در ریه‌ها و سایر مناطق می‌شود.",
+      "لرزش: لرزش یا تکان ناخواسته، که اغلب دست‌ها یا نواحی دیگر بدن را تحت تأثیر قرار می‌دهد."
+    ]
+  }
+}

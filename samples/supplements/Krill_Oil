@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Krill oil is a dietary supplement derived from tiny crustaceans known as krill, which are found in the oceans. It is rich in omega-3 fatty acids, specifically eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), as well as antioxidants like astaxanthin. Due to its high bioavailability, krill oil is often used to support heart health, improve lipid profiles, reduce inflammation, and support cognitive function.",
+    "benefits": "Some of the key benefits of krill oil include improved cardiovascular health, reduced triglyceride levels, anti-inflammatory effects, potential relief from arthritis symptoms, and support for brain health and cognitive function.",
+    "side effects": [
+      "Gastrointestinal upset",
+      "Nausea",
+      "Diarrhea",
+      "Fishy aftertaste",
+      "Allergic reactions, particularly in those allergic to shellfish",
+      "Potential blood thinning effects, increasing the risk of bleeding"
+    ]
+  },
+  "fa": {
+    "description": "روغن کریل یک مکمل غذایی است که از سخت‌پوستان ریز به نام کریل که در اقیانوس‌ها یافت می‌شوند، استخراج شده است. این روغن سرشار از اسیدهای چرب امگا-3، به ویژه اسید ایکوزاپنتانوئیک (EPA) و اسید دکوزاهگزانوئیک (DHA) و همچنین آنتی‌اکسیدان‌هایی مانند آستاگزانتین می‌باشد. به دلیل زیست‌دسترس‌پذیری بالا، روغن کریل معمولاً برای حمایت از سلامت قلب، بهبود پروفایل چربی‌ها، کاهش التهاب و حمایت از عملکرد شناختی استفاده می‌شود.",
+    "benefits": "برخی از مزایای کلیدی روغن کریل شامل بهبود سلامت قلب و عروق، کاهش سطح تری‌گلیسرید، اثرات ضد التهابی، تسکین علائم آرتروز و حمایت از سلامت مغز و عملکرد شناختی است.",
+    "side effects": [
+      "اختلالات گوارشی",
+      "تهوع",
+      "اسهال",
+      "طعم ماهی در دهان",
+      "واکنش‌های آلرژیک، به‌خصوص در افرادی که به میگو و صدف‌ها آلرژی دارند",
+      "اثرات رقیق‌کننده خون که ممکن است خطر خونریزی را افزایش دهد"
+    ]
+  }
+}

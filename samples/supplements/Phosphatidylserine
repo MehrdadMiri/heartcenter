@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Phosphatidylserine is a phospholipid that is essential for the functioning of neuronal cells and is involved in various cellular processes, particularly in the brain. It is often used as a dietary supplement to support cognitive functions, reduce stress, and aid in memory retention. Phosphatidylserine helps to maintain the fluidity of cell membranes and supports neuronal communication, making it crucial for brain health and function.",
+    "benefits": "The benefits of phosphatidylserine include improved cognitive function, enhanced memory and learning abilities, reduced symptoms of stress and anxiety, support in age-related cognitive decline, and overall improvement in mood and mental clarity.",
+    "side effects": [
+      "Insomnia",
+      "Stomach upset",
+      "Nausea",
+      "Diarrhea",
+      "Headache",
+      "Fatigue"
+    ]
+  },
+  "fa": {
+    "description": "فسفاتیدیل سرین یک فسفولیپید است که برای عملکرد سلول‌های عصبی ضروری است و در فرآیندهای سلولی مختلف، به‌ویژه در مغز نقش دارد. این ماده به‌عنوان مکمل غذایی برای حمایت از عملکردهای شناختی، کاهش استرس و کمک به حفظ حافظه استفاده می‌شود. فسفاتیدیل سرین به حفظ سیالی غشای سلولی و حمایت از ارتباط عصبی کمک می‌کند که برای سلامت و عملکرد مغز حیاتی است.",
+    "benefits": "مزایای فسفاتیدیل سرین شامل بهبود عملکرد شناختی، افزایش توانایی‌های حافظه و یادگیری، کاهش علائم استرس و اضطراب، حمایت از کاهش شناختی مرتبط با سن و بهبود کلی حالت روحی و روشنی ذهن است.",
+    "side effects": [
+      "بی‌خوابی",
+      "ناراحتی معده",
+      "تهوع",
+      "اسهال",
+      "سردرد",
+      "خستگی"
+    ]
+  }
+}

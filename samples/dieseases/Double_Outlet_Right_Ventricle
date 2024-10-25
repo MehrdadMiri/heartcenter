@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Double Outlet Right Ventricle (DORV) is a congenital heart defect where both the aorta and pulmonary artery arise from the right ventricle instead of the normal distribution where the aorta arises from the left ventricle. This condition leads to the mixing of oxygenated and deoxygenated blood, resulting in inadequate oxygen delivery to the body. Clinical presentations can vary significantly based on the presence of associated defects, the size of the shunts, and the degree of obstruction in the right ventricle.",
+    "symptoms": [
+      "Cyanosis: A bluish tint to the skin, especially around the lips and fingers, due to low oxygen levels in the blood.",
+      "Difficulty Breathing: Patients may experience fast or labored breathing, especially during feeding or physical activity.",
+      "Poor Growth: Infants and young children may fail to gain weight or grow normally due to insufficient oxygenated blood.",
+      "Fatigue: Even minimal exertion can lead to significant tiredness in affected individuals.",
+      "Heart Murmurs: Abnormal heart sounds that can be detected on auscultation, indicating turbulent blood flow."
+    ],
+    "treatments": "Treatment for Double Outlet Right Ventricle often involves surgical intervention to correct the anatomical defects. The most common approach is a surgical procedure called 'arterial switch operation' or 'ventricular septal defect closure and pulmonary artery banding,' depending on the specific configuration of the heart and associated defects. Medication may also be prescribed to manage symptoms related to heart failure, such as diuretics to reduce fluid buildup and ACE inhibitors to lower blood pressure. Regular follow-up with a pediatric cardiologist is essential, as additional surgeries or interventions may be required as the child grows. In some cases, heart transplantation may be considered, especially if the heart function deteriorates significantly."
+  },
+  "fa": {
+    "description": "دوتا خروجی بطن راست (DORV) یک نقص قلبی مادرزادی است که در آن هم آئورت و هم شریان ریوی از بطن راست نشأت می‌گیرند، به جای اینکه به طور طبیعی آئورت از بطن چپ نشأت بگیرد. این وضعیت منجر به اختلاط خون اکسیژن‌دار و بدون اکسیژن می‌شود که نتیجه آن ناکافی بودن اکسیژن‌رسانی به بدن است. ارائه‌ی بالینی این عارضه می‌تواند به طور قابل توجهی بسته به وجود نقص‌های همراه، سایز شنت‌ها و میزان انسداد در بطن راست متفاوت باشد.",
+    "symptoms": [
+      "سیانوز: رنگ آبی متمایل به لب‌ها و انگشتان به دلیل سطوح پایین اکسیژن در خون.",
+      "مشکل در تنفس: بیماران ممکن است در تنفس سریع یا سختی تجربه کنند، به ویژه در هنگام تغذیه یا فعالیت بدنی.",
+      "رشد ضعیف: نوزادان و کودکان کوچک ممکن است نتوانند وزن یا رشد طبیعی داشته باشند.",
+      "خستگی: حتی فعالیت‌های کم می‌تواند به خستگی شدید در افراد مبتلا منجر شود.",
+      "وزوز قلب: صداهای غیر طبیعی قلب که می‌تواند در حین معاینه شنیده شود، نشان‌دهنده جریان خون ناهموار است."
+    ],
+    "treatments": "درمان دوتا خروجی بطن راست معمولاً شامل مداخله جراحی برای اصلاح نقص‌های آناتومیک است. رایج‌ترین روش، عمل جراحی 'تعویض شریانی' یا 'بستن شریان ریوی و بستری کردن نقص بین‌بطنی' است، بسته به پیکربندی خاص قلب و نقص‌های همراه. ممکن است داروهایی برای مدیریت علائم مرتبط با نارسایی قلبی، مانند دیورتیک‌ها برای کاهش تجمع مایع و مهارکننده‌های ACE برای کاهش فشار خون تجویز شود. نظارت منظم توسط یک پزشک قلب کودکان ضروری است، زیرا ممکن است در طول رشد کودک به جراحی‌ها یا مداخلات اضافی نیاز باشد. در برخی موارد، ممکن است پیوند قلب در نظر گرفته شود، به ویژه اگر عملکرد قلب به طور قابل توجهی کاهش یابد."
+  }
+}

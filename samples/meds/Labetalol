@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Labetalol is a non-selective beta-blocker and selective alpha-1 blocker that is primarily used to treat high blood pressure (hypertension). By blocking certain receptors in the heart and blood vessels, it decreases heart rate, reduces cardiac output, and causes vasodilation, leading to a reduction in blood pressure. Labetalol is often used in hypertensive emergencies, particularly in pregnant women, and can also be beneficial in managing hypertension in other clinical settings.",
+    "uses": "Labetalol is commonly prescribed for managing chronic hypertension, particularly in pregnant patients with conditions like preeclampsia and gestational hypertension. It is also utilized in acute situations where rapid blood pressure control is necessary, such as hypertensive crises. Additionally, Labetalol may be indicated for heart failure and can be used as part of a treatment regimen for patients with ischemic heart disease.",
+    "side effects": [
+        "Fatigue - A feeling of tiredness or exhaustion that can affect daily activities.",
+        "Dizziness - A sensation of lightheadedness or unsteadiness, which may increase the risk of falls.",
+        "Nausea - A feeling of sickness with an urge to vomit.",
+        "Bradycardia - A slower than normal heart rate, potentially leading to dizziness or fainting.",
+        "Hypotension - Abnormally low blood pressure, which can cause weakness and confusion.",
+        "Shortness of breath - Difficulty breathing that can occur during physical activity or rest."
+    ]
+ },
+ "fa": {
+    "description": "لاپتالو یک داروی مسدود کننده غیر انتخابی بتا و مسدود کننده انتخابی آلفا-1 است که عمدتاً برای درمان فشار خون بالا (هیپرتنشن) استفاده می‌شود. با مسدود کردن برخی از گیرنده‌ها در قلب و عروق خونی، این دارو ضربان قلب را کاهش داده، بار قلب را کم کرده و باعث گشاد شدن عروق می‌شود که به کاهش فشار خون منجر می‌شود. لاپتالو معمولاً در مواقع اضطراری فشار خون بالا، به ویژه در زنان باردار، استفاده می‌شود و همچنین می‌تواند در مدیریت فشار خون در سایر شرایط بالینی مفید باشد.",
+    "uses": "لاپتالو به طور معمول برای مدیریت فشار خون مزمن، به ویژه در بیماران باردار با شرایطی مانند پیش‌اکلامپسی و هیپرتنشن بارداری تجویز می‌شود. همچنین در شرایط حاد که کنترل سریع فشار خون ضروری است، مانند بحران‌های هیپرتنشن، استفاده می‌شود. علاوه بر این، لاپتالو ممکن است در درمان نارسایی قلبی نشان داده شود و می‌تواند به عنوان بخشی از رژیم درمانی برای بیماران مبتلا به بیماری قلبی ایسکمیک استفاده شود.",
+    "side effects": [
+        "خستگی - احساسی از خستگی یا بی‌حالی که می‌تواند بر فعالیت‌های روزانه تأثیر بگذارد.",
+        "سرگیجه - احساسی از سبکی سر یا عدم تعادل که ممکن است خطر سقوط را افزایش دهد.",
+        "تهوع - احساسی از بیماری که با تمایل به استفراغ همراه است.",
+        "برادی‌کاردی - ضربان قلب کمتر از حد طبیعی که ممکن است باعث سرگیجه یا غش شود.",
+        "فشار خون پایین - فشار خون غیرطبیعی پایین که می‌تواند موجب ضعف و سردرگمی شود.",
+        "تنگی نفس - مشکل در تنفس که ممکن است در فعالیت بدنی یا در حالت استراحت رخ دهد."
+    ]
+ }
+}

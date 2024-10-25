@@ -1,0 +1,54 @@
+{
+  "en": {
+    "description": "Ischemic Heart Disease (IHD) is a condition characterized by a reduced blood supply to the heart muscle due to coronary artery disease, leading to insufficient oxygen delivery. This often results in chest pain or discomfort, known as angina, and can lead to heart attacks if not managed effectively. The condition primarily arises from atherosclerosis, where plaque builds up in the arteries, narrowing them and restricting blood flow.",
+    "symptoms": [
+      {
+        "symptom": "Chest Pain (Angina)",
+        "description": "A feeling of pressure, squeezing, burning, or pain in the chest, which can also radiate to the shoulders, neck, arms, back, teeth, or jaw. Angina may occur during physical exertion or emotional stress."
+      },
+      {
+        "symptom": "Shortness of Breath",
+        "description": "Feeling breathless or having difficulty catching your breath, especially during physical activities or intense emotions, which may accompany angina."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "Unusual tiredness or lack of energy that can occur even with minimal physical activity, particularly in women."
+      },
+      {
+        "symptom": "Heart Palpitations",
+        "description": "Awareness of an irregular heartbeat, which may feel like a racing, pounding, or fluttering heart."
+      },
+      {
+        "symptom": "Nausea or Sweating",
+        "description": "Some patients may experience nausea or excessive sweating during angina or as part of a heart attack."
+      }
+    ],
+    "treatments": "Treatment for Ischemic Heart Disease may include lifestyle modifications such as a heart-healthy diet, regular exercise, and smoking cessation. Medications may be prescribed, including antiplatelet agents, beta-blockers, statins, and ACE inhibitors, to manage symptoms and reduce the risk of heart attacks. In more severe cases, interventional procedures like angioplasty and stenting, or surgical interventions such as coronary artery bypass grafting (CABG), may be necessary to restore adequate blood flow to the heart muscle. Regular follow-up and cardiac rehabilitation programs are also essential for long-term management."
+  },
+  "fa": {
+    "description": "بیماری قلب ایسکمیک (IHD) یک وضعیت است که با کاهش جریان خون به عضله قلب به علت بیماری شریان کرونر مشخص می‌شود و باعث کمبود اکسیژن می‌شود. این وضعیت معمولاً منجر به درد یا ناراحتی در قفسه سینه می‌شود که به آن آنژین می‌گویند و اگر به‌خوبی مدیریت نشود، می‌تواند به حملات قلبی منجر شود. این بیماری عمدتاً ناشی از آتروسکلروز است که در آن پلاک در شریان‌ها تجمع می‌یابد و آن‌ها را باریک کرده و جریان خون را محدود می‌کند.",
+    "symptoms": [
+      {
+        "symptom": "درد قفسه سینه (آنژین)",
+        "description": "احساس فشار، فشردگی، سوزش یا درد در قفسه سینه که می‌تواند به شانه‌ها، گردن، بازوها، کمر، دندان‌ها یا فک نیز منتشر شود. آنژین ممکن است در حین فعالیت جسمانی یا استرس عاطفی رخ دهد."
+      },
+      {
+        "symptom": "تنگی نفس",
+        "description": "احساس کمبود نفس یا مشکل در نفس کشیدن، به‌ویژه در طول فعالیت‌های فیزیکی یا احساسات شدید که ممکن است همراه با آنژین باشد."
+      },
+      {
+        "symptom": "خستگی",
+        "description": "احساس غیرعادی خستگی یا کمبود انرژی که حتی با فعالیت فیزیکی جزئی نیز ایجاد می‌شود، به‌ویژه در زنان."
+      },
+      {
+        "symptom": "ضربان قلب نامنظم",
+        "description": "احساس آگاهی از ضربان نامنظم قلب که ممکن است به‌صورت تند، کوبنده یا لرزنده حس شود."
+      },
+      {
+        "symptom": "تهوع یا عرق‌کردن",
+        "description": "برخی از بیماران ممکن است در طول آنژین یا به‌عنوان بخشی از حمله قلبی احساس تهوع یا عرق‌کردن مفرط کنند."
+      }
+    ],
+    "treatments": "درمان بیماری قلب ایسکمیک می‌تواند شامل تغییرات در سبک زندگی مانند رژیم غذایی سالم برای قلب، ورزش منظم و ترک سیگار باشد. ممکن است داروهایی تجویز شود، از جمله داروهای ضدپلاکتی، بتا-بلاکرها، استاتین‌ها و مهارکننده‌های ACE، برای مدیریت علائم و کاهش خطر حملات قلبی. در موارد شدیدتر، روش‌های مداخله‌ای مانند آنژیوپلاستی و قرار دادن استنت یا مداخلات جراحی مانند پیوند بای پس شریان قلبی (CABG) ممکن است ضروری باشد تا جریان خون کافی به عضله قلب بازگردانده شود. پیگیری منظم و برنامه‌های توانبخشی قلب نیز برای مدیریت طولانی‌مدت ضروری است."
+  }
+}

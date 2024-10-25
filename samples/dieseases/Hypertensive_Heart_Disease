@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Hypertensive Heart Disease refers to a range of heart conditions that result from long-term high blood pressure (hypertension). This condition can lead to various complications such as heart failure, coronary artery disease, and hypertrophy of the heart muscle, which can ultimately affect the ability of the heart to pump efficiently. Continuous pressure on the heart caused by uncontrolled hypertension can cause structural changes, making the heart work harder and leading to events like heart attacks or strokes if left untreated.",
+    "symptoms": [
+      "Chest pain: Discomfort or pain in the chest, which may feel like pressure, squeezing, or fullness.",
+      "Shortness of breath: Difficulty breathing, especially during physical activity or while lying down.",
+      "Fatigue: A general sense of tiredness that does not improve with rest.",
+      "Palpitations: Irregular or fast heartbeats that may feel like a fluttering sensation.",
+      "Swelling: Accumulation of fluid in the legs, ankles, or abdomen, a condition known as edema.",
+      "Dizziness or fainting: Feeling lightheaded or actually fainting due to reduced blood flow to the brain."
+    ],
+    "treatments": "Treatment for Hypertensive Heart Disease focuses on managing high blood pressure and improving heart function. This typically involves lifestyle changes such as adopting a heart-healthy diet that includes low sodium and high potassium, engaging in regular physical activity, limiting alcohol intake, and quitting smoking. Medications may be prescribed, including antihypertensives like ACE inhibitors, beta-blockers, diuretics, or calcium channel blockers to control blood pressure and relieve heart strain. In some cases, more advanced treatments such as surgical interventions or devices to support heart function may be necessary, depending on the severity and specific complications. Regular monitoring of blood pressure and heart health is crucial for successful management of the condition."
+ },
+ "fa": {
+     "description": "بیماری قلبی ناشی از فشار خون بالا به مجموعه‌ای از مشکلات قلبی اشاره دارد که ناشی از فشار خون بالا (فشار خون) طولانی‌مدت است. این وضعیت می‌تواند به عوارض مختلفی مانند نارسایی قلبی، بیماری شریان کرونر و هیپرتروفی عضله قلب منجر شود که در نهایت بر توانایی قلب در پمپاژ مؤثر تأثیر می‌گذارد. فشار مداوم بر قلب ناشی از فشار خون کنترل‌نشده می‌تواند موجب تغییرات ساختاری شود و باعث افزایش کار بر روی قلب شود که در صورت عدم درمان می‌تواند منجر به حملات قلبی یا سکته شناختی شود.",
+     "symptoms": [
+       "درد قفسه سینه: ناراحتی یا دردی در قفسه سینه که ممکن است مانند فشار، فشردن یا پر بودن احساس شود.",
+       "تنگی نفس: دشواری در تنفس، به ویژه در حین فعالیت بدنی یا دراز کشیدن.",
+       "خستگی: احساس عمومی خستگی که با استراحت بهبود نمی‌یابد.",
+       "تپش قلب: ضربان‌های نامنظم یا سریع قلب که ممکن است مانند احساس لرزیدگی باشد.",
+       "ورم: تجمع مایع در پاها، مچ‌ها یا شکم، که به آن ادم گفته می‌شود.",
+       "سرگیجه یا غش: احساس سبک‌سری یا غش کردن واقعی به دلیل کاهش جریان خون به مغز."
+     ],
+     "treatments": "درمان بیماری قلبی ناشی از فشار خون بالا بر کنترل فشار خون و بهبود عملکرد قلب متمرکز است. این معمولاً شامل تغییرات سبک زندگی مانند اتخاذ رژیم غذایی سالم برای قلب که شامل سدیم کم و پتاسیم بالا است، فعالیت بدنی منظم، محدود کردن مصرف الکل و ترک سیگار می‌شود. ممکن است داروهایی مانند مهارکننده‌های ACE، بتا بلاکرها، دیورتیک‌ها یا بلوک‌کننده‌های کانال کلسیم تجویز شود تا فشار خون را کنترل کرده و فشار روی قلب را کاهش دهد. در برخی موارد، درمان‌های پیشرفته‌تری مانند مداخلات جراحی یا دستگاه‌هایی برای حمایت از عملکرد قلب نیز ممکن است لازم باشد و این بستگی به شدت و عوارض خاص دارد. نظارت منظم بر فشار خون و سلامت قلب برای مدیریت موفقیت‌آمیز این وضعیت بسیار مهم است."
+ }
+}

@@ -1,0 +1,54 @@
+{
+  "en": {
+    "description": "Peripartum Cardiomyopathy is a rare but serious form of heart failure that occurs during the last month of pregnancy or within five months after delivery. This condition leads to a decrease in the heart's ability to pump blood effectively, which can result in symptoms associated with heart failure. The exact cause is not fully understood, but it is believed to involve a combination of genetic and environmental factors, as well as changes in the hormonal and immune system during and after pregnancy.",
+    "symptoms": [
+      {
+        "symptom": "Shortness of breath",
+        "description": "Difficulty in breathing, particularly during exertion or while lying flat."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "Feeling unusually tired or weak, which may be more pronounced than typical postpartum fatigue."
+      },
+      {
+        "symptom": "Swelling",
+        "description": "Swelling in the legs, ankles, and feet due to fluid retention."
+      },
+      {
+        "symptom": "Rapid or irregular heartbeat",
+        "description": "Palpitations or an increased awareness of the heartbeat, which can feel irregular or too fast."
+      },
+      {
+        "symptom": "Chest pain or discomfort",
+        "description": "A feeling of pressure, squeezing, or pain in the chest area."
+      }
+    ],
+    "treatments": "Treatment for Peripartum Cardiomyopathy typically involves a combination of medications and lifestyle modifications. Diuretics may be prescribed to help reduce fluid retention. Beta-blockers can improve heart function and control heart rate, while ACE inhibitors may help prevent further heart damage. In some cases, anticoagulants may be used to reduce the risk of blood clots. Beyond medication, lifestyle changes such as a heart-healthy diet, regular exercise, and weight management can be beneficial. In severe cases, hospitalization may be required for more intensive monitoring and treatment. It's critical for affected women to have close follow-up with a cardiologist throughout their recovery."
+  },
+  "fa": {
+    "description": "کاردیومیپاتی پری‌زایمان یک نوع نادر اما جدی از نارسایی قلبی است که در ماه آخر بارداری یا در مدت پنج ماه پس از زایمان بروز می‌کند. این بیماری به کاهش توانایی قلب در پمپاژ مؤثر خون منجر می‌شود که می‌تواند علائمی مرتبط با نارسایی قلبی را ایجاد کند. علت دقیق آن به‌طور کامل درک نشده است، اما به نظر می‌رسد که شامل ترکیبی از عوامل ژنتیکی و محیطی، و همچنین تغییرات در هورمون‌ها و سیستم ایمنی در دوران بارداری و بعد از آن باشد.",
+    "symptoms": [
+      {
+        "symptom": "تنگی نفس",
+        "description": "مشکل در تنفس، به ویژه در حین فعالیت یا دراز کشیدن."
+      },
+      {
+        "symptom": "خستگی",
+        "description": "احساس خستگی یا ضعف غیر معمول، که ممکن است بیشتر از خستگی معمول پس از زایمان باشد."
+      },
+      {
+        "symptom": "تورم",
+        "description": "تورم در پاها، مچ پاها و پاها به دلیل تجمع مایع."
+      },
+      {
+        "symptom": "ضربان قلب سریع یا نامنظم",
+        "description": "احساس ضربان قلب سریع یا نامنظم."
+      },
+      {
+        "symptom": "درد یا ناراحتی در قفسه سینه",
+        "description": "احساس فشار، فشردگی یا درد در ناحیه قفسه سینه."
+      }
+    ],
+    "treatments": "درمان کاردیومیپاتی پری‌زایمان معمولاً شامل ترکیبی از داروها و تغییرات سبک زندگی است. ممکن است داروهای ادرارآور برای کمک به کاهش احتباس مایع تجویز شود. بتا بلاکرها می‌توانند عملکرد قلب را بهبود بخشند و ضربان قلب را کنترل کنند، در حالی که مهارکننده‌های ACE ممکن است به جلوگیری از آسیب بیشتر قلب کمک کنند. در برخی موارد، داروهای ضد انعقاد ممکن است برای کاهش خطر لخته شدن خون استفاده شوند. علاوه بر دارو، تغییرات سبک زندگی نظیر رژیم غذایی سالم برای قلب، ورزش منظم و مدیریت وزن می‌تواند مفید باشد. در موارد شدید، بستری شدن ممکن است نیاز باشد تا تحت نظارت و درمان بیشتر قرار گیرد. برای زنان مبتلا، پیگیری دقیق با یک متخصص قلب در طول بهبودی بسیار مهم است."
+  }
+}

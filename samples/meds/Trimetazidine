@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Trimetazidine is a medication primarily used to treat angina pectoris, a condition characterized by chest pain due to reduced blood flow to the heart. It works by improving the efficiency of the heart's metabolism and reducing its oxygen demand, thus enhancing the exercise tolerance and reducing frequency of angina attacks. Trimetazidine is not a vasodilator but rather a metabolic agent that restores a more efficient energy metabolism in heart cells, making it especially useful in chronic stable angina.",
+    
+    "uses": "Trimetazidine is commonly prescribed for patients with stable angina to improve physical performance and quality of life. It may also be utilized in combination with other antianginal medications. Additionally, there are emerging research interests regarding its potential use in treating other conditions such as diabetic retinopathy and tinnitus due to its effects on cellular metabolism. Although primarily indicated for angina, its metabolic benefits are being explored in various cardiac and non-cardiac conditions.",
+
+    "side effects": [
+      "Dizziness - A feeling of lightheadedness or unsteadiness, often resulting from the medication's effect on blood circulation.",
+      "Nausea - A sensation of queasiness or the urge to vomit that may occur shortly after taking the medication.",
+      "Gastrointestinal upset - This can manifest as abdominal pain, diarrhea or constipation, affecting the digestive system.",
+      "Headache - Some patients may experience headaches as a common side effect.",
+      "Allergic reactions - In rare cases, individuals may develop skin rashes, itching, or swelling as a result of hypersensitivity."
+    ]
+  },
+  "fa": {
+    "description": "تریمتازیدین دارویی است که به طور عمده برای درمان آنژین صدری، که وضعیتی است که با درد قفسه سینه ناشی از کاهش جریان خون به قلب مشخص می‌شود، استفاده می‌شود. این دارو با بهبود کارایی متابولیسم قلب و کاهش نیاز به اکسیژن آن عمل می‌کند و بنابراین به افزایش تحمل ورزشی و کاهش دفعات حملات آنژینی کمک می‌کند. تریمتازیدین یک گشادکننده عروقی نیست بلکه یک عامل متابولیکی است که متابولیسم انرژی موثرتری را در سلول‌های قلبی احیا می‌کند و به ویژه در آنژین پایدار مزمن مفید است.",
+    
+    "uses": "تریمتازیدین معمولاً برای بیماران مبتلا به آنژین پایدار تجویز می‌شود تا عملکرد فیزیکی و کیفیت زندگی آنها را بهبود بخشد. همچنین ممکن است به صورت ترکیبی با داروهای ضد آنژین دیگر مورد استفاده قرار گیرد. علاوه بر این، تحقیقات رو به رشدی وجود دارد در مورد استفاده بالقوه آن در درمان سایر شرایط مانند رتینوپاتی دیابتی و وزوز گوش به دلیل اثرات آن بر متابولیسم سلولی. اگرچه عمدتاً برای آنژین indicated است، اما مزایای متابولیکی آن در شرایط قلبی و غیر قلبی مختلف در حال بررسی است.",
+
+    "side effects": [
+      "سرگیجه - احساسی از سبکی یا ناپایداری، که معمولاً ناشی از تأثیر دارو بر گردش خون است.",
+      "تهوع - احساسی از ناخوشی یا تمایل به استفراغ که ممکن است بلافاصله پس از مصرف دارو بروز کند.",
+      "نامنظمی گوارشی - این می‌تواند به صورت درد شکم، اسهال یا یبوست بروز کند و بر سیستم گوارش تأثیر بگذارد.",
+      "سردرد - برخی از بیماران ممکن است سردرد را به عنوان یک عارضه جانبی شایع تجربه کنند.",
+      "واکنش‌های آلرژیک - در موارد نادر، افراد ممکن است به دلیل هایپرسنسیتیو، دچار راش‌های پوستی، خارش یا ورم شوند."
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+ "en": {
+    "description": "Cardiac sarcoidosis is a rare inflammatory disease characterized by the formation of granulomas, or small clusters of inflammatory cells, in the heart tissue. This condition is a manifestation of systemic sarcoidosis, which primarily affects the lungs but can involve multiple organs, including the heart. The presence of these granulomas can disrupt normal heart function, leading to various cardiac complications such as arrhythmias, heart block, and heart failure, making early diagnosis and management essential.",
+    "symptoms": [
+        {
+            "symptom": "Arrhythmias",
+            "description": "Patients may experience irregular heartbeats, which can range from mild palpitations to severe arrhythmias that may require immediate medical intervention."
+        },
+        {
+            "symptom": "Heart block",
+            "description": "Some individuals may develop conduction abnormalities, leading to heart block, where the electrical signals in the heart are delayed or blocked, potentially causing dizziness or syncope."
+        },
+        {
+            "symptom": "Heart failure",
+            "description": "In advanced cases, the heart’s ability to pump blood effectively can decrease, leading to symptoms of heart failure such as shortness of breath, fatigue, and fluid retention."
+        },
+        {
+            "symptom": "Chest pain",
+            "description": "Some patients may experience chest discomfort or pain due to inflammation in the heart tissue."
+        },
+        {
+            "symptom": "Fatigue",
+            "description": "Chronic fatigue can occur, often related to the body’s ongoing immune response to the granulomas."
+        }
+    ],
+    "treatments": "Treatment for cardiac sarcoidosis typically involves the use of corticosteroids, such as prednisone, which help to reduce inflammation and the size of granulomas within the heart. In some cases, other immunosuppressive medications like methotrexate or azathioprine may be employed if patients do not respond adequately to corticosteroids alone. For patients experiencing significant electrical conduction issues or heart failure, implantation of a pacemaker or defibrillator might be necessary to manage arrhythmias and prevent sudden cardiac death. Ongoing monitoring and collaboration with cardiologists are crucial to adjusting treatment plans based on the patient's response and progression of the disease."
+ },
+ "fa": {
+    "description": "سارکوئیدوز قلبی یک بیماری التهابی نادر است که با تشکیل گرانولوم‌ها یا خوشه‌های کوچک سلول‌های التهابی در بافت قلب مشخص می‌شود. این وضعیت یکی از تجلی‌های سارکوئیدوز سیستمیک است که عمدتاً ریه‌ها را تحت تأثیر قرار می‌دهد اما می‌تواند چندین عضو دیگر از جمله قلب را درگیر کند. وجود این گرانولوم‌ها می‌تواند عملکرد طبیعی قلب را مختل کند و منجر به عوارض قلبی مختلفی از جمله آریتمی‌ها، بلوک قلبی و نارسایی قلبی شود، که تشخیص زودهنگام و مدیریت آن ضروری است.",
+    "symptoms": [
+        {
+            "symptom": "آریتمی‌ها",
+            "description": "بیماران ممکن است ضربان‌های نامنظم قلب را تجربه کنند که می‌تواند از تپش‌های ملایم تا آریتمی‌های شدید که نیاز به مداخله پزشکی فوری دارند، متغیر باشد."
+        },
+        {
+            "symptom": "بلوک قلبی",
+            "description": "برخی از افراد ممکن است دچار ناهنجاری‌های هدایت الکتریکی شوند که منجر به بلوک قلبی می‌شود، جایی که سیگنال‌های الکتریکی در قلب تأخیر یا مسدود می‌شوند و می‌تواند باعث سرگیجه یا غش شود."
+        },
+        {
+            "symptom": "نارسایی قلبی",
+            "description": "در موارد پیشرفته، توانایی قلب برای پمپ خون به طور مؤثری کاهش می‌یابد و منجر به علائم نارسایی قلبی می‌شود، مانند تنگی نفس، خستگی و احتباس مایعات."
+        },
+        {
+            "symptom": "درد قفسه سینه",
+            "description": "برخی از بیماران ممکن است دچار ناراحتی یا درد قفسه سینه به دلیل التهاب در بافت قلب شوند."
+        },
+        {
+            "symptom": "خستگی",
+            "description": "خستگی مزمن ممکن است رخ دهد، که اغلب با پاسخ ایمنی بدن به گرانولوم‌ها مرتبط است."
+        }
+    ],
+    "treatments": "درمان سارکوئیدوز قلبی معمولاً شامل استفاده از کورتیکواستروئیدها مانند پردنیزون است که به کاهش التهاب و اندازه گرانولوم‌ها در قلب کمک می‌کند. در برخی از موارد، سایر داروهای سرکوب‌کننده سیستم ایمنی مانند متوترکسات یا آزاتیوپرین ممکن است در صورتی که بیماران به تنهایی به کورتیکواستروئیدها پاسخ کافی ندهند، مورد استفاده قرار گیرند. برای بیمارانی که مشکلات قابل توجهی در هدایت الکتریکی یا نارسایی قلبی را تجربه می‌کنند، ممکن است نیاز به نصب پیس‌مکر یا دفیبریلاتور باشد تا آریتمی‌ها را مدیریت کرده و از مرگ ناگهانی قلبی جلوگیری کند. نظارت مداوم و همکاری با کاردیولوژیست‌ها برای تنظیم برنامه‌های درمانی بر اساس پاسخ بیمار و پیشرفت بیماری از اهمیت ویژه‌ای برخوردار است."
+ }
+}

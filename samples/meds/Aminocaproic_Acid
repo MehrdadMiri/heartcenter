@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Aminocaproic acid is an antifibrinolytic agent that inhibits the breakdown of fibrin, a protein essential for blood clotting. It is commonly used to control excessive bleeding in various medical conditions, including surgery, trauma, and certain bleeding disorders. By stabilizing blood clots and preventing their premature breakdown, aminocaproic acid plays a vital role in managing hemorrhagic conditions and promoting hemostasis.",
+    "uses": "Aminocaproic acid is primarily used in settings where blood loss is a concern. It is often administered to patients undergoing surgical procedures, particularly those involving significant tissue trauma, to reduce the risk of intraoperative bleeding. It can also be utilized in cases of acute bleeding caused by conditions such as liver disease, postpartum hemorrhage, and hereditary bleeding disorders like hemophilia, as it aids in the stabilization of fibrin clots.\n\nIn addition to surgical applications, aminocaproic acid is effective in treating bleeding episodes associated with dental procedures in patients with bleeding disorders. It can also be used in trauma cases where rapid control of bleeding is necessary, ensuring that patients maintain adequate blood volume and pressure during critical periods.",
+    "side effects": [
+      "Gastrointestinal disturbances (nausea, vomiting, diarrhea): These symptoms can occur due to irritation of the gastrointestinal tract.",
+      "Thrombosis (blood clots): A potential risk when fibrinolysis is inhibited excessively, leading to abnormal clot formation.",
+      "Headache: Some patients may experience headaches as a side effect, potentially related to vascular effects.",
+      "Dizziness: This can occur, particularly in patients with underlying conditions or those taking other medications that affect blood flow.",
+      "Hypotension (low blood pressure): Rarely, hypotension may develop during treatment, especially if administered too rapidly."
+    ]
+  },
+  "fa": {
+    "description": "اسید آمینوکاپروئیک یک عامل ضد فیبرینولیتیک است که تجزیه فیبرین، پروتئینی ضروری برای لخته شدن خون را مهار می‌کند. این دارو معمولاً برای کنترل خونریزی بیش از حد در شرایط پزشکی مختلف، از جمله عمل جراحی، ترومای شدید و برخی اختلالات خونی مورد استفاده قرار می‌گیرد. با تثبیت لخته‌های خون و جلوگیری از تجزیه زودهنگام آن‌ها، اسید آمینوکاپروئیک در مدیریت شرایط هموراژیک و ارتقاء هوموستاز نقش حیاتی دارد.",
+    "uses": "اسید آمینوکاپروئیک عمدتاً در مواقعی که از دست دادن خون مورد توجه است استفاده می‌شود. این دارو اغلب به بیمارانی که تحت عمل جراحی قرار دارند، به ویژه در مواردی که با آسیب بافتی قابل توجهی همراه است، داده می‌شود تا خطر خونریزی در حین عمل کاهش یابد. همچنین می‌تواند در موارد خونریزی حاد ناشی از بیماری‌های کبدی، خونریزی بعد از زایمان و اختلالات خونی ارثی مانند هموفیلی استفاده شود، زیرا به تثبیت لخته‌های فیبرین کمک می‌کند.\n\nعلاوه بر کاربردهای جراحی، اسید آمینوکاپروئیک در درمان عوارض خونریزی مربوط به روش‌های دندان‌پزشکی در بیماران مبتلا به اختلالات خونریزی مؤثر است. همچنین می‌تواند در موارد تروما که کنترل سریع خونریزی ضروری است، استفاده شود تا اطمینان حاصل کند که بیماران در دوره‌های بحرانی حجم و فشار خون کافی را حفظ کنند.",
+    "side effects": [
+      "اختلالات گوارشی (تهوع، استفراغ، اسهال): این علائم می‌توانند به دلیل تحریک دستگاه گوارش رخ دهند.",
+      "ترومبوز (لخته‌های خونی): این یک ریسک بالقوه است که وقتی فیبرینولیز به‌طور غیرطبیعی مهار می‌شود، منجر به تشکیل لخته‌های غیرطبیعی می‌شود.",
+      "سردرد: برخی از بیماران ممکن است به عنوان یک عوارض جانبی، سردرد را تجربه کنند، که ممکن است مرتبط با اثرات عروقی باشد.",
+      "سرگیجه: این ممکن است در بیماران با شرایط زمینه‌ای یا کسانی که داروهای دیگری مصرف می‌کنند که بر جریان خون تأثیر می‌گذارند، رخ دهد.",
+      "فشار خون پایین (افت فشار خون): به‌ندرت، افت فشار خون ممکن است در حین درمان، به‌ویژه اگر سریعاً تجویز شود، توسعه یابد."
+    ]
+  }
+}

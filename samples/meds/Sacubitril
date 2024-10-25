@@ -1,0 +1,54 @@
+{
+  "en": {
+    "description": "Sacubitril is a medication primarily used in combination with valsartan to treat heart failure with reduced ejection fraction. This drug functions as a neprilysin inhibitor, which increases levels of natriuretic peptides, leading to vasodilation, reduced blood pressure, and decreased workload on the heart. Sacubitril has been shown to enhance heart function and patient outcomes when used alongside standard heart failure therapies.",
+    "uses": "Sacubitril is commonly prescribed for patients with chronic heart failure, particularly those with reduced ejection fraction, as it helps improve clinical outcomes by reducing hospitalization rates and mortality associated with heart failure. It is often used in conjunction with valsartan to counterplunge the adverse effects of neprilysin, allowing for better blood pressure control and improved cardiac performance. Physicians may also consider sacubitril for patients who are not responding adequately to other heart failure treatments.",
+    "side effects": [
+      {
+        "side effect": "Hypotension",
+        "description": "Lowered blood pressure that may lead to dizziness, fainting, or falls."
+      },
+      {
+        "side effect": "Hyperkalemia",
+        "description": "Elevated potassium levels in the blood, which can lead to serious heart problems."
+      },
+      {
+        "side effect": "Renal dysfunction",
+        "description": "Impaired kidney function that may require monitoring and adjustment of dosage."
+      },
+      {
+        "side effect": "Angioedema",
+        "description": "Swelling beneath the skin, often around the face and throat, which can be life-threatening."
+      },
+      {
+        "side effect": "Cough",
+        "description": "A persistent cough that may develop in some patients, particularly due to valsartan."
+      }
+    ]
+  },
+  "fa": {
+    "description": "ساكوبیتریل دارویی است که به‌طور عمده به‌صورت ترکیبی با والسارتان برای درمان نارسایی قلبی با کاهش کسری افراز استفاده می‌شود. این دارو به‌عنوان مهارکننده‌ی نفریلین عمل می‌کند که موجب افزایش سطح پپتیدهای ناتریورتیک می‌شود و در نتیجه منجر به اتساع عروق، کاهش فشار خون و کاهش بار کاری بر قلب می‌گردد. نشان داده شده است که ساكوبیتریل عملکرد قلب و نتایج بیماران را هنگام استفاده در کنار درمان‌های استاندارد نارسایی قلبی بهبود می‌بخشد.",
+    "uses": "ساكوبیتریل به‌طور معمول برای بیمارانی که دچار نارسایی مزمن قلب هستند، به‌ویژه آنهایی که کسری افراز کاهش یافته دارند، تجویز می‌شود، زیرا به بهبود نتایج بالینی کمک می‌کند و میزان بستری شدن بیمارستانی و مرگ و میر ناشی از نارسایی قلبی را کاهش می‌دهد. این دارو اغلب در ترکیب با والسارتان برای مقابله با اثرات منفی نفریلین استفاده می‌شود، که کنترل فشار خون و عملکرد قلبی بهتری را فراهم می‌آورد. پزشکان همچنین ممکن است ساكوبیتریل را برای بیمارانی که به درمان‌های دیگر نارسایی قلبی پاسخ نامتناسب می‌دهند، در نظر بگیرند.",
+    "side effects": [
+      {
+        "side effect": "هیپوتنشن",
+        "description": "کاهش فشار خون که ممکن است منجر به سرگیجه، غش یا افتادن شود."
+      },
+      {
+        "side effect": "هیپرکالمی",
+        "description": "افزایش سطح پتاسیم در خون که می‌تواند منجر به مشکلات جدی قلبی شود."
+      },
+      {
+        "side effect": "نارسایی کلیوی",
+        "description": "کاهش عملکرد کلیه که ممکن است نیاز به نظارت و تنظیم دوز داشته باشد."
+      },
+      {
+        "side effect": "آنژیوادم",
+        "description": "تورم زیر پوست، به‌خصوص در اطراف صورت و گردن که می‌تواند زندگی را تهدید کند."
+      },
+      {
+        "side effect": "سرفه",
+        "description": "سرفه‌ای مداوم که ممکن است در برخی از بیماران به‌ویژه به‌دلیل والسارتان توسعه یابد."
+      }
+    ]
+  }
+}

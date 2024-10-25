@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Choline is an essential nutrient that plays a critical role in various bodily functions, including liver function, brain development, muscle movement, and metabolism. It is a precursor for the neurotransmitter acetylcholine, which is vital for memory and muscle control. Choline can be found in various foods such as eggs, liver, fish, chicken, and soybeans, and it can also be supplemented for individuals who may not get enough through diet alone.",
+    "benefits": "Choline has several benefits, including supporting cognitive function and memory, aiding in liver health by promoting fat metabolism and preventing fatty liver disease, enhancing physical performance and muscle endurance, and contributing to fetal development during pregnancy, particularly in brain development.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Fishy body odor",
+      "Excessive sweating",
+      "Low blood pressure",
+      "Vomiting"
+    ]
+ },
+ "fa": {
+     "description": "کولین یک ماده مغذی ضروری است که نقش حیاتی در عملکردهای مختلف بدن دارد، از جمله عملکرد کبد، توسعه مغز، حرکت عضلات و متابولیسم. کولین پیش ماده ای برای نورترنسمیتر استیل‌کولین است که برای حافظه و کنترل عضلات بسیار مهم است. کولین در غذاهای مختلفی مانند تخم‌مرغ، کبد، ماهی، مرغ و سویا وجود دارد و همچنین می‌توان آن را به عنوان مکمل برای افرادی که ممکن است به اندازه کافی از طریق رژیم غذایی دریافت نکنند، مصرف کرد.",
+     "benefits": "کولین مزایای زیادی دارد، از جمله حمایت از عملکرد شناختی و حافظه، کمک به سلامت کبد با ارتقاء متابولیسم چربی و پیشگیری از بیماری کبد چرب، افزایش عملکرد فیزیکی و استقامت عضلات و کمک به توسعه جنین در دوران بارداری، به ویژه در توسعه مغز.",
+     "side effects": [
+       "تهوع",
+       "اسهال",
+       "بوی بدن ماهی",
+       "تعریق زیاد",
+       "فشار خون پایین",
+       "استفراغ"
+     ]
+ }
+}

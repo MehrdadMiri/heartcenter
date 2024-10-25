@@ -1,0 +1,30 @@
+{
+ "en": {
+    "description": "Beta-Sitosterol is a naturally occurring plant sterol that is structurally similar to cholesterol. It is commonly found in various plant-based foods such as nuts, seeds, avocados, and vegetable oils. Beta-Sitosterol is often used as a dietary supplement to support heart health by helping to lower cholesterol levels, promote prostate health, and reduce symptoms of enlarged prostate (BPH). Research indicates that it may also possess anti-inflammatory and antioxidant properties, contributing to overall health.",
+    "benefits": "The benefits of Beta-Sitosterol include lowering LDL cholesterol levels, improving heart health, alleviating symptoms of benign prostatic hyperplasia (BPH), and enhancing immune function. Additionally, it may help reduce inflammation and may play a role in managing obesity and metabolic syndrome.",
+    "side effects": [
+      "Gastrointestinal discomfort",
+      "Nausea",
+      "Diarrhea",
+      "Constipation",
+      "Stomach cramps",
+      "Flatulence",
+      "Rash",
+      "Allergic reactions"
+    ]
+ },
+ "fa": {
+     "description": "بتا-سیتوسترول یک استرول گیاهی است که به طور طبیعی در گیاهان وجود دارد و از نظر ساختاری مشابه کلسترول می‌باشد. این ماده در غذاهای گیاهی مختلفی مانند آجیل، دانه‌ها، آووکادو و روغن‌های گیاهی پیدا می‌شود. بتا-سیتوسترول به عنوان یک مکمل غذایی برای حمایت از سلامت قلب استفاده می‌شود و به کاهش سطح کلسترول کمک کرده، سلامتی پروستات را تقویت کرده و علائم هایپرپلازی خوش‌خیم پروستات (BPH) را کاهش می‌دهد. تحقیقات نشان می‌دهد که این ماده ممکن است خواص ضد التهابی و آنتی‌اکسیدانی نیز داشته باشد و به بهبود سلامت عمومی کمک کند.",
+     "benefits": "مزایای بتا-سیتوسترول شامل کاهش سطوح کلسترول LDL، بهبود سلامت قلب، تسکین علائم هایپرپلازی خوش‌خیم پروستات (BPH) و تقویت عملکرد سیستم ایمنی است. علاوه بر این، ممکن است به کاهش التهاب کمک کرده و نقشی در مدیریت چاقی و سندرم متابولیک ایفا کند.",
+     "side effects": [
+       "ناهنجاری‌های گوارشی",
+       "تهوع",
+       "اسهال",
+       "یبوست",
+       "الد ولی آرام",
+       "نفخ",
+       "راش",
+       "واکنش‌های آلرژیک"
+     ]
+ }
+}

@@ -1,0 +1,26 @@
+```json
+{
+  "en": {
+    "description": "Nifedipine is a calcium channel blocker used primarily to treat high blood pressure and angina (chest pain). It works by relaxing the muscles of the heart and blood vessels, leading to improved blood flow and reduced heart workload. Nifedipine can also help with conditions such as Raynaud's phenomenon, where blood flow to the fingers and toes is restricted.",
+    "uses": "Nifedipine is commonly prescribed for the management of hypertension (high blood pressure), which can lead to serious complications if left untreated. By relaxing blood vessels, it helps lower blood pressure, reducing the risk of heart attacks and strokes. Additionally, Nifedipine is used to treat angina, providing relief from chest pain associated with cardiac conditions.\n\nFurthermore, it can be beneficial in the treatment of certain vascular diseases, such as Raynaud's phenomenon. In patients with this condition, Nifedipine can help alleviate symptoms by improving circulation to the extremities, thus reducing episodes of pain and discomfort due to cold or stress.",
+    "side effects": [
+      "Headache - a common side effect caused by the dilatation of blood vessels.",
+      "Dizziness - can occur due to lowered blood pressure after taking the medication.",
+      "Flushing - a warm, red feeling on the face or neck resulting from increased blood flow.",
+      "Swelling (Edema) - especially in the ankles and feet, due to fluid retention.",
+      "Nausea - can happen when the body adjusts to the medication."
+    ]
+  },
+  "fa": {
+    "description": "نیفدیپین یک مسدودکننده کانال کلسیم است که عمدتاً برای درمان فشار خون بالا و آنژین (درد قفسه سینه) استفاده می‌شود. این دارو با شل کردن عضلات قلب و رگ‌های خونی، منجر به بهبود جریان خون و کاهش بار کاری قلب می‌شود. نیفدیپین همچنین می‌تواند به شرایطی مانند پدیده رینود کمک کند، که در آن جریان خون به انگشتان و پاها محدود می‌شود.",
+    "uses": "نیفدیپین به طور معمول برای مدیریت هایپر텐سیون (فشار خون بالا) تجویز می‌شود که اگر درمان نشود، می‌تواند منجر به عوارض جدی شود. با شل کردن رگ‌های خونی، به کاهش فشار خون کمک می‌کند و خطر حملات قلبی و سکته مغزی را کاهش می‌دهد. علاوه بر این، نیفدیپین برای درمان آنژین مفید است و از درد قفسه سینه مرتبط با شرایط قلبی کاسته می‌شود.\n\nعلاوه بر این، این دارو می‌تواند در درمان بیماری‌های عروقی خاصی مانند پدیده رینود مفید باشد. در بیماران مبتلا به این وضعیت، نیفدیپین می‌تواند با بهبود گردش خون در اندام‌ها، علائم را کاهش داده و تعداد موارد درد و ناراحتی ناشی از سرما یا استرس را کاهش دهد.",
+    "side effects": [
+      "سردرد - یک عارضه شایع ناشی از گشاد شدن رگ‌های خونی.",
+      "سرگیجه - ممکن است به دلیل کاهش فشار خون پس از مصرف دارو ایجاد شود.",
+      "گرگرفتگی - احساس گرم و قرمز در صورت یا گردن که ناشی از افزایش جریان خون است.",
+      "تورم (ادم) - به ویژه در مچ پا و پا، به دلیل احتباس مایع.",
+      "تهوع - ممکن است زمانیکه بدن به دارو عادت می‌کند، رخ دهد."
+    ]
+  }
+}
+```

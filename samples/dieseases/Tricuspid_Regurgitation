@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Tricuspid regurgitation is a condition characterized by the improper closure of the tricuspid valve, leading to the backward flow of blood from the right ventricle into the right atrium during systole. This can result in various symptoms and complications, affecting the heart's efficiency and potentially causing heart failure if left untreated. It is often associated with other heart conditions and can be caused by factors such as valve damage, dilation of the right ventricle, or increased pressure in the pulmonary arteries.",
+    "symptoms": [
+      "Fatigue: Patients often feel unusually tired or lethargic, as the heart's inefficiency affects overall energy levels.",
+      "Swelling in the abdomen: Fluid can accumulate in the abdomen due to increased pressure in the venous system.",
+      "Swelling in the legs and feet: Similar to abdominal swelling, this is caused by fluid retention due to poor circulation.",
+      "Irregular heartbeat: Palpitations or a racing heart can occur due to the compromised function of the heart.",
+      "Shortness of breath: Patients may experience difficulties in breathing, especially during physical activity or when lying flat.",
+      "Cyanosis: In severe cases, a bluish color can appear on the lips or extremities due to inadequate oxygenation of the blood."
+    ],
+    "treatments": "Treatment for tricuspid regurgitation depends on the severity of the condition and underlying causes. Mild cases may only require monitoring and lifestyle adjustments. More significant cases may necessitate diuretics to reduce fluid buildup and improve symptoms. If surgery is indicated, options may include surgical repair of the valve or valve replacement. In some instances, interventions aimed at managing related conditions, such as pulmonary hypertension, may be necessary. Ongoing follow-up and management of risk factors are essential to ensure better outcomes and quality of life for patients."
+  },
+  "fa": {
+    "description": "نارسایی دریچه‌ی تریکوپید یکی از شرایطی است که با بسته نشدن درست دریچه‌ی تریکوپید مشخص می‌شود و منجر به جریان معکوس خون از بطن راست به دهلیز راست در طول انقباض می‌گردد. این وضعیت می‌تواند علائم و عوارض مختلفی ایجاد کند و کارایی قلب را تحت تأثیر قرار دهد و در صورت عدم درمان ممکن است به نارسایی قلبی منجر شود. این شرایط عمدتاً با بیماری‌های دیگر قلبی همراه است و می‌تواند ناشی از عواملی مانند آسیب به دریچه، بزرگ شدن بطن راست، یا افزایش فشار در شریان‌های ریوی باشد.",
+    "symptoms": [
+      "خستگی: بیماران اغلب احساس خستگی یا بی‌حالی غیرعادی دارند، زیرا کارایی نامناسب قلب بر سطح انرژی کلی تأثیر می‌گذارد.",
+      "تورم در شکم: مایعات می‌توانند در شکم تجمع یابند که ناشی از افزایش فشار در سیستم وریدی است.",
+      "تورم در پاها و قوزک‌ها: مشابه به تورم شکم، این عارضه به دلیل احتباس مایعات ناشی از جریان ناقص خون است.",
+      "ضربان نامنظم قلب: تپش قلب یا تندی ضربان می‌تواند به دلیل عملکرد نامناسب قلب ایجاد شود.",
+      "تنگی نفس: بیماران ممکن است در تنفس به ویژه در حین فعالیت یا هنگام دراز کشیدن مشکل داشته باشند.",
+      "سیانوز: در موارد شدید، ممکن است رنگ آبی بر روی لب‌ها یا اندام‌ها به‌دلیل عدم اکسیژن‌رسانی کافی خون مشاهده شود."
+    ],
+    "treatments": "درمان نارسایی دریچه‌ی تریکوپید به شدت وضعیت و علل زمینه‌ای بستگی دارد. موارد خفیف ممکن است فقط نیاز به نظارت و تنظیمات شیوه‌ی زندگی داشته باشند. موارد قابل توجه‌تر ممکن است نیاز به دیورتیک‌ها برای کاهش تجمع مایعات و بهبود علائم داشته باشند. اگر جراحی لازم باشد، گزینه‌ها شامل ترمیم دریچه یا تعویض دریچه می‌شوند. در برخی موارد، مداخلاتی برای مدیریت شرایط مرتبط، نظیر هایپرتنسیون ریوی، ضروری است. پیگیری مداوم و مدیریت عوامل خطر برای اطمینان از نتایج بهتر و کیفیت زندگی برای بیماران بسیار مهم است."
+  }
+}

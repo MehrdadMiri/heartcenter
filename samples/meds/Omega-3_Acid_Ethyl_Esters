@@ -1,0 +1,31 @@
+```json
+{
+  "en": {
+    "description": "Omega-3 Acid Ethyl Esters are a prescription medication containing purified omega-3 fatty acid ethyl esters derived primarily from fish oil. They are used to lower triglyceride levels in patients with hypertriglyceridemia and to support overall heart health. This supplement provides a concentrated source of omega-3 fatty acids, which have been shown to offer a range of cardiovascular benefits, potentially reducing the risk of heart disease and improving lipid profiles.",
+    
+    "uses": "Omega-3 Acid Ethyl Esters are primarily prescribed for the management of high triglyceride levels, typically as part of a comprehensive treatment plan, including dietary changes and physical activity. Beyond their role in lowering triglycerides, these supplements may also help in reducing inflammation, supporting joint health, and contributing to cognitive function. Additionally, they are sometimes recommended in the context of secondary prevention for individuals with a history of cardiovascular issues.",
+    
+    "side effects": [
+      "Gastrointestinal Issues: Patients may experience symptoms like nausea, diarrhea, or abdominal discomfort.",
+      "Fishy Aftertaste: Some users report a persistent fishy taste or odor following ingestion.",
+      "Possible Allergic Reactions: Rarely, individuals may have allergic reactions, presenting as rash, itching, or swelling, especially if they have a sensitivity to fish.",
+      "Increased Bleeding Risk: This medication can affect blood clotting, leading to an increased risk of bleeding, especially when taken with anticoagulants.",
+      "Liver Dysfunction: There is a potential for elevated liver enzymes in some patients, which may warrant monitoring during treatment."
+    ]
+  },
+  
+  "fa": {
+    "description": "استرهای اتیلی اسید امگا-3 یک داروی تجویزی شامل استرهای اتیلی اسید چرب اوmega-3 خالص است که عمدتاً از روغن ماهی استخراج می‌شود. این دارو برای کاهش سطح تری گلیسیرید در بیماران مبتلا به هیپر تری گلیسیریدمی و حمایت از سلامت کلی قلب استفاده می‌شود. این مکمل منبع متمرکزی از اسیدهای چرب امگا-3 ارائه می‌دهد که نشان داده شده است مزایای قلبی عروقی متعددی را به همراه دارد و ممکن است خطر ابتلا به بیماری قلبی را کاهش دهد و پروفایل لیپید را بهبود بخشد.",
+    
+    "uses": "استرهای اتیلی اسید امگا-3 عمدتاً برای مدیریت سطح بالای تری گلیسیرید تجویز می‌شوند و معمولاً به عنوان بخشی از یک برنامه درمانی جامع که شامل تغییرات غذایی و فعالیت بدنی است مصرف می‌شوند. فراتر از نقش آن‌ها در کاهش تری گلیسیرید، این مکمل‌ها همچنین ممکن است به کاهش التهاب، حمایت از سلامت مفاصل و کمک به عملکرد شناختی کمک کنند. علاوه بر این، گاهی اوقات در زمینه پیشگیری ثانویه برای افرادی که سابقه مشکلات قلبی دارند توصیه می‌شوند.",
+    
+    "side effects": [
+      "مشکلات گوارشی: بیماران ممکن است علائمی نظیر تهوع، اسهال یا ناراحتی شکمی را تجربه کنند.",
+      "مزه‌ی ماهی: برخی از کاربران از مزه یا بوی ماهی ماندگار پس از مصرف گزارش می‌دهند.",
+      "واکنش‌های آلرژیک ممکن: به‌ندرت، افراد ممکن است واکنش‌های آلرژیک داشته باشند که به شکل جوش، خارش یا ورم ظاهر می‌شود، به‌ویژه اگر به ماهی حساسیت داشته باشند.",
+      "افزایش ریسک خونریزی: این دارو می‌تواند بر لخته شدن خون تأثیر بگذارد و منجر به افزایش ریسک خونریزی شود، به‌ویژه در صورت مصرف به همراه ضد انعقادها.",
+      "اختلال در کبد: احتمال افزایش آنزیم‌های کبدی در برخی بیماران وجود دارد که ممکن است نیاز به پایش در طول درمان داشته باشد."
+    ]
+  }
+}
+```

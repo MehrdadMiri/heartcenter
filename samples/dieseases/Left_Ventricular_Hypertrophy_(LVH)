@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Left Ventricular Hypertrophy (LVH) is a condition characterized by the thickening of the heart's left ventricle, which can develop in response to increased workload due to factors such as hypertension, heart valve disease, or certain genetic conditions. This thickening can impair the heart's ability to pump blood efficiently, leading to various cardiovascular issues. LVH often goes unnoticed until detected through imaging studies or an electrocardiogram, as it may not always present with prominent symptoms in its early stages.",
+    "symptoms": [
+      "Shortness of breath: Individuals may experience difficulty breathing, particularly during physical activity due to reduced cardiac efficiency.",
+      "Chest pain: Some patients may have chest discomfort or pain, especially during exertion.",
+      "Palpitations: Irregularities in heartbeat or the sensation of a racing heart may occur, indicating potential arrhythmias.",
+      "Fatigue: Patients may feel excessively tired or weak, as the heart struggles to meet the body's demands.",
+      "Dizziness: Reduced blood flow can lead to episodes of lightheadedness or fainting, particularly when standing up quickly."
+    ],
+    "treatments": "Treatment for left ventricular hypertrophy focuses on addressing the underlying cause and may include lifestyle modifications, medication, and in some cases, surgical intervention. Lifestyle changes such as regular exercise, a heart-healthy diet, weight management, and limiting alcohol and salt intake can be beneficial. Medications may include antihypertensives to manage high blood pressure, diuretics to reduce fluid buildup, and beta-blockers or calcium channel blockers to decrease heart strain. In severe cases, procedures such as septal myectomy or alcohol septal ablation may be recommended to reduce ventricular thickness. Regular follow-ups with a healthcare provider are crucial to monitor the condition and adjust treatments as necessary."
+  },
+  "fa": {
+    "description": "هیپوپرتروفی بطن چپ (LVH) حالتی است که با ضخیم شدن بطن چپ قلب مشخص می‌شود و می‌تواند در پاسخ به افزایش بار ناشی از فشار خون بالا، بیماری‌های دریچه قلب یا برخی شرایط ژنتیکی توسعه یابد. این ضخیم شدن می‌تواند توانایی پمپاژ خون قلب را به طور مؤثری دچار اختلال کند و منجر به مشکلات مختلف قلبی‌عروقی شود. هیپوپرتروفی بطن چپ غالباً تا زمانی که از طریق مطالعات تصویربرداری یا الکتروکاردیوگرام شناسایی نشود، ممکن است به صورت خاصی نمایان نشود، زیرا در مراحل اولیه ممکن است همیشه با علائم قابل توجهی خود را نشان ندهد.",
+    "symptoms": [
+      "تنگی نفس: افراد ممکن است در حین فعالیت بدنی با مشکل تنفس روبرو شوند.",
+      "درد قفسه سینه: برخی بیماران ممکن است ناراحتی یا دردی در قفسه سینه احساس کنند.",
+      "تپش قلب: ناهنجاری‌هایی در ضربان قلب یا حس تند شدن قلب ممکن است رخ دهد.",
+      "خستگی: بیماران ممکن است احساس خستگی یا ضعف شدید کنند.",
+      "سرگیجه: کاهش جریان خون می‌تواند منجر به بروز احساس سبکی سر یا غش شود."
+    ],
+    "treatments": "درمان هیپوپرتروفی بطن چپ به مدیریت علت زمینه‌ای متمرکز است و می‌تواند شامل تغییرات سبک زندگی، داروها و در برخی موارد، مداخلات جراحی باشد. تغییرات سبک زندگی مانند ورزش منظم، رژیم غذایی سالم برای قلب، مدیریت وزن و محدود کردن مصرف الکل و نمک می‌تواند مؤثر باشد. داروها ممکن است شامل داروهای کنترل فشار خون برای مدیریت فشار خون بالا، مدرها برای کاهش تجمع مایع و بتا بلاکرها یا مسدودکننده‌های کانال کلسیم برای کاهش فشار روی قلب باشد. در موارد شدید، گردش خون مانند سپتوم مایکتومی یا ابلیشن سپتوم الکلی ممکن است برای کاهش ضخامت بطن توصیه شود. بررسی‌های منظم با پزشک برای نظارت بر وضعیت و تنظیم درمان‌ها به طور ضروری لازم است."
+  }
+}

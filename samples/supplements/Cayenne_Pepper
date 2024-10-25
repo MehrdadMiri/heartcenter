@@ -1,0 +1,36 @@
+{
+  "en": {
+    "description": "Cayenne pepper, derived from the fruit of the Capsicum annuum plant, is a hot chili pepper renowned for its vibrant red color and pungent flavor. It is commonly used as a spice in culinary dishes and is also recognized for its potential health benefits, which include boosting metabolism, relieving pain, improving digestion, and supporting heart health. The key active ingredient, capsaicin, is what gives cayenne its spiciness and therapeutic properties.",
+    "benefits": [
+      "Boosts metabolism and aids in weight loss.",
+      "Acts as a natural pain reliever by blocking pain receptors.",
+      "Improves digestion and reduces gas.",
+      "Supports cardiovascular health by improving blood circulation.",
+      "May help alleviate symptoms of nasal congestion."
+    ],
+    "side effects": [
+      "Gastrointestinal discomfort such as burning sensations or stomach upset.",
+      "Increased risk of bleeding due to its blood-thinning properties.",
+      "Skin irritation or burning if applied topically.",
+      "Allergic reactions in sensitive individuals.",
+      "Potential interaction with certain medications, especially blood thinners."
+    ]
+  },
+  "fa": {
+    "description": "فلفل کایenne، که از میوه گیاه Capsicum annuum به دست می‌آید، فلفل تند معروفی است که به خاطر رنگ قرمز زنده و طعم شدیدش شناخته می‌شود. این فلفل به طور معمول به عنوان ادویه در غذاها استفاده می‌شود و به خاطر فواید سلامتی آن مانند افزایش متابولیسم، تسکین درد، بهبود هضم و حمایت از سلامت قلب شناخته شده است. ماده فعال اصلی، کپسایسین، است که به فلفل کایenne تندی و خواص درمانی می‌دهد.",
+    "benefits": [
+      "افزایش متابولیسم و کمک به کاهش وزن.",
+      "عملکرد به عنوان تسکین‌دهنده طبیعی درد از طریق مسدود کردن گیرنده‌های درد.",
+      "بهبود هضم و کاهش نفخ.",
+      "حمایت از سلامت قلب و بهبود گردش خون.",
+      "احتمالاً به تسکین علائم احتقان کمک می‌کند."
+    ],
+    "side effects": [
+      "ناراحتی‌های گوارشی مانند سوزش یا ناراحتی معده.",
+      "افزایش خطر خونریزی به دلیل خواص رقیق‌کننده خون.",
+      "تحریک یا سوزش پوستی در صورت استفاده موضعی.",
+      "واکنش‌های آلرژیک در افراد حساس.",
+      "احتمال تداخل با برخی داروها، به ویژه رقیق‌کننده‌های خون."
+    ]
+  }
+}

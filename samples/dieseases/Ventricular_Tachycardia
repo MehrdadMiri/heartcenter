@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Ventricular tachycardia (VT) is a type of fast heart rate that originates from the ventricles, the lower chambers of the heart. It is characterized by a rapid succession of heartbeats, usually defined as three or more consecutive heartbeats occurring at a rate of over 100 beats per minute. VT can be a life-threatening condition, especially if it lasts more than a few seconds and can lead to more severe arrhythmias or sudden cardiac arrest. Patients may experience episodes that can range from asymptomatic to severe, necessitating prompt medical evaluation and intervention.",
+    "symptoms": [
+      "Palpitations: Patients often report feeling an abnormal or rapid beating of the heart, which can be uncomfortable or alarming.",
+      "Dizziness or lightheadedness: The rapid heart rate can lead to decreased blood flow to the brain, causing sensations of faintness or unsteadiness.",
+      "Shortness of breath: As the heart struggles to maintain efficient circulation, individuals may experience difficulty in breathing or a feeling of breathlessness.",
+      "Chest pain: Some patients may experience tightness, discomfort, or pain in the chest, which could be indicative of underlying cardiac issues.",
+      "Fatigue: Prolonged episodes of VT can lead to excessive tiredness as the heart works harder than usual."
+    ],
+    "treatments": "Treatment of ventricular tachycardia depends on the severity and frequency of the episodes. In stable patients, medications such as antiarrhythmics (e.g., amiodarone, sotalol) may be prescribed to help control the heart rate and restore normal rhythm. In cases of sustained VT or if the patient is unstable, immediate intervention is necessary. This may include synchronized cardioversion, a procedure that delivers a controlled electric shock to the heart to reset its rhythm. Implantable cardioverter-defibrillators (ICDs) are recommended for recurrent cases or those at high risk for sudden cardiac arrest. Lifestyle modifications and management of underlying conditions (like coronary artery disease, electrolyte imbalances, or cardiomyopathy) are also crucial in the long-term management of patients with VT."
+  },
+  "fa": {
+    "description": "تاکی‌کاردی بطن (VT) نوعی تند زنی قلب است که از بطن‌ها، اتاقک‌های پایینی قلب، ناشی می‌شود. این بیماری با تکرار سریع ضربان قلب مشخص می‌شود که معمولاً به عنوان سه یا بیشتر ضربان متوالی با سرعتی بیش از ۱۰۰ ضربه در دقیقه تعریف می‌شود. VT ممکن است یک وضعیت تهدید کننده زندگی باشد، به ویژه اگر بیش از چند ثانیه طول بکشد و می‌تواند منجر به آریتمی‌های شدیدتر یا ایست قلبی ناگهانی شود. بیماران ممکن است به تجربه دوره‌هایی بپردازند که می‌تواند از عدم علامت‌دار بودن تا شدید متغیر باشد و نیاز به ارزیابی و مداخله پزشکی فوری دارد.",
+    "symptoms": [
+      "تپش قلب: بیماران معمولاً از احساس تپش غیرطبیعی یا سریع قلب گزارش می‌دهند که می‌تواند ناراحت‌کننده یا نگران‌کننده باشد.",
+      "سرگیجه یا سبکی سر: سرعت بالای ضربان قلب می‌تواند منجر به کاهش جریان خون به مغز شود که باعث احساسی از بی‌حالی یا ناپایداری می‌شود.",
+      "تنگی نفس: با توجه به اینکه قلب برای حفظ گردش خون به طور مؤثر تلاش می‌کند، افراد ممکن است تجربه دشواری در تنفس یا احساسی از کمبود نفس داشته باشند.",
+      "درد قفسه سینه: برخی بیماران ممکن است احساس فشردگی، ناراحتی یا درد در ناحیه قفسه سینه خود داشته باشند که ممکن است نشان دهنده مشکلات قلبی پنهان باشد.",
+      "خستگی: دوره‌های طولانی مدت VT می‌تواند منجر به خستگی بیش از حد شود زیرا قلب سخت‌تر از حد معمول کار می‌کند."
+    ],
+    "treatments": "درمان تاکی‌کاردی بطن به شدت و فراوانی دوره‌ها بستگی دارد. در بیماران پایدار، ممکن است داروهایی مانند آنتی‌آریتمیک‌ها (از جمله آمیودارون، سوتالو) تجویز شود تا به کنترل ضربان قلب و بازگرداندن ریتم طبیعی کمک کند. در موارد VT پایدار یا اگر بیمار ناپایدار باشد، مداخله فوری لازم است. این می‌تواند شامل کاردیورژن همزمان باشد، که یک روش است که با ارسال شوک الکتریکی کنترل شده به قلب، ریتم آن را بازنشانی می‌کند. دستگاه‌های دفیبریلاتور داخلی (ICD) برای موارد مکرر یا کسانی که در معرض خطر ایست قلبی ناگهانی هستند توصیه می‌شود. اصلاح سبک زندگی و مدیریت شرایط پایه (مانند بیماری عروق کرونر، عدم تعادل الکترولیت‌ها یا کاردیومیوپاتی) نیز در مدیریت طولانی‌مدت بیماران با VT بسیار مهم است."
+  }
+}

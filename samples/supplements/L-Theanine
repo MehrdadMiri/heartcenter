@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "L-Theanine is a naturally occurring amino acid found primarily in green tea leaves. It is known for its calming effects and is often used to promote relaxation without drowsiness. L-Theanine has the ability to enhance alpha brain wave activity, leading to improved focus, cognitive performance, and reduced mental fatigue. It is commonly consumed as a supplement to help alleviate stress and anxiety while promoting a sense of well-being.",
+    "benefits": "The benefits of L-Theanine include reducing stress and anxiety, improving focus and attention, enhancing sleep quality, supporting cognitive function, and providing a calming effect without sedation. It may also increase levels of neurotransmitters such as serotonin and dopamine, which are crucial for mood regulation.",
+    "side effects": [
+      "Headaches",
+      "Dizziness",
+      "Gastrointestinal issues",
+      "Nausea",
+      "Changes in blood pressure"
+    ]
+ },
+ "fa": {
+    "description": "ال-تریونین یک آمینواسید طبیعی است که عمدتاً در برگ‌های چای سبز یافت می‌شود. این ماده به خاطر تأثیرات آرام‌بخش خود شناخته شده و معمولاً برای ترویج آرامش بدون خواب‌آلودگی استفاده می‌شود. ال-تریونین توانایی افزایش فعالیت امواج آلفا در مغز را دارد که منجر به بهبود تمرکز، عملکرد شناختی و کاهش خستگی ذهنی می‌شود. معمولاً به صورت مکمل مصرف می‌شود تا به کاهش استرس و اضطراب کمک کند و حس خوبی را ایجاد کند.",
+    "benefits": "فواید ال-تریونین شامل کاهش استرس و اضطراب، بهبود تمرکز و توجه، افزایش کیفیت خواب، حمایت از عملکرد شناختی و ایجاد تأثیر آرام بخش بدون خواب‌آلودگی است. همچنین ممکن است سطح انتقال‌دهنده‌های عصبی مانند سروتونین و دوپامین را که برای تنظیم حالت روانی ضروری هستند، افزایش دهد.",
+    "side effects": [
+      "سردرد",
+      "سرگیجه",
+      "مشکلات گوارشی",
+      "تهوع",
+      "تغییرات در فشار خون"
+    ]
+ }
+}

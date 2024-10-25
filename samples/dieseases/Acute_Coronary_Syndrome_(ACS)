@@ -1,0 +1,62 @@
+{
+ "en": {
+    "description": "Acute Coronary Syndrome (ACS) is a term used to describe a range of conditions associated with sudden reduced blood flow to the heart, which may include unstable angina and myocardial infarction (heart attack). It occurs due to the rupture of atherosclerotic plaques in the coronary arteries, leading to thrombosis and resultant ischemia of the heart muscle. ACS is a critical medical emergency that requires immediate diagnosis and treatment to restore blood flow and minimize heart damage.",
+    "symptoms": [
+      {
+        "symptom": "Chest Pain or Discomfort",
+        "description": "Often described as a feeling of pressure, squeezing, fullness, or pain in the center or left side of the chest that may last more than a few minutes or go away and come back."
+      },
+      {
+        "symptom": "Shortness of Breath",
+        "description": "This may occur with or without chest discomfort and can happen during rest or physical activity."
+      },
+      {
+        "symptom": "Nausea or Vomiting",
+        "description": "Some individuals may experience nausea or vomiting during a cardiac event."
+      },
+      {
+        "symptom": "Radiating Pain",
+        "description": "Pain may spread to the shoulders, neck, arms, back, teeth, or jaw, which can sometimes be mistaken for other conditions."
+      },
+      {
+        "symptom": "Sweating",
+        "description": "Profuse sweating or cold sweat is not uncommon during an ACS event."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "Unusual fatigue, especially in women, may be a sign of ACS and can occur days or even weeks before other symptoms."
+      }
+    ],
+    "treatments": "The treatment of Acute Coronary Syndrome focuses on relieving symptoms, restoring blood flow, and preventing future events. Immediate treatment options include administering oxygen therapy, nitroglycerin to relieve chest pain, and antiplatelet medications such as aspirin to prevent further clotting. In many cases, more invasive procedures are required, such as percutaneous coronary intervention (PCI), also known as angioplasty, which involves using a balloon to open blocked arteries, often followed by the placement of a stent. For patients with more severe blockages, coronary artery bypass grafting (CABG) may be necessary. Long-term management typically includes lifestyle changes (diet, exercise, quitting smoking), medications like beta-blockers, ACE inhibitors, and statins to manage blood pressure and cholesterol, and regular follow-up with a healthcare provider to monitor heart health."
+ },
+ "fa": {
+     "description": "سندرم کرونری حاد (ACS) اصطلاحی برای توصیف مجموعه‌ای از شرایط مرتبط با کاهش ناگهانی جریان خون به قلب است که می‌تواند شامل آنژین ناپایدار و انفارکتوس میوکارد (حملات قلبی) باشد. این وضعیت به دلیل پارگی پلاک‌های آترواسکلروتیک در شریان‌های کرونری ایجاد می‌شود که منجر به thrombosis و نتیجه نهایی ایسمی بافت قلب می‌گردد. ACS یک اورژانس پزشکی جدی است که نیاز به تشخیص و درمان فوری برای بازگرداندن جریان خون و کمینه کردن آسیب به قلب دارد.",
+     "symptoms": [
+       {
+         "symptom": "درد یا ناراحتی در قفسه سینه",
+         "description": "معمولاً به عنوان احساس فشار، فشردگی، پر بودن یا درد در مرکز یا سمت چپ قفسه سینه توصیف می‌شود که ممکن است بیشتر از چند دقیقه طول بکشد یا برود و دوباره بازگردد."
+       },
+       {
+         "symptom": "تنگی نفس",
+         "description": "این وضعیت ممکن است همراه با ناراحتی در قفسه سینه یا بدون آن اتفاق بیفتد و ممکن است در حال استراحت یا فعالیت بدنی رخ دهد."
+       },
+       {
+         "symptom": "تهوع یا استفراغ",
+         "description": "برخی افراد ممکن است در حین یک رویداد قلبی دچار تهوع یا استفراغ شوند."
+       },
+       {
+         "symptom": "درد منتشر",
+         "description": "درد ممکن است به شانه‌ها، گردن، بازوها، کمر، دندان‌ها یا فک گسترش یابد که گاهی اوقات ممکن است با شرایط دیگر اشتباه گرفته شود."
+       },
+       {
+         "symptom": "عرق کردن",
+         "description": "عرق کردن زیاد یا عرق سرد در طول یک رویداد ACS غیرمعمول نیست."
+       },
+       {
+         "symptom": "خستگی",
+         "description": "خستگی غیرمعمول، به ویژه در زنان، ممکن است نشانه‌ای از ACS باشد و می‌تواند روزها یا حتی هفته‌ها قبل از دیگر علائم رخ دهد."
+       }
+     ],
+     "treatments": "درمان سندرم کرونری حاد بر روی تسکین علائم، بازگرداندن جریان خون و جلوگیری از رویدادهای آینده تمرکز دارد. گزینه‌های درمانی فوری شامل تجویز اکسیژن، نیتروگلیسیرین برای تسکین درد قفسه سینه و داروهای ضدپلاکت مانند آسپرین برای جلوگیری از لختگی بیشتر است. در بسیاری از موارد، نیاز به انجام روش‌های تهاجمی بیشتر مانند مداخله کاتتر قلبی (PCI) یا آنژیوپلاستی است که شامل استفاده از یک بادکنک برای باز کردن شریان‌های مسدود شده و معمولاً با قرار دادن یک استنت دنبال می‌شود. برای بیمارانی که انسدادهای شدیدتری دارند، ممکن است نیاز به عمل جراحی بای پس عروق کرونر (CABG) باشد. مدیریت طولانی‌مدت معمولاً شامل تغییرات سبک زندگی (رژیم غذایی، ورزش، ترک سیگار)، داروهایی مانند بتا بلوکرها، مهارکننده‌های ACE و استاتین‌ها برای مدیریت فشار خون و کلسترول و پیگیری منظم با یک ارائه‌دهنده خدمات بهداشتی برای نظارت بر سلامت قلب است."
+ } 
+}

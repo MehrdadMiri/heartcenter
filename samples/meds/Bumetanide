@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Bumetanide is a loop diuretic medication primarily used to treat edema associated with congestive heart failure, liver disease, or kidney disease. It works by preventing the reabsorption of sodium and chloride ions in the loop of Henle, promoting the excretion of water and electrolytes, thus reducing excess fluid in the body. Bumetanide is typically taken orally, but can also be administered intravenously, making it a versatile option for managing fluid retention and hypertension.",
+    "uses": "Bumetanide is mainly used to manage fluid retention in patients suffering from heart failure, liver cirrhosis, or nephrotic syndrome. It effectively reduces swelling and helps to relieve symptoms such as shortness of breath and discomfort caused by excess fluid in the body. In addition to its role in treating edema, Bumetanide may also be utilized in hypertension management, particularly in cases where other medications are less effective.\n\nThe medication can be particularly beneficial for patients with significant fluid overload who require rapid diuresis. Because of its potency, Bumetanide is often preferred in acute situations over other diuretics, allowing for quick symptom relief in emergency settings and improving the overall quality of life for patients suffering from chronic fluid retention issues.",
+    "side effects": [
+      "Electrolyte imbalances: Bumetanide can cause low potassium levels (hypokalemia) and low magnesium levels (hypomagnesemia), potentially leading to muscle cramps, weakness, or arrhythmias.",
+      "Dehydration: Excessive diuresis may result in dehydration, leading to symptoms such as dry mouth, dizziness, and decreased urine output.",
+      "Kidney dysfunction: Prolonged use may impair kidney function, particularly in patients with pre-existing kidney disease.",
+      "Ototoxicity: In rare cases, high doses can lead to hearing loss or tinnitus due to its ototoxic potential.",
+      "Allergic reactions: Some patients may experience allergic reactions, characterized by rash, itching, or swelling."
+    ]
+  },
+  "fa": {
+    "description": "بومتانید یک داروی دیورتیک حلقوی است که عمدتاً برای درمان ادم ناشی از نارسایی احتقانی قلب، بیماری کبدی یا بیماری کلیوی استفاده می‌شود. این دارو با جلوگیری از بازجذب یون‌های سدیم و کلر در حلقه هنله عمل می‌کند و باعث خروج آب و الکترولیت‌ها می‌شود و به این ترتیب، مایعات اضافی در بدن را کاهش می‌دهد. بومتانید معمولاً به صورت خوراکی مصرف می‌شود، اما می‌تواند به صورت داخل وریدی نیز تجویز شود که این امر گزینه‌ای چندکاره برای مدیریت احتباس مایعات و فشار خون بالا را فراهم می‌کند.",
+    "uses": "بومتانید عمدتاً برای مدیریت احتباس مایعات در بیماران مبتلا به نارسایی قلبی، سیروز کبدی یا سندرم نفروتیک استفاده می‌شود. این دارو به طور مؤثری ورم را کاهش داده و به تسکین علائمی مانند تنگی نفس و ناراحتی ناشی از مایعات اضافی در بدن کمک می‌کند. علاوه بر نقش خود در درمان ادم، بومتانید ممکن است در مدیریت فشار خون نیز استفاده شود، به ویژه در مواردی که داروهای دیگر کمتر مؤثرند.\n\nاین دارو می‌تواند به ویژه برای بیمارانی که دچار اضافه بار مایعات significativa هستند و نیاز به دیورز سریع دارند، مفید باشد. به خاطر قدرت آن، بومتانید معمولاً در وضعیت‌های حاد نسبت به سایر دیورتیک‌ها ترجیح داده می‌شود و به تسکین سریع علائم در موقعیت‌های اضطراری کمک کرده و کیفیت زندگی کلی بیماران مبتلا به مشکلات احتباس مایعات مزمن را بهبود می‌بخشد.",
+    "side effects": [
+      "اختلالات الکترولیتی: بومتانید می‌تواند باعث کاهش سطح پتاسیم (هیپوکالمی) و کاهش سطح منیزیم (هیپومگنزیمی) شود که ممکن است منجر به گرفتگی‌های عضلانی، ضعف یا آریتمی شود.",
+      "کم آبی: دیورز بیش از حد ممکن است منجر به کم آبی شود و علائمی مانند خشکی دهان، سرگیجه و کاهش مقدار ادرار را ایجاد کند.",
+      "نارسایی کلیوی: استفاده طولانی‌مدت ممکن است باعث اختلال در عملکرد کلیه شود، به ویژه در بیماران مبتلا به بیماری کلیوی قبلی.",
+      "سمی بودن شنوایی: در موارد نادر، دوزهای زیاد ممکن است منجر به از دست دادن شنوایی یا وزوز گوش شود به دلیل پتانسیل سمی بودن آن.",
+      "واکنش‌های آلرژیک: برخی از بیماران ممکن است واکنش‌های آلرژیک را تجربه کنند که با خارش، ورم یا کهیر مشخص می‌شود."
+    ]
+  }
+}

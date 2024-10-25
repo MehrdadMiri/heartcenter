@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Evolocumab is a monoclonal antibody that inhibits PCSK9 (proprotein convertase subtilisin/kexin type 9), a protein that reduces the liver's ability to remove LDL cholesterol from the blood. By preventing PCSK9 from binding to LDL receptors on liver cells, Evolocumab effectively lowers levels of LDL cholesterol, which is a significant risk factor for cardiovascular diseases. It is primarily used in patients with hyperlipidemia or those who are unable to achieve target LDL cholesterol levels with diet and statin therapy alone.",
+    "uses": "Evolocumab is employed in the management of conditions such as familial hypercholesterolemia, a genetic disorder causing high cholesterol levels, and also for patients with atherosclerotic cardiovascular disease who require additional LDL cholesterol lowering. It may be prescribed for individuals who have had heart attacks or strokes and continue to have high LDL cholesterol despite maximum tolerated doses of statins and lifestyle changes.\n\nIn addition, Evolocumab is used in a variety of populations, including adults with mixed dyslipidemia, offering benefits for those with complex lipid disorders. It may also be considered in patients who cannot tolerate statins due to side effects, providing a valuable alternative for cholesterol management.",
+    "side effects": [
+      "Injection site reactions: Localized redness, itching, or swelling at the injection site.",
+      "Muscle pain: Some patients may experience myalgia or muscle discomfort.",
+      "Fatigue: A sense of tiredness or lack of energy may occur.",
+      "Nausea: Patients might report feelings of sickness or an upset stomach.",
+      "Allergic reactions: In rare cases, serious allergic reactions such as rash, itching, or difficulty breathing."
+    ]
+ },
+ "fa": {
+    "description": "اولاوکوماب یک آنتی بادی مونوکلونال است که PCSK9 (پروتئین تبدیل پروتئین نوع سوبتیلیسین/ککسین 9) را مهار می‌کند، که پروتئینی است که توانایی کبد در حذف کلسترول LDL از خون را کاهش می‌دهد. با جلوگیری از اتصال PCSK9 به گیرنده‌های LDL روی سلول‌های کبدی، اولاوکوماب به طور موثری سطح کلسترول LDL را کاهش می‌دهد، که یک عامل خطر مهم برای بیماری‌های قلبی-عروقی است. این دارو عمدتاً در بیمارانی که دچار هایپرلیپیدمی هستند یا نمی‌توانند سطوح هدف کلسترول LDL را تنها با رژیم غذایی و درمان استاتین‌ها به دست آورند، استفاده می‌شود.",
+    "uses": "اولاوکوماب در مدیریت شرایطی مانند هایپرکلسترولمی خانواده، یک اختلال ژنتیکی که باعث افزایش سطح کلسترول می‌شود، به کار می‌رود و همچنین برای بیمارانی با بیماری عروق کرونری آترواسکلروتیک که نیاز به کاهش بیشتری در کلسترول LDL دارند، تجویز می‌شود. این دارو ممکن است برای افرادی که حمله قلبی یا سکته مغزی داشته‌اند و همچنان دارای کلسترول LDL بالایی هستند، حتی با بالاترین دوزهای قابل تحمل استاتین‌ها و تغییرات سبک زندگی، تجویز شود.\n\nعلاوه بر این، اولاوکوماب در جمعیت‌های مختلفی از بیماران مورد استفاده قرار می‌گیرد، از جمله بزرگسالان مبتلا به دیسلیپیدمی مخلوط، و مزایایی را برای کسانی که اختلالات چربی پیچیده دارند، در بر دارد. همچنین ممکن است در بیمارانی که به دلیل عوارض جانبی نمی‌توانند استاتین‌ها را تحمل کنند، مورد توجه قرار گیرد و جایگزین ارزشمندی برای مدیریت کلسترول باشد.",
+    "side effects": [
+      "واکنش‌های محل تزریق: قرمزی، خارش یا ورم موضعی در محل تزریق.",
+      "درد عضلانی: برخی بیماران ممکن است در ناحیه عضلات درد یا ناراحتی را تجربه کنند.",
+      "خستگی: حس خستگی یا کمبود انرژی ممکن است روی دهد.",
+      "تهوع: بیماران ممکن است احساس ناخوشی یا ناراحتی در معده داشته باشند.",
+      "واکنش‌های آلرژیک: در موارد نادر، واکنش‌های آلرژیک جدی مانند راش، خارش یا مشکل در تنفس ممکن است ایجاد شود."
+    ]
+ }
+}

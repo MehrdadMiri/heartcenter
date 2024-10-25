@@ -1,0 +1,22 @@
+{
+ "en": {
+    "description": "Hypoplastic Left Heart Syndrome (HLHS) is a complex congenital heart defect that affects normal blood flow through the heart and requires immediate medical attention. It occurs when the left side of the heart is underdeveloped, resulting in a range of malformations including a small left ventricle, aortic arch, and mitral valve. This syndrome leads to insufficient oxygenated blood being delivered to the body, which can be life-threatening without intervention.",
+    "symptoms": [
+      "Cyanosis: A bluish tint to the skin, lips, and nails due to low oxygen levels in the blood.",
+      "Difficulty Breathing: Newborns may experience fast or labored breathing, indicating inadequate oxygenation.",
+      "Poor Feeding: Infants often tire easily while feeding and may not gain weight as expected.",
+      "Lethargy: Affected children may appear unusually tired and have low energy levels."
+    ],
+    "treatments": "Treatment for Hypoplastic Left Heart Syndrome typically involves a series of surgical interventions. The first surgery, called the Norwood procedure, is usually performed within the first week of life to establish adequate blood flow to the body. Following the Norwood procedure, a bidirectional Glenn procedure is performed between 4 to 6 months of age, which helps improve blood circulation by redirecting blood flow from the upper body to the lungs. Finally, a Fontan procedure is usually performed between 18 months to 4 years of age, allowing the blood returning from the lower body to flow directly to the lungs. In addition to surgical interventions, ongoing management may include medications to support heart function and monitor overall health."
+ },
+ "fa": {
+     "description": "سندرم قلب چپ هیپوپلاستیک (HLHS) یک نقص قلبی مادرزادی پیچیده است که بر جریان طبیعی خون در قلب تأثیر می‌گذارد و به درمان فوری پزشکی نیاز دارد. این بیماری زمانی به وجود می‌آید که سمت چپ قلب به خوبی توسعه نمی‌یابد، که منجر به ایجاد مجموعه‌ای از تغییرات از جمله بطن چپ کوچک، قوس آئورت و دریچه میترال می‌شود. این سندرم منجر به کافی نبودن خون اکسیژن‌دار به بدن می‌شود که بدون مداخله می‌تواند تهدیدی برای زندگی باشد.",
+     "symptoms": [
+      "سیانوز: رنگ آبی پوست، لب‌ها و ناخن‌ها به دلیل سطح پایین اکسیژن در خون.",
+      "مشکل در تنفس: نوزادان ممکن است تنفس سریع یا دشواری داشته باشند که نشان‌دهنده ناکافی بودن اکسیژن است.",
+      "تغذیه ضعیف: نوزادان معمولاً زود خسته می‌شوند در حین تغذیه و ممکن است به اندازه مورد انتظار وزن نگیرند.",
+      "کسلی: کودکان مبتلا ممکن است به طور غیرمعمول خسته به نظر برسند و سطح انرژی پایینی داشته باشند."
+     ],
+     "treatments": "درمان سندرم قلب چپ هیپوپلاستیک معمولاً شامل یک سری مداخلات جراحی است. اولین جراحی، که به آن روش نورود گفته می‌شود، معمولاً در عرض یک هفته پس از تولد انجام می‌شود تا جریان خون کافی به بدن تأمین شود. پس از روش نورود، یک روش گلن دوطرفه بین ۴ تا ۶ ماهگی انجام می‌شود که به بهبود گردش خون با تغییر مسیر جریان خون از قسمت بالایی بدن به ریه‌ها کمک می‌کند. در نهایت، معمولاً بین ۱۸ ماه تا ۴ سالگی یک روش فنتان انجام می‌شود که به خون بازگشتی از قسمت تحتانی بدن اجازه می‌دهد تا مستقیماً به ریه‌ها جریان یابد. علاوه بر مداخلات جراحی، مدیریت مداوم ممکن است شامل داروهایی برای حمایت از عملکرد قلب و نظارت بر سلامت عمومی باشد."
+ }
+}

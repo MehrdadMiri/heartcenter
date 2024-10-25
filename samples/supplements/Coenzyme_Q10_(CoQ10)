@@ -1,0 +1,36 @@
+{
+  "en": {
+    "description": "Coenzyme Q10 (CoQ10) is a naturally occurring antioxidant found in every cell of the body, playing a critical role in the production of energy in the form of adenosine triphosphate (ATP) within the mitochondria. It is essential for proper cellular function and is involved in various metabolic processes. CoQ10 levels may decrease with age or due to certain medical conditions, leading to fatigue and other health issues.",
+    "benefits": [
+      "Improves energy production and reduces fatigue.",
+      "Acts as a powerful antioxidant, protecting cells from damage.",
+      "Supports heart health and may improve conditions like heart failure.",
+      "May enhance exercise performance and recovery.",
+      "Potentially supports brain health and may alleviate neurological disorders."
+    ],
+    "side effects": [
+      "Gastrointestinal discomfort (nausea, diarrhea, loss of appetite)",
+      "Headaches",
+      "Insomnia",
+      "Rash or allergic reactions",
+      "Lowering of blood pressure (may not be suitable for those on blood pressure medications)"
+    ]
+  },
+  "fa": {
+    "description": "کوآنزیم Q10 (CoQ10) یک آنتی‌اکسیدان طبیعی است که در هر سلول بدن وجود دارد و نقش حیاتی در تولید انرژی به‌صورت آدنوزین تری‌فسفات (ATP) در میتوکندری‌ها دارد. این کوآنزیم برای عملکرد صحیح سلول ضروری است و در فرآیندهای متابولیک مختلف دخالت دارد. سطح CoQ10 ممکن است با افزایش سن یا به‌دلیل برخی شرایط پزشکی کاهش یابد که منجر به خستگی و مشکلات سلامتی دیگر می‌شود.",
+    "benefits": [
+      "بهبود تولید انرژی و کاهش خستگی.",
+      "عملکرد به‌عنوان یک آنتی‌اکسیدان قوی و حفاظت از سلول‌ها در برابر آسیب.",
+      "حمایت از سلامت قلب و ممکن است وضعیت‌هایی مانند نارسایی قلبی را بهبود بخشد.",
+      "ممکن است عملکرد ورزشی و بهبود بعد از آن را افزایش دهد.",
+      "پتانسیل حمایت از سلامت مغز و ممکن است اختلالات عصبی را تسکین دهد."
+    ],
+    "side effects": [
+      "ناراحتی‌های گوارشی (حالت تهوع، اسهال، از دست دادن اشتها)",
+      "سردرد",
+      "بی‌خوابی",
+      "راش یا واکنش‌های آلرژیک",
+      "کاهش فشار خون (ممکن است برای کسانی که تحت درمان فشار خون هستند مناسب نباشد)"
+    ]
+  }
+}

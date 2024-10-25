@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Patent Ductus Arteriosus (PDA) is a heart condition that occurs when the ductus arteriosus, a blood vessel connecting the pulmonary artery to the aorta, fails to close after birth as it should. This results in an abnormal circulation of blood between the two vessels, leading to increased blood flow to the lungs and potential heart complications if left untreated. PDA is more common in premature infants but can also occur in full-term babies. Symptoms can vary widely depending on the size of the ductus and can include rapid breathing, heart murmur, and poor feeding.",
+    "symptoms": [
+      "Rapid breathing: The infant may exhibit faster-than-normal breathing as their body tries to get enough oxygen.",
+      "Heart murmur: A characteristic sound heard during a heartbeat, indicating turbulent blood flow due to the ductus arteriosus.",
+      "Poor feeding: Infants may tire quickly during feeding, leading to inadequate weight gain.",
+      "Sweating: Babies may sweat excessively while feeding or when they are simply resting.",
+      "Fatigue: The infant may appear more tired and lethargic than usual, struggling to be active."
+    ],
+    "treatments": "Treatment options for Patent Ductus Arteriosus (PDA) depend on the age of the patient, the size of the ductus, and the severity of symptoms. In premature infants, nonsteroidal anti-inflammatory drugs (NSAIDs) like indomethacin or ibuprofen are often administered to encourage closure of the ductus. If medication is not effective or in cases of significant symptoms, surgical intervention may be necessary. Surgical options include catheter-based procedures, where a device is used to occlude the ductus, or traditional surgery to ligate the ductus arteriosus. Monitoring and follow-up care are essential to assess heart function and manage any long-term effects."
+ },
+ "fa": {
+    "description": "پتنت داکتوس آرتریوسوس (PDA) یک وضعیت قلبی است که در آن داکتوس آرتریوسوس، یک عروق خونی که شریان ریوی را به آئورت متصل می‌کند، پس از تولد به درستی بسته نمی‌شود. این موضوع منجر به گردش غیرطبیعی خون بین دو عروق شده و باعث افزایش جریان خون به ریه‌ها و احتمالات مشکلات قلبی می‌شود اگر درمان نشود. PDA در نوزادان نارس شایع‌تر است اما می‌تواند در نوزادان تمام‌مدت نیز رخ دهد. علائم می‌تواند بسته به اندازه داکتوس و میزان شدت متفاوت باشد و شامل تنفس سریع، ناهنجاری قلبی و تغذیه ضعیف باشد.",
+    "symptoms": [
+      "تنفس سریع: نوزاد ممکن است نشان دهنده تنفسی سریع‌تر از حد نرمال باشد زیرا بدن سعی در دریافت اکسیژن کافی دارد.",
+      "ناهید: صدای مشخصی که در طول ضربان قلب شنیده می‌شود، نشان‌دهنده جریان خون ناپایدار به دلیل داکتوس آرتریوسوس است.",
+      "تغذیه ضعیف: نوزادان ممکن است در حین تغذیه زود خسته شوند و منجر به عدم افزایش وزن کافی گردند.",
+      "عرق کردن: نوزادان ممکن است در حین تغذیه یا وقتی استراحت می‌کنند، عرق بیش از حد کنند.",
+      "خستگی: نوزاد ممکن است خسته‌تر و بی‌حالت‌تر به نظر برسد و در تلاش برای فعالیت باشد."
+    ],
+    "treatments": "گزینه‌های درمان پتنت داکتوس آرتریوسوس (PDA) به سن بیمار، اندازه داکتوس و شدت علائم وابسته است. در نوزادان نارس، داروهای ضد التهابی غیر استروئیدی (NSAID) مانند ایندومتاسین یا ایبوپروفن معمولاً تجویز می‌شود تا به بستن داکتوس کمک کنند. اگر دارو مؤثر نباشد یا در موارد شدید علائم، مداخله جراحی ممکن است ضروری باشد. گزینه‌های جراحی شامل روش‌های مبتنی بر کاتتر است که در آن یک دستگاه برای انسداد داکتوس استفاده می‌شود یا جراحی سنتی برای بستن داکتوس آرتریوسوس. نظارت و مراقبت‌های پیگیری برای ارزیابی عملکرد قلب و مدیریت هر اثرات بلندمدت لازم است."
+ } 
+}

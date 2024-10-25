@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Myocardial stunning is a temporary impairment of cardiac function that occurs following a brief period of ischemia, where blood supply to the heart muscle is reduced or interrupted. This condition often occurs after a significant cardiac event, such as a heart attack or severe reduction in blood flow, and despite restoration of blood flow, the heart does not immediately regain its normal pumping capacity. The myocardium may exhibit decreased contractility and responsiveness, leading to potential heart failure if not properly managed.",
+    "symptoms": [
+      "Chest pain: Patients may experience angina or chest discomfort, which can radiate to the arms, neck, or jaw.",
+      "Fatigue: A general sense of tiredness or exhaustion, often exacerbated by physical exertion.",
+      "Shortness of breath: This can occur even during rest or minimal activity due to reduced cardiac output.",
+      "Palpitations: Some individuals may experience an irregular or racing heartbeat as the heart attempts to compensate for its reduced function.",
+      "Dizziness: A feeling of lightheadedness or faintness, possibly due to inadequate blood flow to the brain."
+    ],
+    "treatments": "Treatment for myocardial stunning focuses on restoring optimal heart function and preventing further ischemic events. Initial management may include medications such as beta-blockers to reduce heart rate and workload, ACE inhibitors to decrease vascular resistance, and diuretics to manage fluid overload. In more severe cases, interventions such as coronary angioplasty or surgery may be necessary to improve blood flow to the affected areas of the heart. Cardiac rehabilitation is also crucial in recovery, which involves supervised exercise training, education on heart-healthy living, and psychological support to help patients cope with the emotional aspects of cardiac disease."
+  },
+  "fa": {
+    "description": "شکست عملکرد عضله قلب (Myocardial Stunning) یک اختلال موقتی در عملکرد قلب است که پس از یک دوره کوتاه ischemia بروز می‌کند، جایی که تامین خون به عضله قلب کاهش یا قطع می‌شود. این وضعیت اغلب پس از یک حادثه قلبی مهم، مانند حمله قلبی یا کاهش شدید جریان خون، اتفاق می‌افتد و با وجود بازگشت جریان خون، قلب به سرعت قابلیت پمپاژ طبیعی خود را باز نمی‌یابد. میوکارد می‌تواند کاهش قابلیت انقباض و پاسخ‌دهی را نشان دهد که می‌تواند به نارسایی قلبی منجر شود اگر به درستی مدیریت نشود.",
+    "symptoms": [
+      "درد قفسه سینه: بیماران ممکن است دچار آنژین یا ناراحتی قفسه سینه شوند که می‌تواند به بازوها، گردن یا فک منتشر شود.",
+      "خستگی: احساس عمومی خستگی یا فرسودگی، که اغلب با فعالیت بدنی تشدید می‌شود.",
+      "تنگی نفس: این وضعیت می‌تواند حتی در حال استراحت یا با انجام فعالیت‌های حداقل نیز رخ دهد به دلیل کاهش جریان خون قلبی.",
+      "تپش قلب: برخی افراد ممکن است ضربان قلب نامنظم یا تند را تجربه کنند زیرا قلب سعی می‌کند به کاهش عملکرد خود پاسخ دهد.",
+      "سرگیجه: احساس سبکی سر یا غش که ممکن است به دلیل جریان ناکافی خون به مغز اتفاق بیفتد."
+    ],
+    "treatments": "درمان شکست عملکرد عضله قلب بر روی بازگرداندن عملکرد بهینه قلب و پیشگیری از اتفاقات ایسمیک بعدی تمرکز دارد. مدیریت اولیه ممکن است شامل داروهایی مانند بتا بلاکرها برای کاهش ضربان قلب و بار کاری، مهار کننده‌های ACE برای کاهش مقاومت عروقی و دیورتیک‌ها برای مدیریت اضافات مایع باشد. در موارد شدیدتر، مداخلاتی مانند آنژیوپلاستی کرونر یا جراحی ممکن است برای بهبود جریان خون به نواحی آسیب دیده قلب ضروری باشد. توانبخشی قلبی نیز در بازیابی بسیار مهم است که شامل آموزش تمرین نظارت شده، آموزش در مورد زندگی سالم برای قلب و حمایت روانی برای کمک به بیماران در مقابله با جنبه‌های عاطفی بیماری قلبی است."
+  }
+}

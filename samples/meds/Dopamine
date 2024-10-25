@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Dopamine is a catecholamine neurotransmitter that plays a crucial role in transmitting signals in the brain and regulating functions such as mood, cognition, and motor control. It is also used as a medication to treat conditions like shock, heart failure, and certain types of low blood pressure by enhancing cardiac output and improving renal blood flow. In higher doses, dopamine acts on alpha receptors, leading to vasoconstriction; in lower doses, it primarily stimulates beta-adrenergic receptors, improving cardiac contractility and heart rate.",
+    "uses": "Dopamine is commonly used in medical settings for the management of acute heart failure, shock due to various causes (e.g., septic, cardiogenic), and as a part of resuscitation protocols. Additionally, it may be used to improve renal perfusion and increase urine output in patients with renal impairment. Dopamine can also be utilized in treating bradycardia (slow heart rate) and certain forms of hypotension (low blood pressure), where it helps restore hemodynamic stability.\n\nFurthermore, dopamine's role extends to neuropharmacology, where it is being researched for use in conditions such as Parkinson's disease and attention deficit hyperactivity disorder (ADHD). The drug's ability to affect mood and motivation is also being explored for potential therapeutic implications in psychiatric disorders.",
+    "side effects": [
+      "Nausea and vomiting: Some patients may experience gastrointestinal disturbances.",
+      "Headache: Patients might report headaches due to increased intracranial pressure or increased blood flow.",
+      "Tachycardia: An increase in heart rate may occur, particularly with higher doses.",
+      "Hypertension: Elevations in blood pressure can result from its vasopressor effects.",
+      "Arrhythmias: Abnormal heart rhythms are possible, especially in sensitive patients.",
+      "Peripheral vasoconstriction: This can lead to reduced blood flow to extremities, causing coldness or numbness."
+    ]
+  },
+  "fa": {
+    "description": "دوپامین یک نوروترنسمیتر کاتهکول آمین است که نقش مهمی در انتقال سیگنال‌ها در مغز و تنظیم عملکردهایی مانند خلق و خو، شناخت و کنترل حرکتی ایفا می‌کند. همچنین به عنوان یک دارو برای درمان شرایطی مانند شوک، نارسایی قلبی و انواع خاصی از فشار خون پایین استفاده می‌شود که با افزایش خروجی قلب و بهبود جریان خون کلیوی منجر می‌گردد. در دوزهای بالاتر، دوپامین بر روی گیرنده‌های آلفا عمل می‌کند که منجر به تنگ شدن عروق می‌شود؛ در دوزهای پایین‌تر، عمدتاً گیرنده‌های بتا-آدرنرژیک را تحریک کرده و باعث بهبود قدرت انقباض قلب و ضربان آن می‌شود.",
+    "uses": "دوپامین به‌طور معمول در محیط‌های پزشکی برای مدیریت نارسایی قلبی حاد، شوک ناشی از علل مختلف (مانند سپتیک، کاردیژنیک) و به‌عنوان بخشی از پروتکل‌های نجات استفاده می‌شود. همچنین می‌تواند برای بهبود پرفیوژن کلیوی و افزایش خروجی ادرار در بیماران با اختلال کلیوی استفاده گردد. دوپامین می‌تواند در درمان برادیکاردی (ضربان قلب کند) و برخی اشکال فشار خون پایین نیز مورد استفاده قرار گیرد، که در آن به حفظ پایداری همودینامیک کمک می‌کند.\n\nعلاوه بر این، نقش دوپامین به داروسازی اعصاب نیز extends، که برای استفاده در شرایطی مانند بیماری پارکینسون و اختلال کمبود توجه/بیش‌فعالی (ADHD) در حال تحقیق است. توانایی این دارو در تأثیر بر خلق و خو و انگیزه نیز در حال بررسی برای پیامدهای درمانی احتمالی در اختلالات روانپزشکی است.",
+    "side effects": [
+      "تهوع و استفراغ: برخی از بیماران ممکن است دچار اختلالات گوارشی شوند.",
+      "سردرد: بیماران ممکن است به دلیل افزایش فشار داخل جمجمه یا افزایش جریان خون دچار سردرد شوند.",
+      "تاکی‌کاردی: ممکن است با افزایش سرعت ضربان قلب، به ویژه در دوزهای بالاتر، مواجه شوند.",
+      "فشار خون بالا: به دلیل تفکیک عروقی می‌تواند منجر به افزایش فشار خون گردد.",
+      "آریتمی: ضربان‌های غیرطبیعی قلب ممکن است، به‌ویژه در بیماران حساس، پیش بیاید.",
+      "تنگی عروق محیطی: این ممکن است منجر به کاهش خون‌رسانی به اندام‌ها با علائم سردی یا بی‌حسی شود."
+    ]
+  }
+}

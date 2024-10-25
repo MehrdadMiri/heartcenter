@@ -1,0 +1,54 @@
+{
+  "en": {
+    "description": "Torsades de Pointes (TdP) is a form of polymorphic ventricular tachycardia characterized by a rapid, irregular heartbeat that can lead to fainting or cardiac arrest. It is often associated with prolonged QT interval on an electrocardiogram (ECG) and may occur in conjunction with certain medications, electrolyte imbalances, or congenital long QT syndromes. Prompt recognition and treatment are critical to preventing potentially fatal outcomes.",
+    "symptoms": [
+      {
+        "symptom": "Palpitations",
+        "description": "Patients may experience a rapid, fluttering sensation in the chest."
+      },
+      {
+        "symptom": "Dizziness or lightheadedness",
+        "description": "Feeling faint or unsteady, particularly when standing or during physical activity."
+      },
+      {
+        "symptom": "Syncope (fainting)",
+        "description": "Loss of consciousness due to decreased blood flow to the brain, often resulting from arrhythmia."
+      },
+      {
+        "symptom": "Shortness of breath",
+        "description": "Patients may find it difficult to breathe or feel an increased effort is required to breathe."
+      },
+      {
+        "symptom": "Chest pain",
+        "description": "Some individuals may report discomfort or pain in the chest area, which could be indicative of myocardial ischemia."
+      }
+    ],
+    "treatments": "Treatment of Torsades de Pointes typically involves addressing the underlying cause, such as correcting electrolyte imbalances or reviewing medications that may prolong the QT interval. Immediate interventions may include intravenous magnesium sulfate, which is effective in terminating TdP and stabilizing cardiac rhythm. In some cases, overdrive pacing may be employed to restore normal heart rhythm. For individuals with recurrent TdP, implantable cardioverter-defibrillators (ICDs) or medications like beta-blockers may be indicated as long-term management strategies."
+  },
+  "fa": {
+    "description": "تورساد د پوینتس (TdP) یک نوع تاکی‌کاردی بطنی چند شکلی است که با ضربان قلب سریع و نامنظم مشخص می‌شود و می‌تواند منجر به غش یا ایست قلبی شود. این وضعیت معمولاً با طولانی شدن فاصله QT در الکتروکاردیوگرام (ECG) همراه است و ممکن است به دلیل داروهای خاص، عدم تعادل الکترولیت‌ها یا سندرم‌های ارثی طولانی شدن QT رخ دهد. شناسایی و درمان سریع این وضعیت برای پیشگیری از نتایج بالقوه مرگبار حیاتی است.",
+    "symptoms": [
+      {
+        "symptom": "ضربان قلب سریع",
+        "description": "بیماران ممکن است احساس کنند که قلبشان به سرعت و به صورت نامنظم می‌زند."
+      },
+      {
+        "symptom": "سرگیجه یا سبک‌سری",
+        "description": "احساس ناامنی یا ناپایداری، به ویژه هنگام ایستادن یا در حین فعالیت بدنی."
+      },
+      {
+        "symptom": "غش (سنکوپ)",
+        "description": "از دست دادن هوشیاری به دلیل کاهش جریان خون به مغز، که معمولاً ناشی از آریتمی است."
+      },
+      {
+        "symptom": "تنگی نفس",
+        "description": "بیماران ممکن است احساس کنند که تنفس دشوار است یا نیاز به تلاش بیشتری برای نفس کشیدن دارند."
+      },
+      {
+        "symptom": "درد قفسه سینه",
+        "description": "برخی از افراد ممکن است از ناراحتی یا درد در ناحیه قفسه سینه شکایت کنند، که می‌تواند نشان‌دهنده ایسکمی میوکارد باشد."
+      }
+    ],
+    "treatments": "درمان تورساد د پوینتس معمولاً شامل پرداختن به علت زمینه‌ای مانند تنظیم عدم تعادل‌های الکترولیتی یا بررسی داروهایی است که ممکن است فاصله QT را طولانی کنند. مداخلات فوری ممکن است شامل سولفات منیزیم داخل وریدی باشد که در خاتمه TdP و تثبیت ریتم قلبی موثر است. در برخی موارد، تحریک قلبی با سرعت بالا ممکن است برای بازگرداندن ریتم طبیعی قلب استفاده شود. برای افرادی که TdP مکرر دارند، ممکن است اینترنال کوردیورتر-دفبریکتور (ICD) یا داروهایی مانند بتا بلاکرها به عنوان استراتژی‌های مدیریت طولانی‌مدت نشان داده شوند."
+  }
+}

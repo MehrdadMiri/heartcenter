@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Tenecteplase is a recombinant tissue plasminogen activator (rtPA) used primarily for the treatment of acute myocardial infarction (heart attack). It works by dissolving blood clots that obstruct blood flow to the heart, thereby restoring perfusion and preventing further myocardial damage. Administered as a single bolus injection, Tenecteplase is distinguished from other thrombolytics by its extended half-life and greater fibrin specificity, making it a preferred option in many clinical scenarios.",
+    "uses": "The main use of Tenecteplase is for patients experiencing ST-elevation myocardial infarction (STEMI), where timely dissolution of thrombi is critical. It may also be utilized in cases where traditional thrombolytic therapies are indicated but the patient cannot receive alteplase. In addition, Tenecteplase has shown potential in off-label uses for pulmonary embolism and acute ischemic stroke, highlighting its versatility in emergency medical situations.\n\nFurthermore, Tenecteplase may be considered in scenarios where rapid revascularization of occluded arteries is required. Its ease of administration makes it suitable for use in pre-hospital settings, allowing for quicker intervention in acute cases of myocardial infarction, leading to better patient outcomes.",
+    "side effects": [
+      "Bleeding: Increased risk of bleeding complications, including intracranial hemorrhage, gastrointestinal bleeding, and other sites.",
+      "Allergic Reactions: Possible allergic reactions, which may manifest as rash, itching, or anaphylaxis in rare cases.",
+      "Hypotension: Sudden drops in blood pressure may occur, particularly with rapid administration.",
+      "Arrhythmias: Risk of heart rhythm disturbances, including premature ventricular contractions or more severe arrhythmias.",
+      "Nausea and Vomiting: Some patients may experience gastrointestinal discomfort, leading to nausea and occasionally vomiting."
+    ]
+  },
+  "fa": {
+    "description": "تنکتپلاز یک فعال‌کننده پروتئین بافتی ترومبوپلاستین (rtPA) ساخته شده به صورت تجدیدشده است که عمدتاً برای درمان احتشاء میوکارد حاد (حمله قلبی) استفاده می‌شود. این دارو با حل کردن لخته‌های خونی که جریان خون به قلب را مسدود می‌کنند، به احیای خون‌رسانی و جلوگیری از آسیب بیشتر به میوکارد کمک می‌کند. تنکتپلاز به عنوان یک تزریق بولوس واحد تجویز می‌شود و به دلیل نیمه عمر طولانی و ویژگی‌های خاص خود در نسبت به فیبرین، گزینه ترجیحی در بسیاری از سناریوهای بالینی است.",
+    "uses": "استفاده اصلی از تنکتپلاز برای بیمارانی است که دچار احتشاء میوکارد STEMI هستند، جایی که حل سریع لخته‌ها حیاتی است. این دارو همچنین در مواردی که درمان‌های ترومبولیتیک سنتی لازم است اما بیمار نمی‌تواند آلتپلاز دریافت کند، ممکن است مورد استفاده قرار گیرد. علاوه بر این، تنکتپلاز پتانسیل‌هایی برای استفاده خارج از برچسب در موارد آمبولی ریه و سکته ایسکمیک حاد نشان داده است، که نشان‌دهنده تنوع آن در وضعیت‌های اضطراری پزشکی می‌باشد.\n\nعلاوه بر این، تنکتپلاز ممکن است در سناریوهایی در نظر گرفته شود که نیاز به بازپروری سریع عروق مسدود شده است. سهولت در تجویز این دارو آن را برای استفاده در تنظیمات پیش بیمارستانی مناسب می‌سازد و به مداخله سریع در موارد حاد احتشاء میوکارد کمک می‌کند که منجر به نتایج بهتری برای بیماران می‌گردد.",
+    "side effects": [
+      "خونریزی: افزایش خطر عوارض خونریزی، از جمله هموراژی داخل جمجمه، خونریزی‌های دستگاه گوارش و سایر محل‌ها.",
+      "واکنش‌های آلرژیک: امکان بروز واکنش‌های آلرژیک، که ممکن است با جوش، خارش یا آنافیلاکسی در موارد نادر ظاهر شوند.",
+      "هیپوتنشن: کاهش ناگهانی فشار خون ممکن است رخ دهد، به خصوص با تجویز سریع.",
+      "آریتمی: خطر اختلالات ریتم قلب، از جمله انقباضات زودرس بطنی یا آریتمی‌های شدیدتر.",
+      "تهوع و استفراغ: برخی از بیماران ممکن است دچار ناراحتی‌های گوارشی شوند که منجر به تهوع و گاهی اوقات استفراغ می‌شود."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Captopril is an angiotensin-converting enzyme (ACE) inhibitor primarily used to treat high blood pressure (hypertension) and heart failure. It works by relaxing blood vessels, allowing blood to flow more easily, which decreases blood pressure and reduces the workload on the heart. Captopril may also be used in patients with kidney disease or to improve survival after a heart attack.",
+    
+    "uses": "Captopril is commonly prescribed for managing hypertension, helping to prevent strokes, heart attacks, and kidney problems. It is also useful in the treatment of congestive heart failure and may be prescribed to improve symptoms in heart failure patients. Additionally, Captopril can be beneficial in diabetic patients by providing kidney protection and preventing progression of diabetic nephropathy.\n\nIn certain cases, Captopril is used to treat left ventricular dysfunction following a myocardial infarction, as well as being a part of therapy in the management of hypertension in patients with specific health conditions such as diabetic nephropathy or heart failure, thus improving overall cardiovascular health.",
+    
+    "side effects": [
+      "Cough: A persistent dry cough due to increased bradykinin levels.",
+      "Elevated potassium levels: Can lead to hyperkalemia, which may cause heart rhythm issues.",
+      "Low blood pressure: May result in symptoms like dizziness or fainting, especially after the first dose.",
+      "Rash: Some patients may experience skin reactions or rashes.",
+      "Angioedema: Rare but serious swelling of the face, lips, and throat can occur, requiring immediate medical attention.",
+      "Kidney dysfunction: Changes in kidney function tests may happen, necessitating regular monitoring."
+    ]
+  },
+  "fa": {
+    "description": "کاپتوپریل یک مهارکننده آنزیم مبدل آنژیوتانسین (ACE) است که به طور عمده برای درمان فشار خون بالا و نارسایی قلبی استفاده می‌شود. این دارو با شل کردن عروق خونی کار می‌کند و اجازه می‌دهد خون راحت‌تر جریان یابد، که باعث کاهش فشار خون و کاهش بار کاری قلب می‌شود. کاپتوپریل همچنین ممکن است در بیماران مبتلا به بیماری کلیه یا بهبود بقاء پس از حمله قلبی استفاده شود.",
+    
+    "uses": "کاپتوپریل به طور معمول برای مدیریت فشار خون بالا تجویز می‌شود و به پیشگیری از سکته مغزی، حمله قلبی و مشکلات کلیوی کمک می‌کند. همچنین در درمان نارسایی قلبی مفید است و ممکن است برای بهبود علائم در بیماران نارسایی قلبی تجویز شود. علاوه بر این، کاپتوپریل می‌تواند برای بیماران دیابتی مفید باشد و از محافظت کلیوی و پیشگیری از پیشرفت نفروپاتی دیابتی حمایت کند.\n\nدر برخی موارد، کاپتوپریل برای درمان اختلال عملکرد بطن چپ پس از یک انفارکتوس میوکارد استفاده می‌شود و همچنین به عنوان بخشی از درمان در مدیریت فشار خون بالا در بیماران با شرایط خاص بهداشتی مانند نفروپاتی دیابتی یا نارسایی قلبی تجویز می‌شود که به بهبود سلامت قلبی عروقی کمک می‌کند.",
+    
+    "side effects": [
+      "سرفه: سرفه خشك مداوم به علت افزایش سطح برادی کینین.",
+      "افزایش سطح پتاسیم: ممکن است منجر به هایپرکالمی شود که می‌تواند باعث مشکلات ریتم قلبی شود.",
+      "فشار خون پایین: ممکن است باعث بروز علائمی مانند سرگیجه یا غش به‌ویژه پس از دوز اول شود.",
+      "کهیر: برخی از بیماران ممکن است دچار واکنش‌های پوستی یا کهیر شوند.",
+      "آنگیوادما: ورم نادر اما جدی صورت، لب‌ها و گلو می‌تواند رخ دهد و نیاز به توجه پزشکی فوری دارد.",
+      "نقص عملکرد کلیه: تغییرات در آزمایش‌های عملکرد کلیه ممکن است اتفاق بیفتد و نیاز به مانیتورینگ منظم دارید."
+    ]
+  }
+}

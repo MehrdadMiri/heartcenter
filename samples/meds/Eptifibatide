@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Eptifibatide is a glycoprotein IIb/IIIa inhibitor used primarily in the management of acute coronary syndrome (ACS) and during percutaneous coronary interventions (PCI). It works by blocking the aggregation of platelets, thereby preventing blood clots from forming, which helps to reduce the risk of heart attacks and improve blood flow during cardiac procedures. Eptifibatide is typically administered intravenously in a hospital setting under the supervision of healthcare professionals.",
+    
+    "uses": "Eptifibatide is commonly used in patients with unstable angina and non-ST elevation myocardial infarction (NSTEMI) to prevent thrombus formation. It is also employed during PCI procedures, such as angioplasty or stenting, to minimize the risk of complications associated with clot formation. Additionally, its use extends to high-risk patients undergoing coronary artery bypass grafting to enhance safety and outcomes.",
+    
+    "side effects": [
+      "Bleeding: This is the most common side effect and can range from minor bruising to serious hemorrhage.",
+      "Thrombocytopenia: A decrease in platelet count can occur, increasing the risk of bleeding.",
+      "Hypotension: Some patients may experience low blood pressure, which can lead to dizziness or fainting.",
+      "Anaphylactic reactions: Though rare, severe allergic reactions can occur, requiring immediate medical attention.",
+      "Increased risk of stroke: There is a small risk of ischemic or hemorrhagic stroke associated with antiplatelet therapy."
+    ]
+  },
+  "fa": {
+    "description": "اپتیفیباتید یک مهارکننده گلیکوپروتئین IIb/IIIa است که عمدتاً در مدیریت سندرم قلبی حاد (ACS) و در طول مداخلات عروقی عروق کرونر (PCI) استفاده می‌شود. این دارو با مسدود کردن تجمیع پلاکت‌ها، از تشکیل لخته‌های خونی جلوگیری کرده و به این ترتیب خطر حملات قلبی را کاهش می‌دهد و جریان خون را در حین اقدامات قلبی بهبود می‌بخشد. اپتیفیباتید معمولاً به‌صورت داخل وریدی در محیط بیمارستانی و تحت نظر حرفه‌ای‌های بهداشتی تجویز می‌شود.",
+    
+    "uses": "اپتیفیباتید به‌طور رایج در بیمارانی که دچار آنژین ناپایدار و انفارکتوس میوکارد غیر-ST بالا (NSTEMI) هستند، برای پیشگیری از تشکیل لخته خون استفاده می‌شود. همچنین در طول اقدامات PCI، مانند آنژیوپلاستی یا استنت‌گذاری برای کاهش خطر عوارض مرتبط با تشکیل لخته به کار می‌رود. علاوه بر این، استفاده از آن در بیماران با ریسک بالا که تحت عمل جراحی بای‌پس عروق کرونر قرار می‌گیرند، برای افزایش ایمنی و نتایج آن انجام می‌شود.",
+    
+    "side effects": [
+      "خونریزی: این شایع‌ترین عارضه جانبی است و می‌تواند از کبودی‌های جزئی تا همروزری شدید متغیر باشد.",
+      "ترومبocytopenia: کاهش تعداد پلاکت‌ها ممکن است رخ دهد که خطر خونریزی را افزایش می‌دهد.",
+      "فشار خون پایین: برخی بیماران ممکن است دچار فشار خون پایین شوند که می‌تواند منجر به سرگیجه یا غش شود.",
+      "واکنش‌های آنaphylactic: اگرچه نادر است، اما واکنش‌های آلرژیک شدید ممکن است رخ دهد که نیاز به توجه فوری درمانی دارد.",
+      "افزایش خطر سکته مغزی: خطر کمی از سکته مغزی ایسکمیک یا هموراژیک مرتبط با درمان ضد پلاکتی وجود دارد."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Aortic stenosis is a condition characterized by the narrowing of the aortic valve opening, which hinders blood flow from the heart to the rest of the body. This can lead to increased pressure in the heart's left ventricle, resulting in a range of symptoms such as chest pain, fatigue, and shortness of breath. Aortic stenosis is often caused by age-related calcification of the valve or congenital heart defects and can progressively worsen over time, necessitating medical intervention.",
+    "symptoms": [
+      "Chest Pain: This occurs during physical activity or exertion due to insufficient blood flow to the heart muscle.",
+      "Shortness of Breath: Patients may experience difficulty breathing, especially during activities or while lying flat, as the heart struggles to pump blood effectively.",
+      "Fatigue: Patients often feel unusually tired or weak, particularly after exertion, as the body receives less oxygen-rich blood.",
+      "Heart Murmurs: A distinct whooshing or clicking sound may be heard during a physical examination, indicative of turbulent blood flow across the narrowed valve.",
+      "Dizziness or Fainting: Some individuals may feel lightheaded or may faint during exertion, a sign that their heart is not pumping enough blood to meet the demands of the body."
+    ],
+    "treatments": "The primary treatment for aortic stenosis is surgical intervention, most commonly aortic valve replacement. This procedure can be performed either through traditional open-heart surgery or via minimally invasive techniques such as transcatheter aortic valve replacement (TAVR). Medications may also be prescribed to manage symptoms, such as diuretics to reduce fluid retention and beta-blockers to control heart rate and blood pressure. Patients are advised to monitor their symptoms closely and maintain regular follow-ups with their cardiologist. Lifestyle modifications, such as a heart-healthy diet, regular exercise as tolerated, and cessation of smoking, may also play an essential role in managing the condition."
+  },
+  "fa": {
+    "description": "تنگی دریچه آئورت حالتی است که با باریک شدن دریچه آئورت مشخص می‌شود و جریان خون را از قلب به بقیه بدن مختل می‌کند. این وضعیت می‌تواند به افزایش فشار در بطن چپ قلب منجر شود و باعث ایجاد طیف وسیعی از علائم مانند درد قفسه سینه، خستگی و تنگی نفس گردد. تنگی آئورت معمولاً ناشی از رسوب کلسیم در دریچه به علت بالا رفتن سن یا نقص‌های قلبی مادرزادی است و می‌تواند به تدریج بدتر شود و نیاز به مداخله پزشکی داشته باشد.",
+    "symptoms": [
+      "درد قفسه سینه: این درد در حین فعالیت بدنی یا فشار در قلب به دلایلی که به اندازه کافی خون به میوکارد نمی‌رسد، رخ می‌دهد.",
+      "تنگی نفس: بیماران ممکن است در حین انجام فعالیت‌ها یا در حالت خواب دچار مشکل تنفس شوند، زیرا قلب به سختی می‌تواند خون را به خوبی پمپاژ کند.",
+      "خستگی: بیماران اغلب احساس خستگی یا ضعف غیرمعمولی دارند، به ویژه بعد از فعالیت، زیرا بدن خون غنی از اکسیژن کمتری دریافت می‌کند.",
+      "وزوز قلب: صدای مشخصی به صورت وزوز یا کلیک در حین معاینه فیزیکی قابل شنیدن است که نشان‌دهنده جریان خون تلاطم در دریچه باریک‌شده است.",
+      "سرگیجه یا غش: برخی از افراد ممکن است هنگام فعالیت، احساس سبکی سر کنند یا غش کنند که نشانه‌ای از نارسایی پمپاژ خون به نیازهای بدن است."
+    ],
+    "treatments": "درمان اصلی برای تنگی آئورت مداخله جراحی است که معمولاً شامل تعویض دریچه آئورت می‌باشد. این عمل می‌تواند از طریق جراحی باز قلب یا تکنیک‌های کم تهاجمی مانند تعویض دریچه آئورت از طریق کاتتر (TAVR) انجام شود. همچنین ممکن است داروهایی برای مدیریت علائم تجویز شود، مانند داروهای مدر برای کاهش احتباس مایع و بتابلاکرها برای کنترل ضربان قلب و فشار خون. از بیماران خواسته می‌شود تا علائم خود را به دقت زیر نظر داشته باشند و پیگیری‌های منظم با متخصص قلب خود داشته باشند. تغییرات سبک زندگی، مانند یک رژیم غذایی سالم برای قلب، ورزش منظم بر اساس تحمل و ترک سیگار نیز می‌تواند نقش مهمی در مدیریت این بیماری ایفا کند."
+  }
+}

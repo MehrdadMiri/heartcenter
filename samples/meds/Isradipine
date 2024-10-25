@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Isradipine is a calcium channel blocker primarily used to treat hypertension (high blood pressure) and angina (chest pain). By inhibiting the influx of calcium ions into vascular smooth muscle and cardiac muscle, Isradipine causes vasodilation, thereby reducing peripheral resistance and lowering blood pressure. This medication is beneficial in managing chronic cases of hypertension and helps to improve heart function in patients with certain cardiac conditions.",
+    
+    "uses": "Isradipine is commonly used in the management of high blood pressure, allowing for better control of blood pressure levels and reducing the risk of cardiovascular events such as heart attacks and strokes. Additionally, it is used to relieve symptoms associated with angina, providing patients with a more stable and comfortable condition during exertion or stress. It may also be prescribed for other conditions related to blood flow and heart function.",
+    
+    "side effects": [
+      "Dizziness: A common side effect that can occur due to lowered blood pressure.",
+      "Headache: Some patients may experience headaches as a result of medication adjustments.",
+      "Flushing: Patients may notice a feeling of warmth or flushed skin due to vasodilation.",
+      "Peripheral edema: Swelling in the lower extremities may occur due to fluid retention.",
+      "Nausea: Some individuals may experience gastrointestinal discomfort."
+    ]
+  },
+  "fa": {
+    "description": "ایزردیپین یک مسدودکننده کانال کلسیم است که عمدتاً برای درمان فشار خون بالا و آنژین (درد قفسه سینه) استفاده می‌شود. با جلوگیری از ورود کلسیم به عضلات صاف عروقی و عضلات قلبی، ایزردیپین باعث گشاد شدن عروق می‌شود، که به نوبه خود مقاومت محیطی را کاهش و فشار خون را پایین می‌آورد. این دارو در مدیریت موارد مزمن فشار خون بالا مفید است و به بهبود عملکرد قلب در بیماران با شرایط خاص قلبی کمک می‌کند.",
+    
+    "uses": "ایزردیپین معمولاً برای مدیریت فشار خون بالا استفاده می‌شود و کنترل بهتر سطوح فشار خون و کاهش خطر حوادث قلبی و عروقی مانند حملات قلبی و سکته‌های مغزی را فراهم می‌آورد. علاوه بر این، برای تسکین علائم مرتبط با آنژین تجویز می‌شود و به بیماران در ارائه شرایط پایدارتر و راحت‌تر در هنگام فعالیت یا استرس کمک می‌کند. ممکن است برای شرایط دیگر مربوط به جریان خون و عملکرد قلب نیز تجویز شود.",
+    
+    "side effects": [
+      "سرگیجه: یک عارضه جانبی شایع که ممکن است به دلیل کاهش فشار خون باشد.",
+      "سردرد: برخی بیماران ممکن است به عنوان نتیجه تغییرات در دارو، سردرد را تجربه کنند.",
+      "گرگرفتگی: بیماران ممکن است احساس گرما یا پوست گرم شده را به دلیل گشاد شدن عروق درک کنند.",
+      "ادم محیطی: تورم در اندام‌های تحتانی ممکن است به دلیل احتباس مایع رخ دهد.",
+      "تهوع: برخی افراد ممکن است ناراحتی گوارشی را تجربه کنند."
+    ]
+  }
+}

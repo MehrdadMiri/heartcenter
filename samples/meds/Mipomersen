@@ -1,0 +1,26 @@
+```json
+{
+  "en": {
+    "description": "Mipomersen is an injectable medication used to lower cholesterol levels in patients with familial hypercholesterolemia, a genetic disorder that causes extremely high levels of cholesterol in the blood. It works by inhibiting the synthesis of apolipoprotein B, a component of lipoproteins that contribute to the buildup of cholesterol in blood vessels. Mipomersen is typically used in conjunction with other cholesterol-lowering treatments and dietary modifications to reduce the risks of cardiovascular disease and related complications.",
+    "uses": "Mipomersen is primarily used for the treatment of homozygous familial hypercholesterolemia (HoFH), a rare genetic condition that leads to dangerously high cholesterol levels. It is prescribed when patients have not achieved adequate control of their cholesterol levels through standard therapies, such as statins or other lipid-lowering medications. Additionally, mipomersen may be used alongside lifestyle changes, like diet and exercise, to enhance overall cholesterol management.\n\nThe medication can also be beneficial for patients at high risk of cardiovascular events due to elevated cholesterol levels, helping to decrease the incidence of heart attacks and strokes by lowering low-density lipoprotein (LDL) cholesterol levels significantly. Regular monitoring of lipid levels is essential for assessing the effectiveness of mipomersen and adjusting treatment as needed.",
+    "side effects": [
+      "Injection site reactions - Pain, redness, or swelling at the site of injection can occur.",
+      "Flu-like symptoms - Patients may experience symptoms such as fever, chills, fatigue, and muscle aches.",
+      "Elevated liver enzymes - Mipomersen may cause an increase in liver enzymes, which requires monitoring.",
+      "Nausea - Some users report feelings of nausea after administration.",
+      "Headache - Headache is a common side effect associated with the use of mipomersen."
+    ]
+  },
+  "fa": {
+    "description": "میپوپرسن یک داروی قابل تزریق است که برای کاهش سطح کلسترول در بیماران مبتلا به هایپرکلسترولمی خانوادگی، یک اختلال ژنتیکی که سبب سطح بسیار بالای کلسترول در خون می‌شود، استفاده می‌شود. این دارو با مهار سنتز آپوپروتئین B، یک جزء از لیپوپروتئین‌ها که در تجمع کلسترول در عروق خونی نقش دارند، عمل می‌کند. میپوپرسن معمولاً به همراه سایر درمان‌های کاهش‌دهنده کلسترول و تغییرات رژیم غذایی برای کاهش خطر بیماری‌های قلبی و عوارض مرتبط استفاده می‌شود.",
+    "uses": "میپوپرسن عمدتاً برای درمان هایپرکلسترولمی خانوادگی هوموزیگوتی (HoFH) که یک بیماری ژنتیکی نادر است و منجر به سطح کلسترول خطرناک می‌شود، استفاده می‌شود. این دارو زمانی تجویز می‌شود که بیماران نتوانسته‌اند کنترل کافی بر روی سطح کلسترول خود از طریق درمان‌های استاندارد مانند استاتین‌ها یا سایر داروهای کاهش‌دهنده لیپید به دست آورند. علاوه بر این، میپوپرسن ممکن است در کنار تغییرات سبک زندگی مانند رژیم غذایی و ورزش برای بهبود مدیریت کلی کلسترول مفید باشد.\n\nاین دارو همچنین می‌تواند برای بیمارانی که در معرض خطر بالای حوادث قلبی عروقی به دلیل سطح کلسترول بالا هستند، مفید باشد و با کاهش سطح کلسترول کم‌چگال (LDL) به طور قابل توجهی، بروز حملات قلبی و سکته‌ها را کاهش دهد. نظارت منظم بر سطح لیپیدها برای ارزیابی اثربخشی میپوپرسن و تنظیم درمان به محض نیاز ضروری است.",
+    "side effects": [
+      "واکنش‌های محل تزریق - ممکن است درد، قرمزی یا ورم در محل تزریق ایجاد شود.",
+      "علائم شبیه آنفلوآنزا - بیماران ممکن است علائمی مانند تب، لرز، خستگی و درد عضلانی را تجربه کنند.",
+      "افزایش آنزیم‌های کبدی - میپوپرسن ممکن است منجر به افزایش آنزیم‌های کبدی شود که نیاز به نظارت دارد.",
+      "تهوع - برخی از کاربران پس از تزریق احساس تهوع می‌کنند.",
+      "سردرد - سردرد یک عارضه جانبی شایع مرتبط با استفاده از میپوپرسن است."
+    ]
+  }
+}
+```

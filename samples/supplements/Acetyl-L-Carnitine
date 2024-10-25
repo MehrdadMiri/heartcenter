@@ -1,1 +1,44 @@
-{"fa": {"Name": "\u0627\u0633\u062a\u06cc\u0644 \u0627\u0644 \u06a9\u0627\u0631\u0646\u06cc\u062a\u06cc\u0646", "Description": "\u0627\u0633\u062a\u06cc\u0644 \u0627\u0644 \u06a9\u0627\u0631\u0646\u06cc\u062a\u06cc\u0646 \u06cc\u06a9 \u0627\u0633\u06cc\u062f \u0622\u0645\u06cc\u0646\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0647 \u062a\u0648\u0644\u06cc\u062f \u0627\u0646\u0631\u0698\u06cc \u062f\u0631 \u0628\u062f\u0646 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u0633\u0644\u0627\u0645\u062a \u0642\u0644\u0628 \u0645\u0641\u06cc\u062f \u0628\u0627\u0634\u062f. \u0627\u06cc\u0646 \u062a\u0631\u06a9\u06cc\u0628 \u062f\u0631 \u062a\u0628\u062f\u06cc\u0644 \u0686\u0631\u0628\u06cc \u0628\u0647 \u0627\u0646\u0631\u0698\u06cc \u0645\u0648\u062b\u0631 \u0627\u0633\u062a \u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0628\u0647\u0628\u0648\u062f \u06a9\u0627\u0631\u06a9\u0631\u062f \u0642\u0644\u0628 \u0648 \u0639\u0645\u0644\u06a9\u0631\u062f \u0648\u0631\u0632\u0634\u06cc \u06a9\u0645\u06a9 \u06a9\u0646\u062f.", "Benefits": "\u0627\u0633\u062a\u06cc\u0644 \u0627\u0644 \u06a9\u0627\u0631\u0646\u06cc\u062a\u06cc\u0646 \u0628\u0631\u0627\u06cc \u0628\u0647\u0628\u0648\u062f \u0639\u0645\u0644\u06a9\u0631\u062f \u0642\u0644\u0628\u06cc \u0645\u0624\u062b\u0631 \u0627\u0633\u062a \u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0637\u062d \u0627\u0646\u0631\u0698\u06cc \u0631\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0647\u062f. \u0627\u06cc\u0646 \u0645\u0627\u062f\u0647 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0628\u0647 \u06a9\u0627\u0647\u0634 \u0639\u0644\u0627\u0626\u0645 \u0622\u0646\u0698\u06cc\u0646 \u06a9\u0645\u06a9 \u06a9\u0631\u062f\u0647 \u0648 \u0627\u062b\u0631\u0627\u062a \u0622\u0646\u062a\u06cc\u200c\u0627\u06a9\u0633\u06cc\u062f\u0627\u0646\u06cc \u062f\u0627\u0631\u062f \u06a9\u0647 \u0628\u0647 \u0645\u062d\u0627\u0641\u0638\u062a \u0627\u0632 \u0633\u0644\u0648\u0644\u200c\u0647\u0627\u06cc \u0628\u062f\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0622\u0633\u06cc\u0628\u200c\u0647\u0627\u06cc \u0627\u06a9\u0633\u06cc\u062f\u0627\u062a\u06cc\u0648 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f.", "Side effects": "\u0639\u0648\u0627\u0631\u0636 \u062c\u0627\u0646\u0628\u06cc \u0645\u0645\u06a9\u0646 \u0634\u0627\u0645\u0644 \u062d\u0627\u0644\u062a \u062a\u0647\u0648\u0639\u060c \u0627\u0633\u062a\u0641\u0631\u0627\u063a\u060c \u0628\u06cc\u200c\u0642\u0631\u0627\u0631\u06cc \u0648 \u0628\u0648\u06cc \u0645\u0627\u0647\u06cc \u062f\u0631 \u062a\u0646\u0641\u0633 \u0648 \u0639\u0631\u0642 \u0645\u06cc\u200c\u0628\u0627\u0634\u062f."}, "en": {"Name": "Acetyl-L-Carnitine", "Description": "Acetyl-L-Carnitine is an amino acid that supports energy production and may benefit heart health. This compound is effective in converting fat into energy and can assist in improving cardiac function and athletic performance.", "Benefits": "Acetyl-L-Carnitine is effective for improving cardiac function and enhancing energy levels. It may also help reduce angina symptoms and provides antioxidant effects that help protect the body's cells from oxidative damage.", "Side effects": "Possible side effects include nausea, vomiting, restlessness, and a fishy odor in breath and sweat."}}
+```json
+{
+  "en": {
+    "description": "Acetyl-L-Carnitine (ALCAR) is a naturally occurring compound derived from the amino acid L-carnitine, which plays a crucial role in the metabolism of fatty acids and is vital for energy production within cells. It is known for its ability to enhance cognitive function, improve mood, and support physical performance by facilitating the transport of fatty acids into the mitochondria, the powerhouse of the cell. Additionally, ALCAR has neuroprotective properties that may help in the management of age-related cognitive decline and certain neurological disorders.",
+    "benefits": [
+      "Enhances cognitive function and memory",
+      "Improves mood and reduces symptoms of depression",
+      "Increases energy production in cells",
+      "Supports physical performance and recovery",
+      "Exhibits neuroprotective effects, potentially benefiting neurological health",
+      "May assist in weight management by promoting fat metabolism"
+    ],
+    "side effects": [
+      "Nausea",
+      "Stomach upset",
+      "Loss of appetite",
+      "Diarrhea",
+      "Abdominal cramps",
+      "Insomnia",
+      "Headache"
+    ]
+  },
+  "fa": {
+    "description": "استیل ال-کارنیتین (ALCAR) یک ترکیب طبیعی است که از آمینو اسید ال-کارنیتین مشتق می‌شود و نقش حیاتی در متابولیسم اسیدهای چرب و تولید انرژی در سلول‌ها دارد. این ماده به توانایی خود در بهبود عملکرد شناختی، افزایش روحیه و حمایت از عملکرد بدنی معروف است، زیرا انتقال اسیدهای چرب به میتوکندری، که منبع انرژی سلول‌هاست، را تسهیل می‌کند. بعلاوه، استیل ال-کارنیتین خواص محافظت عصبی دارد که ممکن است به مدیریت زوال شناختی مرتبط با سن و برخی اختلالات عصبی کمک کند.",
+    "benefits": [
+      "بهبود عملکرد شناختی و حافظه",
+      "افزایش روحیه و کاهش علائم افسردگی",
+      "افزایش تولید انرژی در سلول‌ها",
+      "حمایت از عملکرد بدنی و بهبودی",
+      "نشان‌دهنده خواص محافظتی عصبی، که ممکن است به سلامت عصبی کمک کند",
+      "ممکن است در مدیریت وزن با افزایش متابولیسم چربی کمک کند"
+    ],
+    "side effects": [
+      "تهوع",
+      "اختلال در معده",
+      "کاهش اشتها",
+      "اسهال",
+      "گرفتگی شکم",
+      "بی‌خوابی",
+      "سردرد"
+    ]
+  }
+}
+```

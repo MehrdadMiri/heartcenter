@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Methyldopa is an antihypertensive medication primarily used to treat high blood pressure. It functions as a centrally acting alpha-2 adrenergic agonist, which results in decreased peripheral resistance, heart rate, and blood pressure. Methyldopa is often prescribed during pregnancy as it has a good safety profile for both the mother and the developing fetus. It is usually taken orally and can be used alone or in combination with other antihypertensive drugs.",
+    "uses": "Methyldopa is mainly used to treat hypertension, especially in pregnant women where other antihypertensives may not be safe. It is also employed in cases of resistant hypertension where multiple drugs fail to achieve adequate blood pressure control. In some instances, it may be utilized off-label for managing anxiety due to its sedative properties and impact on the nervous system.",
+    "side effects": [
+      "Drowsiness: May cause sleepiness or sedation, affecting the ability to perform tasks that require alertness.",
+      "Dry mouth: A common side effect that can lead to discomfort and a higher risk of dental issues.",
+      "Weakness: Some patients may experience general weakness or fatigue.",
+      "Bradycardia: It may cause a slower than normal heart rate, which can be concerning in some individuals.",
+      "Hepatotoxicity: Rare instances of liver dysfunction may occur, necessitating monitoring of liver enzymes during treatment."
+    ]
+  },
+  "fa": {
+    "description": "متیل دوپا یک داروی ضد فشار خون است که عمدتاً برای درمان فشار خون بالا استفاده می‌شود. این دارو به عنوان یک آگونیست آلفا-۲ آدرنرژیک عمل می‌کند و باعث کاهش مقاومت محیطی، ضربان قلب و فشار خون می‌شود. متیل دوپا اغلب در دوران بارداری تجویز می‌شود زیرا ایمنی خوبی برای مادر و جنین در حال رشد دارد. این دارو معمولاً به صورت خوراکی مصرف می‌شود و می‌تواند به تنهایی یا در ترکیب با سایر داروهای ضد فشار خون استفاده شود.",
+    "uses": "متیل دوپا عمدتاً برای درمان فشار خون بالا، به ویژه در زنان باردار استفاده می‌شود که در آن سایر داروهای ضد فشار خون ممکن است ایمن نباشند. این دارو همچنین در موارد فشار خون مقاوم که چندین دارو قادر به کنترل مناسب فشار خون نیستند، به کار می‌رود. در برخی موارد، ممکن است به صورت غیررسمی برای مدیریت اضطراب به دلیل خصوصیات آرام‌بخش و تاثیر بر سیستم عصبی استفاده شود.",
+    "side effects": [
+      "خواب آلودگی: ممکن است باعث خواب آلودگی یا آرام‌بخشی شود که بر توانایی انجام کارهایی که نیاز به هوشیاری دارند تاثیر می‌گذارد.",
+      "خشکی دهان: یک اثر جانبی شایع که می‌تواند منجر به ناراحتی و افزایش خطر مشکلات دندانی شود.",
+      "ضعف: برخی بیماران ممکن است احساس ضعف عمومی یا خستگی را تجربه کنند.",
+      "برادیکاردی: ممکن است باعث کاهش ضربان قلب شود که در برخی افراد نگران‌کننده است.",
+      "هپاتوتوکسیستی: موارد نادری از اختلالات کبدی ممکن است وقوع یابد و نیاز به نظارت بر آنزیم‌های کبدی در طول درمان باشد."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Unstable angina is a critical and potentially life-threatening condition characterized by unexpected chest pain or discomfort, which may occur at rest or with minimal physical exertion. It is often caused by the rupture of an atherosclerotic plaque in the coronary arteries, leading to a temporary reduction of blood flow to the heart muscle. Unlike stable angina, which typically follows a predictable pattern, unstable angina may last longer, occur more frequently, and can signal an imminent heart attack, necessitating immediate medical attention.",
+    "symptoms": [
+      "Chest Pain: A feeling of tightness or pressure in the chest that may last longer than usual or occur unexpectedly.",
+      "Radiating Pain: Discomfort that spreads to the arms, shoulders, neck, jaw, or back.",
+      "Shortness of Breath: Difficulty breathing or shortness of breath during rest or mild activity.",
+      "Sweating: Profuse sweating, often cold and clammy, usually accompanies episodes of chest pain.",
+      "Nausea: Feeling nauseous or lightheaded, especially during episodes of chest discomfort."
+    ],
+    "treatments": "Treatment for unstable angina focuses on relieving symptoms and preventing a heart attack. Initial treatment often includes medications such as antiplatelet drugs (like aspirin), beta-blockers, statins, and nitroglycerin to manage pain and improve blood flow. In some cases, more invasive procedures may be necessary, such as coronary angioplasty and stenting or coronary artery bypass grafting (CABG) to restore blood supply to the heart. Lifestyle changes, including a heart-healthy diet, regular exercise, smoking cessation, and stress management, are also crucial for long-term management."
+  },
+  "fa": {
+    "description": "آنژین ناپایدار یک بیماری حاد و بالقوه تهدیدکننده زندگی است که با درد یا ناراحتی غیرمنتظره در قفسه سینه مشخص می‌شود که ممکن است در حالت استراحت یا با حداقل فعالیت بدنی رخ دهد. این بیماری معمولاً ناشی از پارگی پلاک آترو استخوانی در شریان‌های کرونر است که منجر به کاهش موقت جریان خون به عضله قلب می‌شود. بر خلاف آنژین پایدار که معمولاً یک الگوی قابل پیش‌بینی دارد، آنژین ناپایدار ممکن است بیشتر و طولانی‌تر رخ دهد و می‌تواند علامت یک حمله قلبی قریب‌الوقوع باشد و نیاز به توجه فوری پزشکی دارد.",
+    "symptoms": [
+      "درد قفسه سینه: احساسی از فشردگی یا فشار در قفسه سینه که ممکن است بیشتر از حد معمول طول بکشد یا به طور غیرمنتظره رخ دهد.",
+      "درد منتشر: ناراحتی که به بازوها، شانه‌ها، گردن، فک یا کمر گسترش می‌یابد.",
+      "تنفس دشوار: مشکلات تنفسی یا تنگی نفس در حالت استراحت یا فعالیت‌های ملایم.",
+      "تعریق: عرق کردن زیاد، غالباً سرد و مرطوب، معمولاً همراه با حوادث درد قفسه سینه.",
+      "تهوع: احساس تهوع یا سرگیجه، به ویژه در طول حوادث ناراحتی قفسه سینه."
+    ],
+    "treatments": "درمان آنژین ناپایدار بر تسکین علائم و پیشگیری از حمله قلبی متمرکز است. درمان اولیه معمولاً شامل داروهایی مانند داروهای ضد لخته (مانند آسپرین)، بتا-بلاکرها، استاتین‌ها و نیتروگلیسیرین برای مدیریت درد و بهبود جریان خون است. در برخی موارد، ممکن است روش‌های تهاجمی‌تری مانند آنژیوپلاستی و قرار دادن استنت یا جراحی بای‌پس عروق کرونر (CABG) برای احیای تأمین خون به قلب لازم باشد. تغییرات سبک زندگی، از جمله رژیم غذایی سالم برای قلب، ورزش منظم، ترک سیگار و مدیریت استرس نیز برای مدیریت بلندمدت حیاتی هستند."
+  }
+}

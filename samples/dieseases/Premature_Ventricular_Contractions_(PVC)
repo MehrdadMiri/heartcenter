@@ -1,0 +1,54 @@
+{
+  "en": {
+    "description": "Premature Ventricular Contractions (PVC) are early heartbeats originating in the ventricles that disrupt the normal heart rhythm. While often benign and experienced by many individuals without any underlying heart condition, PVCs can cause palpitations or a sensation of skipped heartbeats. In some cases, they may indicate an underlying heart issue, particularly if accompanied by other cardiovascular symptoms.",
+    "symptoms": [
+      {
+        "symptom": "Palpitations",
+        "description": "Individuals may feel a fluttering or pounding sensation in their chest, which can be brief and intermittent."
+      },
+      {
+        "symptom": "Skipped Heartbeat",
+        "description": "Patients often report feeling as though their heart has missed a beat, followed by a more forceful heartbeat."
+      },
+      {
+        "symptom": "Dizziness",
+        "description": "Some may experience lightheadedness or a feeling of faintness, especially when PVCs occur frequently."
+      },
+      {
+        "symptom": "Shortness of Breath",
+        "description": "In rare instances, PVCs can lead to feelings of breathlessness or anxiety."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "Patients may feel more tired than usual, partly due to increased heart workload during episodes of PVC."
+      }
+    ],
+    "treatments": "Treatment for PVCs often depends on their frequency and the patient's overall health. If PVCs are infrequent and not causing significant symptoms, treatment may not be necessary. When treatment is warranted, options include lifestyle modifications such as reducing caffeine intake, managing stress, and avoiding stimulants. In cases where PVCs are frequent and symptomatic, doctors may prescribe medications like beta-blockers or antiarrhythmics to help manage heart rhythm. For individuals with underlying heart conditions, addressing the root cause is crucial. In severe cases or when medications are ineffective, procedures like catheter ablation may be considered to eradicate the ectopic focus causing the PVCs."
+  },
+  "fa": {
+    "description": "انقباض‌های زودرس بطنی (PVC) ضربان‌های زودهنگام هستند که از بطن‌ها ناشی می‌شوند و ریتم طبیعی قلب را مختل می‌کنند. در حالی که اغلب بی‌ضرر هستند و بسیاری از افراد بدون وجود هیچ بیماری قلبی زمینه‌ای آنها را تجربه می‌کنند، PVC ها می‌توانند باعث تپش قلب یا احساسی از ضربان‌های از دست رفته شوند. در برخی موارد، آنها ممکن است نشان‌دهنده یک مشکل قلبی زمینه‌ای باشند، به ویژه اگر با دیگر علائم قلبی عروقی همراه باشند.",
+    "symptoms": [
+      {
+        "symptom": "تپش قلب",
+        "description": "افراد ممکن است حس تپش یا ضربان قوی در سینه خود احساس کنند که می‌تواند کوتاه و متناوب باشد."
+      },
+      {
+        "symptom": "ضربان از دست رفته",
+        "description": "بیماران اغلب گزارش می‌دهند که به نظر می‌رسد قلبشان یک ضربان را از دست داده است که به دنبال آن یک ضربان قوی‌تر احساس می‌شود."
+      },
+      {
+        "symptom": "سرگیجه",
+        "description": "برخی ممکن است احساس سبکی سر یا حالت بی‌حالی کرده و به ویژه زمانی که PVC ها مکرر هستند، نگران شوند."
+      },
+      {
+        "symptom": "تنگی نفس",
+        "description": "در موارد نادر، PVC ها می‌توانند باعث احساس تنگی نفس یا اضطراب شوند."
+      },
+      {
+        "symptom": "خستگی",
+        "description": "بیماران ممکن است بیش از حد معمول احساس خستگی کنند، قسمتی به دلیل افزایش کار قلب در زمان وقوع PVC."
+      }
+    ],
+    "treatments": "درمان PVC ها اغلب به فراوانی آنها و سلامت کلی بیمار بستگی دارد. اگر PVC ها نادر باشند و علائم قابل توجهی ایجاد نکنند، درمان ممکن است لازم نباشد. در صورتی که درمان ضروری باشد، گزینه‌ها شامل تغییرات سبک زندگی مانند کاهش مصرف کافئین، مدیریت استرس و اجتناب از محرک‌ها است. در مواردی که PVC ها مکرر و علامت‌دار باشند، پزشکان ممکن است داروهایی مانند بتا بلوکرها یا ضد آریتمی‌ها را برای کمک به مدیریت ریتم قلب تجویز کنند. برای افرادی با مشکلات قلبی زمینه‌ای، پرداختن به علت اصلی بسیار مهم است. در موارد شدید یا زمانی که داروها مؤثر نیستند، روش‌هایی مانند کاتتر ابلیشن ممکن است برای از بین بردن کانون اکتوپیک ایجاد کننده PVC در نظر گرفته شود."
+  }
+}

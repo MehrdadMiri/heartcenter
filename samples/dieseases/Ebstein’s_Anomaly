@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Ebstein’s Anomaly is a rare heart defect present at birth, characterized by an abnormality of the tricuspid valve and the right side of the heart. This condition leads to improper blood flow within the heart and can cause various complications such as heart failure or arrhythmias. The tricuspid valve is malformed, allowing blood to leak backward into the right atrium, which can enlarge and affect the heart's overall function. Symptoms and severity can vary widely, from mild cases that require little treatment to severe forms that necessitate surgical intervention.",
+    "symptoms": [
+      "Cyanosis: A bluish tint to the skin, lips, and nails due to poor oxygenation.",
+      "Shortness of breath: Difficulty breathing, especially during physical activity or while lying down.",
+      "Fatigue: Unusual tiredness or lack of energy, even with minimal exertion.",
+      "Heart palpitations: Noticeable irregular heartbeats, which may feel like fluttering or racing.",
+      "Chest pain: Discomfort or pain in the chest, which may be prompted by physical activity or stress.",
+      "Swelling: Accumulation of fluid leading to swelling in the legs, abdomen, or other areas due to heart failure."
+    ],
+    "treatments": "Treatment for Ebstein’s Anomaly depends on the severity of the condition and the symptoms presented. For mild cases, regular monitoring and lifestyle management may be sufficient. In more serious situations, medications such as diuretics or heart rhythm stabilizers may be prescribed to manage symptoms. Surgical options vary from repairing the malformed tricuspid valve to more complex procedures, including valve replacement or correction of associated heart defects. In severe cases, patients may require heart surgery to restore normal blood flow and heart function. Follow-up care is critical, as individuals may need ongoing assessments to address potential complications."
+  },
+  "fa": {
+    "description": "نقص مادرزادی قلب به نام آنومالی ابشتین، یک عیب نادر در قلب است که از زمان تولد وجود دارد و با ناهنجاری در دریچه سه‌لتی و سمت راست قلب مشخص می‌شود. این حالت منجر به جریان نادرست خون در داخل قلب و می‌تواند عوارض مختلفی مانند نارسایی قلبی یا آریتمی‌ها ایجاد کند. دریچه سه‌لتی به درستی شکل نگرفته و اجازه می‌دهد که خون به طور معکوس به atrium راست برگردد که می‌تواند بزرگ شود و عملکرد کلی قلب را تحت تأثیر قرار دهد. علائم و شدت آن می‌تواند به طور گسترده‌ای متفاوت باشد، از موارد خفیف که نیاز به درمان کمی دارند تا شکل‌های شدید که نیاز به مداخله جراحی دارند.",
+    "symptoms": [
+      "سیانوز: تغییر رنگ پوست، لب‌ها و ناخن‌ها به رنگ آبی به دلیل کمبود اکسیژن.",
+      "تنگی نفس: دشواری در تنفس، به ویژه در حین فعالیت بدنی یا دراز کشیدن.",
+      "خستگی: بی‌حالی غیرمعمول یا کمبود انرژی، حتی با کمترین تلاش.",
+      "تپش قلب: ضربان نامنظم قلب که ممکن است به صورت تپش یا تند زدن احساس شود.",
+      "درد قفسه سینه: ناراحتی یا درد در قفسه سینه که ممکن است با فعالیت بدنی یا استرس ایجاد شود.",
+      "تورم: تجمع مایع منجر به ورم در پاها، شکم یا نواحی دیگر به دلیل نارسایی قلبی."
+    ],
+    "treatments": "درمان آنومالی ابشتین بستگی به شدت وضعیت و علائم مطرح شده دارد. برای موارد خفیف، پایش منظم و مدیریت سبک زندگی ممکن است کافی باشد. در شرایط جدی‌تر، ممکن است داروهایی مانند مدرها یا تثبیت‌کننده‌های ریتم قلب تجویز شود تا علائم را مدیریت کنند. گزینه‌های جراحی از تعمیر دریچه سه‌لتی نامطلوب تا روش‌های پیچیده‌تری شامل تعویض دریچه یا اصلاح نقص‌های قلبی مرتبط متغیر است. در موارد شدید، بیماران ممکن است به جراحی قلب نیاز داشته باشند تا جریان خون طبیعی و عملکرد قلب را بازگردانی کنند. مراقبت‌های پیگیری حیاتی است، زیرا افراد ممکن است به ارزیابی‌های مستمر نیاز داشته باشند تا به عوارض احتمالی رسیدگی کنند."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Isosorbide dinitrate is a medication primarily used to prevent and treat angina pectoris, a type of chest pain caused by reduced blood flow to the heart. By dilating blood vessels, it helps to increase blood and oxygen supply to the heart while reducing the heart's workload. It is often prescribed for patients with ischemic heart disease or heart failure and may be used in conjunction with other therapies to enhance cardiovascular function.",
+    "uses": "Isosorbide dinitrate is used for the prevention and treatment of angina pectoris, particularly in patients with chronic stable angina. It can also be used to manage heart failure and may be given before physical activity in patients who experience angina attacks triggered by exertion. Additionally, this medication may be utilized in acute settings, like acute coronary syndrome, to help stabilize cardiovascular conditions and improve patient outcomes.\n\nMoreover, isosorbide dinitrate can be part of a treatment regimen for pulmonary hypertension, as it aids in vascular relaxation. Physicians may prescribe this drug in a long-acting form for consistent management of symptoms or short-acting formulations for immediate relief during angina episodes.",
+    "side effects": [
+      "Headache: Often experienced due to vasodilation effects, leading to increased blood flow and pressure.",
+      "Dizziness or lightheadedness: May occur, especially upon standing up quickly, due to a drop in blood pressure.",
+      "Flushing: A warm sensation and redness in the skin can occur as blood vessels dilate.",
+      "Nausea: Some patients may feel nauseated after taking the medication.",
+      "Hypotension: A significant drop in blood pressure may occur, leading to further dizziness or fainting."
+    ]
+  },
+  "fa": {
+    "description": "ایزوسوربید دی نیتریت دارویی است که عمدتاً برای پیشگیری و درمان آنژین پکتوریس، نوعی درد قفسه سینه ناشی از کاهش خون رسانی به قلب استفاده می‌شود. این دارو با گشاد کردن عروق خونی، به افزایش خون و اکسیژن رسانی به قلب کمک کرده و بار کاری قلب را کاهش می‌دهد. این دارو معمولاً برای بیماران مبتلا به بیماری نارسایی قلبی یا ischemic heart disease تجویز می‌شود و ممکن است به همراه سایر درمان‌ها برای بهبود عملکرد قلب و عروق استفاده شود.",
+    "uses": "ایزوسوربید دی نیتریت برای پیشگیری و درمان آنژین پکتوریس یا درد قفسه سینه به ویژه در بیماران مبتلا به آنژین مزمن پایدار استفاده می‌شود. همچنین می‌تواند برای مدیریت نارسایی قلبی به کار رود و ممکن است قبل از فعالیت فیزیکی در بیمارانی که با فعالیت دچار آنژین می‌شوند، تجویز شود. علاوه بر این، این دارو ممکن است در شرایط اضطراری مانند سندرم کرونر حاد به کار رود تا به تثبیت شرایط قلبی-عروقی کمک کند و نتایج بیمار را بهبود بخشد.\n\nعلاوه بر این، ایزوسوربید دی نیتریت می‌تواند بخشی از رژیم درمانی برای هایپرتنشن ریوی باشد، زیرا به آرامش عروق کمک می‌کند. پزشکان ممکن است این دارو را در فرم طولانی‌مدت برای مدیریت مداوم علائم یا فرم‌های کوتاه‌مدت برای تسکین فوری در حین بروز آنژین تجویز کنند.",
+    "side effects": [
+      " سردرد: به دلیل اثرات گشادکننده عروق، که باعث افزایش جریان و فشار خون می‌شود، معمولاً اتفاق می‌افتد.",
+      "سرگیجه یا سبکی سر: ممکن است بخصوص هنگام بلند شدن سریع، به دلیل افت فشار خون رخ دهد.",
+      "قرمزی صورت: حس گرم و قرمزی در پوست ممکن است به دلیل گشاد شدن عروق خونی ایجاد شود.",
+      "تهوع: برخی از بیماران ممکن است پس از مصرف دارو احساس تهوع کنند.",
+      "افت فشار خون: افت قابل توجهی در فشار خون ممکن است رخ دهد که منجر به سرگیجه یا غش بیشتر شود."
+    ]
+  }
+}

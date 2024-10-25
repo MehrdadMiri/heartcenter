@@ -1,0 +1,38 @@
+```json
+{
+  "en": {
+    "description": "Silicon is a crucial trace element that plays an important role in the formation of collagen and connective tissues, which are essential for the strength and elasticity of skin, hair, and nails. It is found naturally in foods such as whole grains, fruits, vegetables, and nuts, and is also available as a dietary supplement. This mineral is thought to promote bone health, enhance the immune system, and support cardiovascular function, making it a valuable addition to a balanced diet.",
+    "benefits": [
+      "Supports collagen production, improving skin elasticity and appearance.",
+      "Promotes strong hair and nail growth.",
+      "Contributes to bone health by aiding the formation of bone density.",
+      "Enhances the immune system's function.",
+      "May support cardiovascular health and circulation."
+    ],
+    "side effects": [
+      "Gastrointestinal discomfort",
+      "Nausea",
+      "Diarrhea",
+      "Headaches",
+      "Skin rashes or irritation in rare cases"
+    ]
+  },
+  "fa": {
+    "description": "سیلیکون یکی از عناصر کم نیاز است که نقش مهمی در تشکیل کلاژن و بافت‌های همبند ایفا می‌کند که برای استحکام و انعطاف‌پذیری پوست، مو و ناخن‌ها ضروری است. این ماده به طور طبیعی در غذاهایی مانند غلات کامل، میوه‌ها، سبزیجات و مغزها یافت می‌شود و همچنین به صورت مکمل غذایی موجود است. این ماده معدنی به تقویت سلامت استخوان، افزایش عملکرد سیستم ایمنی و حمایت از عملکرد قلبی-عروقی کمک می‌کند و به عنوان یک افزودنی ارزشمند به یک رژیم غذایی متعادل شناخته می‌شود.",
+    "benefits": [
+      "پشتیبانی از تولید کلاژن و بهبود انعطاف‌پذیری و ظاهر پوست.",
+      "تقویت رشد مو و ناخن‌های قوی.",
+      "مؤثر در سلامت استخوان‌ها و کمک به تشکیل چگالی استخوان.",
+      "تقویت عملکرد سیستم ایمنی.",
+      "ممکن است به سلامت قلب و عروق و گردش خون کمک کند."
+    ],
+    "side effects": [
+      "ناهنجاری‌های گوارشی",
+      "تهوع",
+      "اسهال",
+      "سردرد",
+      "راش‌های پوستی یا تحریک در موارد نادر"
+    ]
+  }
+}
+```

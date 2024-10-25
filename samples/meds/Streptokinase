@@ -1,0 +1,22 @@
+{
+  "en": {
+    "description": "Streptokinase is an enzyme derived from beta-hemolytic streptococci, used as a medication to dissolve blood clots in various medical conditions, particularly in acute myocardial infarction (heart attack) and pulmonary embolism. It works by converting plasminogen to plasmin, which then breaks down fibrin in clots, effectively restoring blood flow to affected areas.",
+    "uses": "Streptokinase is primarily utilized in emergency settings for the treatment of acute myocardial infarction, where it helps to quickly dissolve clots in coronary arteries, potentially reducing heart damage and improving survival rates. Additionally, it is employed in cases of pulmonary embolism, where it aids in dissolving blood clots in the lungs, alleviating symptoms and preventing complications such as respiratory distress. Its use can also extend to treating deep vein thrombosis and other thromboembolic conditions, depending on the clinical situation and the patient's health status.",
+    "side effects": [
+      "Bleeding: Increased risk of bleeding, which can manifest as bruising, hematuria (blood in urine), or gastrointestinal bleeding.",
+      "Allergic reactions: Some patients may experience allergic reactions such as hives, itching, or anaphylaxis.",
+      "Hypotension: A drop in blood pressure could occur, leading to dizziness or fainting.",
+      "Infection: There’s a potential risk of introducing infection at the site of administration."
+    ]
+  },
+  "fa": {
+    "description": "استرپتوکیناز آنزیمی است که از استرپتوکوک‌های بتا-همولیتیک مشتق شده و به عنوان دارویی برای حل کردن لخته‌های خونی در شرایط پزشکی مختلف، به ویژه در حمله قلبی حاد و آمبولی ریه، استفاده می‌شود. این آنزیم با تبدیل پلاسمینوژن به پلاسمین عمل می‌کند، که سپس فیبرین در لخته‌ها را تجزیه کرده و در نتیجه باعث بهبود جریان خون به نواحی آسیب‌دیده می‌شود.",
+    "uses": "استرپتوکیناز عمدتاً در محیط‌های اضطراری برای درمان حمله قلبی حاد استفاده می‌شود، جایی که به سرعت به حل کردن لخته‌ها در شریان‌های کرونر کمک می‌کند و احتمالاً آسیب قلبی را کاهش داده و نرخ بقا را بهبود می‌بخشد. علاوه بر این، از آن در موارد آمبولی ریه نیز استفاده می‌شود، که در آن به حل کردن لخته‌های خونی در ریه کمک کرده و علائم را تسکین می‌دهد و از عوارضی مانند تنگی نفس جلوگیری می‌کند. کاربرد آن همچنین می‌تواند به درمان ترومبوز ورید عمقی و سایر شرایط ترومبوآمبولی بستگی داشته باشد، بسته به وضعیت بالینی و سلامت بیمار.",
+    "side effects": [
+      "خونریزی: افزایش خطر خونریزی، که ممکن است به صورت کبودی، هماتوری (خون در ادرار) یا خونریزی گوارشی بروز کند.",
+      "واکنش‌های آلرژیک: برخی بیماران ممکن است تجربه واکنش‌های آلرژیک مانند کهیر، خارش یا آنفیلاکسی را داشته باشند.",
+      "افت فشار خون: ممکن است کاهش در فشار خون رخ دهد که منجر به سرگیجه یا غش شود.",
+      "عفونت: خطر بالقوه‌ای وجود دارد که در محل تزریق عفونت ایجاد شود."
+    ]
+  }
+}

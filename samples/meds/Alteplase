@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Alteplase is a recombinant tissue plasminogen activator (tPA) used primarily as a thrombolytic agent to dissolve blood clots in conditions such as acute ischemic stroke, myocardial infarction (heart attack), and pulmonary embolism. By converting plasminogen to plasmin, Alteplase helps to break down fibrin, leading to the restoration of blood flow in blocked arteries, thus alleviating symptoms and preventing further tissue damage.",
+    "uses": "Alteplase is primarily indicated for the treatment of acute ischemic stroke when administered within a specific time frame of the onset of symptoms. It is also used in cases of myocardial infarction to rapidly dissolve coronary artery thrombi, improving survival rates and outcomes. Additionally, Alteplase is utilized in treating pulmonary embolism to relieve obstruction of pulmonary arteries, particularly in patients who are hemodynamically unstable.\nMoreover, Alteplase may be used off-label in certain conditions such as catheter occlusion and occasionally in severe cases of deep vein thrombosis where rapid thrombolysis is warranted.",
+    "side effects": [
+      "Bleeding: Alteplase can increase the risk of bleeding, including serious internal bleeding and hemorrhagic stroke.",
+      "Allergic reactions: Some patients may experience allergic reactions, ranging from mild rash to more severe anaphylactic reactions.",
+      "Nausea and vomiting: Gastrointestinal side effects such as nausea or vomiting may occur in some patients.",
+      "Hypotension: There may be a drop in blood pressure, especially in the setting of significant bleeding.",
+      "Arrhythmias: Alteplase may potentially cause abnormal heart rhythms, particularly during its infusion."
+    ]
+  },
+  "fa": {
+    "description": "التپلاز یک فعال کننده بافتی باز کننده پلاسمینوژن (tPA) بازتولیدی است که عمدتاً به عنوان یک عامل ترومبولیتیک برای حل کردن لخته‌های خون در وضعیت‌هایی مانند سکته مغزی ایسکمیک حاد، انفارکتوس میوکارد (حمله قلبی) و آمبولی ریه استفاده می‌شود. با تبدیل پلاسمینوژن به پلاسمین، التپلاز کمک می‌کند تا فیبرین شکسته شود و منجر به بازگشت جریان خون در شریان‌های مسدود شده شده و بدین ترتیب علائم را کاهش داده و از آسیب بیشتر بافت جلوگیری کند.",
+    "uses": "التپلاز عمدتاً برای درمان سکته مغزی ایسکمیک حاد زمانی که در یک بازه زمانی خاص از آغاز علائم تجویز می‌شود، نشان داده شده است. همچنین در موارد انفارکتوس میوکارد برای حل کردن سریع لخته‌های شریان کرونری و بهبود نرخ زنده‌ماندن و پیامدها استفاده می‌شود. علاوه بر این، التپلاز در درمان آمبولی ریه برای تسکین انسداد شریان‌های ریوی، به ویژه در بیمارانی که از لحاظ همودینامیکی پایدار نیستند، کاربرد دارد.\nعلاوه بر این، ممکن است التپلاز در برخی شرایط غیررسمی مانند انسداد کاتتر و گاهی اوقات در موارد شدید ترومبوز ورید عمیق که نیاز به ترومبولیز سریع دارد، مورد استفاده قرار گیرد.",
+    "side effects": [
+      "خونریزی: التپلاز می‌تواند خطر خونریزی را افزایش دهد، از جمله خونریزی داخلی شدید و سکته مغزی هموراژیک.",
+      "واکنش‌های آلرژیک: برخی از بیماران ممکن است واکنش‌های آلرژیک را تجربه کنند که می‌تواند از خارش خفیف تا واکنش‌های شدید آنافیلاکتیک متغیر باشد.",
+      "تهوع و استفراغ: عوارض گوارشی مانند تهوع یا استفراغ ممکن است در برخی بیماران رخ دهد.",
+      "افت فشار خون: ممکن است افت فشار خون، به‌ویژه در مقاطع خونریزی شدید مشاهده شود.",
+      "آریتمی: التپلاز ممکن است باعث ایجاد ریتم‌های قلبی غیرطبیعی شود، به‌ویژه در حین تزریق آن."
+    ]
+  }
+}

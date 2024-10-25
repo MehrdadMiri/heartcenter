@@ -1,0 +1,28 @@
+{
+ "en": {
+    "description": "Evening Primrose Oil is a dietary supplement extracted from the seeds of the evening primrose plant, known for its high content of gamma-linolenic acid (GLA), an omega-6 fatty acid. It is commonly used to help manage symptoms associated with hormonal conditions, such as premenstrual syndrome (PMS), menopause, and skin disorders like eczema and acne. The oil can be consumed in capsules or liquid form and is praised for its potential anti-inflammatory effects and its ability to support skin health.",
+    "benefits": "Evening Primrose Oil may help alleviate PMS symptoms, reduce menopausal symptoms, improve skin hydration and elasticity, relieve eczema symptoms, and support overall hormonal balance. It is also known for its potential benefits in reducing inflammation and supporting heart health.",
+    "side effects": [
+        "Nausea",
+        "Stomach upset",
+        "Headache",
+        "Diarrhea",
+        "Skin rash",
+        "Increased risk of bleeding",
+        "Allergic reactions in some individuals (particularly those allergic to evening primrose or related plants)"
+    ]
+ },
+ "fa": {
+     "description": "روغن گل شب‌رخ، یک مکمل غذایی است که از دانه‌های گیاه گل شب‌رخ استخراج می‌شود و به دلیل محتوای بالای اسید گاما-لینولنیک (GLA)، یک اسید چرب امگا-6 شناخته‌شده است. این روغن به طور معمول برای کمک به مدیریت علائم مرتبط با شرایط هورمونی مانند سندرم پیش از قاعدگی (PMS)، یائسگی و اختلالات پوستی مانند اگزما و آکنه استفاده می‌شود. روغن به صورت کپسول یا مایع مصرف می‌شود و به دلیل تأثیرات ضد التهابی و توانایی در حمایت از سلامت پوست مورد تحسین قرار گرفته است.",
+     "benefits": "روغن گل شب‌رخ ممکن است به کاهش علائم PMS، کاهش علائم یائسگی، بهبود رطوبت و الاستیسیته پوست، تسکین علائم اگزما و حمایت از تعادل کلی هورمونی کمک کند. همچنین به عنوان روغنی با پتانسیل کاهش التهاب و حمایت از سلامت قلب شناخته می‌شود.",
+     "side effects": [
+        "تهوع",
+        "ناراحتی معده",
+        "سردرد",
+        "اسهال",
+        "راش پوستی",
+        "افزایش خطر خونریزی",
+        "واکنش‌های آلرژیک در برخی افراد (به ویژه افرادی که به گل شب‌رخ یا گیاهان مرتبط آلرژی دارند)"
+     ]
+ }
+}

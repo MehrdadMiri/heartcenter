@@ -1,0 +1,28 @@
+{
+ "en": {
+    "description": "Lidocaine is a local anesthetic commonly used to numb tissue in a specific area of the body. It works by blocking nerve signals in the body, which prevents the sensation of pain. Lidocaine is typically used in medical procedures such as dental work, minor surgeries, and for pain relief in conditions such as neuropathic pain or post-herpetic neuralgia. Additionally, it can be administered intravenously to stabilize abnormal heart rhythms.",
+    
+    "uses": "Lidocaine is primarily used for local anesthesia in various medical procedures, allowing patients to undergo surgeries without pain. It is often administered for dental procedures, skin surgeries, and during the placement of intravenous lines. Beyond local anesthesia, lidocaine is also used to treat certain heart conditions, where it helps to manage irregular heartbeats. Moreover, its topical formulation is often used for pain relief in conditions like sunburns, insect bites, or other localized skin irritations.\n\nFurthermore, lidocaine is frequently employed in emergency medicine due to its effectiveness in treating ventricular arrhythmias, especially during cardiac arrest situations. It can be delivered through injections, patches, or as a topical cream, making it versatile in various clinical settings.",
+    
+    "side effects": [
+      "Nausea: A feeling of sickness that can lead to vomiting.",
+      "Dizziness: A sensation of unsteadiness or lightheadedness.",
+      "Tinnitus: Ringing or buzzing in the ears.",
+      "Numbness: Loss of sensation in the area where lidocaine is applied.",
+      "Allergic reactions: Can range from mild rashes to severe anaphylaxis."
+    ]
+ },
+ "fa": {
+     "description": "لیدوکائین یک بی‌حس‌کننده موضعی است که به طور معمول برای بی‌حس کردن بافت در یک ناحیه خاص از بدن استفاده می‌شود. این دارو با مسدود کردن سیگنال‌های عصبی در بدن عمل می‌کند که احساس درد را جلوگیری می‌نماید. لی دوکائین معمولاً در فرآیندهای پزشکی مانند کارهای دندانی، جراحی‌های جزئی و برای تسکین درد در شرایطی مانند درد عصبی یا نورالژی پس از زونا استفاده می‌شود. علاوه بر این، می‌تواند به صورت داخل وریدی برای پایدارسازی ریتم‌های غیرطبیعی قلب تجویز شود.",
+     
+     "uses": "لیدوکائین عمدتاً برای بی‌حسی موضعی در فرآیندهای پزشکی مختلف استفاده می‌شود و به بیماران این امکان را می‌دهد که جراحی‌ها را بدون درد تجربه کنند. این دارو معمولاً در طول کارهای دندانی، جراحی‌های پوستی و هنگام قرار دادن خط‌های وریدی تجویز می‌شود. علاوه بر بی‌حسی موضعی، لی دوکائین نیز برای درمان برخی بیماری‌های قلبی استفاده می‌شود که به مدیریت ضربان‌های نامنظم قلب کمک می‌کند. علاوه بر این، فرم‌های موضعی آن معمولاً برای تسکین درد در شرایطی مانند آفتاب‌سوختگی، نیش حشرات یا سایر تحریکات پوستی محلی استفاده می‌شود.\n\nعلاوه بر این، لی دوکائین به طور مکرر در پزشکی اورژانس به دلیل اثر بخشی آن در درمان آریتمی‌های بطنی، به ویژه در شرایط ایست قلبی استفاده می‌شود. این دارو می‌تواند از طریق تزریق، پچ‌ها یا به عنوان کرم موضعی تجویز شود که آن را در محیط‌های بالینی مختلف چندمنظوره می‌کند.",
+     
+     "side effects": [
+      "تهوع: احساسی از بیماری که می‌تواند به استفراغ منجر شود.",
+      "سرگیجه: احساس عدم تعادل یا سبکی سر.",
+      "وزوز گوش: زنگ زدن یا صدای جیر جیر در گوش.",
+      "بی‌حسی: از دست دادن حس در ناحیه‌ای که لی دوکائین اعمال شده است.",
+      "واکنش‌های آلرژیک: می‌تواند از جوش‌های خفیف تا آنافیلاکسی شدید متغیر باشد."
+    ]
+ } 
+}

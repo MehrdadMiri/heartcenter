@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Lycopene is a natural antioxidant belonging to the carotenoid family, primarily found in tomatoes and other red fruits and vegetables. It is known for its role in reducing the risk of chronic diseases, particularly certain types of cancers, and heart disease. Lycopene helps protect cells from oxidative stress by neutralizing free radicals, thereby supporting overall health and well-being.",
+    "benefits": "Lycopene has been linked to a variety of health benefits, including the potential to lower the risk of prostate cancer, reduce the risk of cardiovascular disease, improve skin health, and contribute to eye health by protecting against macular degeneration. Additionally, its anti-inflammatory properties may help boost the immune system.",
+    "side effects": [
+      "Gastrointestinal discomfort",
+      "Diarrhea",
+      "Nausea",
+      "Allergic reactions (in rare cases)",
+      "Interference with certain medications (such as blood thinners)"
+    ]
+ },
+ "fa": {
+     "description": "لیکوپن یک آنتی‌اکسیدان طبیعی است که به خانواده کاروتنوئیدها تعلق دارد و عمدتاً در گوجه‌فرنگی و سایر میوه‌ها و سبزیجات قرمز یافت می‌شود. این ترکیب به خاطر نقش خود در کاهش خطر بیماری‌های مزمن، به ویژه برخی انواع سرطان و بیماری‌های قلبی معروف است. لیکوپن با خنثی کردن رادیکال‌های آزاد از سلول‌ها در برابر استرس اکسیداتیو محافظت می‌کند و به این ترتیب سلامت و رفاه کلی را حمایت می‌کند.",
+     "benefits": "لیکوپن با فواید سلامت متنوعی ارتباط دارد، از جمله کاهش خطر سرطان پروستات، کاهش خطر بیماری‌های قلبی عروقی، بهبود سلامت پوست و کمک به سلامت چشم‌ها با محافظت در برابر دژنراسیون ماکولا. علاوه بر این، خواص ضد التهابی آن ممکن است به تقویت سیستم ایمنی کمک کند.",
+     "side effects": [
+       "ناراحتی‌های گوارشی",
+       "اسهال",
+       "تهوع",
+       "واکنش‌های آلرژیک (در موارد نادر)",
+       "تداخل با برخی داروها (مانند رقیق‌کننده‌های خون)"
+     ]
+ }
+}

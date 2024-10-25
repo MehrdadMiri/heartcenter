@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Noncompaction Cardiomyopathy (NCM) is a rare form of cardiomyopathy characterized by the abnormal development of the myocardium, leading to excessively prominent trabeculations (muscle fibers) in the left ventricle. This condition results from a congenital defect in which the heart muscle fails to compact properly during fetal development, leading to structural and functional abnormalities. Individuals with NCM may experience a range of complications including heart failure, arrhythmias, and thromboembolic events, and it often presents in early adulthood.",
+    "symptoms": [
+      "Heart Failure: Patients may experience shortness of breath, fatigue, and swelling in the legs or abdomen due to fluid accumulation.",
+      "Arrhythmias: Abnormal heart rhythms can occur, leading to palpitations, dizziness, or fainting spells.",
+      "Chest Pain: Some individuals may have chest discomfort or pain, often related to reduced blood flow to the heart.",
+      "Exercise Intolerance: Patients may find they become easily tired or out of breath during physical activities.",
+      "Embolic Events: There is an increased risk of stroke due to blood clots that can form in the heart."
+    ],
+    "treatments": "Treatment for Noncompaction Cardiomyopathy focuses on managing symptoms and preventing complications since there is no specific cure for the condition. Common treatments include: \n1. Medications: Patients may be prescribed diuretics to reduce fluid retention, beta-blockers to help regulate heart rate and improve heart function, and ACE inhibitors to lower blood pressure and reduce strain on the heart. \n2. Anticoagulation: To reduce the risk of stroke from potential blood clots, anticoagulant medications may be prescribed. \n3. Device Therapy: For patients with significant arrhythmias, implantable cardioverter-defibrillators (ICDs) may be recommended to prevent sudden cardiac death. \n4. Lifestyle Modifications: Patients are encouraged to adopt a heart-healthy lifestyle, including regular exercise, a balanced diet, and avoiding smoking and excessive alcohol intake. \n5. Heart Transplant: In severe cases where heart function significantly declines and medical therapy is ineffective, heart transplantation may be considered."
+  },
+  "fa": {
+    "description": "کاردیومیوپاتی عدم فشردگی (NCM) یک نوع نادر از کاردیومیوپاتی است که با توسعه غیرطبیعی میوکارد مشخص می‌شود و منجر به برجستگی‌های قابل توجه در دیواره بطن چپ می‌شود. این وضعیت ناشی از نقص مادرزادی است که در آن عضله قلب در طول توسعه جنینی به درستی فشرده نمی‌شود و منجر به ناهنجاری‌های ساختاری و عملکردی می‌گردد. افراد مبتلا به NCM ممکن است با مجموعه‌ای از عوارض مانند نارسایی قلبی، آریتمی‌ها و حوادث ترومبوآمبولیک مواجه شوند و به طور معمول در اوایل بزرگسالی ظاهر می‌شود.",
+    "symptoms": [
+      "نارسایی قلبی: بیماران ممکن است تنگی نفس، خستگی و تورم در پاها یا شکم به دلیل تجمع مایعات را تجربه کنند.",
+      "آریتمی‌ها: ریتم‌های غیرطبیعی قلب می‌تواند رخ دهد و منجر به تپش قلب، سرگیجه یا غش شود.",
+      "درد قفسه سینه: برخی از افراد ممکن است ناراحتی یا درد در قفسه سینه داشته باشند که معمولاً به کاهش جریان خون به قلب مربوط می‌شود.",
+      "تحمل نکردن ورزش: بیماران ممکن است احساس خستگی یا تنگی نفس در طول فعالیت‌های بدنی داشته باشند.",
+      "حوادث آمبولیک: خطر افزایش سکته مغزی به دلیل لخته‌های خونی که می‌تواند در قلب تشکیل شود، وجود دارد."
+    ],
+    "treatments": "درمان کاردیومیوپاتی عدم فشردگی بر مدیریت علائم و پیشگیری از عوارض متمرکز است زیرا هیچ درمان خاصی برای این وضعیت وجود ندارد. درمان‌های رایج شامل: \n1. داروها: ممکن است به بیماران داروهای مدر (دیورتیک) برای کاهش احتباس مایعات، بتا-بلوک‌کننده‌ها برای کمک به تنظیم ضربان قلب و بهبود عملکرد قلب و مهارکننده‌های ACE برای کاهش فشار خون و کاهش فشار بر قلب تجویز شود. \n2. ضد انعقاد: برای کاهش خطر سکته مغزی به دلیل لخته‌های خونی بالقوه، ممکن است داروهای ضد انعقاد تجویز شود. \n3. درمان با دستگاه: برای بیمارانی که با آریتمی‌های قابل توجه مواجه هستند، ممکن است دستگاه‌های الکتریکی مانند دفیبریلاتور مادرزادی (ICD) برای جلوگیری از مرگ ناگهانی قلبی توصیه شود. \n4. تغییرات سبک زندگی: به بیماران توصیه می‌شود سبک زندگی سالم قلبی را در پیش بگیرند، از جمله ورزش منظم، رژیم غذایی متعادل و جلوگیری از سیگار کشیدن و مصرف بیش از حد الکل. \n5. پیوند قلب: در موارد بحرانی که عملکرد قلب به طور قابل توجهی کاهش می‌یابد و درمان دارویی ناکافی است، ممکن است پیوند قلب در نظر گرفته شود."
+  }
+}

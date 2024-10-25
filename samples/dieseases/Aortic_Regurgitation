@@ -1,0 +1,56 @@
+```json
+{
+  "en": {
+    "description": "Aortic regurgitation is a heart valve disorder where the aortic valve does not close properly, allowing blood to flow backward from the aorta into the left ventricle during diastole. This condition can result from various factors such as rheumatic fever, congenital heart defects, or degenerative changes. Over time, the left ventricle can enlarge due to the increased volume of blood it must accommodate, leading to heart failure if left untreated.",
+    "symptoms": [
+      {
+        "symptom": "Shortness of Breath",
+        "description": "Patients may experience difficulty breathing, especially during exertion or when lying flat."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "A sense of persistent tiredness or low energy, particularly during physical activities."
+      },
+      {
+        "symptom": "Palpitations",
+        "description": "Irregular heartbeats or a sensation of fluttering in the chest can occur as the heart works harder."
+      },
+      {
+        "symptom": "Chest Pain",
+        "description": "Some patients may experience chest pain or discomfort, particularly if there is underlying coronary artery disease."
+      },
+      {
+        "symptom": "Swelling (Edema)",
+        "description": "Fluid buildup can lead to swelling, particularly in the legs, ankles, and feet due to heart failure."
+      }
+    ],
+    "treatments": "Treatment for aortic regurgitation depends on the severity of the condition and symptoms. In mild cases, regular monitoring may be sufficient, while more severe cases that cause significant symptoms or heart function impairment may require surgical intervention. Options include valve repair or replacement, commonly done via open-heart surgery or minimally invasive techniques. Medications such as diuretics can help manage symptoms of heart failure, while vasodilators may be prescribed to reduce the heart's workload. Close follow-up with a cardiologist is essential for managing the condition effectively."
+  },
+  "fa": {
+    "description": "گشادگی دریچه آئورت یک اختلال در دریچه قلب است که در آن دریچه آئورت به درستی بسته نمی‌شود و این باعث می‌شود خون از آئورت به سمت بطن چپ در حین دیاستول برگردد. این اختلال می‌تواند ناشی از عوامل مختلفی از جمله تب روماتیسمی، نقص‌های مادرزادی قلب یا تغییرات تدریجی باشد. با گذشت زمان، بطن چپ ممکن است به دلیل حجم خون بیشتری که باید پذیرش کند، بزرگ شود و این می‌تواند منجر به نارسایی قلبی در صورت عدم درمان شود.",
+    "symptoms": [
+      {
+        "symptom": "کوتاهی نفس",
+        "description": "بیماران ممکن است در تنفس مشکل داشته باشند، به ویژه در حین فعالیت یا زمانی که دراز می کشند."
+      },
+      {
+        "symptom": "خستگی",
+        "description": "احساس خستگی مداوم یا کمبود انرژی، به ویژه در طول فعالیت‌های بدنی."
+      },
+      {
+        "symptom": "تپش قلب",
+        "description": "ضربان‌های نامنظم قلب یا حس تپش در قفسه سینه می‌تواند در اثر کار بیشتر قلب بوجود آید."
+      },
+      {
+        "symptom": "درد قفسه سینه",
+        "description": "برخی از بیماران ممکن است درد یا ناراحتی در قفسه سینه احساس کنند، به ویژه اگر بیماری عروق کرونر زیرین وجود داشته باشد."
+      },
+      {
+        "symptom": "ورم (ادم)",
+        "description": "جمع شدن مایعات می‌تواند منجر به تورم، به ویژه در پاها، مچ‌ها و کف پاها به دلیل نارسایی قلبی شود."
+      }
+    ],
+    "treatments": "درمان گشادگی دریچه آئورت به شدت وضعیت و علائم بستگی دارد. در موارد خفیف، پایش منظم ممکن است کافی باشد، در حالی که موارد شدیدتر که علائم قابل توجهی ایجاد می‌کنند یا عملکرد قلب را تحت تأثیر قرار می‌دهند ممکن است نیاز به مداخله جراحی داشته باشند. گزینه‌ها شامل تعمیر یا تعویض دریچه است که معمولاً از طریق جراحی باز قلب یا تکنیک‌های حداقل تهاجمی انجام می‌شود. داروهایی مانند دیورتیک‌ها می‌توانند به مدیریت علائم نارسایی قلبی کمک کنند، در حالی که وازودیلاتورها ممکن است برای کاهش بار قلبی تجویز شوند. پیگیری نزدیک با یک کاردیولوژیست برای مدیریت موثر این وضعیت ضروری است."
+  }
+}
+```

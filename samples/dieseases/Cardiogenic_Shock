@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Cardiogenic shock is a life-threatening condition that occurs when the heart is unable to pump sufficient blood to meet the body's needs, typically due to severe heart damage such as from a heart attack, heart failure, or other serious cardiac conditions. This inadequate blood flow can result in multi-organ failure and ultimately death if not promptly managed. Patients usually present with a rapid onset of symptoms that signal a significant reduction in cardiac output.",
+    "symptoms": [
+      "Chest pain: Severe discomfort or pressure in the chest, often associated with myocardial infarction.",
+      "Shortness of breath: Difficulty in breathing or a feeling of suffocation, indicating insufficient oxygen supply to the tissues.",
+      "Weak pulse: A faint or thready pulse that suggests inadequate blood circulation.",
+      "Low blood pressure: Significantly reduced blood pressure, often leading to confusion, dizziness, or fainting.",
+      "Cold, clammy skin: Poor circulation can cause the skin to feel cool and moist.",
+      "Rapid heart rate: The heart may attempt to compensate for low output by beating faster."
+    ],
+    "treatments": "Treatment for cardiogenic shock focuses on improving heart function and restoring adequate blood flow. Initial management typically involves stabilizing the patient with oxygen therapy and intravenous fluids. Medications such as inotropes (e.g., dobutamine or dopamine) are administered to increase cardiac contractility. In some cases, vasopressors may be used to elevate blood pressure. Advanced treatments may include the use of mechanical support devices, such as intra-aortic balloon pumps or ventricular assist devices, which help the heart pump blood more effectively. Ultimately, addressing the underlying cause, such as through coronary angioplasty or surgical interventions like coronary artery bypass grafting (CABG), is often necessary. Continuous monitoring and supportive care in a critical care setting are essential throughout the treatment process."
+  },
+  "fa": {
+    "description": "شوک قلبی یک وضعیت تهدیدکننده زندگی است که زمانی رخ می‌دهد که قلب قادر به پمپاژ خون کافی برای تأمین نیازهای بدن نیست، که معمولاً به دلیل آسیب‌های شدید قلبی مانند حمله قلبی، نارسایی قلبی یا سایر شرایط جدی قلبی ایجاد می‌شود. این جریان خون ناکافی می‌تواند منجر به نارسایی چند ارگان و در نهایت مرگ شود اگر به سرعت مدیریت نشود. بیماران معمولاً با نشانه‌های سریع از عوارضی که کاهش قابل توجهی در خروجی قلب را نشان می‌دهد، ارائه می‌شوند.",
+    "symptoms": [
+      "درد قفسه سینه: ناراحتی شدید یا فشاری در قفسه سینه که اغلب با انفارکتوس میوکارد همراه است.",
+      "تنگی نفس: سختی در تنفس یا احساس خفگی که نشان‌دهنده ناکافی بودن تأمین اکسیژن به بافت‌ها است.",
+      "نبض ضعیف: نبض کم یا نحیف که نشان‌دهنده گردش ناکافی خون است.",
+      "فشار خون پایین: کاهش قابل توجه فشار خون که می‌تواند منجر به سردرگمی، سرگیجه یا غش شود.",
+      "پوست سرد و مرطوب: گردش خون ضعیف می‌تواند باعث شود که پوست احساس سردی و رطوبت کند.",
+      "ضربان قلب سریع: قلب ممکن است به منظور جبران خروجی کم، سریعتر بزند."
+    ],
+    "treatments": "درمان شوک قلبی بر بهبود عملکرد قلب و بازگرداندن جریان خون کافی تمرکز دارد. مدیریت اولیه معمولاً شامل تثبیت بیمار با استفاده از درمان اکسیژن و مایعات داخل وریدی است. داروهایی مانند اینوتروپ‌ها (مانند دوبتامین یا دوپامین) برای افزایش انقباض قلب تجویز می‌شوند. در برخی موارد، ممکن است از داروهای افزایش‌دهنده فشار خون برای بالا بردن فشار خون استفاده شود. درمان‌های پیشرفته‌تر می‌تواند شامل استفاده از دستگاه‌های پشتیبانی مکانیکی، مانند پمپ‌های بالون داخل آئورتی یا دستگاه‌های کمک‌مغز باشد که به قلب کمک می‌کند خون را به طور مؤثرتری پمپاژ کند. در نهایت، پرداختن به علت بنیادی، مانند از طریق آنژیوپلاستی کرونری یا مداخلات جراحی مانند پیوند شریان کرونری (CABG)، غالباً ضروری است. نظارت مداوم و مراقبت حمایتی در یک واحد مراقبت ویژه در طول فرآیند درمان بسیار مهم است."
+  }
+}

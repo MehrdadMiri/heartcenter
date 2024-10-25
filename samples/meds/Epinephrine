@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Epinephrine, also known as adrenaline, is a hormone and neurotransmitter that plays a critical role in the body's fight-or-flight response. It is primarily produced by the adrenal glands and is used medically to treat a variety of conditions, particularly in emergencies. Epinephrine helps to increase heart rate, improve blood flow to muscles, and open up airways in the lungs, making it vital in the treatment of anaphylaxis, severe asthma attacks, and cardiac arrest.",
+    "uses": "Epinephrine is commonly used in emergency situations to treat anaphylaxis, a life-threatening allergic reaction that can cause swelling, difficulty breathing, and shock. In asthma emergencies, it is used to relieve bronchospasm and improve airflow, providing rapid relief of symptoms. Additionally, epinephrine is employed in resuscitation protocols for cardiac arrest to stimulate the heart and restore normal rhythm. It may also be utilized in local anesthetic procedures to prolong the duration of anesthesia and reduce bleeding.",
+    "side effects": [
+      "Increased heart rate: Epinephrine can cause tachycardia, leading to palpitations and discomfort.",
+      "Anxiety: Patients may experience heightened anxiety or feelings of nervousness.",
+      "Headache: Some individuals report headaches following administration of epinephrine.",
+      "Nausea and vomiting: Gastrointestinal distress, including nausea and occasionally vomiting, can occur.",
+      "Sweating: Increased perspiration is a common side effect.",
+      "Pallor: The skin may appear pale due to vasoconstriction effects of epinephrine."
+    ]
+  },
+  "fa": {
+    "description": "اپی‌نفرین، که به‌عنوان آدرنالین نیز شناخته می‌شود، هورمونی است که نقش مهمی در پاسخ بدن به استرس و خطر ایفا می‌کند. این ماده عمدتاً توسط غدد فوق کلیوی تولید می‌شود و به‌طور پزشکی برای درمان شرایط متنوعی، به‌ویژه در موارد اورژانسی استفاده می‌شود. اپی‌نفرین به افزایش ضربان قلب، بهبود جریان خون به عضلات و گشایش راه‌های هوایی در ریه‌ها کمک می‌کند و بنابراین در درمان شوک آنافیلاکسی، حملات شدید آسم و ایست قلبی حیاتی است.",
+    "uses": "اپی‌نفرین معمولاً در موقعیت‌های اضطراری برای درمان شوک آنافیلاکسی، واکنش شدید آلرژیک که می‌تواند منجر به ورم، مشکل در تنفس و شوک شود، استفاده می‌شود. در موارد اورژانسی آسم، از آن برای کاهش برونکو اسپاسم و بهبود جریان هوا استفاده می‌شود که تسکین سریع علائم را فراهم می‌آورد. علاوه بر این، اپی‌نفرین به‌عنوان بخشی از پروتکل‌های احیا برای ایست قلبی به‌منظور تحریک قلب و بازگرداندن ریتم طبیعی استفاده می‌شود. همچنین ممکن است در پروسیجرهای بی‌حسی موضعی برای افزایش مدت زمان بی‌حسی و کاهش خونریزی به کار رود.",
+    "side effects": [
+      "افزایش ضربان قلب: اپی‌نفرین می‌تواند منجر به تاکی‌کاردی و احساس نبض و ناراحتی شود.",
+      "اضطراب: بیماران ممکن است اضطراب یا احساس نگرانی بیشتری را تجربه کنند.",
+      "سردرد: برخی افراد پس از استفاده از اپی‌نفرین سردرد گزارش می‌کنند.",
+      "حالت تهوع و استفراغ: ناراحتی‌های گوارشی، شامل حالت تهوع و گاهی اوقات استفراغ ممکن است رخ دهد.",
+      "عرق کردن: تعریق زیاد یک عارضه شایع است.",
+      "پالور: پوست ممکن است به دلیل اثرات تنگ‌کنندگی عروق اپی‌نفرین، رنگ‌پریدگی داشته باشد."
+    ]
+  }
+}

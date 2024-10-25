@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Minoxidil is a topical medication primarily used for hair growth promotion in individuals experiencing androgenetic alopecia or pattern baldness. Originally developed as an oral antihypertensive agent, it was found that one of its side effects was increased hair growth, leading to its formulation as a solution or foam for direct application to the scalp. When applied, it dilates blood vessels, enhancing blood flow to the hair follicles, thereby stimulating hair regeneration and slowing down hair loss.",
+    "uses": "Minoxidil is widely used to treat male and female pattern baldness, helping to restore hair in those experiencing thinning or receding hairlines. It can also be used for other types of hair loss, such as alopecia areata, and is often recommended for individuals looking to enhance their overall hair density and health. The drug has shown efficacy when used consistently over a period of months, with visible results typically seen within 3 to 6 months of starting treatment.\n\nAdditionally, Minoxidil can be used off-label for other scalp issues, such as improving hair growth in patients undergoing chemotherapy or those experiencing hair thinning due to stress or hormonal changes. The ease of use as a topical treatment makes it a popular choice for individuals seeking at-home hair restoration options.",
+    "side effects": [
+      "Scalp irritation: Minoxidil may cause redness, itchiness, or a burning sensation on the scalp.",
+      "Unwanted facial hair growth: Some users may experience hair growth in areas other than the scalp, such as the face or neck.",
+      "Dryness or flaking: Prolonged use can lead to dryness, dandruff, or flaky skin on the scalp.",
+      "Heart palpitations: Although rare, some individuals may experience increased heart rate or palpitations after using the medication.",
+      "Weight gain: Sudden unexplained weight gain can occur in some users, potentially linked to fluid retention."
+    ]
+  },
+  "fa": {
+    "description": "مینوکسی Dil یک داروی موضعی است که عمدتاً برای ترویج رشد مو در افرادی که دچار آلوپسی آندروژنتیک یا طاسی با الگوی مردانه شده‌اند، استفاده می‌شود. این دارو در ابتدا به عنوان یک عامل antihypertensive خوراکی توسعه یافته بود و مشخص شد که یکی از عوارض جانبی آن افزایش رشد مو است که منجر به فرموله شدن آن به عنوان یک محلول یا فوم برای استفاده مستقیم بر روی پوست سر گردید. هنگامی که مورد استفاده قرار می‌گیرد، عروق خونی را گشاد می‌کند و جریان خون به ریشه‌های مو را افزایش می‌دهد و بدین ترتیب به تجدید ریشه‌های مو کمک می‌کند و سرعت ریزش مو را کاهش می‌دهد.",
+    "uses": "مینوکسی Dil به طور گسترده‌ای برای درمان طاسی با الگوی مردانه و زنانه استفاده می‌شود و به بازگرداندن مو در افرادی که با نازک شدن یا عقب رفتن خط مو مواجه هستند، کمک می‌کند. این دارو همچنین می‌تواند برای دیگر انواع ریزش مو، مانند آلوپسی آره آتا استفاده شود و اغلب برای افرادی که به دنبال افزایش تراکم و سلامت کلی موهای خود هستند، توصیه می‌شود. این دارو در صورت استفاده مداوم بر روی مدت‌زمانی چندین ماه مؤثر نشان داده است و نتایج قابل مشاهده معمولاً در طی 3 تا 6 ماه از شروع درمان دیده می‌شود.\n\nعلاوه بر این، مینوکسی Dil می‌تواند به صورت غیررسمی برای سایر مشکلات پوست سر، مانند بهبود رشد مو در بیمارانی که تحت شیمی‌درمانی هستند یا آنهایی که به دلیل استرس یا تغییرات هورمونی دچار نازک شدن مو شده‌اند، استفاده شود. سهولت استفاده به عنوان یک درمان موضعی این دارو را به گزینه محبوبی برای افرادی که به دنبال گزینه‌های بازسازی مو در خانه هستند، تبدیل کرده است.",
+    "side effects": [
+      "تحریک پوست سر: مینوکسی Dil ممکن است باعث قرمزی، خارش یا احساس سوزش در پوست سر شود.",
+      "رشد موی ناخواسته در صورت: برخی از کاربران ممکن است شاهد رشد مو در نواحی غیر از پوست سر، مانند صورت یا گردن باشند.",
+      "خشکی یا پوسته‌پوسته شدن: استفاده مداوم می‌تواند منجر به خشکی، شوره یا پوست پوسته‌پوسته شده بر روی پوست سر شود.",
+      "تپش قلب: هرچند نادر، برخی افراد ممکن است پس از استفاده از دارو، ضربان قلب افزایش یابد یا تپش قلب را تجربه کنند.",
+      "افزایش وزن: افزایش وزن ناگهانی و غیرقابل توضیح در برخی از کاربران ممکن است رخ دهد که به احتباس مایعات مرتبط است."
+    ]
+  }
+}

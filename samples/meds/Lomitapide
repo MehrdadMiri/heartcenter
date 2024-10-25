@@ -1,0 +1,22 @@
+{
+  "en": {
+    "description": "Lomitapide is an oral medication primarily used to treat adults with a genetic condition known as familial hypercholesterolemia (FH), which is characterized by extremely high cholesterol levels that increase the risk of cardiovascular disease. Lomitapide works by inhibiting microsomal triglyceride transfer protein (MTP), leading to decreased production of lipoproteins in the liver and subsequently lowering cholesterol levels. This medication is often utilized when conventional lipid-lowering treatments are inadequate or require additional support in managing cholesterol levels effectively.",
+    "uses": "Lomitapide is specifically indicated for adults with homozygous familial hypercholesterolemia (HoFH), a rare genetic disorder that causes high cholesterol levels even in patients following a low-cholesterol diet and using other cholesterol-lowering medications. It can be used as part of a comprehensive treatment plan that includes diet modification, exercise, and possibly other lipid-lowering therapies to manage cholesterol levels and reduce the risk of cardiovascular complications.\n\nFurthermore, Lomitapide can serve as an option for patients who have not achieved desired cholesterol levels through standard therapies alone. It is critical for patients to understand that Lomitapide is not intended for use as a first-line treatment and should only be taken under the supervision of a healthcare provider experienced in managing lipid disorders.",
+    "side effects": [
+      "Gastrointestinal issues: This includes symptoms like diarrhea, vomiting, and abdominal pain, which can occur as the body adjusts to the medication.",
+      "Fatty liver disease: Prolonged use can lead to accumulation of fat in the liver, potentially resulting in serious liver conditions.",
+      "Elevated liver enzymes: Patients may experience increased levels of liver enzymes in their blood, which can indicate liver irritation or damage.",
+      "Nausea: A common side effect that may be experienced, especially at the beginning of treatment."
+    ]
+  },
+  "fa": {
+    "description": "لومیتاپید یک داروی خوراکی است که عمدتاً برای درمان بزرگ‌ساله‌ای که به عارضه‌ی ژنتیکی به نام هایپرکلسترولمی ارثی (FH) مبتلا هستند، استفاده می‌شود. این عارضه با سطح کلسترول بسیار بالایی مشخص می‌شود که خطر بیماری‌های قلبی-عروقی را افزایش می‌دهد. لومیتاپید با مهار پروتئین انتقال تری‌گلیسیرید میکروسومی (MTP) عمل می‌کند که منجر به کاهش تولید لیپروپروتئین‌ها در کبد و در نتیجه کاهش سطح کلسترول می‌شود. این دارو معمولاً زمانی استفاده می‌شود که درمان‌های معمولی کاهش لیپید ناکافی هستند یا نیاز به حمایت اضافی در مدیریت موثر سطح کلسترول وجود دارد.",
+    "uses": "لومیتاپید به طور خاص برای بزرگسالان مبتلا به هایپرکلسترولمی ارثی هوموزیگوت (HoFH) که یک اختلال ژنتیکی نادر است که موجب افزایش سطح کلسترول حتی در بیمارانی که رژیم غذایی کم‌کلسترول دارند و از سایر داروهای کاهش کلسترول استفاده می‌کنند، تجویز می‌شود. این دارو می‌تواند بخشی از یک برنامه درمانی جامع باشد که شامل اصلاح رژیم غذایی، ورزش و ممکن است سایر درمان‌های کاهش لیپید برای مدیریت سطح کلسترول و کاهش خطر عوارض قلبی-عروقی باشد.\n\nعلاوه بر این، لومیتاپید می‌تواند به عنوان گزینه‌ای برای بیمارانی که از طریق درمان‌های استاندارد به سطح کلسترول مطلوب دست نیافته‌اند، عمل کند. مهم است که بیماران درک کنند که لومیتاپید برای استفاده به عنوان درمان اولیه طراحی نشده و باید فقط تحت نظارت یک ارائه‌دهنده مراقبت‌های بهداشتی با تجربه در مدیریت اختلالات لیپیدی مصرف شود.",
+    "side effects": [
+      "مسائل گوارشی: این شامل علائمی مانند اسهال، استفراغ و درد شکم است که ممکن است هنگام سازگاری بدن با دارو رخ دهد.",
+      "بیماری کبد چرب: استفاده طولانی‌مدت می‌تواند منجر به تجمع چربی در کبد شود که ممکن است به وضعیت‌های جدی کبدی منجر شود.",
+      "افزایش آنزیم‌های کبدی: بیماران ممکن است افزایش سطح آنزیم‌های کبدی در خون خود را تجربه کنند که می‌تواند نشانگر تحریک یا آسیب کبدی باشد.",
+      "تهوع: یک عارضه شایع که ممکن است به ویژه در آغاز درمان تجربه شود."
+    ]
+  }
+}

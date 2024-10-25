@@ -1,0 +1,54 @@
+{
+ "en": {
+    "description": "Takotsubo cardiomyopathy, commonly referred to as Broken Heart Syndrome, is a temporary heart condition that mimics the symptoms of a heart attack. It is often triggered by extreme emotional or physical stress, leading to a sudden weakening of the heart muscle. The name 'Takotsubo' comes from the Japanese word for a type of octopus trap, which resembles the shape of the heart during this condition. While it can occur in anyone, it is most commonly seen in postmenopausal women.",
+    "symptoms": [
+      {
+        "symptom": "Chest Pain",
+        "description": "Often feels like a crushing sensation, similar to what is experienced during a heart attack."
+      },
+      {
+        "symptom": "Shortness of Breath",
+        "description": "Difficulty catching breath, which may occur at rest or during physical activity."
+      },
+      {
+        "symptom": "Heart Palpitations",
+        "description": "An irregular heartbeat or a sensation of the heart racing, which may indicate distress in heart function."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "A general feeling of exhaustion or tiredness that is disproportionate to recent activities."
+      },
+      {
+        "symptom": "Dizziness or Lightheadedness",
+        "description": "Could vary from mild dizziness to near fainting, particularly upon standing up or exertion."
+      }
+    ],
+    "treatments": "The treatment for Takotsubo cardiomyopathy typically involves supportive care and management of symptoms. This may include medications such as beta-blockers, ACE inhibitors, or diuretics to help stabilize heart function. Utilizing a combination of psychotherapy, lifestyle modifications, and stress management techniques is crucial to address underlying emotional triggers. Most patients experience a full recovery within weeks to months, but follow-up care is important to monitor heart function and prevent recurrence."
+ },
+ "fa": {
+     "description": "کاردیومیوتی تاکوتسوبو، که به عنوان سندرم قلب شکسته نیز شناخته می‌شود، یک وضعیت موقتی قلبی است که نشانه‌های حمله قلبی را تقلید می‌کند. این وضعیت معمولاً توسط استرس عاطفی یا فیزیکی شدید تشدید می‌شود و منجر به ضعف ناگهانی ماهیچه قلب می‌گردد. نام 'تاکوتسوبو' از یک کلمه ژاپنی به معنی نوعی تله هشت‌پای دریایی گرفته شده است که شکل قلب را در حین این وضعیت نشان می‌دهد. اگرچه این وضعیت می‌تواند هر کسی را تحت تأثیر قرار دهد، اما بیشتر در زنان یائسه دیده می‌شود.",
+     "symptoms": [
+       {
+         "symptom": "درد قفسه سینه",
+         "description": "اغلب احساسی مشابه به فشار خفیف یا شدید دارد که شبیه به حمله قلبی است."
+       },
+       {
+         "symptom": "تنگی نفس",
+         "description": "مشکلات تنفس که ممکن است در حالت استراحت یا در حین فعالیت بدنی رخ دهد."
+       },
+       {
+         "symptom": "تپش قلب",
+         "description": "ضربان نامنظم قلب یا حس تند شدن ضربان قلب، که می‌تواند نشان‌دهنده تنش در عملکرد قلب باشد."
+       },
+       {
+         "symptom": "خستگی",
+         "description": "احساس عمومی خستگی یا کسلی که با فعالیت‌های اخیر تناسب ندارد."
+       },
+       {
+         "symptom": "سرگیجه یا سبکی سر",
+         "description": "می‌تواند از سرگیجه خفیف تا نزدیک به غش کردن متغیر باشد، به‌ویژه هنگام بلند شدن یا فعالیت."
+       }
+     ],
+     "treatments": "درمان کاردیومیوتی تاکوتسوبو معمولاً شامل مراقبت حمایتی و مدیریت علائم است. این ممکن است شامل داروهایی مانند بتا بلاکرها، مهارکننده‌های ACE یا دیورتیک‌ها برای کمک به تثبیت عملکرد قلب باشد. استفاده از ترکیبی از روان‌درمانی، تغییرات سبک زندگی و تکنیک‌های مدیریت استرس برای مقابله با عوامل احساسی زمینه‌ساز مهم است. بیشتر بیماران در طی چند هفته تا چند ماه به طور کامل بهبود می‌یابند، اما مراقبت پس از درمان مهم است تا عملکرد قلب را زیر نظر داشته باشد و از عود جلوگیری کند."
+ }
+}

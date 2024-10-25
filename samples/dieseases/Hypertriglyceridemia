@@ -1,0 +1,24 @@
+```json
+{
+  "en": {
+    "description": "Hypertriglyceridemia is a medical condition characterized by elevated levels of triglycerides in the blood, which are a type of fat (lipid) that the body uses for energy. It can be caused by various factors including obesity, diabetes, excessive alcohol consumption, and certain genetic disorders. While hypertriglyceridemia may not cause symptoms directly, it is a significant risk factor for cardiovascular diseases and pancreatitis if left unmanaged.",
+    "symptoms": [
+      "Usually asymptomatic: Most individuals with hypertriglyceridemia do not experience symptoms unless triglyceride levels are extremely high.",
+      "Pancreatitis: Severe cases can lead to painful inflammation of the pancreas, presenting with severe abdominal pain, nausea, vomiting, and fever.",
+      "Fatty deposits: In very high levels, triglycerides can cause xanthomas, which are yellowish-red lumps under the skin.",
+      "Increased risk of cardiovascular disease: Patients may not feel symptoms but have an increased risk of heart attacks and strokes."
+    ],
+    "treatments": "Treatment of hypertriglyceridemia involves lifestyle modifications such as dietary changes, increased physical activity, and weight loss. A low-fat, low-sugar diet is often recommended, with an emphasis on omega-3 fatty acids, high-fiber foods, and regular exercise. In some cases, medications may be prescribed including fibrates, niacin, or statins to help lower triglyceride levels. Regular monitoring of triglyceride levels is important, and patients may also need to address any underlying conditions such as diabetes or metabolic syndrome."
+  },
+  "fa": {
+    "description": "هادروتریگلیسریدیسم یک وضعیت پزشکی است که با افزایش سطح تری گلیسیرید در خون مشخص می‌شود، که نوعی چربی (لیپید) است که بدن از آن برای تأمین انرژی استفاده می‌کند. این بیماری می‌تواند به دلایل مختلفی از جمله چاقی، دیابت، مصرف زیاد الکل و برخی اختلالات ژنتیکی ایجاد شود. در حالی که هادروتریگلیسریدیسم ممکن است به‌طور مستقیم علائمی ایجاد نکند، اما یک عامل خطر مهم برای بیماری‌های قلبی و پانکراتیت در صورت عدم درمان محسوب می‌شود.",
+    "symptoms": [
+      "فاقد علائم: بیشتر افراد مبتلا به هادروتریگلیسریدیسم در صورتی که سطح تری گلیسیرید بسیار بالا نباشد، علائمی را تجربه نمی‌کنند.",
+      "پانکراتیت: موارد شدید می‌تواند منجر به التهاب دردناک پانکراس شود که با درد شدید شکم، تهوع، استفراغ و تب همراه است.",
+      "تجمع چربی: در سطوح بسیار بالا، تری گلیسیرید می‌تواند باعث ایجاد زردی و توده‌های زیر پوست شود.",
+      "افزایش خطر بیماری‌های قلبی: بیماران ممکن است علائمی نداشته باشند اما خطر حملات قلبی و سکته‌ها افزایش یابد."
+    ],
+    "treatments": "درمان هادروتریگلیسریدیسم شامل تغییرات سبک زندگی مانند تغییرات غذایی، افزایش فعالیت بدنی و کاهش وزن است. یک رژیم غذایی کم‌چرب و کم‌شکر معمولاً توصیه می‌شود، با تأکید بر اسیدهای چرب امگا-۳، مواد غذایی پرفیبر و ورزش منظم. در بعضی موارد، داروهایی مانند فیبرات‌ها، نیاسین یا استاتین‌ها می‌توانند برای کاهش سطح تری گلیسیرید تجویز شوند. پایش منظم سطح تری گلیسیرید اهمیت دارد و بیماران ممکن است به مدیریت هرگونه شرایط زمینه‌ای مانند دیابت یا سندرم متابولیک نیاز داشته باشند."
+  }
+}
+```

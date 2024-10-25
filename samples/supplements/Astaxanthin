@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Astaxanthin is a powerful antioxidant derived from microalgae, particularly Haematococcus pluvialis, that gives aquatic organisms, such as shrimp and salmon, their pink color. It is known for its ability to scavenge free radicals and reduce oxidative stress, thereby supporting skin health, eye health, and enhancing exercise performance. Astaxanthin may also play a role in reducing inflammation, improving cardiovascular health, and boosting the immune system.",
+    "benefits": "Some of the notable benefits of astaxanthin include improved skin elasticity and hydration, protection against UV radiation-induced skin damage, enhanced recovery post-exercise, improved endurance and stamina, potential neuroprotective effects, and support for heart health. It is also associated with potential benefits for eye health, including the reduction of eye fatigue and improvement in visual acuity.",
+    "side effects": [
+      "Allergic reactions",
+      "Stomach discomfort",
+      "Nausea",
+      "Diarrhea",
+      "Red or orange discoloration of skin (when taken in excessive amounts)",
+      "Potential interactions with blood thinners"
+    ]
+  },
+  "fa": {
+    "description": "استاکسنتین یک آنتی‌اکسیدان قوی است که از میکروآلگاها، به‌ویژه هیمتوکوکوس پلوویالیس، تهیه می‌شود و به موجودات آبی مانند میگو و سالمون رنگ صورتی می‌دهد. این ماده به خاطر توانایی خود در شکار رادیکال‌های آزاد و کاهش استرس اکیسیژن شناخته شده است و به همین دلیل از سلامت پوست، سلامت چشم و بهبود عملکرد ورزشی حمایت می‌کند. استاکسنتین همچنین ممکن است نقش مهمی در کاهش التهاب، بهبود سلامت قلب و عروق و تقویت سیستم ایمنی داشته باشد.",
+    "benefits": "برخی از مزایای قابل توجه استاکسنتین شامل بهبود الاستیسیته و هیدراتاسیون پوست، محافظت در برابر آسیب‌های ناشی از UV، بهبود بازیابی پس از ورزش، افزایش استقامت و انگیزه، اثرات محافظتی احتمالی عصبی، و پشتیبانی از سلامت قلب است. همچنین به مزایای احتمالی برای سلامت چشم، از جمله کاهش خستگی چشم و بهبود وضوح بینایی مرتبط است.",
+    "side effects": [
+      "واکنش‌های آلرژیک",
+      "ناراحتی معده",
+      "تهوع",
+      "اسهال",
+      "تغییر رنگ قرمز یا نارنجی پوست (زمانی که در مقادیر زیاد مصرف شود)",
+      "تعاملات احتمالی با رقیق‌کننده‌های خون"
+    ]
+  }
+}

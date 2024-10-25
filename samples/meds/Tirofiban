@@ -1,0 +1,29 @@
+{
+  "en": {
+    "description": "Tirofiban is an antiplatelet medication that belongs to a class of drugs known as glycoprotein IIb/IIIa inhibitors. It works by preventing platelets from aggregating, thereby reducing the risk of blood clots. Tirofiban is primarily used in patients with acute coronary syndrome (ACS) to improve outcomes during percutaneous coronary interventions (PCI) and is often administered in conjunction with other antiplatelet agents such as aspirin and clopidogrel.",
+    
+    "uses": "Tirofiban is mainly used in the management of acute coronary syndromes, particularly in patients undergoing angioplasty or stenting. It is used to reduce the risk of cardiovascular events, such as heart attacks, during and after procedures designed to open blocked coronary arteries. Additionally, Tirofiban can be utilized in patients with unstable angina to prevent further complications while awaiting surgical interventions.\n\nBeyond acute coronary syndromes, Tirofiban can also be administered in settings where the risk of clot formation is heightened, such as in patients with severe coronary artery disease or those undergoing certain high-risk vascular procedures. Its rapid onset and short duration make it an effective option for acute care situations where immediate action is necessary to manage thrombotic risk.",
+
+    "side effects": [
+      "Bleeding: Increased risk of serious bleeding, including gastrointestinal or intracranial hemorrhage.",
+      "Thrombocytopenia: A decrease in platelet count, which may increase bleeding risk.",
+      "Hypotension: Potential for low blood pressure, especially during administration.",
+      "Nausea: Some patients may experience gastrointestinal discomfort.",
+      "Allergic reactions: Rare cases of hypersensitivity or allergic reactions."
+    ]
+  },
+  
+  "fa": {
+    "description": "تیروفیبان یک داروی ضدپلاکت است که به دسته‌ای از داروها به نام مهارکننده‌های گلیکوپروتئین IIb/IIIa تعلق دارد. این دارو با جلوگیری از تجمع پلاکت‌ها، خطر تشکیل لخته‌های خونی را کاهش می‌دهد. تیروفیبان به‌ویژه در بیماران مبتلا به سندرم کورونری حاد (ACS) برای بهبود نتایج در طول مداخلات عروقی از طریق پوست (PCI) مورد استفاده قرار می‌گیرد و اغلب همراه با دیگر داروهای ضدپلاکت مانند آسپرین و کلاپیدوگرل تجویز می‌شود.",
+    
+    "uses": "تیروفیبان عمدتاً در مدیریت سندرم‌های کورونری حاد، به ویژه در بیمارانی که تحت آنژیوپلاستی یا استنت‌گذاری قرار دارند، استفاده می‌شود. این دارو برای کاهش خطر وقوع حوادث قلبی عروقی مانند حملات قلبی در طول و پس از اقداماتی که به منظور باز کردن عروق کورونری مسدود شده طراحی شده‌اند، مؤثر است. علاوه بر این، تیروفیبان می‌تواند در بیمارانی که دچار آنژین ناپایدار هستند برای جلوگیری از عوارض بیشتر تا زمان انجام مداخلات جراحی تجویز شود.\n\nفراتر از سندرم‌های کورونری حاد، تیروفیبان می‌تواند در شرایطی که خطر تشکیل لخته افزایش یافته است، مانند بیماران مبتلا به بیماری شدید عروق کرونر یا افرادی که تحت برخی از مداخلات عروقی با خطر بالا قرار دارند، استفاده شود. شروع سریع و مدت زمان کوتاه اثر این دارو آن را به گزینه‌ای مؤثر برای شرایط حاد تبدیل می‌کند که در آن اقدام فوری برای مدیریت خطر ترومبوتیک ضروری است.",
+    
+    "side effects": [
+      "خونریزی: افزایش خطر خونریزی جدی، از جمله خونریزی های گوارشی یا داخل جمجمه.",
+      "ترومبوسیتوپنی: کاهش تعداد پلاکت‌ها که می‌تواند خطر خونریزی را افزایش دهد.",
+      "فشار خون پایین: احتمال فشار خون پایین، به ویژه در هنگام تجویز.",
+      "تهوع: برخی از بیماران ممکن است ناراحتی گوارشی را تجربه کنند.",
+      "واکنش‌های آلرژیک: موارد نادری از حساسیت یا واکنش‌های آلرژیک."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Levothyroxine is a synthetic form of the thyroid hormone thyroxine (T4) used to treat hypothyroidism, a condition in which the thyroid gland does not produce enough hormones. By providing the body with a replacement for this hormone, Levothyroxine helps to regulate metabolism, energy production, and overall physiological function. It may also be administered to patients with thyroid cancer or those who have had their thyroid gland removed to ensure normal hormone levels in the body.",
+    
+    "uses": "Levothyroxine is primarily used for the treatment of hypothyroidism, which can cause fatigue, weight gain, and depression if left untreated. It is also used in the management of goiter, which is an enlargement of the thyroid gland, and in cases of thyroid cancer where hormone replacement is required after surgery. This medication is essential for maintaining normal growth, development, and metabolism in both children and adults, resulting in improved overall health and well-being.",
+
+    "side effects": [
+      "Increased heart rate: This can lead to palpitations or a racing heartbeat, especially in individuals with pre-existing heart conditions.",
+      "Weight loss: Some patients may experience unintentional weight loss, which can be concerning if it occurs rapidly.",
+      "Nervousness or anxiety: Users may report feelings of nervousness or heightened anxiety levels due to the stimulating effects of the medication.",
+      "Insomnia: Difficulty sleeping may occur, especially if the medication is taken too late in the day.",
+      "Sweating: Increased perspiration is a common side effect that may lead to discomfort."
+    ]
+  },
+  "fa": {
+    "description": "لووتیروکسین یک شکل مصنوعی از هورمون تیروئید تیروکسین (T4) است که برای درمان کم‌کاری تیروئید، شرایطی که در آن غده تیروئید هورمون‌های کافی تولید نمی‌کند، استفاده می‌شود. با ارائه جایگزینی برای این هورمون، لووتیروکسین به تنظیم متابولیسم، تولید انرژی و عملکرد فیزیولوژیکی کلی بدن کمک می‌کند. همچنین ممکن است به بیماران مبتلا به سرطان تیروئید یا آن‌هایی که غده تیروئیدشان برداشته شده است، تجویز شود تا سطح هورمون‌های عادی در بدن حفظ شود.",
+    
+    "uses": "لووتیروکسین عمدتاً برای درمان کم‌کاری تیروئید که می‌تواند منجر به خستگی، افزایش وزن و افسردگی در صورت عدم درمان شود، استفاده می‌شود. همچنین در مدیریت گواتر که بزرگ شدن غده تیروئید است و در موارد سرطان تیروئید که پس از جراحی به جایگزینی هورمون نیاز است، کاربرد دارد. این دارو برای حفظ رشد طبیعی، توسعه و متابولیسم در کودکان و بزرگسالان ضروری است و به بهبود سلامت و رفاه کلی کمک می‌کند.",
+
+    "side effects": [
+      "افزایش ضربان قلب: این می‌تواند به تپش قلب یا ضربان سریع قلب منجر شود، به‌ویژه در افرادی که شرایط قلبی پیش‌زمینه دارند.",
+      "کاهش وزن: برخی بیماران ممکن است کاهش وزنی غیرارادی را تجربه کنند که در صورت وقوع ناگهانی، نگران‌کننده است.",
+      "عصبی بودن یا اضطراب: کاربران ممکن است احساساتی از قبیل عصبی بودن یا افزایش سطح اضطراب را به دلیل اثرات تحریک‌کننده دارو گزارش کنند.",
+      "بی‌خوابی: اگر دارو در زمان نامناسبی مصرف شود، ممکن است مشکلات خواب به وجود آید.",
+      "تعریق: افزایش تعریق یک عارضه جانبی شایع است که ممکن است منجر به ناراحتی شود."
+    ]
+  }
+}

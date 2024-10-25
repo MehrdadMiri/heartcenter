@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Coronary spasm is a temporary tightening (constriction) of the muscles in the arteries of the heart, which can decrease or completely block blood flow to the heart muscle. This condition may occur at rest or during exertion and can lead to chest pain, known as angina, and in severe cases, may trigger a heart attack. Factors such as stress, smoking, drug use, or extreme temperatures can contribute to the occurrence of coronary spasms. It is crucial for individuals experiencing symptoms to seek medical attention for proper evaluation and management.",
+    "symptoms": [
+      "Chest pain (angina): A sharp or squeezing sensation in the chest that may occur suddenly and can last for several minutes.",
+      "Shortness of breath: Difficulty breathing or a feeling of breathlessness, sometimes accompanying chest pain.",
+      "Palpitations: An irregular or noticeably fast heartbeat that may occur alongside chest discomfort.",
+      "Sweating: Increased perspiration during episodes of pain, often accompanied by anxiety or fear.",
+      "Dizziness or lightheadedness: Feelings of faintness, especially during episodes of angina."
+    ],
+    "treatments": "Treatment for coronary spasms typically involves medications and lifestyle changes. Medications such as calcium channel blockers and nitrates help relax and widen blood vessels, improving blood flow to the heart. In some cases, medications such as beta-blockers may be prescribed to reduce heart workload and prevent spasms. Lifestyle modifications are important as well; this includes quitting smoking, reducing stress through relaxation techniques, maintaining a healthy weight, and managing comorbid conditions such as high blood pressure and high cholesterol. Regular follow-up with a healthcare provider is essential to monitor the condition and adjust treatment as necessary, and in severe cases, more invasive procedures may be considered."
+  },
+  "fa": {
+    "description": "اسپاسم عروقی کرونری، تنگی موقتی ماهیچه‌های خون‌رسان به قلب است که می‌تواند به کاهش یا مسدود کردن کامل جریان خون به عضله قلب منجر شود. این وضعیت ممکن است در حالت استراحت یا حین ورزش رخ دهد و می‌تواند باعث درد قفسه سینه ، معروف به آنژین شود و در موارد شدیدتر، ممکن است به حمله قلبی منجر شود. عواملی مانند استرس، سیگار کشیدن، مصرف مواد مخدر یا دماهای شدید می‌توانند در بروز اسپاسم‌های کرونری نقش داشته باشند. بنابراین، برای کسانی که علائمی را تجربه می‌کنند، مراجعه به پزشک برای ارزیابی و مدیریت مناسب اهمیت دارد.",
+    "symptoms": [
+      "درد قفسه سینه (آنژین): احساسی تیز یا فشاری در قفسه سینه که ممکن است به طور ناگهانی شروع شود و چند دقیقه ادامه یابد.",
+      "تنگی نفس: مشکل در تنفس یا احساسی از کمبود هوا که گاهی همراه با درد قفسه سینه است.",
+      "تپش قلب: ضربان غیرعادی یا سریع قلب که ممکن است در کنار ناراحتی قفسه سینه بروز کند.",
+      "تعریق: تعریق بیش از حد در طول حملات درد، معمولاً همراه با اضطراب یا ترس.",
+      "سرگیجه یا سبکی سر: احساس خفیف ناتوانی، به ویژه در طول حملات آنژین."
+    ],
+    "treatments": "درمان اسپاسم‌های عروقی کرونری به طور معمول شامل داروها و تغییرات شیوه زندگی است. داروهایی مانند بلوک‌کننده‌های کلسیم و نیتروگلیسیرین‌ها به شل کردن و گشاد کردن عروق خونی کمک می‌کنند و جریان خون به قلب را بهبود می‌بخشند. در برخی موارد، ممکن است پزشک داروهای بتابلاکر را برای کاهش بار کاری قلب و جلوگیری از اسپاسم‌ها تجویز کند. تغییرات در شیوه زندگی نیز اهمیت دارند؛ این شامل ترک سیگار، کاهش استرس از طریق تکنیک‌های آرامش‌بخش، حفظ وزن سالم و کنترل شرایط همراه مانند فشار خون و کلسترول بالا است. پیگیری منظم با پزشک برای نظارت بر وضعیت و تنظیم درمان بر اساس نیاز مهم است و در موارد شدیدتر، ممکن است روش‌های تهاجمی‌تر مورد بررسی قرار گیرند."
+  }
+}

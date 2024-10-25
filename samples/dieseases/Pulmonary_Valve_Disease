@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Pulmonary Valve Disease refers to a condition affecting the pulmonary valve, which is responsible for regulating blood flow from the heart's right ventricle into the pulmonary artery. This disease can manifest as either pulmonary valve stenosis, where the valve does not fully open, or pulmonary valve regurgitation, where the valve does not close properly, leading to complications in lung blood flow and oxygenation. Patients may experience varying degrees of symptoms based on the severity of the condition.",
+    "symptoms": [
+      "Shortness of breath - Patients may experience difficulties breathing during exertion or while resting due to inadequate blood flow to the lungs.",
+      "Fatigue - A common symptom resulting from reduced oxygen supply to the body, leading to feelings of tiredness even with minimal physical activity.",
+      "Chest pain - Some patients report discomfort or pain in the chest area, which may be linked to strain on the heart.",
+      "Heart murmur - Abnormal sounds during heartbeat, often detected by a stethoscope, indicating turbulent blood flow through the affected valve.",
+      "Swelling in the legs or abdomen - Fluid accumulation can occur due to compromised heart function, leading to edema."
+    ],
+    "treatments": "Treatment for Pulmonary Valve Disease may vary depending on the severity of the condition and associated symptoms. Mild cases may be managed with regular monitoring and lifestyle changes such as a balanced diet and exercise. In more severe cases, interventions may include: \n\n1. Medication: Diuretics may be prescribed to reduce fluid retention, and medications like beta-blockers may help alleviate symptoms like chest pain and regulate heart rhythm. \n\n2. Balloon valvuloplasty: A minimally invasive procedure where a balloon is inserted and inflated at the site of the narrowed valve, helping to widen it and improve blood flow. \n\n3. Surgical intervention: In cases where the valve is severely damaged, open-heart surgery might be necessary to repair or replace the valve. This can lead to significant long-term improvements in symptoms and overall heart function, but carries inherent surgical risks that need to be discussed with the patient."
+  },
+  "fa": {
+    "description": "بیماری دریچه ریوی به شرایطی اطلاق می‌شود که بر دریچه ریوی تأثیر می‌گذارد و به تنظیم جریان خون از بطن راست قلب به شریان ریوی کمک می‌کند. این بیماری می‌تواند به صورت تنگی دریچه ریوی، که در آن دریچه به طور کامل باز نمی‌شود، یا نارسایی دریچه ریوی، که در آن دریچه به درستی بسته نمی‌شود، بروز کند و منجر به عوارضی در جریان خون ریه‌ها و اکسیژن‌رسانی شود. بیماران بسته به شدت این بیماری ممکن است علایم مختلفی را تجربه کنند.",
+    "symptoms": [
+      "تنگی نفس - بیماران ممکن است در حین فعالیت یا در حالت استراحت با مشکلات تنفسی مواجه شوند به دلیل جریان خون ناکافی به ریه‌ها.",
+      "خستگی - علامت شایعی که ناشی از کاهش تأمین اکسیژن به بدن است و می‌تواند منجر به احساس دلزدگی حتی با حداقل فعالیت بدنی شود.",
+      "درد قفسه سینه - برخی بیماران از ناراحتی یا درد در ناحیه قفسه سینه شکایت دارند که ممکن است به فشار بر قلب مربوط باشد.",
+      "صدای غیرطبیعی قلب - صداهای غیرعادی در حین ضربان قلب که معمولاً با استتوسکوپ تشخیص داده می‌شود و نشان‌دهنده جریان خون متلاطم از طریق دریچه آسیب‌دیده است.",
+      "تورم در پاها یا شکم - تجمع مایع می‌تواند به دلیل عملکرد compromised قلب رخ دهد و منجر به از دست دادن حجم طبیعی مایعات بدن شود."
+    ],
+    "treatments": "درمان بیماری دریچه ریوی بسته به شدت بیماری و علایم مرتبط ممکن است متفاوت باشد. موارد خفیف ممکن است با نظارت منظم و تغییرات سبک زندگی مانند رژیم غذایی متعادل و ورزش مدیریت شوند. در موارد شدیدتر، مداخلات ممکن است شامل: \n\n1. دارو: داروهای مدر برای کاهش احتباس مایع تجویز می‌شوند و داروهایی مانند بتا بلاکرها برای کاهش علایم مانند درد قفسه سینه و تنظیم ریتم قلب کمک کنند. \n\n2. بالون والولپلاستی: یک روش کم‌تهاجمی است که در آن یک بالون به محل تنگی دریچه وارد و در آنجا باد می‌شود تا آن را باز کرده و جریان خون را بهبود بخشد. \n\n3. مداخله جراحی: در مواردی که دریچه به شدت آسیب دیده باشد، ممکن است به جراحی قلب باز نیاز باشد تا دریچه تعمیر یا تعویض شود. این می‌تواند به بهبود قابل توجهی در علایم و عملکرد کلی قلب منجر شود، اما خطرات جراحی ذاتی وجود دارد که باید با بیمار مورد بحث قرار گیرد."
+  }
+}

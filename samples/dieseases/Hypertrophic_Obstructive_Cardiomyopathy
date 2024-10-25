@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Hypertrophic Obstructive Cardiomyopathy (HOCM) is a condition characterized by the thickening of the heart muscle, particularly the interventricular septum, which can obstruct blood flow from the left ventricle to the aorta. This condition can lead to a range of complications, including arrhythmias, heart failure, and sudden cardiac death. HOCM often presents without symptoms, but when symptoms occur, they may manifest during physical exertion due to the increased demand on the heart. Genetic factors play a significant role, making it important for family members to be screened for the condition.",
+    "symptoms": [
+      "Shortness of Breath: Patients often experience difficulty breathing, especially during physical activities, as the heart struggles to pump enough blood.",
+      "Chest Pain: Angina-like chest discomfort may occur, often triggered by exertion or emotional stress.",
+      "Palpitations: Individuals may feel irregular, rapid heartbeats, which are due to abnormal electrical signals in the heart.",
+      "Dizziness or Light-headedness: These can arise during exercise or sudden position changes, resulting from reduced blood flow to the brain.",
+      "Fainting: Syncope can occur, often due to arrhythmias or reduced blood flow, particularly during physical intensity."
+    ],
+    "treatments": "Treatment for Hypertrophic Obstructive Cardiomyopathy focuses on managing symptoms and preventing complications. Medications such as beta-blockers and calcium channel blockers are commonly prescribed to help reduce heart muscle contraction and to alleviate chest pain and shortness of breath. In cases of severe obstruction, patients may be candidates for surgical interventions, including myectomy, which removes a portion of the thickened septum to improve blood flow. Alcohol septal ablation may also be performed, where alcohol is injected to induce localized heart muscle destruction. Implantable cardioverter-defibrillators (ICDs) may be recommended for patients at high risk of sudden cardiac death due to dangerous arrhythmias. Lifestyle changes, including avoidance of extreme physical exertion, are also recommended to reduce symptoms and risks associated with HOCM."
+  },
+  "fa": {
+    "description": "کاردیومیوپاتی هیپرتروفیک انسدادی (HOCM) یک وضعیت است که با ضخیم شدن عضله قلب، به ویژه سپتوم بین‌بطنی، مشخص می‌شود و می‌تواند جریان خون از حفره چپ قلب به آئورت را مختل کند. این حالت می‌تواند منجر به عوارض مختلفی مانند آریتمی، نارسایی قلبی و مرگ ناگهانی قلبی شود. HOCM اغلب بدون علامت بروز می‌کند، اما زمانی که علائم ظاهر می‌شوند، ممکن است در هنگام فعالیت بدنی خود را نشان دهند. عوامل ژنتیکی نقش چشم‌گیری در این بیماری دارند و بررسی اعضای خانواده بیمار از اهمیت بالایی برخوردار است.",
+    "symptoms": [
+      "تنگی نفس: بیماران اغلب در پی تلاش‌های جسمی، با مشکل تنفس مواجه می‌شوند، زیرا قلب در پمپاژ خون کافی با مشکل روبرو است.",
+      "درد قفسه سینه: ناراحتی قفسه سینه شبیه به آنژین ممکن است رخ دهد و معمولاً به‌واسطۀ تلاش یا استرس احساسی تحریک می‌شود.",
+      "تپش قلب: فرد ممکن است احساس تپش یا ضربان نامنظم و سریعی داشته باشد که به دلیل سیگنال‌های الکتریکی غیرطبیعی در قلب است.",
+      "سرگیجه یا سبکی سر: این حالت می‌تواند در هنگام ورزش یا تغییر ناگهانی وضعیت بروز کند و ناشی از کاهش جریان خون به مغز باشد.",
+      "غش: سنکوپ ممکن است رخ دهد که معمولاً به علت آریتمی یا کاهش خون‌رسانی، به‌ویژه در زمان فعالیت‌های بدنی شدید، است."
+    ],
+    "treatments": "درمان کاردیومیوپاتی هیپرتروفیک انسدادی بر مدیریت علائم و پیشگیری از عوارض تمرکز دارد. داروهایی مانند بتا بلوکرها و بلاکرهای کانال کلسیم معمولاً تجویز می‌شوند تا انقباض عضله قلبی را کاهش دهند و به alleviation درد قفسه سینه و تنگی نفس کمک کنند. در موارد انسداد شدید، بیماران ممکن است کاندیدای مداخلات جراحی، از جمله میکتومی، باشند که بخشی از سپتوم ضخیم شده را برای بهبود جریان خون برمی‌دارد. همچنین می‌توان گرفتاری‌های الکلی سپتوم را انجام داد که در آن الکل برای وادار کردن تخریب موضعی عضله قلبی تزریق می‌شود. نصب دفیبریلاتورهای قابل کاشت (ICD) نیز ممکن است برای بیمارانی که در معرض خطر بالا مرگ ناگهانی قلبی به دلیل آریتمی‌های خطرناک قرار دارند، توصیه شود. تغییرات سبک زندگی، از جمله پرهیز از تلاش‌های بدنی شدید، برای کاهش علائم و خطرات مرتبط با HOCM نیز توصیه می‌شود."
+  }
+}

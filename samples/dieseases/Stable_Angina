@@ -1,0 +1,26 @@
+```json
+{
+  "en": {
+    "description": "Stable angina is a type of chest pain or discomfort that occurs when the heart muscle doesn't get enough oxygen-rich blood. It typically happens during physical activity or stress and usually resolves with rest or the use of angina relief medications. This condition is often associated with coronary artery disease, where the arteries supplying blood to the heart become narrowed or blocked over time due to plaque buildup.",
+    "symptoms": [
+      "Chest Pain: A feeling of pressure, squeezing, fullness, or pain in the center or left side of the chest, which may last for a few minutes.",
+      "Radiating Pain: Discomfort that may radiate to the shoulders, neck, arms, back, teeth, or jaw.",
+      "Shortness of Breath: Difficulty breathing during physical exertion or at rest, often accompanying chest pain.",
+      "Fatigue: Unusual tiredness or a feeling of exhaustion during routine activities.",
+      "Nausea: Sometimes, individuals may experience nausea or an upset stomach."
+    ],
+    "treatments": "Treatment for stable angina focuses on reducing symptoms and preventing complications. Lifestyle changes such as adopting a heart-healthy diet, engaging in regular exercise, and quitting smoking are foundational steps. Medications like nitrates can help relieve angina symptoms during episodes, while beta-blockers and calcium channel blockers may be prescribed to help manage the condition more effectively. In some cases, angioplasty or coronary artery bypass grafting (CABG) may be recommended to improve blood flow to the heart. Regular follow-up with a healthcare provider is essential for monitoring the condition and adjusting treatment as necessary."
+  },
+  "fa": {
+    "description": "آنژین پایدار نوعی درد قفسه سینه یا ناراحتی است که زمانی رخ می‌دهد که ماهیچه قلب به اندازه کافی خون غنی از اکسیژن دریافت نکند. این حالت معمولاً در هنگام فعالیت بدنی یا استرس اتفاق می‌افتد و معمولاً با استراحت یا استفاده از داروهای تسکین دهنده آنژین برطرف می‌شود. این بیماری اغلب با بیماری عروق کرونر همراه است که در آن شریان‌های تأمین‌کننده خون به قلب به مرور زمان به دلیل تشکیل پلاک باریک یا مسدود می‌شوند.",
+    "symptoms": [
+      "درد قفسه سینه: احساس فشار، فشردگی، پر شدن یا درد در ناحیه میانی یا سمت چپ قفسه سینه که ممکن است چند دقیقه طول بکشد.",
+      "درد تابشی: ناراحتی که ممکن است به شانه‌ها، گردن، بازوها، پشت، دندان‌ها یا فک تابش کند.",
+      "تنگی نفس: دشواری در تنفس در حین تلاش بدنی یا در حالت استراحت که معمولاً همراه با درد قفسه سینه است.",
+      "خستگی: خستگی غیرمعمول یا احساس خستگی در حین فعالیت‌های روتین.",
+      "حالت تهوع: گاهی اوقات، افراد ممکن است حالت تهوع یا ناراحتی معده را تجربه کنند."
+    ],
+    "treatments": "درمان آنژین پایدار بر روی کاهش علائم و پیشگیری از عوارض تمرکز دارد. تغییرات در سبک زندگی مانند پذیرش یک رژیم غذایی سالم برای قلب، انجام تمرینات منظم و ترک سیگار از اقدامات بنیادین هستند. داروهایی مانند نیتروگلیسیرین می‌توانند به تسکین علائم آنژین در حین حملات کمک کنند، در حالی که بتا بلوکرها و مسدودکننده‌های کانال کلسیم ممکن است برای مدیریت بهتر این وضعیت تجویز شوند. در برخی موارد، آنژیوپلاستی یا جراحی بای‌پس عروق کرونر (CABG) ممکن است برای بهبود جریان خون به قلب توصیه شود. پیگیری منظم با ارائه‌دهنده خدمات بهداشتی برای نظارت بر وضعیت و تنظیم درمان به صورت لازم ضروری است."
+  }
+}
+```

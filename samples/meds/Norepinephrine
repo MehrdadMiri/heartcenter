@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Norepinephrine, also known as noradrenaline, is a catecholamine neurotransmitter that plays a crucial role in the body's fight-or-flight response. It acts primarily on alpha-adrenergic receptors, causing vasoconstriction and increased peripheral resistance, which leads to elevated blood pressure. Additionally, it can increase heart rate and cardiac output, making it vital for treating hypotensive emergencies such as septic shock or severe hypertension. Norepinephrine is typically administered intravenously in critical care settings to stabilize patients who are experiencing shock or require intensive blood pressure management.",
+   
+    "uses": "Norepinephrine is primarily used to treat acute hypotension, especially in cases of septic shock and other forms of shock where blood pressure needs to be rapidly restored. It can also be used in cases of cardiac arrest to help improve perfusion and stabilize hemodynamics. Other applications include the management of severe hypotension following surgeries or trauma, as well as certain types of allergic reactions that result in vascular collapse.\n\nFurthermore, norepinephrine can be utilized in patients with chronic hypotension to augment blood pressure levels when necessary, allowing for better organ perfusion and function. Its use should be closely monitored, especially in patients with pre-existing cardiovascular conditions, to avoid excessive vasoconstriction and related complications.",
+
+    "side effects": [
+      "Hypertension: An increase in blood pressure that can lead to stroke or cardiovascular events.",
+      "Tachycardia: An increased heart rate, which may cause palpitations and chest discomfort.",
+      "Peripheral Ischemia: Reduced blood flow to extremities, potentially leading to ischemic damage.",
+      "Reflex Bradycardia: A compensatory decrease in heart rate as the body attempts to counteract high blood pressure.",
+      "Headaches: As a side effect, due to increased cranial pressure.",
+      "Anxiety: Some patients may experience feelings of anxiety or nervousness due to stimulation of the central nervous system."
+    ]
+  },
+  "fa": {
+    "description": "نوراپی نفرین، که به عنوان نروادرنالین نیز شناخته می‌شود، یک انتقال‌دهنده عصبی کاته‌کولامین است که نقش مهمی در پاسخ مبارزه یا فرار بدن ایفا می‌کند. این دارو عمدتاً بر روی گیرنده‌های آلفا-آدرنرژیک عمل می‌کند و موجب تنگ شدن عروق و افزایش مقاومت محیطی می‌شود که منجر به افزایش فشار خون می‌شود. همچنین، می‌تواند ضربان قلب و برون‌ده قلبی را افزایش دهد و بنابراین در درمان مواقع اضطراری مانند شوک سپتیک یا فشار خون شدید اهمیت پیدا می‌کند. نوراپی‌نفرین عموماً به صورت وریدی در محیط‌های مراقبت‌های ویژه برای تثبیت بیمارانی که دچار شوک هستند یا نیاز به مدیریت فوری فشار خون دارند، تجویز می‌شود.",
+    
+    "uses": "نوراپی نفرین عمدتاً برای درمان هیپوتنشن حاد، به‌ویژه در موارد شوک سپتیک و سایر انواع شوک که نیاز به بهبود سریع فشار خون دارند، استفاده می‌شود. همچنین می‌تواند در موارد ایست قلبی به منظور بهبود پرفیوژن و تثبیت همودینامیک استفاده شود. سایر کاربردها شامل مدیریت هیپوتنشن شدید پس از جراحی یا ضربه، و همچنین برخی از انواع واکنش‌های آلرژیک است که منجر به سقوط عروقی می‌شود.\n\nعلاوه بر این، نوراپی‌نفرین می‌تواند در بیماران با هیپوتنشن مزمن برای افزایش سطح فشار خون در زمان لزوم مورد استفاده قرار گیرد و باعث بهبود پرفیوژن و عملکرد ارگان‌ها شود. استفاده از این دارو باید به‌طور نزدیک مورد نظارت قرار گیرد، به‌خصوص در بیماران با شرایط قلبی عروقی قبلی، تا از تنگ شدن عروقی بیش از حد و عوارض مربوط به آن جلوگیری شود.",
+    
+    "side effects": [
+      "فشار خون بالا: افزایش فشار خون که می‌تواند منجر به سکته مغزی یا وقایع قلبی عروقی شود.",
+      "تاکی‌کاردی: افزایش ضربان قلب که ممکن است منجر به احساس تپش قلب و ناراحتی سینه شود.",
+      "ایسکمیک محیطی: کاهش جریان خون به اندام‌ها که ممکن است به آسیب ایسکمیک منجر شود.",
+      "براکی‌کاردی رفلکسی: کاهش جبران‌ناپذیر ضربان قلب به عنوان واکنش بدن به فشار خون بالا.",
+      "سردردها: به عنوان یک عارضه جانبی، به دلیل افزایش فشار در جمجمه.",
+      "اضطراب: برخی از بیماران ممکن است در نتیجه تحریک سیستم عصبی مرکزی، احساس اضطراب یا عصبی بودن کنند."
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+ "en": {
+    "description": "Single ventricle defects are a group of congenital heart conditions that result in the heart having only one functioning ventricle instead of the typical two. This condition significantly affects the blood flow within the heart and the oxygenation of blood. Patients with single ventricle defects often require multidisciplinary care and a series of surgeries throughout their life to manage the condition. The severity of symptoms can vary depending on the specific anatomy and associated defects.",
+    "symptoms": [
+      {
+        "symptom": "Cyanosis",
+        "description": "A bluish discoloration of the skin, lips, and nails due to insufficient oxygen in the blood."
+      },
+      {
+        "symptom": "Shortness of breath",
+        "description": "Difficulty in breathing or feeling winded, even during mild exertion, as the heart struggles to pump effectively."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "Extreme tiredness and low energy levels, resulting from the body's lack of adequate oxygen supply."
+      },
+      {
+        "symptom": "Poor feeding in infants",
+        "description": "Infants may struggle to feed properly due to fatigue and difficulty breathing, leading to weight gain issues."
+      },
+      {
+        "symptom": "Heart murmur",
+        "description": "An abnormal sound during the heartbeat cycle, indicating turbulent blood flow in the heart."
+      },
+      {
+        "symptom": "Delayed growth and development",
+        "description": "Children with single ventricle defects may experience slower growth and developmental milestones due to compromised circulation."
+      }
+    ],
+    "treatments": "Treatment for single ventricle defects generally involves a staged surgical approach. The first surgery, usually performed within the first few months of life, is often the Norwood procedure. This surgery reconstructs the heart to improve blood flow. Subsequent surgeries, such as the Glenn procedure and the Fontan procedure, are performed as the child grows to ensure adequate oxygenation of the blood. Medical management may include the use of medications such as diuretics to reduce fluid buildup and ACE inhibitors to help the heart work more efficiently. Long-term care includes regular follow-up appointments with a pediatric cardiologist to monitor the child's heart function and development."
+ },
+ "fa": {
+     "description": "نقص‌های تک بطن یک دسته از نقص‌های مادرزادی قلبی هستند که در نتیجه آن قلب تنها یک بطن که به طور کارآمد کار می‌کند دارد، به جای دو بطن معمول. این وضعیت به طور قابل توجهی بر جریان خون درون قلب و اکسیژن‌رسانی به خون تأثیر می‌گذارد. بیماران مبتلا به نقص‌های تک بطن معمولاً به مراقبت چندرشته‌ای و یک سری جراحی‌ها در طول زندگی خود نیاز دارند تا وضعیت خود را مدیریت کنند. شدت علائم بسته به آناتومی خاص و نقص‌های همراه می‌تواند متفاوت باشد.",
+     "symptoms": [
+         {
+             "symptom": "سیانوز",
+             "description": "رنگ‌پریدگی آبی پوست، لب‌ها و ناخن‌ها به دلیل کمبود اکسیژن در خون."
+         },
+         {
+             "symptom": "تنگی نفس",
+             "description": "مشکل در تنفس یا احساس خستگی، حتی در حین فعالیت‌های ملایم، به دلیل تلاش قلب برای پمپاژ مؤثر."
+         },
+         {
+             "symptom": "خستگی",
+             "description": "خستگی شدید و سطح انرژی پایین به دلیل کمبود اکسیژن کافی در بدن."
+         },
+         {
+             "symptom": "تغذیه نامناسب در نوزادان",
+             "description": "نوزادان ممکن است به دلیل خستگی و مشکلات تنفسی در تغذیه مناسب مشکل داشته باشند که منجر به مشکلات وزن‌گیری می‌شود."
+         },
+         {
+             "symptom": "صدای غیرطبیعی قلبی",
+             "description": "صدای غیرطبیعی در طول دوره ضربان قلب، که نشان دهنده جریان خون متلاطم در قلب است."
+         },
+         {
+             "symptom": "رشد و توسعه کند",
+             "description": "کودکان مبتلا به نقص‌های تک بطن ممکن است با رشد کندتر و تأخیر در مراحل توسعه مواجه شوند به دلیل اختلال در گردش خون."
+         }
+     ],
+     "treatments": "درمان نقص‌های تک بطن معمولاً شامل رویکرد جراحی مرحله‌ای است. اولین جراحی، که اغلب در طی چند ماه اول زندگی انجام می‌شود، معمولاً روش نروود است. این عمل جراحی به بازسازی قلب برای بهبود جریان خون کمک می‌کند. جراحی‌های بعدی، مانند روش گلن و روش فونتان، در رشد کودک انجام می‌شود تا اطمینان حاصل شود که خون به خوبی اکسیژن‌پذیری می‌شود. مدیریت پزشکی ممکن است شامل استفاده از داروهایی مانند دیورتیک‌ها برای کاهش تجمع مایعات و مهارکننده‌های ACE برای کمک به کارکرد مؤثرتر قلب باشد. مراقبت طولانی‌مدت شامل قرار ملاقات‌های منظم پیگیری با یک متخصص قلب اطفال برای نظارت بر عملکرد قلب و رشد کودک است."
+ }
+}

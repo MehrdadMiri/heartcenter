@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Atenolol is a selective beta-1 adrenergic antagonist, primarily used to manage hypertension and angina pectoris. It works by blocking the effects of adrenaline on the heart, which decreases heart rate and blood pressure. Atenolol is also used for the prevention of migraine headaches and to improve survival rates after a heart attack. Overall, it contributes to reducing the workload on the heart and helps maintain a stable and lower blood pressure.",
+    
+    "uses": "Atenolol is commonly prescribed for the treatment of high blood pressure (hypertension), which helps in preventing strokes, heart attacks, and kidney problems. It is also utilized in managing angina, as it decreases the heart's oxygen demand during physical activity or stress.\n\nAdditionally, atenolol is used in the prevention of migraine attacks and in treating certain types of arrhythmias, providing a multifaceted approach to cardiovascular and neurological conditions.",
+
+    "side effects": [
+      "Fatigue: A common side effect, resulting in a general sense of tiredness or lack of energy.",
+      "Dizziness: May occur due to a drop in blood pressure, especially when standing up quickly.",
+      "Cold hands or feet: Reduced blood flow can result in a sensation of coldness in peripheral limbs.",
+      "Depression: Some patients may experience mood changes, including feelings of sadness or depression.",
+      "Insomnia: Difficulty in sleeping can occur, affecting overall rest and recovery.",
+      "Bradycardia: A slower than normal heart rate, which can lead to fatigue or fainting in severe cases."
+    ]
+  },
+  "fa": {
+    "description": "آتنولول یک آنتاگونیست انتخابی بتا-1 آدرنرژیک است که عمدتاً برای مدیریت فشار خون بالا و آنژین صدری استفاده می‌شود. این دارو با مسدود کردن اثرات آدرنالین بر قلب، ضربان قلب و فشار خون را کاهش می‌دهد. آتنولول همچنین برای پیشگیری از سردردهای میگرنی و بهبود میزان بقا بعد از حمله قلبی استفاده می‌شود. به طور کلی، این دارو به کاهش بار کاری بر روی قلب کمک کرده و فشار خون را پایدارتر و پایین‌تر نگه می‌دارد.",
+
+    "uses": "آتنولول به طور معمول برای درمان فشار خون بالا (هیپرتنسیون) تجویز می‌شود که به جلوگیری از سکته‌ مغزی، حملات قلبی و مشکلات کلیوی کمک می‌کند. همچنین در مدیریت آنژین استفاده می‌شود، زیرا نیاز اکسیژن قلب را در حین فعالیت بدنی یا استرس کاهش می‌دهد.\n\nافزون بر این، آتنولول در پیشگیری از حملات میگرنی و درمان برخی از انواع آریتمی‌ها نیز استفاده می‌شود و با توجه به آن، رویکردی چند جانبه به شرایط قلبی و عصبی ارائه می‌دهد.",
+
+    "side effects": [
+      "خستگی: یکی از عوارض رایج، که منجر به حس عمومی خستگی یا کمبود انرژی می‌شود.",
+      "سرگیجه: ممکن است به دلیل کاهش فشار خون، به ویژه هنگام بلند شدن سریع از حالت نشسته اتفاق بیفتد.",
+      "دست‌ها یا پاهای سرد: کاهش جریان خون می‌تواند منجر به حس سردی در اندام‌های محیطی شود.",
+      "افسردگی: برخی از بیماران ممکن است تغییرات روحی را تجربه کنند، از جمله احساس غم یا افسردگی.",
+      "بی‌خوابی: ممکن است دشواری در خواب وجود داشته باشد که بر استراحت و بهبودی کلی تأثیر بگذارد.",
+      "برادی کاردی: کاهش ضربان قلب بیش از حد طبیعی که در موارد شدید می‌تواند منجر به خستگی یا غش شود."
+    ]
+  }
+}

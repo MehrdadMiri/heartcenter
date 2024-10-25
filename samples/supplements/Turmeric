@@ -1,0 +1,28 @@
+{
+ "en": {
+    "description": "Turmeric is a bright yellow spice derived from the rhizome of the Curcuma longa plant, commonly used in cooking as well as in traditional medicine. It contains an active compound called curcumin, which is known for its anti-inflammatory, antioxidant, and healing properties. Turmeric is often used to support joint health, boost the immune system, and improve digestive health, making it a popular choice in Ayurvedic and herbal medicine.",
+    "benefits": "Turmeric has numerous health benefits, including reducing inflammation, lowering the risk of chronic diseases, aiding in digestion, improving liver function, enhancing skin health, and providing antioxidant protection.",
+    "side effects": [
+        "Stomach upset",
+        "Nausea",
+        "Dizziness",
+        "Diarrhea",
+        "Allergic reactions",
+        "Risk of bleeding (with high doses)",
+        "Interference with certain medications (e.g., anticoagulants)"
+    ]
+ },
+ "fa": {
+     "description": "زردچوبه یک ادویه زرد رنگ است که از ریزوم گیاهی به نام Curcuma longa به دست می‌آید و معمولاً در آشپزی و همچنین در طب سنتی استفاده می‌شود. این گیاه دارای ماده فعال به نام کورکومین است که به خاطر خواص ضد التهابی، آنتی‌اکسیدانی و healing خود شناخته می‌شود. زردچوبه معمولاً به منظور حمایت از سلامت مفاصل، تقویت سیستم ایمنی و بهبود سلامت دستگاه گوارش استفاده می‌شود و انتخاب محبوبی در درمان‌های آیورودا و گیاهی است.",
+     "benefits": "زردچوبه دارای فواید زیادی برای سلامتی است، از جمله کاهش التهاب، کاهش خطر بیماری‌های مزمن، کمک به هضم، بهبود عملکرد کبد، تقویت سلامت پوست و ارائه محافظت آنتی‌اکسیدانی.",
+     "side effects": [
+         "اختلال در معده",
+         "تهوع",
+         "سرگیجه",
+         "اسهال",
+         "واکنش‌های آلرژیک",
+         "خطر خونریزی (با دوزهای بالا)",
+         "تداخل با برخی داروها (مانند داروهای رقیق‌کننده خون)"
+     ]
+ }
+}

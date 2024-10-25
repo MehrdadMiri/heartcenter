@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Supraventricular Tachycardia (SVT) is a rapid heart rate that originates from improper electrical activity in the upper chambers of the heart (the atria). This condition can occur suddenly and may last for a few seconds to several hours, causing the heart to beat rapidly, typically exceeding 100 beats per minute. SVT can be triggered by various factors, including stress, alcohol, caffeine, and certain medications. While SVT is generally not life-threatening, it can lead to discomfort and other heart-related issues if not addressed.",
+    "symptoms": [
+        "Palpitations: A sudden feeling of an increased or irregular heartbeat, which may feel like a fluttering in the chest.",
+        "Dizziness: A sensation of lightheadedness or feeling faint, potentially due to decreased blood flow.",
+        "Shortness of breath: Difficulty breathing or the sensation of not getting enough air during an episode.",
+        "Chest pain: Discomfort or pain in the chest that may occur during an SVT episode, often resembling angina.",
+        "Fatigue: Persistent tiredness or exhaustion, which may occur after experiencing an episode of rapid heart rate."
+    ],
+    "treatments": "Treatment options for SVT vary depending on the frequency and severity of episodes. For occasional SVT, simple maneuvers like the Valsalva maneuver or cold water immersion may be effective in slowing the heart rate. Medications, such as beta-blockers or calcium channel blockers, can help manage and prevent episodes. In more recurrent or severe cases, a cardiologist may recommend catheter ablation, a minimally invasive procedure that targets and destroys the heart tissue responsible for the abnormal electrical signals. Lifestyle changes, including avoiding triggers (like caffeine and stress), regular exercise, and maintaining a healthy diet, are also crucial for managing SVT."
+ },
+ "fa": {
+     "description": "تاکی کاردی فوق‌بطنی (SVT) یک ضربان قلب سریع است که از فعالیت الکتریکی نادرست در اتاقک‌های بالایی قلب (دهلیزها) ناشی می‌شود. این وضعیت می‌تواند به طور ناگهانی اتفاق بیفتد و ممکن است چند ثانیه تا چند ساعت به طول بینجامد، قلب را وادار به ضربان سریع می‌کند و معمولاً بیش از ۱۰۰ ضربه در دقیقه است. SVT می‌تواند توسط عوامل مختلفی از جمله استرس، الکل، کافئین و برخی داروها تحریک شود. در حالی که SVT معمولاً تهدیدکننده زندگی نیست، در صورت عدم رسیدگی می‌تواند منجر به ناراحتی و سایر مشکلات قلبی شود.",
+     "symptoms": [
+         "تپش قلب: احساس ناگهانی افزایش یا نامنظم بودن ضربان قلب، که ممکن است مانند پرش در سینه احساس شود.",
+         "سرگیجه: احساس سبکی یا بی‌هوشی، که ممکن است به دلیل کاهش جریان خون باشد.",
+         "تنفس کوتاه: دشواری در تنفس یا احساس عدم دریافت هوای کافی در حین یک دوره.",
+         "درد قفسه سینه: ناراحتی یا دردی در قفسه سینه که ممکن است در حین یک دوره SVT اتفاق بیفتد و اغلب شبیه آنژین است.",
+         "خستگی: خستگی مداوم یا فرسودگی، که ممکن است بعد از تجربه یک دوره ضربان قلب سریع احساس شود."
+     ],
+     "treatments": "گزینه‌های درمانی برای SVT بسته به فراوانی و شدت دوره‌ها متفاوت است. برای SVTهای گاه به گاه، روش‌های ساده‌ای مانند مانور والسالوا یا غوطه‌وری در آب سرد ممکن است در کاهش ضربان قلب مؤثر باشد. داروهایی مانند بتا-بلاکرها یا مهارکننده‌های کانال کلسیم می‌توانند به مدیریت و پیشگیری از دوره‌ها کمک کنند. در موارد شدیدتر و مکرر، یک متخصص قلب ممکن است درمان ابلیشن کاتتری (یک روش کم‌تهاجمی که با هدف نابود کردن بافت قلبی مسئول سیگنال‌های الکتریکی غیرطبیعی انجام می‌شود) را توصیه کند. تغییرات در سبک زندگی، از جمله اجتناب از محرک‌ها (مانند کافئین و استرس)، ورزش منظم و حفظ یک رژیم غذایی سالم نیز برای مدیریت SVT بسیار حیاتی هستند."
+ }
+}

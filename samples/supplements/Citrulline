@@ -1,0 +1,36 @@
+{
+ "en": {
+    "description": "Citrulline is a non-essential amino acid that plays a vital role in the urea cycle and is involved in the production of nitric oxide, which helps improve blood flow and reduce blood pressure. It is commonly found in watermelon and is available as a dietary supplement. Citrulline is often used by athletes and fitness enthusiasts to enhance exercise performance, decrease muscle soreness, and support recovery after intense workouts. Additionally, it showcases potential benefits in managing erectile dysfunction and improving cardiovascular health.",
+    "benefits": [
+      "Improves exercise performance",
+      "Reduces muscle soreness",
+      "Enhances recovery after workouts",
+      "Supports cardiovascular health",
+      "May help manage erectile dysfunction"
+    ],
+    "side effects": [
+      "Gastrointestinal discomfort",
+      "Diarrhea",
+      "Nausea",
+      "Stomach cramps",
+      "Potential interactions with certain medications"
+    ]
+ },
+ "fa": {
+    "description": "سیترولین یک آمینو اسید غیرضروری است که نقش مهمی در چرخه اوره دارد و در تولید نیتریک اکسید، که به بهبود جریان خون و کاهش فشار خون کمک می‌کند، دخالت دارد. این ترکیب به طور طبیعی در هندوانه وجود دارد و به عنوان یک مکمل غذایی در دسترس است. سیترولین معمولاً توسط ورزشکاران و علاقه‌مندان به تناسب اندام برای بهبود عملکرد ورزشی، کاهش دردهای عضلانی و حمایت از بهبودی بعد از تمرینات شدید استفاده می‌شود. همچنین، این ماده خواصی بالقوه در مدیریت اختلال نعوظ و بهبود سلامت قلب و عروق نشان می‌دهد.",
+    "benefits": [
+      "بهبود عملکرد ورزشی",
+      "کاهش دردهای عضلانی",
+      "افزایش بهبودی بعد از تمرینات",
+      "حمایت از سلامت قلب و عروق",
+      "ممکن است به مدیریت اختلال نعوظ کمک کند"
+    ],
+    "side effects": [
+      "ناراحتی گوارشی",
+      "اسهال",
+      "تهوع",
+      "کرپن شکمی",
+      "احتمال تداخل با برخی داروها"
+    ]
+ }
+}

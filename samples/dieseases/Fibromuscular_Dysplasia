@@ -1,0 +1,54 @@
+{
+  "en": {
+    "description": "Fibromuscular dysplasia (FMD) is a rare vascular disorder that affects the blood vessels, particularly the carotid and renal arteries, leading to abnormal growth of the cells in the vessel walls. This condition can result in stenosis (narrowing), aneurysm formation, or dissection, and is often asymptomatic, detected incidentally during imaging for other conditions. It predominantly affects women and can lead to serious complications such as stroke or hypertension if left untreated.",
+    "symptoms": [
+      {
+        "symptom": "Headaches",
+        "description": "Chronic or recurrent headaches that may be throbbing or resemble migraines."
+      },
+      {
+        "symptom": "Hypertension",
+        "description": "Elevated blood pressure, particularly resistant hypertension that doesn't respond to standard treatments."
+      },
+      {
+        "symptom": "Dizziness",
+        "description": "Feeling lightheaded or dizzy, often associated with changes in position."
+      },
+      {
+        "symptom": "Vision changes",
+        "description": "Experiencing blurred vision or transient vision loss due to vascular involvement in the neck."
+      },
+      {
+        "symptom": "Abdominal pain",
+        "description": "Pain in the abdomen, which can be related to renal artery involvement and compromised blood flow."
+      }
+    ],
+    "treatments": "Treatment for fibromuscular dysplasia is tailored to the individual's symptoms and severity of the condition. For hypertension, medications such as angiotensin-converting enzyme (ACE) inhibitors or calcium channel blockers are commonly prescribed. In cases where stenosis is severe, angioplasty with or without stenting may be indicated to open the affected artery. Surgical intervention may be necessary for complications such as aneurysms or dissections. Regular follow-up with imaging studies is crucial to monitor disease progression and cardiovascular health."
+  },
+  "fa": {
+    "description": "دیسپلازی فیبروماستیک یک اختلال عروقی نادر است که رگ‌های خونی، به ویژه شریان‌های کاروتید و کلیوی را تحت تأثیر قرار می‌دهد و باعث رشد غیرطبیعی سلول‌ها در دیواره‌های رگ می‌شود. این وضعیت می‌تواند منجر به تنگی (باریک شدن)، تشکیل آنوریسم یا دیسکسیون شود و اغلب بدون علامت است و در حین تصویربرداری برای بیماری‌های دیگر به طور تصادفی تشخیص داده می‌شود. این بیماری بیشتر زنان را تحت تأثیر قرار می‌دهد و در صورت عدم درمان می‌تواند به عوارض جدی مانند سکته یا فشار خون منجر شود.",
+    "symptoms": [
+      {
+        "symptom": "سردردها",
+        "description": "سردردهای مزمن یا مکرر که ممکن است ضرباندار یا شبیه میگرن باشد."
+      },
+      {
+        "symptom": "فشار خون بالا",
+        "description": "فشار خون بالا، به ویژه فشار خون مقاوم که به درمان‌های استاندارد پاسخ نمی‌دهد."
+      },
+      {
+        "symptom": "سرگیجه",
+        "description": "احساس سبکی سر یا سرگیجه، که اغلب با تغییر موقعیت همراه است."
+      },
+      {
+        "symptom": "تغییرات بینایی",
+        "description": "تجربه‌ی تاری دید یا از دست دادن موقت بینایی به دلیل درگیری عروقی در گردن."
+      },
+      {
+        "symptom": "درد شکم",
+        "description": "درد در ناحیه شکم، که می‌تواند به درگیری شریان کلیوی و کاهش جریان خون مربوط باشد."
+      }
+    ],
+    "treatments": "درمان دیسپلازی فیبروماستیک بر اساس علائم و شدت وضعیت فردی تنظیم می‌شود. برای فشار خون بالا، داروهایی مانند مهارکننده‌های آنزیم مبدل آنژیوتنسین (ACE) یا مسدودکننده‌های کانال کلسیم معمولاً تجویز می‌شوند. در مواردی که تنگی شدید است، بالون‌گذاری با یا بدون استنت ممکن است برای باز کردن شریان آسیب‌دیده مورد نیاز باشد. مداخله جراحی ممکن است برای عوارضی مانند آنوریسم‌ها یا دیسکسیون‌ها ضروری باشد. پیگیری منظم با مطالعات تصویربرداری برای نظارت بر پیشرفت بیماری و سلامت قلب و عروق بسیار مهم است."
+  }
+}

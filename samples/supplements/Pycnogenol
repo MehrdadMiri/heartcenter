@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Pycnogenol is a natural plant extract derived from the bark of the French maritime pine tree, Pinus pinaster. Rich in proanthocyanidins and other antioxidants, it has been studied for its potential health benefits, including its ability to improve circulation, reduce inflammation, and enhance skin health. It is often used as a dietary supplement for various conditions, including chronic venous insufficiency, asthma, and for improving overall cardiovascular health.",
+    "benefits": "Pycnogenol may help in improving blood flow, reducing symptoms of chronic venous insufficiency, alleviating allergic symptoms, and promoting skin hydration and elasticity. It is also believed to have neuroprotective properties and may improve cognitive function.",
+    "side effects": [
+      "Gastrointestinal issues (e.g., stomach upset, diarrhea)",
+      "Headaches",
+      "Dizziness",
+      "Mouth ulcers",
+      "Allergic reactions (in rare cases)"
+    ]
+  },
+  "fa": {
+    "description": "پیکنوژنول یک عصاره طبیعی است که از پوست درخت صنوبر دریایی فرانسه (Pinus pinaster) استخراج می‌شود. این عصاره غنی از پروآنتوسیانیدین‌ها و سایر آنتی‌اکسیدان‌ها بوده و به خاطر فواید بالقوه‌اش برای سلامت مورد مطالعه قرار گرفته است، از جمله توانایی آن در بهبود گردش خون، کاهش التهاب و بهبود سلامت پوست. این مکمل معمولاً برای شرایط مختلفی مانند نارسایی وریدی مزمن، آسم و بهبود سلامت قلب و عروق به کار می‌رود.",
+    "benefits": "پیکنوژنول ممکن است به بهبود جریان خون، کاهش نشانه‌های نارسایی وریدی مزمن، تسکین علائم آلرژیک و افزایش آبرسانی و الاستیسیته پوست کمک کند. همچنین به نظر می‌رسد خواص محافظتی عصبی داشته و ممکن است عملکرد شناختی را بهبود بخشد.",
+    "side effects": [
+      "مشکلات گوارشی (مانند ناراحتی معده، اسهال)",
+      "سردرد",
+      "سرگیجه",
+      "زخم‌های دهانی",
+      "واکنش‌های آلرژیک (در موارد نادر)"
+    ]
+  }
+}

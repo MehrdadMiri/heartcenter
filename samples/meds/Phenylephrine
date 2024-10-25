@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Phenylephrine is a selective alpha-1 adrenergic receptor agonist used primarily as a decongestant, vasopressor, and pupil dilator. It works by constricting blood vessels, which leads to reduced swelling and increased blood pressure. By targeting the alpha-1 receptors, phenylephrine effectively alleviates nasal congestion associated with colds, allergies, and sinusitis, while also being used in clinical settings to manage hypotension during anesthesia and as an adjunct in ophthalmic procedures.",
+    "uses": "Phenylephrine is commonly used to relieve nasal congestion due to conditions like the common cold, hay fever, or other upper respiratory allergies. It can be found in many over-the-counter cold and allergy medications. Additionally, phenylephrine is utilized during surgical procedures to maintain blood pressure and as a vasopressor in cases of shock. It is also prescribed for dilating pupils during eye examinations, allowing for better visualization of the retina and other structures in the eye.\n\nIn some cases, phenylephrine is used topically as an ingredient in hemorrhoid creams to reduce swelling and discomfort. Its ability to constrict blood vessels makes it valuable in various medical applications, making it an essential medication in both outpatient and inpatient settings.",
+    "side effects": [
+      "Headache: A common side effect experienced by patients, possibly due to increased blood pressure.",
+      "Dizziness: May occur as a result of altered blood flow and pressure.",
+      "Nausea: Some may experience gastrointestinal upset or nausea after administration.",
+      "Increased Blood Pressure: Due to its vasoconstrictor properties, phenylephrine may cause significant increases in blood pressure, especially in sensitive individuals.",
+      "Nervousness: Some patients report feeling anxious or jittery after taking the medication."
+    ]
+  },
+  "fa": {
+    "description": "فنيله‌فرین یک آگونیست انتخابی گیرنده آدرنرژیک آلفا-1 است که عمدتاً به عنوان یک ضد احتقان، وازوپرسور و گشادکننده مردمک استفاده می‌شود. این دارو با انقباض عروق خونی کار می‌کند که منجر به کاهش ورم و افزایش فشار خون می‌شود. با هدف قرار دادن گیرنده‌های آلفا-1، فنيله‌فرین به طور مؤثر احتقان بینی را که به دلیل سرماخوردگی، آلرژی‌ها و سینوزیت ایجاد می‌شود برطرف می‌سازد و همچنین در محیط‌های بالینی برای مدیریت فشار خون پایین در حین بیهوشی و به عنوان یک مکمل در رویه‌های چشمی استفاده می‌شود.",
+    "uses": "فنيله‌فرین به طور معمول برای تسکین احتقان بینی ناشی از شرایطی مانند سرماخوردگی معمولی، تب یونجه یا دیگر آلرژی‌های دستگاه تنفسی فوقانی استفاده می‌شود. این دارو در بسیاری از داروهای بدون نسخه سرماخوردگی و آلرژی موجود است. علاوه بر این، فنيله‌فرین در طول جراحی‌ها برای حفظ فشار خون و به عنوان یک وازوپرسور در موارد شوک استفاده می‌شود. همچنین برای گشاد کردن مردمک‌ها در حین معاینات چشم تجویز می‌شود که امکان مشاهده بهتر شبکیه و ساختارهای دیگر چشم را فراهم می‌کند.\n\nدر برخی موارد، فنيله‌فرین به صورت موضعی به عنوان یک ماده فعال در کرم‌های همورئید برای کاهش ورم و ناراحتی استفاده می‌شود. توانایی آن در انقباض عروق خونی باعث می‌شود ارزشمند در کاربردهای پزشکی مختلف باشد و آن را به یک داروی ضروری در محیط‌های سرپایی و بستری تبدیل کند.",
+    "side effects": [
+      "سردرد: یک عارضه جانبی شایع که ممکن است بیماران تجربه کنند، احتمالاً به دلیل افزایش فشار خون.",
+      "سرگیجه: ممکن است به عنوان نتیجه‌ای از تغییر در جریان و فشار خون رخ دهد.",
+      "تهوع: برخی ممکن است پس از مصرف دارو، ناراحتی گوارشی یا تهوع را تجربه کنند.",
+      "افزایش فشار خون: به علت خواص وازوکنستریکتی آن، فنيله‌فرین ممکن است باعث افزایش قابل توجه فشار خون شود، به ویژه در افراد حساس.",
+      "اضطراب: برخی بیماران گزارش می‌دهند که پس از مصرف دارو احساس نگرانی یا بی‌تابی دارند."
+    ]
+  }
+}

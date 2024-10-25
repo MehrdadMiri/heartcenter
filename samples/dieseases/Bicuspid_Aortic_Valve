@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Bicuspid Aortic Valve (BAV) is a congenital heart defect characterized by the presence of two cusps instead of the normal three in the aortic valve. This condition can lead to various complications, including aortic stenosis, aortic regurgitation, and increased risk of aortic aneurysm and dissection. Symptoms may be minimal in mild cases but can become severe as the condition progresses, necessitating medical intervention or surgery.",
+    "symptoms": [
+      "Shortness of breath: Difficulty breathing, especially during physical activity or when lying flat.",
+      "Chest pain: Discomfort or pain in the chest, which may occur during exertion.",
+      "Fatigue: Unusual tiredness or weakness that does not improve with rest.",
+      "Heart palpitations: Feeling of fluttering or irregular heartbeat.",
+      "Dizziness or fainting: Episodes of lightheadedness or loss of consciousness, especially during exertion.",
+      "Swelling: Fluid buildup in the legs, ankles, or feet."
+    ],
+    "treatments": "Treatment for Bicuspid Aortic Valve may vary depending on the severity of symptoms and associated complications. Regular monitoring and echocardiograms are essential to assess valve function. If significant stenosis or regurgitation occurs, options include medication to manage symptoms and surgical interventions such as valve repair or replacement. In cases involving associated thoracic aortic dilation or aneurysm, surgical repair of the aneurysm may also be necessary. Lifestyle changes, including a healthy diet and regular exercise, can be recommended to support overall cardiovascular health. Close follow-up with a cardiologist is crucial for managing the condition effectively."
+  },
+  "fa": {
+    "description": "والبیکسپید آئورتی (BAV) یک نقص مادرزادی قلب است که با وجود دو لبه به جای سه لبه معمول در دریچه آئورتی مشخص می‌شود. این وضعیت می‌تواند منجر به عوارض مختلفی مانند تنگی آئورت، نارسایی آئورت و افزایش خطر آنوریسم و دیسکسیون آئورتی شود. علائم ممکن است در موارد خفیف ناچیز باشند اما با پیشرفت شرایط می‌توانند شدید شوند و نیاز به مداخله پزشکی یا جراحی را ایجاب کنند.",
+    "symptoms": [
+      "تنگی نفس: دشواری در تنفس، به ویژه در حین فعالیت بدنی یا هنگام خوابیدن.",
+      "درد قفسه سینه: ناراحتی یا درد در قفسه سینه، که ممکن است در حین exertion رخ دهد.",
+      "خستگی: احساس خستگی یا ضعف غیرمعمول که با استراحت بهبود نمی‌یابد.",
+      "تپش قلب: احساس نوسان یا ضربان نامنظم قلب.",
+      "سرگیجه یا غش: دوره‌های سبک‌سری یا از دست دادن هوشیاری، به‌ویژه در حین exertion.",
+      "تورم: تجمع مایعات در پاها، مچ‌ها یا کف پا."
+    ],
+    "treatments": "درمان برای دریچه آئورتی بی‌کسپید ممکن است بسته به شدت علائم و عوارض همراه متفاوت باشد. نظارت منظم و اکوکاردیوگرام‌ها برای ارزیابی عملکرد دریچه ضروری است. اگر تنگی یا نارسایی قابل توجهی رخ دهد، گزینه‌ها شامل داروها برای مدیریت علائم و مداخلات جراحی مانند ترمیم یا تعویض دریچه می‌باشد. در موارد همراه با انبساط آئورت یا آنوریسم، ترمیم جراحی آنوریسم نیز ممکن است لازم باشد. تغییرات سبک زندگی، از جمله رژیم غذایی سالم و فعالیت بدنی منظم، می‌تواند برای حمایت از سلامت کلی قلبی‌عروقی توصیه شود. پیگیری نزدیک با متخصص قلب برای مدیریت مؤثر شرایط بسیار مهم است."
+  }
+}

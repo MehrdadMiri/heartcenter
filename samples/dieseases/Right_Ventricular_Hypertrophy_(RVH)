@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Right Ventricular Hypertrophy (RVH) is a condition characterized by the thickening of the muscular walls of the right ventricle of the heart. This thickening is often a response to increased pressure within the right ventricle, typically caused by conditions such as pulmonary hypertension, chronic lung disease, or structural heart abnormalities. RVH can lead to heart function impairment, arrhythmias, and an increased risk of heart failure if left untreated.",
+    "symptoms": {
+      "Fatigue": "Many patients experience general fatigue and reduced exercise tolerance due to impaired heart function.",
+      "Shortness of Breath": "Patients may feel increasingly short of breath, especially during physical activities, due to reduced blood flow and oxygen delivery.",
+      "Chest Pain": "Some individuals might experience chest pain or discomfort, which can be indicative of underlying cardiac issues.",
+      "Palpitations": "A feeling of irregular or rapid heartbeats can occur, often due to arrhythmias associated with RVH.",
+      "Swelling in Legs and Feet": "Fluid retention may lead to swelling in the lower extremities due to compromised heart function."
+    },
+    "treatments": "The treatment of Right Ventricular Hypertrophy primarily revolves around addressing the underlying cause. Management options include: \n1. Medications: Diuretics can help reduce fluid retention, while medications such as beta-blockers or ACE inhibitors may be prescribed to manage blood pressure and reduce workload on the heart. \n2. Lifestyle Modifications: Weight loss, a heart-healthy diet, and regular exercise can help improve overall cardiovascular health. \n3. Treatment of Underlying Conditions: Conditions like pulmonary hypertension should be adequately addressed through targeted therapies. \n4. Surgical Interventions: In some cases, surgery may be necessary to correct structural heart abnormalities contributing to RVH. Regular follow-up with a cardiologist is essential to monitor heart health."
+ },
+ "fa": {
+    "description": "هایپرتروفی بطن راست (RVH) حالتی است که با ضخیم شدن دیواره های عضلانی بطن راست قلب مشخص می شود. این ضخیم شدن معمولاً به دلیل افزایش فشار درون بطن راست، معمولا ناشی از شرایطی مانند فشار خون ریوی، بیماری های مزمن ریوی یا ناهنجاری های ساختاری قلب ایجاد می شود. اگر درمان نشود، RVH می تواند به اختلال عملکرد قلب، آریتمی و افزایش خطر نارسایی قلبی منجر شود.",
+    "symptoms": {
+      "خستگی": "بسیاری از بیماران خستگی عمومی و کاهش قابلیت تحمل ورزش را به دلیل اختلال عملکرد قلب تجربه می کنند.",
+      "تنگی نفس": "بیماران ممکن است به ویژه در هنگام فعالیت بدنی گرفتار تنگی نفس شوند به دلیل کاهش جریان خون و تحویل اکسیژن.",
+      "درد قفسه سینه": "برخی افراد ممکن است درد یا ناراحتی در قفسه سینه را تجربه کنند، که می تواند نشانه ای از مشکلات قلبی باشد.",
+      "تپش قلب": "احساس تپش یا ضربان نامنظم قلب ممکن است رخ دهد که غالباً به دلیل آریتمی های مرتبط با RVH است.",
+      "تورم در پاها و مچ پا": "احتباس مایعات می تواند منجر به تورم در اندام های تحتانی شود به دلیل اختلال عملکرد قلب."
+    },
+    "treatments": "درمان هایپرتروفی بطن راست عمدتاً بر درمان علت زمینه ای متمرکز است. گزینه های مدیریت شامل: \n1. داروها: مدرها می توانند به کاهش احتباس مایعات کمک کنند، در حالی که داروهایی مانند بتا-بلوک کننده ها یا مهارکننده های ACE ممکن است برای مدیریت فشار خون و کاهش بار بر روی قلب تجویز شوند. \n2. تغییرات سبک زندگی: کاهش وزن، رژیم غذایی سالم برای قلب و ورزش منظم می تواند به بهبود سلامت کلی قلب و عروق کمک کند. \n3. درمان شرایط زیر بنایی: شرایطی مانند فشار خون ریوی باید به طور کامل از طریق درمان های هدفمند مدیریت شوند. \n4. مداخلات جراحی: در برخی موارد، ممکن است جراحی برای اصلاح ناهنجاری های ساختاری قلب که به RVH دامن می زنند، لازم باشد. مراجعه منظم به یک متخصص قلب برای نظارت بر سلامت قلب ضروری است."
+ }
+}

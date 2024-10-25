@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Truncus Arteriosus is a congenital heart defect characterized by a single large arterial trunk arising from the heart, which serves as the main conduit for blood to flow to the lungs and the body. This condition results from improper development of the embryonic heart, leading to a fusion of the pulmonary artery and aorta. The defect results in mixing oxygen-poor and oxygen-rich blood, causing inadequate oxygenation and increased workload on the heart, typically presenting with symptoms early in life.",
+    "symptoms": [
+      "Cyanosis: A bluish color of the skin and mucous membranes due to low oxygen levels in the blood.",
+      "Rapid breathing: Increased respiratory rate as the body attempts to compensate for reduced oxygenation.",
+      "Heart murmur: An abnormal sound caused by turbulent blood flow through the heart.",
+      "Fatigue: Increased tiredness and reduced exercise tolerance due to insufficient oxygen delivery.",
+      "Poor feeding: Difficulty in feeding or lack of appetite in infants due to overall fatigue.",
+      "Clubbing: Enlargement and rounding of the fingers and toes over time, associated with chronic hypoxia."
+    ],
+    "treatments": "The primary treatment for Truncus Arteriosus is surgical intervention. The procedure typically involves separation of the arterial trunk into the aorta and pulmonary artery, allowing for proper blood flow dynamics. Additionally, a valve may be placed to regulate blood flow to the lungs. Medications such as diuretics and ACE inhibitors may be used pre-operatively to manage heart failure symptoms. Regular follow-ups with a cardiologist are crucial for monitoring heart function and overall health. In some cases, further surgeries may be needed as the child grows."
+  },
+  "fa": {
+    "description": "تروئیس آرتریوس یک نقص مادرزادی در قلب است که با وجود یک شریان بزرگ واحد که از قلب می‌آید و به عنوان مجرای اصلی برای جریان خون به ریه‌ها و بدن عمل می‌کند، مشخص می‌شود. این وضعیت ناشی از توسعه نادرست قلب جنینی است که منجر به ادغام شریان ریه و آئورت می‌شود. این نقص باعث اختلاط خون فقیر از اکسیژن و خون غنی از اکسیژن می‌شود که منجر به ناکافی اکسیژناسیون و افزایش بار کاری بر قلب می‌شود و معمولاً با علائم در اوایل زندگی مشخص می‌گردد.",
+    "symptoms": [
+      "سیانوز: رنگ آبی پوست و غشاء مخاطی به دلیل سطح پایین اکسیژن در خون.",
+      "تنفّس سریع: افزایش نرخ تنفس به عنوان تلاش بدن برای جبران کمبود اکسیژن.",
+      "گوش‌خوردگی قلب: صدای غیرعادی ناشی از جریان خون پر تلاطم از قلب.",
+      "خستگی: افزایش خستگی و تحمل پایین ورزش به دلیل ارائه ناکافی اکسیژن.",
+      "تغذیه بد: سختی در تغذیه یا عدم اشتها در نوزادان به دلیل خستگی کلی.",
+      "کلاپینگ: بزرگ شدن و گرد شدن انگشتان و انگشتان پا به مرور زمان که با هیپوکسی مزمن مرتبط است."
+    ],
+    "treatments": "درمان اصلی تروئیس آرتریوس مداخله جراحی است. این روش معمولاً شامل جداسازی شریان اصلی به آئورت و شریان ریه است تا دینامیک جریان خون صحیح حاصل شود. علاوه بر این، ممکن است یک دریچه برای تنظیم جریان خون به ریه‌ها قرار داده شود. داروهایی مانند دیورتیک‌ها و مهارکننده‌های ACE ممکن است به‌کار روند تا علائم نارسایی قلبی را قبل از عمل مدیریت کنند. پیگیری‌های منظم با یک قلب‌شناس برای نظارت بر عملکرد قلب و سلامت کلی بسیار مهم است. در برخی موارد، ممکن است به جراحی‌های بیشتری در طول رشد کودک نیاز باشد."
+  }
+}

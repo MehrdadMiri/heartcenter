@@ -1,0 +1,22 @@
+{
+  "en": {
+    "description": "Hyperlipidemia, also known as high cholesterol, is a condition characterized by elevated levels of lipids in the blood, primarily cholesterol and triglycerides. It is a significant risk factor for cardiovascular diseases, such as heart attack and stroke, often resulting from poor diet, lack of exercise, obesity, diabetes, or genetic predisposition. Although often asymptomatic, identifying and managing hyperlipidemia is crucial for maintaining heart health and overall well-being.",
+    "symptoms": [
+      "Asymptomatic: Most individuals with hyperlipidemia do not experience symptoms, making it a silent condition.",
+      "Xanthomas: These are fatty deposits that may appear under the skin or around the eyes, indicating abnormally high lipid levels.",
+      "Pancreatitis: Very high triglyceride levels can lead to inflammation of the pancreas, causing abdominal pain, nausea, and vomiting.",
+      "Chest Pain: While not common, chest pain may occur if high cholesterol leads to coronary artery disease."
+    ],
+    "treatments": "Treatment for hyperlipidemia typically involves lifestyle changes and medications. Dietary modifications such as reducing saturated fats and increasing omega-3 fatty acids can help lower cholesterol levels. Regular physical activity and weight loss are also recommended to improve lipid profiles. Medications may include statins, which help lower LDL cholesterol, or other lipid-lowering agents such as fibrates or PCSK9 inhibitors. Regular monitoring of lipid levels is essential to manage the condition effectively, and healthcare providers may adjust treatments based on individual risk factors and response to therapy."
+  },
+  "fa": {
+    "description": "هیپرلیپیدمی، که به عنوان کلسترول بالا نیز شناخته می‌شود، حالتی است که با افزایش سطح چربی‌ها در خون، به‌ویژه کلسترول و تری‌گلیسیریدها، مشخص می‌شود. این وضعیت یکی از عوامل خطر مهم برای بیماری‌های قلبی عروقی، مانند حمله قلبی و سکته مغزی، است و معمولاً ناشی از رژیم غذایی نامناسب، کم‌تحرکی، چاقی، دیابت یا زمینه ژنتیکی می‌باشد. هرچند اغلب بدون علامت است، شناسایی و مدیریت هیپرلیپیدمی برای حفظ سلامت قلب و بهبود کلی اهمیت دارد.",
+    "symptoms": [
+      "بدون علامت: بیشتر افراد مبتلا به هیپرلیپیدمی علائمی ندارند و به همین دلیل این وضعیت خاموش در نظر گرفته می‌شود.",
+      "زانتها: اینها تجمعات چربی هستند که ممکن است در زیر پوست یا دور چشم‌ها ظاهر شوند و نشان‌دهنده سطح غیرعادی بالای لیپید باشند.",
+      "پانکراتیت: سطح بسیار بالای تری‌گلیسیرید می‌تواند منجر به التهاب پانکراس شود که باعث درد شکم، تهوع و استفراغ می‌شود.",
+      "درد قفسه سینه: در حالی که شایع نیست، ممکن است در صورت بروز بیماری عروق کرونر به دلیل کلسترول بالا، درد قفسه سینه رخ دهد."
+    ],
+    "treatments": "درمان هیپرلیپیدمی معمولاً شامل تغییرات در سبک زندگی و داروها می‌شود. اصلاحات غذایی شامل کاهش چربی‌های اشباع و افزایش اسیدهای چرب امگا-3 می‌تواند به کاهش سطح کلسترول کمک کند. فعالیت بدنی منظم و کاهش وزن نیز برای بهبود پروفایل لیپیدها توصیه می‌شود. داروها ممکن است شامل استاتین‌ها، که به کاهش کلسترول LDL کمک می‌کنند، یا سایر عوامل کاهش‌دهنده لیپید مانند فیبرات‌ها یا مهارکننده‌های PCSK9 باشد. نظارت منظم بر سطح لیپید برای مدیریت مؤثر این وضعیت ضروری است و ارائه‌دهندگان خدمات بهداشتی ممکن است درمان‌ها را بر اساس عوامل خطر فردی و پاسخ به درمان تنظیم کنند."
+  }
+}

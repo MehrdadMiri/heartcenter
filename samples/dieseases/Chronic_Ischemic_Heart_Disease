@@ -1,0 +1,26 @@
+```json
+{
+  "en": {
+    "description": "Chronic Ischemic Heart Disease (CIHD) is a condition characterized by the reduction of blood flow to the heart muscle, typically caused by atherosclerosis, where plaque builds up in the coronary arteries, leading to inadequate oxygen supply. This chronic reduction in blood flow can result in chest pain, heart failure, and increase the risk of heart attacks, making early diagnosis and management crucial.",
+    "symptoms": [
+      "Chest Pain (Angina): Discomfort or pain in the chest, often triggered by physical activity or stress.",
+      "Shortness of Breath: Difficulty in breathing, especially during exertion or while lying down.",
+      "Fatigue: A feeling of extreme tiredness or lack of energy, even with minimal exertion.",
+      "Palpitations: Irregular heartbeats or feeling of rapid pounding of the heart.",
+      "Dizziness: Feeling lightheaded or faint, which may indicate inadequate blood flow to the brain."
+    ],
+    "treatments": "Treatment for Chronic Ischemic Heart Disease focuses on relieving symptoms and preventing complications. Lifestyle changes are essential, including a heart-healthy diet, regular exercise, and smoking cessation. Medications, such as antiplatelets (aspirin or clopidogrel), statins to lower cholesterol, beta-blockers to reduce heart workload, and nitrates for angina relief, may be prescribed. In more severe cases, procedures like angioplasty or coronary artery bypass grafting (CABG) might be necessary to restore blood flow to the heart."
+  },
+  "fa": {
+    "description": "بیماری قلبی ایسکمیک مزمن (CIHD) حالتی است که با کاهش جریان خون به عضله قلب مشخص می‌شود و معمولاً ناشی از آترواسکلروزیس است که در آن پلاک‌ها در شریان‌های کرونری تجمع می‌یابند و منجر به تأمین ناکافی اکسیژن می‌شوند. این کاهش مزمن در جریان خون می‌تواند منجر به درد قفسه سینه، نارسایی قلبی و افزایش خطر حملات قلبی شود، بنابراین تشخیص و مدیریت زودهنگام آن بسیار حیاتی است.",
+    "symptoms": [
+      "درد قفسه سینه (آنژین): ناراحتی یا درد در قفسه سینه، معمولاً با فعالیت بدنی یا استرس تحریک می‌شود.",
+      "تنگی نفس: مشکل در تنفس، به ویژه در حین فعالیت یا در حالت درازکش.",
+      "خستگی: احساس خستگی شدید یا کمبود انرژی، حتی با حداقل فعالیت.",
+      "تپش قلب: ضربان نامنظم قلب یا احساس طپش سریع قلب.",
+      "سرگیجه: احساس سبکی سر یا نزدیک به غش شدن، که ممکن است ناشی از جریان خون ناکافی به مغز باشد."
+    ],
+    "treatments": "درمان بیماری قلبی ایسکمیک مزمن معطوف به تسکین علائم و پیشگیری از عوارض است. تغییرات در سبک زندگی ضروری است، از جمله رژیم غذایی سالم برای قلب، ورزش منظم و ترک سیگار. داروهایی مانند آنتی‌پلاکتی‌ها (آسپرین یا کلاپیدوگرل)، داروهای استاتین برای کاهش کلسترول، بتا-بلوکرها برای کاهش بار قلب و نیترات‌ها برای تسکین آنژین ممکن است تجویز شوند. در موارد شدیدتر، انجام روش‌هایی مانند آنژیوپلاستی یا بای‌پس عروقی کرونری (CABG) ممکن است ضروری باشد."
+  }
+}
+```

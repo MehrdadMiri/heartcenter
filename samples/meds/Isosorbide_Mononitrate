@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Isosorbide Mononitrate is a medication primarily used to prevent angina pectoris (chest pain) caused by coronary artery disease. It works by relaxing blood vessels, which allows for better blood flow and reduces the workload on the heart. Patients may often take it in the form of oral tablets or extended-release formulations, depending on the severity of their condition and their specific treatment plan.",
+    "uses": "Isosorbide Mononitrate is primarily prescribed for patients suffering from chronic stable angina to reduce the frequency and severity of angina attacks. Additionally, it can be utilized in the management of heart failure and ischemic heart disease, helping improve exercise tolerance and overall quality of life for patients. It is essential for patients to follow their healthcare provider's instructions regarding dosage to ensure optimal benefit from the medication.\n\nIn some cases, Isosorbide Mononitrate may be used off-label for other cardiovascular conditions. However, its effects should be monitored carefully, and patients should report any unexpected symptoms to their physician. The medication is often part of a comprehensive treatment plan, which may include lifestyle changes such as diet modification and exercise to enhance cardiovascular health.",
+    "side effects": [
+      "Headache: A common side effect due to the vasodilatory effects of the medication.",
+      "Dizziness or lightheadedness: Occurs especially after the first dose or when standing up quickly due to lowered blood pressure.",
+      "Fatigue: Patients may feel unusually tired as a result of the medication's impact on blood circulation.",
+      "Flushing: Some individuals may experience a warm, red appearance of the skin, particularly of the face and neck.",
+      "Nausea: Gastrointestinal discomfort may occur, especially shortly after taking the medication."
+    ]
+  },
+  "fa": {
+    "description": "ایزوسورباید مونو نیترات دارویی است که به طور اولیه برای پیشگیری از آنژین پکتوریس (درد قفسه سینه) ناشی از بیماری عروق کرونر استفاده می‌شود. این دارو با شل کردن عروق خونی عمل می‌کند که اجازه می‌دهد خون به طور بهتری جریان یابد و کارایی قلب را کاهش می‌دهد. بیماران معمولاً این دارو را به صورت قرص‌های خوراکی یا فرموله‌های آزادسازی شده طولانی مصرف می‌کنند، بسته به شدت بیماری و طرح درمان خاص خود.",
+    "uses": "ایزوسورباید مونو نیترات عمدتاً برای بیمارانی که از آنژین مستمر پایدار رنج می‌برند تجویز می‌شود تا فراوانی و شدت حملات آنژین را کاهش دهد. علاوه بر این، ممکن است در مدیریت نارسایی قلبی و بیماری قلبی ایسکمیک مورد استفاده قرار گیرد و به بهبود تحمل ورزش و کیفیت کلی زندگی بیماران کمک کند. پیروی دقیق از دستورالعمل‌های ارائه شده توسط پزشک برای بیماران ضروری است تا از منافع بهینه دارو بهره‌مند شوند.\n\nدر برخی موارد، ایزوسورباید مونو نیترات ممکن است به طور خارج از برچسب برای شرایط قلبی عروقی دیگر استفاده شود. با این حال، باید اثرات آن به دقت زیر نظر قرار گیرد و بیماران باید هرگونه علائم غیرمنتظره را به پزشک خود گزارش دهند. این دارو غالباً بخشی از یک طرح درمان جامع است که ممکن است شامل تغییرات شیوه زندگی مانند اصلاح رژیم غذایی و ورزش برای بهبود سلامت قلبی عروقی باشد.",
+    "side effects": [
+      "سردرد: یک عوارض جانبی رایج ناشی از آثار گشادکننده عروق دارو.",
+      "سرگیجه یا احساس سبکی سر: به ویژه پس از دوز اول یا هنگام بلند شدن سریع به دلیل کاهش فشار خون.",
+      "خستگی: بیماران ممکن است به طور غیرمعمول خسته احساس کنند که ناشی از تأثیر دارو بر جریان خون است.",
+      "قرمزی: برخی افراد ممکن است تجربه ظاهری گرم و قرمز رنگ در پوست خود، به ویژه در صورت و گردن، داشته باشند.",
+      "تهوع: ناراحتی گوارشی ممکن است به ویژه به‌طور سریع پس از مصرف دارو رخ دهد."
+    ]
+  }
+}

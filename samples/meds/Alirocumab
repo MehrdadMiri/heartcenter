@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Alirocumab is a monoclonal antibody that inhibits proprotein convertase subtilisin/kexin type 9 (PCSK9), which is involved in cholesterol metabolism. By blocking this protein, alirocumab leads to increased low-density lipoprotein (LDL) receptor recycling, resulting in lower LDL cholesterol levels in the bloodstream. It is typically used in patients with high cholesterol who have not achieved adequate reduction through diet and statin therapies.",
+    "uses": "Alirocumab is primarily indicated for the treatment of hyperlipidemia, particularly in patients with heterozygous familial hypercholesterolemia or those with atherosclerotic cardiovascular disease who require additional LDL cholesterol lowering beyond what is achievable with statins alone. It is also used as an adjunct therapy in adults with established cardiovascular disease to further reduce the risk of heart attack and stroke.\n\nFurthermore, alirocumab is often prescribed for patients who are statin-intolerant or have a contraindication to statins, providing an effective alternative in the management of cholesterol levels while minimizing adverse effects often associated with traditional lipid-lowering medications.",
+    "side effects": [
+      "Injection site reactions (such as pain, redness, or swelling)",
+      "Muscle pain or cramps",
+      "Fatigue",
+      "Allergic reactions (including rash, itching, or swelling)",
+      "Diarrhea",
+      "Elevated liver enzymes"
+    ]
+  },
+  "fa": {
+    "description": "آلیروکوماب یک آنتی‌بادی مونوکلونال است که پروتئین تبدیل‌کننده پروپرولین (PCSK9) را مهار می‌کند که در متابولیسم کلسترول نقش دارد. با مسدود کردن این پروتئین، آلیروکوماب منجر به افزایش بازیافت گیرنده‌های کلسترول کم‌چگال (LDL) می‌شود که در نتیجه سطوح کلسترول LDL در خون کاهش می‌یابد. این دارو معمولاً در بیمارانی که دارای کلسترول بالا هستند و کاهش کافی را با رژیم غذایی و درمان‌های استاتینی به دست نیاورده‌اند، استفاده می‌شود.",
+    "uses": "آلیروکوماب به طور عمده برای درمان هیپرلیپیدمی، به طور خاص در بیمارانی با هیپرکلسترولی‌می خانوادگی هتروزیگوت یا کسانی که بیماری قلبی عروقی آترواسکلروتیک دارند و نیاز به کاهش بیشتر کلسترول LDL فراتر از آنچه که با استاتین‌ها می‌توان به دست آورد، توصیه می‌شود. همچنین به عنوان درمان کمکی در بزرگسالان با بیماری قلبی عروقی تأسیس‌شده برای کاهش بیشتر خطر حمله قلبی و سکته مغزی استفاده می‌شود.\n\nعلاوه بر این، آلیروکوماب اغلب برای بیمارانی که به استاتین‌ها تحمل ندارند یا دارای منع مصرف استاتین هستند تجویز می‌شود و گزینه موثری در مدیریت سطوح کلسترول در حالی که عوارض جانبی مرتبط با داروهای کاهش‌دهنده چربی سنتی را به حداقل می‌رساند، ارائه می‌کند.",
+    "side effects": [
+      "واکنش‌های محل تزریق (مانند درد، قرمزی یا تورم)",
+      "درد یا گرفتگی عضلانی",
+      "خستگی",
+      "واکنش‌های آلرژیک (شامل rash، خارش یا ورم)",
+      "اسهال",
+      "افزایش آنزیم‌های کبدی"
+    ]
+  }
+}

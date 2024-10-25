@@ -1,1 +1,54 @@
-{"fa": {"Name": "anomaly ebstein", "Description": "\u0646\u0642\u0635 \u0646\u0627\u062f\u0631 \u0642\u0644\u0628\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0622\u0646 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062f\u0631\u06cc\u0686\u0647 \u0633\u0647 \u0644\u062a\u06cc (\u062a\u0631\u06cc \u06a9\u0648\u0633\u067e\u06cc\u062f) \u063a\u06cc\u0631\u0637\u0628\u06cc\u0639\u06cc \u0627\u0633\u062a.", "Symptoms": "\u06a9\u0628\u0648\u062f\u06cc \u067e\u0648\u0633\u062a\u060c \u062a\u0646\u06af\u06cc \u0646\u0641\u0633\u060c \u062a\u067e\u0634 \u0642\u0644\u0628\u060c \u0648 \u062e\u0633\u062a\u06af\u06cc.", "Treatments": {"Diuretics": {"Use": "\u062f\u0627\u0631\u0648\u0647\u0627\u06cc \u0627\u062f\u0631\u0627\u0631\u0622\u0648\u0631 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0627\u062d\u062a\u0628\u0627\u0633 \u0645\u0627\u06cc\u0639 \u0648 \u0628\u0647\u0628\u0648\u062f \u0639\u0644\u0627\u0626\u0645 \u0642\u0644\u0628\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f.", "Side Effects": "\u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0639\u0648\u0627\u0631\u0636 \u062c\u0627\u0646\u0628\u06cc \u0634\u0627\u0645\u0644 \u0627\u0632 \u062f\u0633\u062a \u062f\u0627\u062f\u0646 \u0627\u0644\u06a9\u062a\u0631\u0648\u0644\u06cc\u062a\u200c\u0647\u0627\u060c \u062e\u0633\u062a\u06af\u06cc\u060c \u0648 \u0646\u06cc\u0627\u0632 \u0645\u06a9\u0631\u0631 \u0628\u0647 \u0627\u062f\u0631\u0627\u0631 \u06a9\u0631\u062f\u0646 \u0645\u06cc\u200c\u0628\u0627\u0634\u062f."}, "Antiarrhythmic drugs": {"Use": "\u062f\u0627\u0631\u0648\u0647\u0627\u06cc \u0636\u062f \u0622\u0631\u06cc\u062a\u0645\u06cc \u0628\u0631\u0627\u06cc \u06a9\u0646\u062a\u0631\u0644 \u0622\u0631\u06cc\u062a\u0645\u06cc\u200c\u0647\u0627\u06cc \u0642\u0644\u0628\u06cc \u0648 \u0628\u0647\u0628\u0648\u062f \u0639\u0645\u0644\u06a9\u0631\u062f \u0642\u0644\u0628 \u0645\u0648\u0631\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u06af\u06cc\u0631\u0646\u062f.", "Side Effects": "\u0639\u0648\u0627\u0631\u0636 \u062c\u0627\u0646\u0628\u06cc \u0645\u0645\u06a9\u0646 \u0634\u0627\u0645\u0644 \u0633\u0631\u06af\u06cc\u062c\u0647\u060c \u062e\u0633\u062a\u06af\u06cc\u060c \u0648 \u062a\u067e\u0634 \u0642\u0644\u0628 \u0645\u06cc\u200c\u0628\u0627\u0634\u062f."}, "Surgery": {"Use": "\u0639\u0645\u0644 \u062c\u0631\u0627\u062d\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u0627\u0635\u0644\u0627\u062d \u06cc\u0627 \u062a\u0639\u0648\u06cc\u0636 \u062f\u0631\u06cc\u0686\u0647 \u0633\u0647 \u0644\u062a\u06cc \u0648 \u0628\u0647\u0628\u0648\u062f \u062c\u0631\u06cc\u0627\u0646 \u062e\u0648\u0646 \u0642\u0644\u0628 \u0627\u0646\u062c\u0627\u0645 \u0634\u0648\u062f.", "Side Effects": "\u0639\u0648\u0627\u0631\u0636 \u062c\u0627\u0646\u0628\u06cc \u0639\u0645\u0644 \u062c\u0631\u0627\u062d\u06cc \u0634\u0627\u0645\u0644 \u0639\u0641\u0648\u0646\u062a\u060c \u062e\u0648\u0646\u0631\u06cc\u0632\u06cc \u0648 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0628\u0647\u0628\u0648\u062f\u06cc \u0637\u0648\u0644\u0627\u0646\u06cc \u0627\u0633\u062a."}}}, "en": {"Name": "Ebstein's Anomaly", "Description": "A rare heart defect in which parts of the tricuspid valve are abnormal.", "Symptoms": "Cyanosis, Shortness of breath, Palpitations, and Fatigue.", "Treatments": {"Diuretics": {"Use": "Diuretics are used to reduce fluid retention and alleviate heart-related symptoms.", "Side Effects": "Potential side effects include electrolyte loss, fatigue, and increased urination."}, "Antiarrhythmic drugs": {"Use": "Antiarrhythmic medications are used to manage heart arrhythmias and improve heart function.", "Side Effects": "Possible side effects include dizziness, fatigue, and palpitations."}, "Surgery": {"Use": "Surgery may be performed to repair or replace the tricuspid valve and improve blood flow in the heart.", "Side Effects": "Surgical side effects may include infection, bleeding, and a prolonged recovery period."}}}}
+{
+  "en": {
+    "description": "Ebstein's Anomaly is a congenital heart defect characterized by an abnormality of the tricuspid valve and the right side of the heart. In this condition, the tricuspid valve is malformed and positioned lower than normal in the right ventricle, which can lead to dysfunctional blood flow and decreased efficiency of the heart. This anomaly can result in various complications, including heart enlargement, arrhythmias, and heart failure. Symptoms often vary in severity depending on the extent of the defect and associated conditions.",
+    "symptoms": [
+      {
+        "symptom": "Shortness of breath",
+        "description": "Individuals may experience difficulty breathing during physical activity or at rest, often due to heart failure or reduced blood flow."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "A general feeling of tiredness or lack of energy can occur due to decreased oxygen supply to body tissues."
+      },
+      {
+        "symptom": "Palpitations",
+        "description": "Patients may experience irregular heartbeats or a sensation of the heart racing due to arrhythmias associated with the defect."
+      },
+      {
+        "symptom": "Cyanosis",
+        "description": "Bluish discoloration of the skin, lips, or nails can occur when oxygen-rich blood is not adequately delivered to the body, often indicative of more severe cases."
+      },
+      {
+        "symptom": "Swelling",
+        "description": "Swelling in the legs, abdomen, or around the eyes may occur due to fluid retention related to heart failure."
+      }
+    ],
+    "treatments": "Treatment for Ebstein's Anomaly varies depending on the severity of symptoms and associated complications. In mild cases, regular monitoring may be sufficient. Medications such as diuretics, beta-blockers, or antiarrhythmic drugs can be used to manage symptoms and improve heart function. In more severe cases, surgical intervention may be necessary. This can include repairing the malformed tricuspid valve, placing a prosthetic valve, or potentially performing a more extensive procedure such as atrial septal defect repair or Fontan procedure. Each treatment plan is tailored to the individual patient's needs and should be determined by a cardiologist experienced in congenital heart defects."
+  },
+  "fa": {
+    "description": "آنومالی ابشتاین یک نقص قلب مادرزادی است که با نقصی در دریچه سه‌راهی و سمت راست قلب مشخص می‌شود. در این وضعیت، دریچه سه‌راهی به طور غیرطبیعی شکل گرفته و در مقایسه با حالت نرمال، در ventricle راست قرار دارد. این وضعیت می‌تواند به اختلال در جریان خون و کاهش کارایی قلب منجر شود. این آنومالی می‌تواند منجر به عوارض مختلفی از جمله بزرگ شدن قلب، آریتمی‌ها و نارسایی قلب شود. علائم معمولاً بسته به شدت نقص و شرایط مرتبط متفاوت است.",
+    "symptoms": [
+      {
+        "symptom": "تنگی نفس",
+        "description": "افراد ممکن است در حین فعالیت بدنی یا در حالت استراحت با مشکل تنفس مواجه شوند که معمولاً به دلیل نارسایی قلبی یا کاهش جریان خون است."
+      },
+      {
+        "symptom": "خستگی",
+        "description": "احساس عمومی خستگی یا کمبود انرژی ممکن است رخ دهد که به علت کاهش عرضه اکسیژن به بافت‌های بدن باشد."
+      },
+      {
+        "symptom": "تپش قلب",
+        "description": "بیماران ممکن است تجربه شتاب غیرمنظم قلب یا حس تپش قلب را که به دلیل آریتمی‌های وابسته به نقص است، داشته باشند."
+      },
+      {
+        "symptom": "سیانوز",
+        "description": "رنگ پریدگی آبی پوست، لب‌ها یا ناخن‌ها ممکن است وقتی که خون غنی از اکسیژن به طور مناسبی به بدن منتقل نمی‌شود، رخ دهد، که معمولاً نشان‌دهنده موارد شدیدتر است."
+      },
+      {
+        "symptom": "ورم",
+        "description": "ورم در پاها، شکم یا دور چشم‌ها ممکن است به دلیل احتباس مایع مرتبط با نارسایی قلب رخ دهد."
+      }
+    ],
+    "treatments": "درمان آنومالی ابشتاین بستگی به شدت علائم و عوارض مرتبط دارد. در موارد خفیف، نظارت منظم ممکن است کافی باشد. داروهایی مانند دیورتیک‌ها، بتا بلاکرها یا داروهای ضد آریتمی می‌توانند برای مدیریت علائم و بهبود عملکرد قلب مورد استفاده قرار گیرند. در موارد شدیدتر، مداخله جراحی ممکن است ضروری باشد. این می‌تواند شامل تعمیر دریچه سه‌راهی معیوب، قرار دادن دریچه مصنوعی، یا احتمالاً انجام یک عمل جراحی وسیع‌تر مانند ترمیم نقص سپتوم دهلیزی یا روش فونتان باشد. هر طرح درمانی بر اساس نیازهای فردی بیمار تنظیم می‌شود و باید توسط یک متخصص قلب با تجربه در نقص‌های قلبی مادرزادی تعیین شود."
+  }
+}

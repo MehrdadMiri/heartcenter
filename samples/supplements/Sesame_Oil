@@ -1,0 +1,22 @@
+{
+  "en": {
+    "description": "Sesame oil is a versatile cooking oil extracted from sesame seeds, known for its rich flavor and numerous health benefits. It contains a variety of nutrients including antioxidants, vitamins, and healthy fats that contribute to heart health, reduce inflammation, and promote healthy skin. Additionally, sesame oil is often used in traditional medicine for its potential to improve digestion, enhance oral health, and provide antimicrobial properties.",
+    "benefits": "Sesame oil offers several health benefits, such as promoting cardiovascular health by lowering blood pressure and cholesterol levels, enhancing skin health due to its moisturizing properties, acting as an anti-inflammatory agent, and supporting oral health by combating harmful bacteria. It is also rich in antioxidants, which can help protect the body from oxidative stress.",
+    "side effects": [
+      "Allergic reactions (in those allergic to sesame)",
+      "Digestive issues (in excess consumption)",
+      "Hormonal effects (due to phytoestrogens)",
+      "Potential interactions with medications (e.g., anticoagulants)"
+    ]
+  },
+  "fa": {
+    "description": "روغن کنجد یک روغن پخت و پز چندمنظوره است که از دانه‌های کنجد استخراج می‌شود و به خاطر طعم غنی و فواید سلامتی متعددش شناخته شده است. این روغن حاوی انواع مواد مغذی از جمله آنتی‌اکسیدان‌ها، ویتامین‌ها و چربی‌های سالم است که به بهبود سلامت قلب کمک کرده، التهاب را کاهش می‌دهد و از سلامت پوست حمایت می‌کند. همچنین، روغن کنجد در طب سنتی برای بهبود هضم، تقویت سلامت دهان و خواص میکروب‌زدا مورد استفاده قرار می‌گیرد.",
+    "benefits": "روغن کنجد چندین فایده سلامتی دارد، از جمله ارتقای سلامت قلبی‌عروقی با کاهش فشار خون و سطح کلسترول، بهبود سلامت پوست به خاطر خواص مرطوب‌کنندگی‌اش، عمل به عنوان یک عامل ضد التهاب و حمایت از سلامت دهان با مبارزه با باکتری‌های مضر. همچنین غنی از آنتی‌اکسیدان‌ها است که می‌تواند به حفاظت از بدن در برابر استرس اکسیداتیو کمک کند.",
+    "side effects": [
+      "واکنش‌های آلرژیک (در افرادی که به کنجد آلرژی دارند)",
+      "مشکلات گوارشی (در مصرف بیش از حد)",
+      "عوارض هورمونی (به دلیل فیتواستروژن‌ها)",
+      "تعاملات بالقوه با داروها (مانند رقیق‌کننده‌های خون)"
+    ]
+  }
+}

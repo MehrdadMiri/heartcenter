@@ -1,0 +1,24 @@
+```json
+{
+  "en": {
+    "description": "Urokinase is a thrombolytic agent used to dissolve blood clots that have formed in blood vessels, particularly in cases of pulmonary embolism and myocardial infarction. It is derived from human kidney cells and works by converting plasminogen to plasmin, an enzyme that breaks down fibrin, the protein that forms the framework of blood clots. Urokinase is administered intravenously under careful medical supervision.",
+    "uses": "Urokinase is primarily used in the treatment of acute pulmonary embolism, where it helps restore blood flow to the lungs by dissolving clots. It is also indicated for the treatment of myocardial infarction, helping to minimize heart damage by dissolving thrombi in coronary arteries. Additionally, Urokinase can be used off-label for other clot-related conditions such as deep vein thrombosis and occluded catheters.",
+    "side effects": [
+      "Bleeding: This can occur at various sites, including gastrointestinal and urogenital tracts, and may range from mild to severe.",
+      "Hypotension: A drop in blood pressure may occur, leading to symptoms like dizziness and fainting.",
+      "Allergic reactions: Some individuals may experience allergic reactions, such as rash, itching, or anaphylaxis.",
+      "Arrhythmias: Changes in heart rhythm may occur as a result of the medication."
+    ]
+  },
+  "fa": {
+    "description": "یوروکیناز یک داروی ترومبولیتیک است که برای حل کردن لخته‌های خون تشکیل شده در عروق خونی استفاده می‌شود، به ویژه در موارد آمبولی ریوی و انفارکتوس میوکارد. این دارو از سلول‌های کلیه انسان مشتق شده و با تبدیل پلاسمینوژن به پلاسمین، آنزیمی که فیبرین، پروتئینی که چارچوب لخته‌های خون را تشکیل می‌دهد، تجزیه می‌کند، کار می‌کند. یوروکیناز به صورت داخل وریدی تحت نظارت دقیق پزشکی تجویز می‌شود.",
+    "uses": "یوروکیناز عمدتاً در درمان آمبولی ریوی حاد استفاده می‌شود، جایی که به بازگرداندن جریان خون به ریه‌ها با تجزیه لخته‌ها کمک می‌کند. این دارو همچنین برای درمان انفارکتوس میوکارد نشان داده شده است و به حداقل رساندن آسیب قلبی با حل کردن ترومبوس‌ها در شریان‌های کرونری کمک می‌کند. علاوه بر این، یوروکیناز می‌تواند به صورت خارج از برچسب برای شرایط دیگر مربوط به لخته خون مانند ترومبوز ورید عمقی و کاتترهای مسدود شده استفاده شود.",
+    "side effects": [
+      "خونریزی: این ممکن است در مکان‌های مختلف، از جمله دستگاه گوارش و مجاری ادراری و تولید مثل رخ دهد و می‌تواند از خفیف تا شدید باشد.",
+      "فشار خون پایین: ممکن است افت فشار خون رخ دهد که می‌تواند به علائمی مانند سرگیجه و غش منجر شود.",
+      "واکنش‌های آلرژیک: برخی از افراد ممکن است واکنش‌های آلرژیک را تجربه کنند، مانند جوش، خارش یا شوک آنافیلاکتیک.",
+      "آریتمی‌ها: تغییرات در ریتم قلب ممکن است به عنوان نتیجه دارو رخ دهد."
+    ]
+  }
+}
+```

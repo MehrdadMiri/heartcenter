@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Procainamide is an antiarrhythmic medication used primarily to treat certain types of irregular heartbeats, particularly ventricular arrhythmias. It works by blocking sodium channels in heart tissues, thereby stabilizing the cardiac membrane and effectively slowing down electrical conduction. Procainamide is typically administered when other treatments have failed or are deemed unsuitable, making it an essential option in the management of life-threatening cardiac conditions.",
+    "uses": "Procainamide is mainly used in the treatment of various forms of tachycardia, including atrial fibrillation and ventricular tachycardia. It is also utilized for the management of patients in acute settings where there is a need for rapid control of arrhythmias. In some cases, Procainamide may be employed to help prevent recurrent episodes of arrhythmia in patients with a history of such conditions.\n\nAdditionally, it can be used in emergency situations, such as during cardiac emergencies when patients present with significant ventricular ectopy. Due to its effectiveness in stabilizing heart rhythm, Procainamide plays a vital role in the cardiology field, especially among patients who cannot tolerate other antiarrhythmic agents.",
+    "side effects": [
+      "Hypotension – A significant drop in blood pressure that may lead to dizziness or fainting.",
+      "Arrhythmias – Although it is used to treat arrhythmias, Procainamide can sometimes cause new or worsening abnormal heart rhythms.",
+      "Lupus-like syndrome – Prolonged use may trigger symptoms similar to lupus, such as joint pain, fever, and rash.",
+      "Nausea and vomiting – Common gastrointestinal reactions may occur in some patients.",
+      "Dizziness – Patients might experience lightheadedness or a spinning sensation.",
+      "Headache – Some individuals report headaches as a side effect of the medication."
+    ]
+  },
+  "fa": {
+    "description": "پروکائینامید یک داروی ضد آریتمی است که عمدتاً برای درمان انواع خاصی از ضربان‌های نامنظم قلب، به ویژه آریتمی‌های بطنی، مورد استفاده قرار می‌گیرد. این دارو با مسدود کردن کانال‌های سدیم در بافت‌های قلبی عمل می‌کند و به این ترتیب غشای قلبی را تثبیت کرده و به طور مؤثری هدایت الکتریکی را کند می‌کند. پروکائینامید به‌طور معمول زمانی تجویز می‌شود که سایر درمان‌ها ناموفق بوده یا مناسب نباشند و از این رو گزینه‌ای ضروری در مدیریت شرایط قلبی تهدیدکننده زندگی محسوب می‌شود.",
+    "uses": "پروکائینامید عمدتاً در درمان انواع مختلف تاکی‌کاردی، از جمله فیبریلاسیون دهلیزی و تاکی‌کاردی بطنی استفاده می‌شود. همچنین برای مدیریت بیمارانی که در شرایط حاد نیاز به کنترل سریع آریتمی دارند، به کار می‌رود. در برخی موارد، پروکائینامید ممکن است به منظور پیشگیری از عود دوباره آریتمی‌ها در بیمارانی با سابقه چنین شرایطی استفاده شود.\n\nعلاوه بر این، در موقعیت‌های اضطراری، مانند شرایط اضطراری قلبی که بیماران با اکتوپی بطنی قابل توجهی مراجعه می‌کنند، می‌تواند مورد استفاده قرار گیرد. با توجه به اثربخشی آن در تثبیت ریتم قلب، پروکائینامید نقش حیاتی در زمینه کاردیولوژی ایفا می‌کند، به ویژه در میان بیمارانی که نمی‌توانند دیگر داروهای ضد آریتمی را تحمل کنند.",
+    "side effects": [
+      "فشار خون پایین – کاهش قابل توجه فشار خون که ممکن است منجر به سرگیجه یا غش شود.",
+      "آریتمی‌ها – اگرچه برای درمان آریتمی‌ها استفاده می‌شود، پروکائینامید می‌تواند گاهی اوقات موجب ایجاد یا بدتر شدن ریتم‌های غیرعادی قلب شود.",
+      "سندرم شبیه لوپوس – استفاده طولانی‌مدت ممکن است علائمی مشابه لوپوس، مانند درد مفاصل، تب و راش را تحریک کند.",
+      "تهوع و استفراغ – واکنش‌های شایع گوارشی ممکن است در برخی بیماران رخ دهد.",
+      "سرگیجه – بیماران ممکن است حس سبکی سر یا احساس چرخش را تجربه کنند.",
+      "سردرد – برخی افراد به عنوان عارضه جانبی این دارو، سردرد گزارش می‌کنند."
+    ]
+  }
+}

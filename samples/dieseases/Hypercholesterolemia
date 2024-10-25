@@ -1,0 +1,24 @@
+```json
+{
+  "en": {
+    "description": "Hypercholesterolemia is a medical condition characterized by an excessive level of cholesterol in the bloodstream. It can lead to the buildup of plaques in the arteries, increasing the risk of cardiovascular diseases such as heart attacks and strokes. This condition often arises from genetic factors, poor dietary choices, lack of physical activity, and obesity, making it an important aspect of preventive cardiovascular health.",
+    "symptoms": [
+      "Usually asymptomatic: Many individuals with hypercholesterolemia do not experience noticeable symptoms, making it crucial to have regular cholesterol screenings.",
+      "Chest pain: Some may develop chest pain or angina as a result of reduced blood flow to the heart due to arteriosclerosis caused by cholesterol buildup.",
+      "Fatigue: As the heart struggles to function properly, individuals may experience unexplained fatigue or weakness.",
+      "Xanthomas: These are yellowish deposits of cholesterol that can appear on the skin or tendons, indicating high cholesterol levels."
+    ],
+    "treatments": "Treatment for hypercholesterolemia often begins with lifestyle changes, including adopting a heart-healthy diet that is low in saturated and trans fats, increasing physical activity, and maintaining a healthy weight. If lifestyle modifications are not sufficient, healthcare providers may recommend medications, such as statins, which help lower cholesterol by inhibiting its production in the liver. Additional medications may include bile acid sequestrants, cholesterol absorption inhibitors, and PCSK9 inhibitors. Regular monitoring of cholesterol levels is essential to evaluate the effectiveness of treatment and make necessary adjustments."
+  },
+  "fa": {
+    "description": "کلسترول بالاتر از حد نرمال یک وضعیت پزشکی است که با سطح بیش از حد کلسترول در جریان خون مشخص می‌شود. این شرایط می‌تواند منجر به تجمع پلاک‌ها در شریان‌ها شود و خطر ابتلا به بیماری‌های قلبی عروقی مانند حملات قلبی و سکته‌های مغزی را افزایش دهد. این وضعیت اغلب به دلیل عوامل ژنتیکی، انتخاب‌های غذایی نامناسب، کمبود فعالیت بدنی و چاقی بوجود می‌آید و به همین دلیل جنبه‌ای مهم از پیشگیری از بیماری‌های قلبی به شمار می‌رود.",
+    "symptoms": [
+      "معمولا بدون علامت: بسیاری از افراد مبتلا به کلسترول بالا به طور قابل توجهی علامت ندارند، بنابراین انجام چکاپ‌های منظم کلسترول بسیار مهم است.",
+      "درد قفسه سینه: برخی ممکن است با درد قفسه سینه یا آنژین مواجه شوند که به دلیل کاهش جریان خون به قلب به علت سخت شدن شریان‌ها ناشی از تجمع کلسترول است.",
+      "خستگی: وقتی که قلب به درستی کار نمی‌کند، افراد ممکن است خستگی یا ضعف بدون دلیل را تجربه کنند.",
+      "زرده‌ها: اینها ضایعات زردرنگ کلسترول هستند که می‌توانند بر روی پوست یا تاندون‌ها ظاهر شوند و نشان‌دهنده سطوح بالای کلسترول باشند."
+    ],
+    "treatments": "درمان کلسترول بالا معمولاً با تغییرات سبک زندگی آغاز می‌شود، از جمله اتخاذ یک رژیم غذایی سالم برای قلب که کم چرب اشباع و ترانس باشد، افزایش فعالیت بدنی و حفظ وزن سالم. اگر تغییرات سبک زندگی کافی نباشد، ارائه‌دهندگان خدمات بهداشتی ممکن است داروهایی مانند استاتین‌ها را که به کاهش کلسترول با مهار تولید آن در کبد کمک می‌کنند، تجویز کنند. داروهای اضافی ممکن است شامل داروهای متصل کننده اسید صفرا، مهارکننده‌های جذب کلسترول و مهارکننده‌های PCSK9 باشد. نظارت منظم بر سطوح کلسترول برای ارزیابی اثر بخشی درمان و انجام تنظیمات لازم ضروری است."
+  }
+}
+```

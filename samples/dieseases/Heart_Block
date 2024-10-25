@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Heart block is a condition that occurs when the electrical signals of the heart are disrupted, leading to a slower or interrupted heartbeat. This interference can be caused by various factors, including age, certain medications, congenital heart defects, or underlying health issues such as coronary artery disease. Heart block is categorized into different types, with varying degrees of severity, and may lead to serious complications if not properly managed.",
+    "symptoms": [
+      "Fatigue: Individuals may experience persistent tiredness and reduced energy levels due to inadequate blood circulation.",
+      "Dizziness: Lightheadedness or a feeling of faintness can occur, especially when standing up or exerting oneself.",
+      "Palpitations: An awareness of irregular heartbeats or the sensation of skipping beats may be noticeable to the affected person.",
+      "Shortness of Breath: Difficulty breathing or the feeling of being winded can arise, especially during physical activities.",
+      "Chest Pain: Some may experience discomfort or pain in the chest area, which can be a sign of insufficient blood flow.",
+      "Syncope: Sudden fainting or loss of consciousness may occur due to severe disruptions in heart rhythm."
+    ],
+    "treatments": "Treatment for heart block depends on the type and severity of the condition. In mild cases, careful monitoring and lifestyle changes may be sufficient. For moderate to severe heart block, especially symptoms are present, a pacemaker may be recommended. A pacemaker is a small device implanted under the skin that sends electrical signals to prompt the heart to beat at a normal rate. Patients may also be prescribed medications to manage underlying conditions or improve heart function. Regular follow-up with a cardiologist is essential to adjust treatment plans as necessary."
+ },
+ "fa": {
+     "description": "بلوک قلبی یک وضعیت است که زمانی رخ می‌دهد که سیگنال‌های الکتریکی قلب مختل می‌شوند و منجر به ضربان قلب کندتر یا متوقف‌شده می‌شود. این اختلال می‌تواند ناشی از عوامل مختلفی باشد، از جمله سن، داروهای خاص، نقص‌های مادرزادی قلب یا مشکلات سلامتی بنیادی مانند بیماری شریان کرونری. بلوک قلبی به انواع مختلفی طبقه‌بندی می‌شود که درجات شدت متفاوتی دارند و در صورت عدم مدیریت صحیح می‌تواند عوارض جدی ایجاد کند.",
+     "symptoms": [
+       "خستگی: افراد ممکن است خستگی مداوم و کاهش سطح انرژی را به دلیل گردش خون ناکافی تجربه کنند.",
+       "سرگیجه: احساس سرگیجه یا حالات ضعف ممکن است ایجاد شود، به‌ویژه هنگام ایستادن یا تلاش.",
+       "تپش قلب: ممکن است فرد از بروز ناهنجاری‌های ضربان قلب یا حس پرش ضربان‌ها آگاه شود.",
+       "تنگی نفس: دشواری در تنفس یا احساس خستگی می‌تواند به‌ویژه در هنگام فعالیت‌های بدنی بروز کند.",
+       "درد قفسه سینه: برخی ممکن است در ناحیه قفسه سینه احساس ناراحتی یا درد کنند که می‌تواند نشانه‌ای از ناکافی بودن خون‌رسانی باشد.",
+       "سنکوپه: غش ناگهانی یا از دست دادن هوشیاری ممکن است به‌دلیل اختلالات شدید ریتم قلبی پیش بیاید."
+     ],
+     "treatments": "درمان برای بلوک قلبی به نوع و شدت وضعیت بستگی دارد. در موارد ملایم، پایش دقیق و تغییرات در سبک زندگی ممکن است کافی باشد. برای بلوک قلبی متوسط تا شدید، به‌ویژه اگر علائم وجود داشته باشد، ممکن است یک ضربان‌ساز توصیه شود. ضربان‌ساز یک دستگاه کوچک است که زیر پوست کار گذاشته می‌شود و سیگنال‌های الکتریکی را ارسال می‌کند تا قلب را وادار به ضربان در نرخ طبیعی کند. همچنین ممکن است برای مدیریت شرایط بنیادی یا بهبود عملکرد قلب، داروهایی تجویز شود. پیگیری منظم با یک کاردیولوژیست برای تنظیم برنامه‌های درمانی به‌طور ضروری مورد نیاز است."
+ }
+}

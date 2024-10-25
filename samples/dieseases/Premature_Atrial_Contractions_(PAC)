@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Premature Atrial Contractions (PAC) are early heartbeats originating in the atria, the upper chambers of the heart. They disrupt the heart's regular rhythm, leading to sensations of skipped beats or palpitations. While PACs are often benign and common in healthy individuals, they can also be indicative of underlying heart conditions if experienced frequently or in conjunction with other symptoms.",
+    "symptoms": [
+      "Palpitations: A sensation of the heart racing or pounding, often described as feeling like a 'flutter' in the chest.",
+      "Skipped beats: The feeling that the heart has missed a beat, which can be disconcerting.",
+      "Fatigue: A general feeling of tiredness or lack of energy, possibly stemming from the heart's irregular rhythm.",
+      "Dizziness: A sensation of lightheadedness or feeling faint, which may occur during episodes of PAC.",
+      "Anxiety: Many individuals experience increased anxiety or stress as a result of the awareness of their irregular heartbeat."
+    ],
+    "treatments": "Treatment for PACs typically focuses on addressing any underlying conditions and may include lifestyle modifications, such as reducing caffeine intake, managing stress, and avoiding stimulants. In cases where PACs cause significant symptoms or are associated with heart disease, beta-blockers or antiarrhythmic medications may be prescribed to help regulate the heart rhythm. In severe instances, catheter ablation, a procedure to destroy the abnormal electrical pathways in the heart, may be considered to eliminate PACs and restore a regular heartbeat."
+ },
+ "fa": {
+     "description": "انقباضات زودرس دهلیزی (PAC) ضربان‌های زودرسی هستند که از دهلیزها، یعنی اتاقک‌های بالایی قلب، ناشی می‌شوند. این انقباضات ریتم منظم قلب را مختل کرده و منجر به احساس طپش قلب یا ضربان از دست رفته می‌شوند. در حالی که PAC معمولاً بی‌ضرر و رایج در افراد سالم هستند، در صورت بروز مکرر یا همراه با علائم دیگر، می‌توانند نشانه‌ای از بیماری‌های قلبی زیرین باشند.",
+     "symptoms": [
+       "طپش قلب: احساس تند یا کوبیدن قلب که اغلب به عنوان احساس 'سرخوردگی' در قفسه سینه توصیف می‌شود.",
+       "ضربان از دست رفته: احساس اینکه قلب یک ضربان را از دست داده است که ممکن است نگران‌کننده باشد.",
+       "خستگی: احساس عمومی خستگی یا کمبود انرژی که ممکن است ناشی از ریتم غیرمنظم قلب باشد.",
+       "سرگیجه: احساسی از سبکی سر یا احساس گیجی که ممکن است در طی بروز انقباضات PAC رخ دهد.",
+       "اضطراب: بسیاری از افراد احساس اضطراب یا استرس بیشتری را به دلیل آگاهی از ضربان غیرمنظم خود تجربه می‌کنند."
+     ],
+     "treatments": "درمان PAC معمولاً بر روی رسیدگی به هرگونه شرایط زیرین تمرکز دارد و ممکن است شامل تغییرات سبک زندگی مانند کاهش مصرف کافئین، مدیریت استرس و پرهیز از محرک‌ها باشد. در مواردی که PAC ها باعث بروز علائم قابل توجهی شوند یا با بیماری قلبی مرتبط باشند، ممکن است بتا بلاکرها یا داروهای ضدآریتمی برای کمک به تنظیم ریتم قلب تجویز شوند. در موارد شدید، ممکن است کاتتریزاسیون ابلیشن، یک روش برای تخریب مسیرهای الکتریکی غیرعادی در قلب، در نظر گرفته شود تا PAC ها از بین رفته و ضربان منظم قلب دوباره برقرار شود."
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Mitral regurgitation is a heart valve disorder characterized by the improper closure of the mitral valve, which allows blood to flow backward into the left atrium of the heart during ventricular contraction. This condition can result in volume overload on the heart, leading to various complications if not managed appropriately. Mitral regurgitation can be acute, often resulting from sudden damage to the valve or surrounding structures, or chronic, developing gradually over time due to conditions such as mitral valve prolapse, rheumatic heart disease, or degenerative changes.",
+    "symptoms": [
+      "Shortness of breath: Patients may experience difficulty breathing, particularly during physical activity or when lying flat.",
+      "Fatigue: A general feeling of tiredness or reduced energy is common due to decreased cardiac output.",
+      "Palpitations: Patients often report feeling irregular heartbeats or a sensation of the heart racing.",
+      "Swelling: Edema, especially in the legs and ankles, can occur due to fluid retention.",
+      "Chest discomfort: Some individuals may experience discomfort or an unusual feeling in the chest area."
+    ],
+    "treatments": "Treatment for mitral regurgitation depends on the severity of the condition and the presence of symptoms. In mild cases, careful monitoring and lifestyle changes may be sufficient. For moderate to severe regurgitation with symptoms, medical therapies such as diuretics to reduce fluid overload and beta-blockers to improve heart function may be prescribed. Surgical options include valve repair or replacement, which is often indicated in severe cases or when heart function is compromised. Regular follow-up with a cardiologist is essential for managing the condition and deciding on the appropriate interventions."
+  },
+  "fa": {
+    "description": "نارسایی میترال یک اختلال در دریچه قلب است که با بسته نشدن صحیح دریچه میترال مشخص می‌شود و این امر باعث می‌شود خون به عقب به درون دهلیز چپ قلب هنگام انقباض بطن برگردد. این وضعیت می‌تواند منجر به بار اضافی حجم بر روی قلب شود و در صورت عدم مدیریت مناسب، عوارض مختلفی به همراه داشته باشد. نارسایی میترال می‌تواند حاد باشد که اغلب از آسیب ناگهانی به دریچه یا ساختارهای اطراف ناشی می‌شود، یا مزمن که به تدریج به دلیل شرایطی مانند افتادگی دریچه میترال، بیماری قلبی روماتیسمی یا تغییرات تخریبی توسعه می‌یابد.",
+    "symptoms": [
+      "تنگی نفس: بیماران ممکن است در تنفس مشکل داشته باشند، به ویژه در هنگام فعالیت بدنی یا دراز کشیدن.",
+      "خستگی: احساس عمومی خستگی یا کاهش انرژی به دلیل کاهش خروجی قلب رایج است.",
+      "تپش قلب: بیماران اغلب از احساس ضربان نامنظم یا حس تندتر شدن قلب شکایت دارند.",
+      "تورم: ادم، به ویژه در پاها و مچ پا، به دلیل احتباس مایع ممکن است رخ دهد.",
+      "ناراحتی قفسه سینه: برخی افراد ممکن است ناراحتی یا احساسی غیرمعمول در ناحیه قفسه سینه را تجربه کنند."
+    ],
+    "treatments": "درمان نارسایی میترال به شدت بیماری و وجود علائم بستگی دارد. در صورت خفیف بودن مشکل، ممکن است پایش دقیق و تغییرات سبک زندگی کافی باشد. برای نارسایی میترال متوسط تا شدید با علائم، ممکن است درمان‌های پزشکی مانند ادرارآورها برای کاهش بار مایع و بتا بلوکرها برای بهبود عملکرد قلب تجویز شود. گزینه‌های جراحی شامل ترمیم یا تعویض دریچه است که معمولاً در موارد شدید یا زمانی که عملکرد قلب مختل شده است، نشان داده می‌شود. پیگیری منظم با یک کاردیولوژیست برای مدیریت وضعیت و تصمیم‌گیری در مورد مداخلات مناسب ضروری است."
+  }
+}

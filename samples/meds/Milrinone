@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Milrinone is a phosphodiesterase 3 inhibitor that is primarily used in the management of acute heart failure and chronic heart failure. It works by increasing the levels of cAMP in cardiac cells, leading to increased myocardial contractility and vasodilation, ultimately improving cardiac output. Milrinone is often used in patients who do not respond adequately to conventional heart failure therapies, particularly in hospital settings where continuous intravenous administration can be facilitated.",
+    "uses": "Milrinone is utilized in the treatment of acute decompensated heart failure, especially in patients who exhibit poor response to diuretics or vasodilators. It is often used in the intensive care unit (ICU) for patients who require short-term support to enhance heart function and improve hemodynamics. Additionally, Milrinone may be employed in patients awaiting heart transplants or those with severe heart failure.",
+    "side effects": [
+      "Arrhythmias: Abnormal heart rhythms can occur, which may become severe and may require medical intervention.",
+      "Hypotension: A significant drop in blood pressure may happen, necessitating monitoring and possible treatment.",
+      "Headache: Some patients may experience headaches as a result of vasodilation.",
+      "Nausea: Gastrointestinal discomfort can occur, leading to nausea in some individuals.",
+      "Thrombocytopenia: A reduction in platelets can occur, which may increase the risk of bleeding."
+    ]
+  },
+  "fa": {
+    "description": "میلرینون یک مهارکننده فسفودیاستراز 3 است که عمدتاً برای مدیریت نارسایی قلبی حاد و نارسایی قلبی مزمن استفاده می‌شود. این دارو با افزایش سطح cAMP در سلول‌های قلبی، منجر به افزایش قدرت انقباض میوکارد و اتساع عروق می‌شود و در نهایت output قلبی را بهبود می‌بخشد. میلرینون اغلب در بیمارانی که به درمان‌های متداول نارسایی قلبی به طور کافی پاسخ نمی‌دهند، به ویژه در محیط‌های بیمارستانی که امکان تجویز مداوم از راه وریدی تسهیل شده است، استفاده می‌شود.",
+    "uses": "میلرینون در درمان نارسایی قلبی حاد تجویز می‌شود، به ویژه در بیمارانی که به دیورتیک‌ها یا گشادکننده‌های عروق پاسخ ضعیفی نشان می‌دهند. این دارو اغلب در واحد مراقبت‌های ویژه (ICU) برای بیمارانی که به حمایت کوتاه‌مدت برای تقویت عملکرد قلب و بهبود همودینامیک نیاز دارند، استفاده می‌شود. همچنین، میلرینون ممکن است در بیماران منتظر پیوند قلب یا کسانی که با نارسایی قلبی شدید مواجه هستند، به کار رود.",
+    "side effects": [
+      "آریتمی: ممکن است ریتم‌های غیرطبیعی قلبی ایجاد شود که می‌تواند شدید باشد و نیاز به مداخله پزشکی داشته باشد.",
+      "افت فشار خون: ممکن است افت قابل توجهی در فشار خون رخ دهد که necessitating monitoring و درمان ممکن است.",
+      "سردرد: برخی بیماران ممکن است به دلیل اتساع عروق دچار سردرد شوند.",
+      "تهوع: ممکن است ناراحتی‌های گوارشی ایجاد شود که منجر به تهوع در برخی افراد گردد.",
+      "ترومبوسیتوپنی: ممکن است کاهش تعداد پلاکت‌ها ایجاد شود که ممکن است خطر خونریزی را افزایش دهد."
+    ]
+  }
+}

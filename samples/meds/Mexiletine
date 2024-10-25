@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Mexiletine is a medication primarily used to treat ventricular arrhythmias, which are abnormal heart rhythms originating from the lower chambers of the heart. It works by blocking sodium channels in cardiac cells, thereby stabilizing the electrical activity of the heart and preventing arrhythmias. Often considered an oral form of lidocaine, Mexiletine is beneficial for patients with certain heart conditions who are at risk for serious arrhythmias as it helps to restore normal rhythm and improve cardiac function.",
+    "uses": "Mexiletine is commonly used to manage ventricular tachycardia and can be prescribed following a heart attack to prevent further arrhythmias. It is also utilized in patients with inherited conditions that predispose them to arrhythmias, such as Brugada syndrome and Long QT syndrome. Additionally, Mexiletine may be explored in the management of neurogenic pain and certain neuropathic pain syndromes, as its sodium-channel blocking properties can offer relief.",
+    "side effects": [
+      "Nausea: Some patients may experience feelings of nausea or upset stomach after taking Mexiletine.",
+      "Dizziness: Dizziness may occur, especially when standing up quickly, due to its effects on heart rhythm.",
+      "Tremors: Fine involuntary movements or shaking in the hands may be noticeable in some individuals.",
+      "Fatigue: A feeling of tiredness or lack of energy is a common side effect among patients using this medication.",
+      "Headache: Mild to moderate headaches can occur as part of the body's adjustment to the medication.",
+      "Allergic reactions: In rare cases, severe allergic reactions may happen, including rash, itching, or swelling of the face and throat."
+    ]
+  },
+  "fa": {
+    "description": "مکسلتین دارویی است که عمدتاً برای درمان آریتمی‌های بطنی استفاده می‌شود، آریتمی‌های غیرطبیعی که از اتاقک‌های پایین قلب ناشی می‌شوند. این دارو با مسدود کردن کانال‌های سدیمی در سلول‌های قلبی کار می‌کند و بدین ترتیب فعالیت الکتریکی قلب را پایدار کرده و از بروز آریتمی‌ها جلوگیری می‌کند. مکسلتین معمولاً به عنوان یک فرم خوراکی از لیدوکائین در نظر گرفته می‌شود و برای بیمارانی با شرایط خاص قلبی که در معرض آریتمی‌های جدی هستند مفید است.",
+    "uses": "مکسلتین به طور معمول برای مدیریت تاکی‌کاردی بطنی تجویز می‌شود و ممکن است بعد از یک حمله قلبی برای جلوگیری از آریتمی‌های بیشتر تجویز گردد. همچنین در بیمارانی با شرایط ارثی که در معرض آریتمی‌ها هستند، مانند سندرم بروگادا و سندرم QT طولانی، مورد استفاده قرار می‌گیرد. علاوه بر این، مکسلتین ممکن است در مدیریت درد نوروژنیک و برخی از سندرم‌های درد نوروپاتیک مورد بررسی قرار گیرد.",
+    "side effects": [
+      "تهوع: برخی بیماران ممکن است پس از مصرف مکسلتین احساس تهوع یا ناراحتی معده کنند.",
+      "سرگیجه: سرگیجه ممکن است پیش بیاید، به ویژه زمانی که به سرعت بلند می‌شوند.",
+      "لرزش: حرکات غیر ارادی ظریف یا لرز در دست‌ها ممکن است در برخی افراد قابل مشاهده باشد.",
+      "خستگی: احساس خستگی یا کمبود انرژی یکی از عوارض رایج در بیماران تحت درمان با این دارو است.",
+      "سردرد: سردردهای ملایم تا متوسط ممکن است به عنوان بخشی از تطابق بدن با دارو رخ دهد.",
+      "واکنش‌های آلرژیک: در موارد نادر، واکنش‌های شدید آلرژیک، از جمله خارش، جوش یا تورم صورت و گلو ممکن است بروز کند."
+    ]
+  }
+}

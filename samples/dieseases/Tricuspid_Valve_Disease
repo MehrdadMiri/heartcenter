@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Tricuspid Valve Disease refers to conditions affecting the tricuspid valve, which is the valve between the right atrium and right ventricle of the heart. This condition can lead to improper blood flow, causing various cardiac issues. Common causes include rheumatic fever, congenital heart defects, or dilation due to other heart diseases. Symptoms can range from mild to severe and often signify heart failure or other complications.",
+    "symptoms": [
+      "Fatigue: A general sense of tiredness or lack of energy that may worsen with physical activity.",
+      "Swelling (edema): Noticeable swelling in the legs, feet, or abdomen due to fluid retention.",
+      "Abdominal discomfort: Pain or discomfort in the abdomen caused by engorged liver or fluid accumulation.",
+      "Irregular heartbeat: Palpitations or an abnormal heart rhythm felt by the patient.",
+      "Shortness of breath: Difficulty breathing, especially noticeable during exertion or when lying flat."
+    ],
+    "treatments": "The management of Tricuspid Valve Disease often depends on the underlying cause and severity of the condition. Treatment options include medications such as diuretics to reduce fluid retention, anticoagulants to prevent blood clots, and beta-blockers to manage symptoms related to heart rhythm. In some cases, surgical intervention may be necessary, which can include repair or replacement of the tricuspid valve. Procedures like catheter-based interventions may also be an option. Close monitoring and regular follow-up with a healthcare provider are crucial to managing the condition effectively."
+  },
+  "fa": {
+    "description": "بیماری دریچه سه لتی به شرایطی اشاره دارد که بر روی دریچه سه لتی تأثیر می‌گذارد، که دریچه‌ای بین دهلیز راست و بطن راست قلب است. این وضعیت می‌تواند به جریان خون نامناسب منجر شود و مشکلات قلبی مختلفی را ایجاد کند. علل شایع شامل تب روماتیسمی، نقص‌های مادرزادی قلب یا انبساط ناشی از سایر بیماری‌های قلبی است. علائم می‌توانند از خفیف تا شدید متغیر باشند و اغلب نشانه‌ای از نارسایی قلبی یا عوارض دیگر به شمار می‌روند.",
+    "symptoms": [
+      "خستگی: احساسی عمومی از خستگی یا کمبود انرژی که ممکن است با فعالیت بدنی بدتر شود.",
+      "تورم (ادم): تورم قابل ملاحظه در پاها، کف پا یا شکم به دلیل احتباس مایعات.",
+      "ناراحتی شکمی: درد یا ناراحتی در ناحیه شکم ناشی از کبد بزرگ شده یا تجمع مایعات.",
+      "ضربان قلب نامنظم: احساس تپش قلب یا ریتم غیرطبیعی قلب که بیمار آن را احساس می‌کند.",
+      "کوتاهی نفس: دشواری در تنفس، به‌ویژه در حین فعالیت یا در حالت خوابیده."
+    ],
+    "treatments": "مدیریت بیماری دریچه سه لتی اغلب به علت و شدت بیماری بستگی دارد. گزینه‌های درمان شامل داروهایی مانند ادرارآورها برای کاهش احتباس مایعات، آنتی‌کوآگولان‌ها برای پیشگیری از لخته شدن خون و بتا-بلوک‌کننده‌ها برای مدیریت علائم مرتبط با ریتم قلب است. در برخی موارد، مداخله جراحی ممکن است ضروری باشد، که می‌تواند شامل تعمیر یا تعویض دریچه سه لتی باشد. روش‌های مبتنی بر کاتتر نیز ممکن است گزینه‌ای باشند. نظارت نزدیک و پیگیری منظم با ارائه‌دهنده مراقبت‌های بهداشتی برای مدیریت موثر این وضعیت بسیار مهم است."
+  }
+}

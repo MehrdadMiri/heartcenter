@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Tranexamic acid is an antifibrinolytic medication that helps to reduce excessive bleeding by inhibiting the breakdown of fibrin, a protein essential for blood clot formation. It works by blocking plasminogen from being converted into plasmin, thereby stabilizing blood clots and reducing hemorrhage in various medical conditions. It is commonly used in surgical settings, trauma care, and certain bleeding disorders.",
+    "uses": "Tranexamic acid is primarily used to prevent and treat excessive bleeding in various scenarios. It is often prescribed for patients undergoing surgery, especially orthopedic and dental procedures, to decrease blood loss. Additionally, it is used in the management of heavy menstrual bleeding (menorrhagia) and hereditary bleeding disorders such as hemophilia. Moreover, tranexamic acid can be beneficial in trauma medicine to control bleeding and is also employed in certain cases of gastrointestinal bleeding.",
+    "side effects": [
+      "Nausea: A feeling of sickness with an inclination to vomit.",
+      "Diarrhea: Loose or watery stools.",
+      "Headache: A continuous pain in the head.",
+      "Dizziness: A feeling of lightheadedness or the sensation that you might faint.",
+      "Allergic reactions: These can include skin rash, itching, or swelling, particularly of the face or tongue."
+    ]
+ },
+ "fa": {
+     "description": "اسید ترانکسامیک یک داروی ضد فیبراستزی است که به کاهش خونریزی های شدید کمک می کند. این دارو با جلوگیری از تجزیه فیبرین، پروتئینی که برای تشکیل لخته های خون ضروری است، عمل می کند. با مسدود کردن تبدیل پلاسمینوژن به پلاسمین، لخته های خون را پایدار کرده و خونریزی در شرایط پزشکی مختلف را کاهش می دهد. این دارو معمولاً در موقعیت های جراحی، مراقبت از تروما و برخی اختلالات خونریزی استفاده می شود.",
+     "uses": "اسید ترانکسامیک عمدتاً برای جلوگیری و درمان خونریزی های شدید در سناریوهای مختلف استفاده می شود. این دارو معمولاً برای بیمارانی که تحت عمل جراحی، به ویژه در جراحی های ارتوپدی و دندانپزشکی قرار دارند، تجویز می شود تا خونریزی را کاهش دهد. علاوه بر این، در مدیریت خونریزی شدید قاعدگی (منوره) و اختلالات خونریزی ارثی مانند هموفیلی کاربرد دارد. همچنین، اسید ترانکسامیک می تواند در پزشکی تروما برای کنترل خونریزی مفید باشد و در برخی از موارد خونریزی گوارشی نیز مورد استفاده قرار می گیرد.",
+     "side effects": [
+        "تهوع: احساسی از بیماری همراه با تمایل به استفراغ.",
+        "اسهال: مدفوع نرم یا آبکی.",
+        "سردرد: درد مستمر در سر.",
+        "سرگیجه: احساس سبکی سر یا حس اینکه ممکن است بیفتید.",
+        "واکنش های آلرژیک: این می تواند شامل بثورات پوستی، خارش یا ورم، به ویژه در صورت یا زبان باشد."
+     ]
+ }
+}

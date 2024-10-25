@@ -1,0 +1,54 @@
+{
+ "en": {
+    "description": "Anomalous Pulmonary Venous Return (APVR) is a congenital heart defect in which the pulmonary veins do not connect normally to the left atrium of the heart. Instead, the pulmonary veins return oxygenated blood to other areas, such as the right atrium, which can lead to a mix of oxygen-rich and oxygen-poor blood in circulation. This condition can result in various complications, including heart failure and increased strain on the lungs. Early detection and appropriate management are crucial for improving outcomes in affected individuals.",
+    "symptoms": [
+      {
+        "symptom": "Cyanosis",
+        "description": "A bluish discoloration of the skin, lips, and fingernails due to insufficient oxygen in the blood."
+      },
+      {
+        "symptom": "Rapid breathing",
+        "description": "Increased respiratory rate, often associated with the body's attempt to increase oxygen intake."
+      },
+      {
+        "symptom": "Difficulty feeding",
+        "description": "Infants may struggle to eat or gain weight due to exhaustion from breathing difficulties."
+      },
+      {
+        "symptom": "Fatigue",
+        "description": "General tiredness and decreased energy levels, often more pronounced in infants."
+      },
+      {
+        "symptom": "Heart murmur",
+        "description": "An unusual sound during the heartbeat, often detected during a physical examination."
+      }
+    ],
+    "treatments": "The primary treatment for Anomalous Pulmonary Venous Return is surgical intervention to correct the abnormal connections of the pulmonary veins. The procedure typically involves re-routing the pulmonary veins to connect them directly to the left atrium, thus enabling proper oxygenation of blood. Depending on the specific type of APVR and the patient's overall health, the surgery may be performed in infancy or later in childhood. Post-surgery, patients will require monitoring and possibly additional interventions to address any residual symptoms or complications. Medications may also be prescribed to manage symptoms such as heart failure and to improve heart function."
+ },
+ "fa": {
+     "description": "بازگشت نامنظم وریدهای ریوی (APVR) یک نقص مادرزادی قلب است که در آن وریدهای ریوی به طور نرمال به دهلیز چپ قلب متصل نمی‌شوند. به جای آن، وریدهای ریوی خون غنی از اکسیژن را به مناطق دیگر، مانند دهلیز راست، برمی‌گردانند که می‌تواند منجر به ترکیب خون غنی و فقیر از اکسیژن در گردش خون شود. این وضعیت می‌تواند به عوارض مختلفی از جمله نارسایی قلبی و افزایش فشار بر ریه‌ها منجر شود. تشخیص زودهنگام و مدیریت مناسب برای بهبود نتایج در افراد مبتلا بسیار حیاتی است.",
+     "symptoms": [
+       {
+         "symptom": "سیانوز",
+         "description": "نوعی رنگ پریدگی آبی در پوست، لب‌ها و ناخن‌ها به دلیل کمبود اکسیژن در خون."
+       },
+       {
+         "symptom": "تنفس سریع",
+         "description": "افزایش تعداد تنفس، که اغلب با تلاش بدن برای افزایش دریافت اکسیژن همراه است."
+       },
+       {
+         "symptom": "مشکل در تغذیه",
+         "description": "نوزادان ممکن است در غذا خوردن یا افزایش وزن به دلیل خستگی ناشی از مشکلات تنفسی دشواری داشته باشند."
+       },
+       {
+         "symptom": "خستگی",
+         "description": "احساس عمومی خستگی و کاهش سطح انرژی که معمولاً در نوزادان بیشتر مشهود است."
+       },
+       {
+         "symptom": "صدای غیرعادی قلب",
+         "description": "صدای غیرعادی در حین ضربان قلب که اغلب در یک معاینه فیزیکی شناسایی می‌شود."
+       }
+     ],
+     "treatments": "درمان اصلی برای بازگشت نامنظم وریدهای ریوی، مداخله جراحی برای اصلاح اتصالات غیرعادی وریدهای ریوی است. این روش عموماً شامل مسیریابی مجدد وریدهای ریوی به سمت دهلیز چپ است، که به این ترتیب اکسیژناسیون مناسب خون امکان‌پذیر می‌شود. بسته به نوع خاص APVR و سلامتی کلی بیمار، این عمل ممکن است در نوزادی یا در دوران کودکی انجام شود. پس از عمل جراحی، بیماران نیاز به نظارت و احتمالاً مداخلات اضافی برای حل هرگونه علائم یا عوارض باقی‌مانده خواهند داشت. همچنین ممکن است داروهایی برای مدیریت علائمی مانند نارسایی قلبی و بهبود عملکرد قلب تجویز شود."
+ } 
+}

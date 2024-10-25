@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Abciximab is a glycoprotein IIb/IIIa inhibitor used as an antiplatelet agent to reduce the risk of complications during coronary artery procedures such as angioplasty and stenting. It works by preventing platelets from aggregating, thus inhibiting the formation of blood clots in the coronary arteries, making it a crucial medication in acute coronary syndrome management and during percutaneous coronary interventions (PCI).",
+    
+    "uses": "Abciximab is primarily used in the management of acute coronary syndrome and during percutaneous coronary interventions such as angioplasty or stent placement. It is effective in patients undergoing these procedures to prevent the formation of thrombi that could lead to further complications such as myocardial infarction. Additionally, it may be used in combination with other antiplatelet therapies to enhance overall cardiac protection during high-risk interventions.\n\nThe drug is also utilized in some cases for patients with recurrent myocardial ischemia or those with high-risk features who are undergoing elective coronary interventions. Its administration can significantly improve patient outcomes by ensuring better blood flow and reducing the incidence of adverse cardiovascular events.",
+    
+    "side effects": [
+      "Bleeding: Increased risk of bleeding can occur due to antiplatelet effects, which might lead to serious complications, including gastrointestinal or intracranial hemorrhage.",
+      "Thrombocytopenia: A reduction in platelet count may occur, which could lead to increased bleeding risk and the need for careful monitoring of blood parameters.",
+      "Hypotension: Some patients might experience a drop in blood pressure, potentially leading to dizziness or fainting.",
+      "Allergic reactions: Rarely, patients may experience hypersensitivity reactions, including rash, itching, or anaphylaxis."
+    ]
+  },
+  "fa": {
+    "description": "آبکسیماب یک مهارکننده ی گلیکوپروتئین IIb/IIIa است که به عنوان یک داروی ضد پلاکتی برای کاهش خطر عوارض در طول روش های عروق کرونی نظیر آنژیوپلاستی و قرار دادن استنت استفاده می شود. این دارو با جلوگیری از تجمع پلاکت ها، مانع از تشکیل لخته های خون در عروق کرونر می شود که این خود به عنوان یک داروی حیاتی در مدیریت سندرم های حاد کرونری و در حین مداخلات عروقی کرونر (PCI) عمل می کند.",
+    
+    "uses": "آبکسیماب عمدتاً در مدیریت سندرم حاد کرونری و حین مداخلات عروقی کرونر نظیر آنژیوپلاستی یا قرار دادن استنت استفاده می شود. این دارو در بیمارانی که تحت این روش ها قرار می گیرند موثر است و مانع از تشکیل لختگی می شود که می تواند به عوارض بیشتری همچون انفارکتوس میوکارد منجر شود. علاوه بر این، ممکن است در ترکیب با سایر درمان های ضد پلاکتی به منظور افزایش حفاظت قلبی در طی مداخلات پرخطر مورد استفاده قرار گیرد.\n\nاین دارو همچنین در برخی موارد برای بیمارانی که دچار ایسکمی میوکارد مکرر هستند یا ویژگی های پرخطر دارند و در حال انجام مداخلات عروقی انتخابی هستند، استفاده می شود. استفاده از آبکسیماب می تواند به طور قابل توجهی نتایج بیمار را بهبود بخشد و باعث تسهیل جریان خون و کاهش بروز حوادث عروقی منفی شود.",
+    
+    "side effects": [
+      "خونریزی: خطر خونریزی افزایش می یابد که ممکن است منجر به عوارض جدی از جمله خونریزی گوارشی یا داخل جمجمه ای شود.",
+      "ترومبوسیتوپنی: کاهش شمارش پلاکت ممکن است رخ دهد که می تواند به افزایش خطر خونریزی منجر شود و نیاز به نظارت دقیق بر پارامترهای خونی داشته باشد.",
+      "افت فشار خون: برخی بیماران ممکن است کاهش فشار خون را تجربه کنند که ممکن است به سرگیجه یا غش منجر شود.",
+      "واکنش های آلرژیک: به ندرت، بیماران ممکن است واکنش های حساسیتی از جمله خارش، کهیر یا آنافیلاکسی را تجربه کنند."
+    ]
+  }
+}

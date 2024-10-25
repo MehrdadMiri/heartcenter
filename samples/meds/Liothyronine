@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Liothyronine is a synthetic form of the naturally occurring thyroid hormone triiodothyronine (T3), used primarily in the treatment of hypothyroidism, a condition characterized by insufficient thyroid hormone production. It helps to restore normal thyroid levels in the body, leading to increased metabolism, energy production, and improvement in overall physical and mental well-being. Liothyronine is typically prescribed when patients cannot adequately convert thyroxine (T4) to T3 or when immediate correction of thyroid hormone levels is necessary.",
+    "uses": "Liothyronine is commonly used to treat hypothyroidism, especially in cases where the body does not effectively convert T4 to T3. It is also used in certain cases of goiter and in the management of myxedema coma, a severe form of hypothyroidism that requires immediate medical intervention. Additionally, Liothyronine can be prescribed as a part of a treatment regimen for some patients with thyroid cancer to suppress hormone levels and inhibit tumor growth. In patients with depression, Liothyronine may be used as an adjunct therapy to enhance the efficacy of antidepressants in those who do not respond fully to standard treatment.",
+    "side effects": [
+      "Increased heart rate (tachycardia): Occurs due to higher metabolic activity.",
+      "Nervousness or anxiety: Can result from overactivation of the nervous system.",
+      "Insomnia: Increased metabolism may lead to difficulties in sleeping.",
+      "Increased sweating: A common response to heightened metabolic rate.",
+      "Diarrhea: Caused by the stimulating effects on the gastrointestinal tract.",
+      "Menstrual irregularities: Hormonal balance may be disrupted.",
+      "Heat intolerance: The body may become less tolerant to high temperatures."
+    ]
+  },
+  "fa": {
+    "description": "لیوتیروئین یک شکل مصنوعی از هورمون طبیعی تیروئید تری یودوتیرونین (T3) است که عمدتاً برای درمان هایپوتیروئیدیسم، حالتی که به دلیل تولید ناکافی هورمون تیروئید ایجاد می‌شود، استفاده می‌شود. این دارو به بازگرداندن سطوح طبیعی تیروئید در بدن کمک کرده و منجر به افزایش متابولیسم، تولید انرژی و بهبود کلی وضعیت فیزیکی و روانی می‌شود. معمولاً لیوتیروئین زمانی تجویز می‌شود که بیماران نتوانند به طور کافی تیروکسین (T4) را به T3 تبدیل کنند یا زمانی که اصلاح فوری سطوح هورمون تیروئید ضروری است.",
+    "uses": "لیوتیروئین به طور شایع برای درمان هایپوتیروئیدیسم استفاده می‌شود، به ویژه در مواردی که بدن به طور مؤثر T4 را به T3 تبدیل نمی‌کند. همچنین در برخی از موارد گواتر و در مدیریت کما میکسدما، فرم شدید هایپوتیروئیدیسم که نیاز به مداخله فوری پزشکی دارد، مورداستفاده قرار می‌گیرد. علاوه بر این، لیوتیروئین می‌تواند به عنوان بخشی از رژیم درمانی برای برخی از بیماران مبتلا به سرطان تیروئید تجویز شود تا سطوح هورمون را سرکوب کرده و رشد تومور را مهار کند. در بیماران مبتلا به افسردگی، لیوتیروئین ممکن است به عنوان درمان کمکی برای افزایش کارایی ضدافسردگی‌ها در افرادی که به درمان استاندارد به طور کامل پاسخ نمی‌دهند، استفاده شود.",
+    "side effects": [
+      "افزایش ضربان قلب (تاکی کاردی): به دلیل فعالیت متابولیک بالاتر اتفاق می‌افتد.",
+      "اضطراب یا تنش: می‌تواند از فعال‌سازی بیش از حد سیستم عصبی ناشی شود.",
+      "بی‌خوابی: افزایش متابولیسم ممکن است منجر به مشکلات خواب شود.",
+      "تعریق زیاد: یک واکنش رایج به نرخ متابولیک بالا.",
+      "اسهال: ناشی از تأثیرات تحریک کننده بر روی دستگاه گوارش.",
+      "عدم تعادل قاعدگی: تعادل هورمونی ممکن است تحت تأثیر قرار گیرد.",
+      "عدم تحمل گرما: بدن ممکن است به دماهای بالا کمتر متحمل شود."
+    ]
+  }
+}

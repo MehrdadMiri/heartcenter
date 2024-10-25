@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Febuxostat is a medication primarily used to treat chronic gout by reducing uric acid levels in the blood. It works by inhibiting xanthine oxidase, an enzyme involved in the production of uric acid, which helps prevent gout attacks and related complications. Febuxostat is preferred for patients who cannot tolerate allopurinol, another common treatment for gout.",
+    "uses": "Febuxostat is prescribed for managing chronic gout, particularly in patients with a history of recurrent gout attacks. It can also be beneficial for those with gout who are at risk of developing kidney stones due to high uric acid levels or for patients needing to lower uric acid levels for specific medical conditions. Additionally, it may be used in conditions like tumor lysis syndrome to prevent elevations in uric acid.",
+    "side effects": [
+      "Nausea - a feeling of sickness with an inclination to vomit.",
+      "Liver enzyme abnormalities - irregularities in liver function tests, which may indicate liver stress or damage.",
+      "Skin rash - redness, itching, or irritation of the skin.",
+      "Headache - persistent pain in the head or neck region.",
+      "Hypertension - elevated blood pressure levels.",
+      "Gout flares - possible increase in gout attacks shortly after starting treatment."
+    ]
+  },
+  "fa": {
+    "description": "فیبوکسوستات دارویی است که عمدتاً برای درمان نقرس مزمن استفاده می‌شود و با کاهش سطح اسید اوریک در خون عمل می‌کند. این دارو با مهار آنزیم زانتین اکسیداز که در تولید اسید اوریک نقش دارد، به جلوگیری از حملات نقرس و عوارض مرتبط کمک می‌کند. فیبوکسوستات برای بیمارانی که نمی‌توانند آلپرینول، درمان رایج برای نقرس، را تحمل کنند، ترجیح داده می‌شود.",
+    "uses": "فیبوکسوستات برای مدیریت نقرس مزمن تجویز می‌شود، به ویژه در بیمارانی که تاریخچه حملات مکرر نقرس دارند. همچنین می‌تواند برای کسانی که دچار خطر تشکیل سنگ کلیه به دلیل سطح بالای اسید اوریک هستند یا برای بیمارانی که نیاز به کاهش سطح اسید اوریک برای شرایط پزشکی خاص دارند، مفید باشد. علاوه بر این، ممکن است در شرایطی مانند سندرم لیسی تومور برای جلوگیری از افزایش اسید اوریک استفاده شود.",
+    "side effects": [
+      "تهوع - احساس بیماری با تمایل به استفراغ.",
+      "عدم تعادل آنزیم‌های کبدی - ناهنجاری در آزمایش‌های عملکرد کبد که ممکن است نشانگر فشار یا آسیب به کبد باشد.",
+      "خارش پوست - قرمزی، خارش یا تحریک پوست.",
+      "سردرد - درد متمادی در ناحیه سر یا گردن.",
+      "فشار خون بالا - سطوح بالای فشار خون.",
+      "حملات نقرس - افزایش ممکن در حملات نقرس بلافاصله پس از شروع درمان."
+    ]
+  }
+}

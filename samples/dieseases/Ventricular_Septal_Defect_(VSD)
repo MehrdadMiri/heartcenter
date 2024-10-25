@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Ventricular Septal Defect (VSD) is a congenital heart defect characterized by an abnormal opening in the ventricular septum, the wall that separates the left and right ventricles of the heart. This defect allows oxygen-rich blood from the left ventricle to mix with oxygen-poor blood in the right ventricle, leading to increased blood flow to the lungs and potentially causing heart failure and other complications if left untreated.",
+    "symptoms": [
+      "Heart murmur: An abnormal sound caused by turbulent blood flow through the defect.",
+      "Shortness of breath: Difficulty in breathing, especially during physical activity or exertion.",
+      "Fatigue: An overall sense of tiredness or weakness due to insufficient oxygen supply.",
+      "Frequent respiratory infections: Increased vulnerability to lung infections due to elevated blood flow to the lungs.",
+      "Poor weight gain: In infants, this can manifest as inadequate growth or weight loss.",
+      "Cyanosis: A bluish coloration of the skin, especially in severe cases where blood flow is heavily compromised."
+    ],
+    "treatments": "Treatment for VSD depends on the size of the defect and the severity of symptoms. Smaller defects may close on their own and require only regular monitoring. In cases where symptoms are more significant or if the defect is large, medical management may include medications to help relieve symptoms and prevent complications. Surgical intervention might be necessary, with options including patch closure of the defect or closure using catheter techniques. Following treatment, patients require ongoing follow-up to monitor heart health and detect any long-term consequences."
+ },
+ "fa": {
+    "description": "نقص سپتوم بطنی (VSD) یک نقص مادرزادی قلب است که با یک سوراخ غیرطبیعی در سپتوم بطنی، که دیوار جداساز بطن‌های چپ و راست قلب است، شناخته می‌شود. این نقص اجازه می‌دهد تا خون غنی از اکسیژن در بطن چپ با خون فقیر از اکسیژن در بطن راست ترکیب شود که منجر به افزایش جریان خون به ریه‌ها و در صورت عدم درمان، احتمال بروز نارسایی قلبی و عوارض دیگر می‌شود.",
+    "symptoms": [
+      "وزوز قلب: صدای غیرعادی که ناشی از جریان خون نامنظم از طریق نقص است.",
+      "تنگی نفس: سختی در تنفس، به ویژه در حین فعالیت بدنی یا تلاش.",
+      "خستگی: احساس کلی خستگی یا ضعف به دلیل نبود تامین کافی اکسیژن.",
+      "عفونت‌های تنفسی مکرر: آسیب‌پذیری بیشتر در برابر عفونت‌های ریوی به دلیل افزایش خون‌رسانی به ریه‌ها.",
+      "عدم افزایش وزن مناسب: در نوزادان، این می‌تواند به شکل رشد یا کاهش وزن ناکافی بروز کند.",
+      "سیانوز: رنگ آبی پوست، به ویژه در موارد شدید که جریان خون به شدت مختل شده است."
+    ],
+    "treatments": "درمان برای VSD به اندازه نقص و شدت علائم بستگی دارد. نقص‌های کوچکتر ممکن است به خودی خود بسته شوند و تنها نیاز به نظارت منظم داشته باشند. در مواردی که علائم شدیدتر است یا نقص بزرگ است، مدیریت پزشکی ممکن است شامل داروها برای کمک به کاهش علائم و پیشگیری از عوارض باشد. مداخله جراحی ممکن است ضروری باشد، با گزینه‌هایی از جمله بسته شدن با پچ یا استفاده از تکنیک‌های کاتتری. پس از درمان، بیماران به پیگیری مداوم نیاز دارند تا سلامتی قلب را نظارت کنند و عواقب طولانی‌مدت را شناسایی کنند."
+ } 
+}

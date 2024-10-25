@@ -1,0 +1,32 @@
+```json
+{
+  "en": {
+    "description": "Carnitine is a naturally occurring compound that plays a crucial role in the metabolism of fatty acids, transporting them into the mitochondria of cells where they are burned for energy. It is synthesized in the body from the amino acids leucine and lysine and is found in high concentrations in muscle and heart tissues. Carnitine is often taken as a dietary supplement to enhance physical performance, assist in weight management, and improve overall energy levels.",
+    "benefits": "The primary benefits of carnitine supplementation include improved endurance and exercise performance, enhanced fat burning and weight loss, improved recovery from exercise, and potential benefits for heart health by improving cardiac function and reducing angina symptoms.",
+    "side effects": [
+      "Nausea",
+      "Vomiting",
+      "Stomach upset",
+      "Diarrhea",
+      "Abdominal cramps",
+      "Fishy body odor",
+      "Increased heart rate (tachycardia)",
+      "Allergic reactions (rare)"
+    ]
+  },
+  "fa": {
+    "description": "کارنیتین یک ترکیب طبیعی است که نقش مهمی در متابولیسم اسیدهای چرب ایفا می‌کند و آن‌ها را به میتوکندری سلول‌ها منتقل می‌کند تا در آنجا برای تولید انرژی سوخته شوند. این ماده در بدن از اسیدهای آمینه لوسین و لیزین سنتز می‌شود و در غلظت‌های بالا در بافت‌های عضلانی و قلبی یافت می‌شود. کارنیتین اغلب به عنوان مکمل غذایی برای افزایش عملکرد بدنی، کمک به مدیریت وزن و بهبود سطح انرژی کلی مورد استفاده قرار می‌گیرد.",
+    "benefits": "فواید اصلی مکمل کارنیتین شامل بهبود استقامت و عملکرد ورزشی، افزایش چربی سوزی و کاهش وزن، بهبود بهبودی پس از ورزش و همچنین مزایای بالقوه برای سلامت قلب با بهبود عملکرد قلبی و کاهش علائم آنژین است.",
+    "side effects": [
+      "تهوع",
+      "استفراغ",
+      "ناراحتی معده",
+      "اسهال",
+      "گرفتگی شکم",
+      "بوی بدن ماهی",
+      "افزایش ضربان قلب (تاکی‌کاردی)",
+      "واکنش‌های آلرژیک (نادر)"
+    ]
+  }
+}
+```

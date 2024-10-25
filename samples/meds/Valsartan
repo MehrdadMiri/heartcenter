@@ -1,0 +1,30 @@
+```json
+{
+  "en": {
+    "description": "Valsartan is an angiotensin II receptor blocker (ARB) used primarily to treat high blood pressure and heart failure. It works by relaxing blood vessels so that blood can flow more easily, thereby lowering blood pressure and reducing the workload on the heart. Additionally, Valsartan is often prescribed to help prevent heart attacks and improve survival rates after a heart attack.",
+    "uses": "Valsartan is commonly used for managing hypertension (high blood pressure), which helps prevent complications such as stroke, kidney disease, and heart failure. It is also used in patients with heart failure to improve heart function and quality of life by reducing symptoms such as shortness of breath and fatigue. Furthermore, Valsartan may be prescribed after a myocardial infarction (heart attack) to reduce the risk of future cardiovascular events.",
+    "side effects": [
+      "Dizziness: A feeling of lightheadedness or fainting, especially when standing up quickly.",
+      "Fatigue: A sense of tiredness or lack of energy.",
+      "Headache: Mild to moderate pain in the head.",
+      "Nausea: A feeling of sickness with an urge to vomit.",
+      "Hypotension: Abnormally low blood pressure, which can lead to fainting or severe dizziness.",
+      "Hyperkalemia: Elevated potassium levels in the blood which may cause irregular heart rhythms.",
+      "Cough: A dry cough may occur in some patients."
+    ]
+  },
+  "fa": {
+    "description": "والسارتان یک مسدودکننده گیرنده آنژیوتنسین II (ARB) است که عمدتاً برای درمان فشار خون بالا و نارسایی قلبی استفاده می‌شود. این دارو با شل کردن عروق خونی، اجازه می‌دهد خون به راحتی در بدن جریان یابد و در نتیجه فشار خون کاهش یافته و بار بر روی قلب کاهش می‌یابد. همچنین، والسارتان معمولاً برای کمک به پیشگیری از حملات قلبی و بهبود نرخ بقا پس از حمله قلبی تجویز می‌شود.",
+    "uses": "والسارتان به‌طور شایع برای مدیریت فشار خون بالا (هایپرتنسیون) مورد استفاده قرار می‌گیرد، که به پیشگیری از عوارضی مانند سکته مغزی، بیماری کلیوی و نارسایی قلبی کمک می‌کند. همچنین در بیماران مبتلا به نارسایی قلبی برای بهبود عملکرد قلب و کیفیت زندگی از طریق کاهش علائمی همچون تنگی نفس و خستگی تجویز می‌شود. علاوه بر این، والسارتان ممکن است پس از انفارکتوس میوکارد (حمله قلبی) برای کاهش خطر بروز مجدد حوادث قلبی عروقی تجویز شود.",
+    "side effects": [
+      "سرگیجه: حس سبکی سر یا غش کردگی، به‌ویژه هنگام بلند شدن سریع.",
+      "خستگی: حس خستگی یا کمبود انرژی.",
+      "سردرد: درد ملایم تا متوسط در سر.",
+      "تهوع: حس بیماری با تمایل به استفراغ.",
+      "هیپوتنشن: فشار خون غیرطبیعی پایین، که می‌تواند به غش یا سرگیجه شدید منجر شود.",
+      "هیپرکالمی: افزایش سطح پتاسیم در خون که ممکن است منجر به ریتم‌های غیر طبیعی قلب شود.",
+      "سرفه: سرفه خشک ممکن است در برخی بیماران رخ دهد."
+    ]
+  }
+}
+```

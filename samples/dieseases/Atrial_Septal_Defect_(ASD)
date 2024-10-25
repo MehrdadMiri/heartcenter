@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Atrial Septal Defect (ASD) is a congenital heart defect characterized by a hole in the wall (septum) that separates the two upper chambers of the heart (the left and right atria). This defect allows oxygen-rich blood from the left atrium to flow into the right atrium, leading to inefficient blood circulation and overloading the right side of the heart and pulmonary arteries. Symptoms may manifest later in life or stay mild for years, often requiring medical intervention.",
+    "symptoms": [
+      "Shortness of breath: Patients may experience difficulty breathing during physical activity or while at rest.",
+      "Fatigue: An overwhelming sense of tiredness or reduced stamina, especially after exercise.",
+      "Heart palpitations: Noticeable irregular heartbeats or racing heart that may occur at rest or during activity.",
+      "Swelling in legs, abdomen, or feet: Accumulation of fluids due to heart inefficiency.",
+      "Frequent respiratory infections: Individuals may have an increased susceptibility to lung infections.",
+      "Cyanosis: A bluish tint to the skin, especially in the lips and fingers, indicating reduced oxygen in the blood (more common in larger defects)."
+    ],
+    "treatments": "Treatment options for Atrial Septal Defect (ASD) include both surgical and non-surgical approaches. Non-surgical options often involve catheter-based methods where a closure device is inserted to seal the defect through a small incision. This minimally invasive procedure usually leads to quicker recovery times. Surgical options involve open-heart surgery to directly close the defect by stitching the atrial septum. The choice of treatment depends on various factors, including the size of the defect, the patient's age, symptoms, and overall health. Post-treatment care may include medications to manage symptoms and reduce the risk of complications such as arrhythmias and heart failure."
+  },
+  "fa": {
+    "description": "نقص سپتوم دهلیزی (ASD) یک نقص مادرزادی قلبی است که با وجود یک سوراخ در دیواره (سپتوم) بین دو اتاقک بالایی قلب (دهلیز چپ و راست) مشخص می‌شود. این نقص اجازه می‌دهد که خون غنی از اکسیژن از دهلیز چپ به دهلیز راست جریان یابد که منجر به گردش خون ناکارآمد و بارگذاری بیش از حد طرف راست قلب و شریان‌های ریوی می‌شود. علائم ممکن است در اواخر زندگی ظاهر شوند یا سال‌ها خفیف باقی بمانند و اغلب نیاز به مداخله پزشکی دارند.",
+    "symptoms": [
+      "کوتاه شدن نفس: بیماران ممکن است در حین فعالیت بدنی یا هنگام استراحت با مشکل تنفس مواجه شوند.",
+      "خستگی: احساس خستگی شدید یا کاهش استقامت، به ویژه پس از ورزش.",
+      "تپش قلب: ضربان‌های نامنظم یا تند قلب که ممکن است هنگام استراحت یا فعالیت بروز یابد.",
+      "تورم در پاها، شکم یا پاها: انباشت مایعات به دلیل ناکارآمدی قلب.",
+      "عفونت‌های تنفسی مکرر: افراد ممکن است به عفونت‌های ریوی بیشتری مبتلا شوند.",
+      "سیانوز: رنگ آبی بر روی پوست، به ویژه در لب‌ها و انگشت‌ها، که نشان‌دهنده کاهش اکسیژن در خون است (بیشتر در نقص‌های بزرگ‌تر رایج است)."
+    ],
+    "treatments": "گزینه‌های درمانی برای نقص سپتوم دهلیزی (ASD) شامل روش‌های جراحی و غیرجراحی است. گزینه‌های غیرجراحی معمولاً شامل روش‌های مبتنی بر کاتتر است که در آن یک دستگاه بسته‌کننده برای مسدود کردن نقص از طریق یک برش کوچک وارد می‌شود. این روش کم تهاجمی معمولاً منجر به زمان بهبودی سریع‌تری می‌شود. گزینه‌های جراحی شامل جراحی باز قلب برای بستن مستقیم نقص با دوختن سپتوم دهلیزی است. انتخاب درمان بستگی به عوامل مختلفی از جمله اندازه نقص، سن بیمار، علائم و سلامت عمومی دارد. مراقبت‌های بعد از درمان ممکن است شامل داروهایی برای مدیریت علائم و کاهش خطر عوارضی مانند آریتمی‌ها و نارسایی قلبی باشد."
+  }
+}

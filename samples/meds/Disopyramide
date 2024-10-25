@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Disopyramide is an antiarrhythmic medication that falls under the class IA of sodium channel blockers. It is primarily used to treat certain types of serious irregular heartbeats, or arrhythmias, by stabilizing the heart's electrical activity and helping restore normal heart rhythm. As a prescription medication, disopyramide is typically administered in oral form and may be prescribed in cases of ventricular arrhythmias or symptomatic atrial fibrillation, particularly in patients who do not respond to other treatments.",
+    "uses": "Disopyramide is used for managing life-threatening ventricular arrhythmias, thereby preventing sudden cardiac arrest in patients with a high risk of these arrhythmias. It may also be effective in treating atrial fibrillation or atrial flutter in patients who require a more aggressive approach and have not achieved control with other antiarrhythmic agents. Additionally, disopyramide can be employed in some cases where heart rate control is necessary, providing an important therapeutic option in the treatment of complex cardiac conditions.\n\nIn a clinical setting, disopyramide is considered for patients who exhibit symptoms like palpitations, dizziness, or fainting associated with their arrhythmias. Healthcare providers may opt for this medication after assessing the patient’s overall cardiac health and any potential contraindications due to its side effects or interactions with other medications. Continuous monitoring and dosage adjustments may be necessary to ensure optimal efficacy and safety.",
+    "side effects": [
+      "Dry mouth: A common side effect where patients experience a decreased secretion of saliva, leading to discomfort.",
+      "Constipation: A gastrointestinal issue where bowel movements become infrequent or difficult to pass.",
+      "Urinary retention: The inability to fully empty the bladder, which may cause discomfort and increase the risk of urinary tract infections.",
+      "Dizziness: A sensation of lightheadedness or spinning, which may affect balance and coordination.",
+      "Blurred vision: Visual disturbances that can impair clarity of sight, potentially impacting daily activities.",
+      "Palpitations: A feeling of irregular heartbeats which can cause anxiety in some patients."
+    ]
+  },
+  "fa": {
+    "description": "دی‌س‌پیرامید یک داروی ضد آریتمی است که در کلاس IA از مسدود کننده‌های کانال سدیم قرار می‌گیرد. این دارو عمدتاً برای درمان انواع خاصی از بی‌نظمی‌های جدی قلبی یا آریتمی‌ها استفاده می‌شود و با تثبیت فعالیت الکتریکی قلب و کمک به بازگرداندن ریتم طبیعی قلب، مورد استفاده قرار می‌گیرد. به عنوان یک داروی تجویزی، دی‌س‌پیرامید معمولاً به شکل خوراکی تجویز می‌شود و ممکن است در مواردی از آریتمی‌های بطنی یا فیبریلاسیون دهلیزی علامت‌دار، به ویژه در بیمارانی که به سایر درمان‌ها پاسخ نمی‌دهند، تجویز شود.",
+    "uses": "دی‌س‌پیرامید برای مدیریت آریتمی‌های بطنی تهدیدکننده زندگی استفاده می‌شود و در نتیجه از ایست قلبی ناگهانی در بیماران با خطر بالای این آریتمی‌ها جلوگیری می‌کند. همچنین می‌تواند در درمان فیبریلاسیون یا فلوتری دهلیزی در بیمارانی که به رویکردی تهاجمی‌تر نیاز دارند و کنترل کافی با سایر داروهای ضدآریتمی انجام نداده‌اند، موثر باشد. علاوه بر این، دی‌س‌پیرامید می‌تواند در شرایطی که کنترل ضربان قلب لازم است، به کار رود و گزینه درمانی مهمی در درمان شرایط قلبی پیچیده ارائه دهد.\n\nدر یک محیط کلینیکی، دی‌س‌پیرامید برای بیمارانی در نظر گرفته می‌شود که علائمی مانند تپش قلب، سرگیجه یا غش مرتبط با آریتمی‌های خود را بروز می‌دهند. ارائه‌دهندگان خدمات بهداشتی ممکن است پس از ارزیابی سلامت کلی قلب بیمار و هرگونه منع مصرف بالقوه به دلیل عوارض جانبی یا تداخلات با سایر داروها، این دارو را انتخاب کنند. پایش مداوم و تنظیم دوز ممکن است لازم باشد تا اطمینان حاصل شود که این دارو به طور بهینه و ایمن عمل می‌کند.",
+    "side effects": [
+      "خشکی دهان: عارضه شایع که در آن بیماران کاهش ترشح بزاق را تجربه می‌کنند که منجر به ناراحتی می‌شود.",
+      "یبوست: مشکل گوارشی که در آن حرکات روده نادر یا دشوار می‌شوند.",
+      "حبس ادرار: ناتوانی در تخلیه کامل مثانه که ممکن است باعث ناراحتی و افزایش خطر عفونت‌های ادراری شود.",
+      "سرگیجه: حسی از سبکی سر یا چرخش که ممکن است بر تعادل و هم‌نایی تأثیر بگذارد.",
+      "تاری دید: اختلالات بینایی که می‌تواند وضوح دید را مختل کند و بر فعالیت‌های روزمره تأثیر بگذارد.",
+      "تپش قلب: حسی از ضربان‌های غیرمنظم قلب که می‌تواند در بعضی بیماران باعث نگرانی شود."
+    ]
+  }
+}
