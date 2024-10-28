@@ -1,0 +1,28 @@
+```json
+{
+  "en": {
+    "description": "Taurine is a sulfur-containing amino acid that is important for several physiological processes, such as bile salt formation, development of the nervous system, and regulation of calcium levels in cells. It is primarily found in meat, fish, and dairy products, and is also synthesized in the body from other amino acids. Taurine is often used as a dietary supplement for its potential health benefits, including support for heart health, improvement in exercise performance, and enhancement of cognitive function.",
+    "benefits": "Some benefits of taurine include its ability to improve cardiovascular health by reducing blood pressure and cholesterol levels, enhancing exercise performance through improved muscle function, supporting neurological health and cognitive function, and providing antioxidant effects that help protect cells from damage. Additionally, taurine may aid in insulin regulation and help in the management of diabetes.",
+    "side effects": [
+      "Nausea",
+      "Vomiting",
+      "Diarrhea",
+      "Headaches",
+      "Dizziness",
+      "Allergic reactions (rare)"
+    ]
+  },
+  "fa": {
+    "description": "تاورین یک اسید آمینه حاوی گوگرد است که برای چندین فرآیند فیزیولوژیکی مانند تشکیل اسیدهای صفراوی، توسعه سیستم عصبی و تنظیم سطح کلسیم در سلول‌ها مهم است. این ماده عمدتاً در گوشت، ماهی و محصولات لبنی یافت می‌شود و همچنین از سایر اسیدهای آمینه در بدن سنتز می‌شود. تاورین اغلب به عنوان یک مکمل غذایی برای مزایای بهداشتی ممکن آن، از جمله حمایت از سلامت قلب، بهبود عملکرد ورزشی و افزایش عملکرد شناختی استفاده می‌شود.",
+    "benefits": "از برخی مزایای تاورین می‌توان به توانایی آن در بهبود سلامت قلب از طریق کاهش فشار خون و سطح کلسترول، افزایش عملکرد ورزشی از طریق بهبود عملکرد عضلات، حمایت از سلامت عصبی و عملکرد شناختی، و ارائه اثرات آنتی‌اکسیدانی که به محافظت از سلول‌ها در برابر آسیب کمک می‌کند، اشاره کرد. همچنین، تاورین ممکن است در تنظیم انسولین کمک کرده و در مدیریت دیابت موثر باشد.",
+    "side effects": [
+      "تهوع",
+      "استفراغ",
+      "اسهال",
+      "سردرد",
+      "سرگیجه",
+      "واکنش‌های آلرژیک (نادر)"
+    ]
+  }
+}
+```

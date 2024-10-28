@@ -1,24 +1,52 @@
-{
- "en": {
-    "description": "Chia seeds are tiny black seeds obtained from the Salvia hispanica plant, which is native to Mexico and Guatemala. They are rich in omega-3 fatty acids, antioxidants, fiber, protein, and various essential nutrients, making them a popular choice for health-conscious individuals. When soaked in water or other liquids, chia seeds expand and form a gel-like consistency, making them a versatile ingredient in smoothies, puddings, and baked goods. They are often praised for their health benefits, particularly for supporting heart health, digestion, and weight management.",
-    "benefits": "Chia seeds provide numerous health benefits, including improved heart health due to their high omega-3 fatty acid content, enhanced digestive health through their fiber content, and support for weight management as they promote a feeling of fullness. They also help maintain hydration, stabilize blood sugar levels, and provide important nutrients like calcium, magnesium, and phosphorus.",
-    "side effects": [
-      "Nausea",
-      "Diarrhea",
-      "Abdominal discomfort",
-      "Bloating",
-      "Allergic reactions (rare)"
-    ]
- },
- "fa": {
-     "description": "دانه‌های چیا دانه‌های کوچکی هستند که از گیاه سالویای هیسپانیکا گرفته شده‌اند که بومی مکزیک و گواتمالا هستند. این دانه‌ها سرشار از اسیدهای چرب امگا-۳، آنتی‌اکسیدان‌ها، فیبر، پروتئین و مواد مغذی ضروری هستند و به همین دلیل مورد توجه افراد آگاه به سلامت قرار گرفته‌اند. وقتی دانه‌های چیا در آب یا مایعات دیگر خیسانده شوند، متورم شده و یک قوام ژل مانند پیدا می‌کنند که آنها را به ماده‌ای چندمنظوره در اسموتی‌ها، پودینگ‌ها و محصولات پخته تبدیل می‌کند. دانه‌های چیا معمولاً به خاطر فواید سلامتی‌شان، به ویژه در حمایت از سلامت قلب، هضم و مدیریت وزن، تحسین می‌شوند.",
-     "benefits": "دانه‌های چیا فواید سلامتی متعددی دارند، از جمله بهبود سلامت قلب به دلیل محتوای بالای اسید چرب امگا-۳، بهبود سلامت دستگاه گوارش از طریق محتوای فیبر و حمایت از مدیریت وزن از طریق ارتقاء حس سیری. همچنین به حفظ هیدراتاسیون، تثبیت سطح قند خون و تأمین مواد مغذی مهمی مانند کلسیم، منیزیم و فسفر کمک می‌کنند.",
-     "side effects": [
-      "حالت تهوع",
-      "اسهال",
-      "ناراحتی شکمی",
-      "نفخ",
-      "واکنش‌های آلرژیک (کم‌تر شایع)"
-     ]
- }
-}
+# Chia Seeds
+
+Chia seeds are tiny black seeds from the Salvia hispanica plant, which is native to Central and South America. Historically, chia seeds were a vital food source for ancient civilizations like the Aztecs and Mayans. Today, they are recognized as a superfood due to their high nutrient content.
+
+## Nutritional Profile
+
+Chia seeds are highly nutritious and offer a range of health benefits. They are a rich source of:
+
+- **Omega-3 Fatty Acids**: Essential for heart health and brain function.
+- **Fiber**: Promotes digestive health and helps maintain a healthy weight.
+- **Protein**: Provides a plant-based source of protein.
+- **Calcium**: Important for bone health.
+- **Antioxidants**: Help combat oxidative stress in the body.
+- **Vitamins and Minerals**: Including magnesium, phosphorus, and manganese.
+
+### Health Benefits
+
+1. **Heart Health**: The omega-3 fatty acids in chia seeds can help lower cholesterol and reduce inflammation.
+2. **Digestive Health**: The high fiber content aids in digestion and regularity.
+3. **Weight Management**: Chia seeds can absorb water and expand in the stomach, promoting feelings of fullness.
+4. **Blood Sugar Control**: They can help stabilize blood sugar levels and improve insulin sensitivity.
+5. **Bone Health**: Rich in calcium and other minerals that support bone strength.
+
+## How to Use Chia Seeds
+
+Chia seeds can be incorporated into a variety of foods and drinks:
+
+- **Smoothies**: Blend into smoothies for added nutrition.
+- **Puddings**: Combine with milk or plant-based milk and sweetener to create chia pudding.
+- **Baking**: Add to muffins, bread, or other baked goods for a nutritional boost.
+- **Toppings**: Sprinkle on yogurt, oatmeal, or salads.
+
+## Recommended Dosage
+
+A common recommended dosage is 1 to 2 tablespoons of chia seeds per day. It's best to start with a smaller amount and gradually increase to assess tolerance.
+
+## Side Effects
+
+Chia seeds are generally safe for most people; however, some may experience side effects, including:
+
+- **Gastrointestinal Issues**: Including bloating, gas, or cramping, especially when consumed in large amounts or without adequate fluid.
+- **Allergic Reactions**: Rarely, some individuals may experience allergic reactions.
+- **Lowered Blood Pressure**: Because of their heart health benefits, chia seeds can lower blood pressure, potential risk for those on medications to manage their blood pressure.
+
+## Precautions
+
+- **Hydration**: Due to their high fiber content, it’s crucial to drink enough water when consuming chia seeds.
+- **Consult a Healthcare Provider**: Individuals with existing health conditions, pregnant or breastfeeding women, or those taking medications should consult with a healthcare provider before adding chia seeds to their diet.
+
+## Conclusion
+
+Chia seeds are a versatile and nutrient-rich addition to a balanced diet. They offer numerous health benefits, particularly for heart health, digestion, and weight management. With proper hydration and moderation, they can be safe for most people to enjoy.

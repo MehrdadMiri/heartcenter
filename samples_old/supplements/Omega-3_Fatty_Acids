@@ -1,0 +1,21 @@
+{
+  "en": {
+    "description": "Omega-3 fatty acids are essential fats that the body cannot produce on its own, primarily found in fish, flaxseed, and walnuts. These polyunsaturated fats play a crucial role in brain function, as well as normal growth and development. They are known to contribute to heart health by lowering blood pressure, reducing triglycerides, and decreasing the risk of heart disease. Additionally, omega-3s have anti-inflammatory properties and may support mental health by reducing symptoms of depression and anxiety.",
+    "benefits": "Omega-3 fatty acids can lead to improved heart health, reduced inflammation, enhanced brain function, and better mental health. They may also support eye health, aid in reducing symptoms of ADHD in children, and promote healthy skin.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Fishy aftertaste",
+      "Burping",
+      "Heartburn",
+      "Rash",
+      "Increased risk of bleeding",
+      "Allergic reactions"
+    ]
+  },
+  "fa": {
+    "description": "اسیدهای چرب امگا-3 چربی‌های ضروری هستند که بدن قادر به تولید آن‌ها نیست و به طور عمده در ماهی، دانه کتان و گردو یافت می‌شوند. این چربی‌های چند غیر اشباع نقش مهمی در عملکرد مغز و همچنین رشد و توسعه طبیعی دارند. آنها به بهبود سلامت قلب کمک می‌کنند، با کاهش فشار خون، کاهش تری گلیسیرید، و کاهش خطر بیماری‌های قلبی شناخته می‌شوند. علاوه بر این، امگا-3ها دارای خواص ضد التهابی هستند و ممکن است به سلامت روانی با کاهش علائم افسردگی و اضطراب کمک کنند.",
+    "benefits": "اسیدهای چرب امگا-3 می‌توانند به بهبود سلامت قلب، کاهش التهاب، تقویت عملکرد مغز و بهبود سلامت روانی منجر شوند. آنها همچنین ممکن است از سلامت چشم پشتیبانی کنند، به کاهش علائم ADHD در کودکان کمک کنند و به سلامت پوست کمک نمایند.",
+    "side effects": "تهوع، اسهال، طعم ماهی در دهان، آروغ، سوزش سر دل، راش، افزایش خطر خونریزی، و آلرژی."
+  }
+}

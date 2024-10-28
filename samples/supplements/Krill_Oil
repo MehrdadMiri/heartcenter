@@ -1,26 +1,41 @@
-{
-  "en": {
-    "description": "Krill oil is a dietary supplement derived from tiny crustaceans known as krill, which are found in the oceans. It is rich in omega-3 fatty acids, specifically eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), as well as antioxidants like astaxanthin. Due to its high bioavailability, krill oil is often used to support heart health, improve lipid profiles, reduce inflammation, and support cognitive function.",
-    "benefits": "Some of the key benefits of krill oil include improved cardiovascular health, reduced triglyceride levels, anti-inflammatory effects, potential relief from arthritis symptoms, and support for brain health and cognitive function.",
-    "side effects": [
-      "Gastrointestinal upset",
-      "Nausea",
-      "Diarrhea",
-      "Fishy aftertaste",
-      "Allergic reactions, particularly in those allergic to shellfish",
-      "Potential blood thinning effects, increasing the risk of bleeding"
-    ]
-  },
-  "fa": {
-    "description": "روغن کریل یک مکمل غذایی است که از سخت‌پوستان ریز به نام کریل که در اقیانوس‌ها یافت می‌شوند، استخراج شده است. این روغن سرشار از اسیدهای چرب امگا-3، به ویژه اسید ایکوزاپنتانوئیک (EPA) و اسید دکوزاهگزانوئیک (DHA) و همچنین آنتی‌اکسیدان‌هایی مانند آستاگزانتین می‌باشد. به دلیل زیست‌دسترس‌پذیری بالا، روغن کریل معمولاً برای حمایت از سلامت قلب، بهبود پروفایل چربی‌ها، کاهش التهاب و حمایت از عملکرد شناختی استفاده می‌شود.",
-    "benefits": "برخی از مزایای کلیدی روغن کریل شامل بهبود سلامت قلب و عروق، کاهش سطح تری‌گلیسرید، اثرات ضد التهابی، تسکین علائم آرتروز و حمایت از سلامت مغز و عملکرد شناختی است.",
-    "side effects": [
-      "اختلالات گوارشی",
-      "تهوع",
-      "اسهال",
-      "طعم ماهی در دهان",
-      "واکنش‌های آلرژیک، به‌خصوص در افرادی که به میگو و صدف‌ها آلرژی دارند",
-      "اثرات رقیق‌کننده خون که ممکن است خطر خونریزی را افزایش دهد"
-    ]
-  }
-}
+# Krill Oil
+
+## General Information
+
+Krill oil is derived from tiny crustaceans known as krill, mainly found in the cold waters of the Antarctic Ocean. It is a rich source of omega-3 fatty acids, especially eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), and is often touted for its potential health benefits. Krill oil differs from fish oil in that it also contains astaxanthin, a potent antioxidant that contributes to its reddish color and health-promoting properties.
+
+### Composition
+- **Omega-3 Fatty Acids**: Primarily EPA and DHA.
+- **Phospholipids**: Helps in the absorption of omega-3s.
+- **Astaxanthin**: An antioxidant that may support overall health and reduce inflammation.
+
+### Potential Health Benefits
+1. **Cardiovascular Health**: May help lower cholesterol levels and reduce the risk of heart disease.
+2. **Anti-inflammatory Properties**: May alleviate symptoms of arthritis and other inflammatory conditions.
+3. **Cognitive Function**: May support brain health and reduce the risk of cognitive decline.
+4. **Mood Enhancement**: Some studies suggest that omega-3s may help improve mood and reduce symptoms of anxiety and depression.
+5. **Menstrual Health**: Some women may find relief from discomfort associated with menstrual cycles.
+
+## Dosage
+
+Typical dosages of krill oil range from 500 mg to 3000 mg per day, depending on the specific health benefits being sought. It's important to follow the manufacturer's guidelines and consult with a healthcare provider for personalized advice.
+
+## Side Effects
+
+While krill oil is generally considered safe for most people, some may experience mild side effects:
+
+- **Gastrointestinal Issues**: Such as diarrhea, bloating, or stomach upset.
+- **Allergic Reactions**: People allergic to shellfish should avoid krill oil as it may trigger allergic responses.
+- **Fishy Aftertaste**: Some users report a fishy aftertaste or burping after consumption.
+- **Blood Thinning**: High doses may increase the risk of bleeding, especially if you are on blood-thinning medications.
+- **Interactions with Medications**: May interact with anticoagulants and other medications. Always consult a healthcare provider if you're on medications.
+
+## Precautions
+
+- **Allergies**: Avoid krill oil if you have a known shellfish allergy.
+- **Pregnancy and Breastfeeding**: Consult with a healthcare provider before taking krill oil during pregnancy or while breastfeeding.
+- **Surgery**: Discontinue use at least two weeks before scheduled surgery to minimize bleeding risk.
+
+## Conclusion
+
+Krill oil can be a beneficial supplement for those looking to enhance their intake of omega-3 fatty acids and antioxidants. As with any supplement, it is essential to consult a healthcare provider to ensure it is suitable for your health needs and to determine the appropriate dosage. If you experience any adverse effects while taking krill oil, discontinue use and seek medical advice.

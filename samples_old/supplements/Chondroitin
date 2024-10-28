@@ -1,0 +1,30 @@
+{
+ "en": {
+    "description": "Chondroitin is a natural substance found in the cartilage of joints, often taken as a dietary supplement to help alleviate symptoms of osteoarthritis and promote joint health. It is commonly sourced from animal cartilage and is believed to support the structural integrity of cartilage, thus potentially providing relief from joint pain and improving mobility.",
+    "benefits": "Chondroitin is known for its potential to reduce joint pain and inflammation, enhance joint function, improve mobility in individuals with osteoarthritis, and may even slow the progression of joint deterioration when used in combination with glucosamine.",
+    "side effects": [
+        "Nausea",
+        "Diarrhea",
+        "Constipation",
+        "Stomach pain",
+        "Fatigue",
+        "Headache",
+        "Skin rash",
+        "Allergic reactions"
+    ]
+ },
+ "fa": {
+     "description": "کندروئیتین یک ماده طبیعی است که در غضروف مفاصل یافت می‌شود و به‌عنوان مکمل غذایی برای کمک به کاهش علائم آرتروز و ارتقاء سلامت مفصل مصرف می‌شود. این ماده معمولاً از غضروف حیوانات استخراج می‌شود و اعتقاد بر این است که از سلامت ساختاری غضروف پشتیبانی می‌کند و به همین ترتیب ممکن است به تسکین درد مفاصل و بهبود تحرک کمک کند.",
+     "benefits": "کندروئیتین به‌خاطر پتانسیل خود در کاهش درد و التهاب مفاصل، افزایش عملکرد مفاصل، بهبود تحرک در افراد مبتلا به آرتروز و همچنین احتمال کاهش سرعت پیشرفت تخریب مفصل، به‌ویژه وقتی با گلکزامین ترکیب شود، شناخته شده است.",
+     "side effects": [
+        "تهوع",
+        "اسهال",
+        "یبوست",
+        "درد معده",
+        "خستگی",
+        "سردرد",
+        "کهیر",
+        "واکنش‌های آلرژیک"
+     ]
+ }
+}

@@ -1,21 +1,41 @@
-{
-  "en": {
-    "description": "Omega-3 fatty acids are essential fats that the body cannot produce on its own, primarily found in fish, flaxseed, and walnuts. These polyunsaturated fats play a crucial role in brain function, as well as normal growth and development. They are known to contribute to heart health by lowering blood pressure, reducing triglycerides, and decreasing the risk of heart disease. Additionally, omega-3s have anti-inflammatory properties and may support mental health by reducing symptoms of depression and anxiety.",
-    "benefits": "Omega-3 fatty acids can lead to improved heart health, reduced inflammation, enhanced brain function, and better mental health. They may also support eye health, aid in reducing symptoms of ADHD in children, and promote healthy skin.",
-    "side effects": [
-      "Nausea",
-      "Diarrhea",
-      "Fishy aftertaste",
-      "Burping",
-      "Heartburn",
-      "Rash",
-      "Increased risk of bleeding",
-      "Allergic reactions"
-    ]
-  },
-  "fa": {
-    "description": "اسیدهای چرب امگا-3 چربی‌های ضروری هستند که بدن قادر به تولید آن‌ها نیست و به طور عمده در ماهی، دانه کتان و گردو یافت می‌شوند. این چربی‌های چند غیر اشباع نقش مهمی در عملکرد مغز و همچنین رشد و توسعه طبیعی دارند. آنها به بهبود سلامت قلب کمک می‌کنند، با کاهش فشار خون، کاهش تری گلیسیرید، و کاهش خطر بیماری‌های قلبی شناخته می‌شوند. علاوه بر این، امگا-3ها دارای خواص ضد التهابی هستند و ممکن است به سلامت روانی با کاهش علائم افسردگی و اضطراب کمک کنند.",
-    "benefits": "اسیدهای چرب امگا-3 می‌توانند به بهبود سلامت قلب، کاهش التهاب، تقویت عملکرد مغز و بهبود سلامت روانی منجر شوند. آنها همچنین ممکن است از سلامت چشم پشتیبانی کنند، به کاهش علائم ADHD در کودکان کمک کنند و به سلامت پوست کمک نمایند.",
-    "side effects": "تهوع، اسهال، طعم ماهی در دهان، آروغ، سوزش سر دل، راش، افزایش خطر خونریزی، و آلرژی."
-  }
-}
+# Omega-3 Fatty Acids
+
+## General Information
+Omega-3 fatty acids are a type of polyunsaturated fat that are essential for human health. They play a crucial role in brain function, as well as normal growth and development. Unlike saturated fats, omega-3s are considered beneficial for heart health. The three main types of omega-3 fatty acids are:
+
+1. **Alpha-linolenic Acid (ALA)**: Found primarily in plant sources such as flaxseeds, chia seeds, walnuts, and some vegetable oils.
+2. **Eicosapentaenoic Acid (EPA)**: Predominantly found in fish and other seafood.
+3. **Docosahexaenoic Acid (DHA)**: Also mainly found in fish, particularly fatty fish like salmon, mackerel, and sardines.
+
+Omega-3 fatty acids are often consumed as dietary supplements, especially in the form of fish oil or algal oil for those who prefer a vegetarian source.
+
+### Health Benefits
+Omega-3 fatty acids provide numerous health benefits, including:
+
+- **Cardiovascular Health**: They help reduce triglycerides, lower blood pressure, and decrease the risk of heart disease.
+- **Brain Health**: DHA is particularly important for brain function and development, and may help reduce the risk of cognitive decline and dementia.
+- **Anti-inflammatory Effects**: Omega-3s can help reduce inflammation in the body, which may be beneficial for conditions such as arthritis.
+- **Mental Health Benefits**: Some studies suggest that omega-3s can help reduce symptoms of depression and anxiety.
+- **Eye Health**: DHA is a major structural component of the retina, and adequate omega-3 intake is linked to lower risk of macular degeneration.
+
+##Recommended Dosage
+The American Heart Association recommends consuming at least two servings of fatty fish per week or considering a supplement providing a total of 500–1000 mg of EPA and DHA per day for general health. Individuals with specific health issues may require higher doses under medical supervision.
+
+## Side Effects
+While omega-3 fatty acids are generally considered safe for most individuals, they can cause some side effects, particularly when taken in high doses or when sourced from fish oil. Common side effects may include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, bloating, or indigestion.
+- **Fishy Aftertaste**: Some individuals may experience a fishy taste in their mouth or burps after taking fish oil supplements.
+- **Bad Breath**: Consumption can sometimes lead to a fishy smell on the breath.
+- **Increased Bleeding Risk**: High doses of omega-3s may increase the risk of bleeding, especially in people taking anticoagulant medications.
+- **Allergic Reactions**: Those allergic to fish or shellfish may experience allergic reactions, including hives or difficulty breathing.
+
+## Contraindications
+Certain individuals should consult healthcare professionals before taking omega-3 supplements, including:
+
+- Individuals with bleeding disorders or those on blood-thinning medications (e.g., warfarin).
+- Pregnant or breastfeeding women, unless advised by a healthcare provider.
+- People with a known allergy to seafood.
+
+## Conclusion
+Omega-3 fatty acids are important for maintaining overall health, particularly for cardiovascular and brain health. While supplementation can be beneficial, it is essential to follow recommended dosages and consult with a healthcare provider, especially for individuals with pre-existing health conditions or those taking other medications.

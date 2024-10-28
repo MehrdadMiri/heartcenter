@@ -1,0 +1,42 @@
+{
+  "en": {
+    "description": "Allicin is a sulfur-containing compound found in garlic, known for its potent antimicrobial and anti-inflammatory properties. It is produced when garlic is crushed or chopped, and it is responsible for the distinctive smell associated with garlic. Allicin has been studied for its potential health benefits, which include supporting cardiovascular health, boosting the immune system, and possessing antioxidant effects. Additionally, it may help in managing cholesterol levels and regulating blood pressure, making it a valuable addition to a balanced diet.",
+    "benefits": [
+      "Supports cardiovascular health",
+      "Boosts the immune system",
+      "Possesses antimicrobial properties",
+      "Regulates blood pressure",
+      "Helps manage cholesterol levels",
+      "Antioxidant effects"
+    ],
+    "side effects": [
+      "Gastrointestinal upset",
+      "Heartburn",
+      "Nausea",
+      "Diarrhea",
+      "Allergic reactions in some individuals",
+      "Bad breath",
+      "Body odor"
+    ]
+  },
+  "fa": {
+    "description": "آلیسین یک ترکیب حاوی گوگرد است که در سیر وجود دارد و به خاطر خواص ضد میکروبی و ضد التهابی قوی خود شناخته شده است. این ترکیب زمانی تولید می‌شود که سیر خرد یا له شود و مسئول بوی خاص سیر است. آلیسین برای فواید سلامتی بالقوه خود مورد مطالعه قرار گرفته است، از جمله حمایت از سلامت قلبی عروقی، تقویت سیستم ایمنی و داشتن اثرات آنتی‌اکسیدانی. علاوه بر این، ممکن است در مدیریت سطح کلسترول و تنظیم فشار خون کمک کند و آن را به یک افزودنی ارزشمند در رژیم غذایی متعادل تبدیل کند.",
+    "benefits": [
+      "حمایت از سلامت قلبی عروقی",
+      "تقویت سیستم ایمنی",
+      "دارای خواص ضد میکروبی",
+      "تنظیم فشار خون",
+      "کمک در مدیریت سطح کلسترول",
+      "اثرات آنتی‌اکسیدانی"
+    ],
+    "side effects": [
+      "اختلالات گوارشی",
+      "سوزش سر دل",
+      "تهوع",
+      "اسهال",
+      "واکنش‌های آلرژیک در برخی افراد",
+      "بوی بد دهان",
+      "بوی بدن"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "en": {
+    "description": "Vitamin K2, also known as menaquinone, is a fat-soluble vitamin that plays a crucial role in calcium metabolism in the body. It is primarily found in animal products and fermented foods, such as natto, cheese, and eggs, and is important for the synthesis of proteins required for blood clotting and bone health. Research suggests that vitamin K2 may help to prevent osteoporosis and cardiovascular diseases by directing calcium to the bones and teeth while preventing its accumulation in the arteries and soft tissues.",
+    "benefits": [
+        "Supports healthy bone metabolism and helps prevent osteoporosis.",
+        "May reduce the risk of coronary artery disease by preventing arterial calcification.",
+        "Enhances the effectiveness of vitamin D in promoting calcium absorption.",
+        "Contributes to proper blood coagulation, which is essential for healing."
+    ],
+    "side effects": [
+        "Generally considered safe when taken in appropriate amounts.",
+        "Mild gastrointestinal upset (nausea, diarrhea).",
+        "Allergic reactions (rare).",
+        "Interference with anticoagulant medications, increasing the risk of clotting."
+    ]
+ },
+ "fa": {
+    "description": "ویتامین K2 که به نام منا کینون نیز شناخته می‌شود، یک ویتامین محلول در چربی است که نقش حیاتی در متابولیسم کلسیم در بدن ایفا می‌کند. این ویتامین عمدتاً در محصولات حیوانی و غذاهای تخمیری مانند ناتو، پنیر و تخم‌مرغ یافت می‌شود و برای سنتز پروتئین‌های مورد نیاز برای لخته شدن خون و سلامت استخوان اهمیت دارد. تحقیقات نشان می‌دهد که ویتامین K2 می‌تواند به پیشگیری از پوکی استخوان و بیماری‌های قلب و عروق کمک کند چرا که کلسیم را به سمت استخوان‌ها و دندان‌ها هدایت می‌کند و از انباشته شدن آن در شریان‌ها و بافت‌های نرم جلوگیری می‌کند.",
+    "benefits": [
+        "حمایت از متابولیسم سالم استخوان و کمک به پیشگیری از پوکی استخوان.",
+        "کاهش خطر بیماری‌های عروق کرونر از طریق جلوگیری از کلسیم در شریان‌ها.",
+        "افزایش اثر بخشی ویتامین D در جذب کلسیم.",
+        "مشارکت در لخته شدن خون که برای درمان ضروری است."
+    ],
+    "side effects": [
+        "عموماً در صورت مصرف در مقادیر مناسب بی‌خطر شناخته می‌شود.",
+        "ممکن است باعث ناراحتی گوارشی خفیف (تهوع، اسهال) شود.",
+        "واکنش‌های آلرژیک (نادر).",
+        "ایجاد تداخل با داروهای رقیق‌کننده خون، که باعث افزایش خطر لخته شدن می‌شود."
+    ]
+ }
+}

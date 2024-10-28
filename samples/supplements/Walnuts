@@ -1,34 +1,48 @@
-{
- "en": {
-    "description": "Walnuts are nutrient-dense nuts that belong to the tree nut family. They are known for their distinctive shape, rich flavor, and high content of essential fatty acids, particularly omega-3 fatty acids. Walnuts are a versatile ingredient that can be eaten raw, roasted, or used in a variety of dishes, such as salads, baked goods, and as toppings. They are often praised for their health benefits, which include improved heart health, brain function, and anti-inflammatory properties.",
-    "benefits": [
-      "Rich source of omega-3 fatty acids, promoting heart health.",
-      "Supports cognitive function and brain health.",
-      "Contains antioxidants that help combat oxidative stress.",
-      "May aid in weight management by promoting satiety.",
-      "Provides important vitamins and minerals, including magnesium and vitamin E."
-    ],
-    "side effects": [
-      "Potential allergic reactions in sensitive individuals.",
-      "Overconsumption may lead to weight gain due to high calorie content.",
-      "Possible gastrointestinal discomfort if consumed in large quantities.",
-      "May interact with certain medications, such as blood thinners."
-    ]
- },
- "fa": {
-    "description": "گردوها مغزهای غنی از مواد مغذی هستند که به خانواده مغزهای درختی تعلق دارند. آن‌ها به خاطر شکل خاص، طعم غنی و محتوای بالای اسیدهای چرب ضروری، به‌ویژه اسیدهای چرب امگا-3 شناخته شده‌اند. گردوها یک ماده غذایی چندمنظوره هستند که می‌توان آن‌ها را خام، بو داده یا در انواع غذاها مانند سالاد، محصولات نانوایی و به عنوان تزئین مصرف کرد. آن‌ها اغلب به خاطر مزایای سلامتی‌شان، که شامل بهبود سلامت قلب، عملکرد مغز و خواص ضد التهابی، تحسین می‌شوند.",
-    "benefits": [
-      "منبع غنی از اسیدهای چرب امگا-3 که سلامت قلب را ترویج می‌دهد.",
-      "حمایت از عملکرد شناختی و سلامت مغز.",
-      "دارای آنتی‌اکسیدان‌هایی که به مبارزه با استرس اکسیداتیو کمک می‌کنند.",
-      "ممکن است به مدیریت وزن با ترویج سیری کمک کند.",
-      "منبع مهم ویتامین‌ها و مواد معدنی، از جمله منیزیم و ویتامین E."
-    ],
-    "side effects": [
-      "احتمال واکنش‌های آلرژیک در افراد حساس.",
-      "مصرف بیش از حد ممکن است به افزایش وزن منجر شود به‌خاطر محتوای بالای کالری.",
-      "ممکن است در صورت مصرف زیاد، ناراحتی گوارشی ایجاد کند.",
-      "ممکن است با برخی داروها، مانند رقیق‌کننده‌های خون، تداخل داشته باشد."
-    ]
- }
-}
+# Walnuts
+
+## General Information
+Walnuts are a type of tree nut that belong to the Juglandaceae family. They are considered one of the healthiest nuts due to their high nutritional value and are primarily consumed as snacks or incorporated into various dishes. Walnuts are rich in essential fatty acids, particularly omega-3 fatty acids, making them beneficial for heart health.
+
+### Nutritional Profile
+Walnuts are dense in nutrients, and a typical serving size is about 1 ounce (28 grams), which contains:
+
+- **Calories:** Approximately 185
+- **Protein:** 4 grams
+- **Fat:** 18 grams
+  - Saturated Fat: 1.5 grams
+  - Polyunsaturated Fat: 13 grams
+  - Monounsaturated Fat: 2.5 grams
+- **Carbohydrates:** 4 grams
+  - Dietary Fiber: 2 grams
+  - Sugars: 0.7 grams
+- **Vitamins and Minerals:**
+  - Vitamin B6
+  - Vitamin E
+  - Folate
+  - Magnesium
+  - Phosphorus
+  - Copper
+  - Manganese
+
+### Health Benefits
+1. **Heart Health:** Walnuts can help lower cholesterol levels and reduce inflammation, decreasing the risk of heart disease.
+2. **Brain Health:** The high content of omega-3 fatty acids aids in brain function and may reduce the risk of neurodegenerative diseases.
+3. **Weight Management:** Walnuts may promote satiety and help in managing weight due to their protein and healthy fat content.
+4. **Antioxidant Properties:** Containing polyphenolic compounds, walnuts can help combat oxidative stress.
+5. **Improved Gut Health:** The fiber in walnuts can improve gut microbiota and digestive health.
+
+## Side Effects
+While walnuts are generally safe for most people to consume, some may experience side effects, especially when consumed in large quantities:
+
+1. **Allergic Reactions:** Some individuals may have an allergy to tree nuts, resulting in symptoms such as hives, swelling, or anaphylaxis.
+2. **Digestive Issues:** Excessive consumption may lead to gastrointestinal problems, including gas, bloating, or diarrhea.
+3. **High Caloric Intake:** Being calorie-dense, consuming large amounts of walnuts can lead to weight gain.
+4. **Interference with Blood Clotting:** Due to their omega-3 fatty acid content, walnuts may affect blood clotting; those on anticoagulants should consult a healthcare professional.
+5. **Oxalates:** Walnuts contain small amounts of oxalates, which can contribute to kidney stone formation in susceptible individuals.
+
+## Recommendations
+- **Serving Size:** It is recommended to consume walnuts in moderation, typically around 1 ounce (about 14 halves) per day.
+- **Storage:** To maintain freshness, store walnuts in an airtight container in a cool, dark place or refrigerate them if they are shelled to extend their shelf life.
+
+### Conclusion
+Walnuts are a nutritious addition to a balanced diet, offering numerous health benefits, particularly for heart and brain health. However, it's important to be mindful of their caloric density and potential allergic reactions. As with any dietary change, it is advisable to consult with a healthcare provider, especially for individuals with specific health concerns or conditions.

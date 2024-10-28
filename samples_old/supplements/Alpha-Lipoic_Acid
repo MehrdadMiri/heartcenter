@@ -1,0 +1,38 @@
+{
+  "en": {
+    "description": "Alpha-Lipoic Acid (ALA) is a naturally occurring antioxidant found in every cell of the body, playing a crucial role in energy metabolism and the conversion of glucose into energy. ALA is notable for its unique ability to function in both water and fat environments, making it highly versatile in combating oxidative stress and enhancing the functions of other antioxidants. It is often utilized as a dietary supplement to help prevent or manage conditions related to oxidative stress, such as diabetes, neuropathy, and brain health.",
+    "benefits": [
+      "Improves insulin sensitivity and helps control blood sugar levels.",
+      "Reduces symptoms of peripheral neuropathy and nerve pain.",
+      "Enhances antioxidant defenses by regenerating other antioxidants.",
+      "May improve skin health and reduce signs of aging.",
+      "Supports weight loss and improves metabolic symptoms."
+    ],
+    "side effects": [
+      "Nausea",
+      "Vomiting",
+      "Stomach upset",
+      "Skin rash",
+      "Headaches",
+      "Allergic reactions (rare)"
+    ]
+  },
+  "fa": {
+    "description": "اسید آلفا-لیپوئیک (ALA) یک آنتی‌اکسیدان طبیعی است که در هر سلول بدن وجود دارد و نقش مهمی در متابولیسم انرژی و تبدیل گلوکز به انرژی ایفا می‌کند. ALA به خاطر قابلیت منحصر به فردش در عمل در محیط‌های آبی و چربی شناخته شده است که این موضوع باعث می‌شود که به خوبی با استرس اکسیداتیو مبارزه کند و عملکرد دیگر آنتی‌اکسیدان‌ها را تقویت نماید. این مکمل عموماً برای پیشگیری یا مدیریت شرایط مرتبط با استرس اکسیداتیو مانند دیابت، نوروپاتی و سلامت مغز مورد استفاده قرار می‌گیرد.",
+    "benefits": [
+      "بهبود حساسیت به انسولین و کمک به کنترل سطح قند خون.",
+      "کاهش علائم نوروپاتی محیطی و درد عصبی.",
+      "تقویت دفاع‌های آنتی‌اکسیدانی با بازسازی دیگر آنتی‌اکسیدان‌ها.",
+      "ممکن است سلامت پوست را بهبود بخشد و علائم پیری را کاهش دهد.",
+      "حمایت از کاهش وزن و بهبود علائم متابولیکی."
+    ],
+    "side effects": [
+      "تهوع",
+      "استفراغ",
+      "ناراحتی معده",
+      "کهیر",
+      "سردرد",
+      "واکنش‌های آلرژیک (کمیاب)"
+    ]
+  }
+}

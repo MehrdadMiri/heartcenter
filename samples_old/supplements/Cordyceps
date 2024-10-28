@@ -1,0 +1,36 @@
+{
+  "en": {
+    "description": "Cordyceps is a genus of parasitic fungi that primarily infects insects and other arthropods. Known for its medicinal properties, Cordyceps has been used in traditional Chinese medicine for centuries. It is recognized for its potential to boost energy levels, enhance athletic performance, and improve stamina and endurance through increasing ATP production in the body. Additionally, Cordyceps is believed to support immune function, improve respiratory health, and may provide antioxidant effects by neutralizing harmful free radicals.",
+    "benefits": [
+      "Boosts energy and stamina",
+      "Enhances athletic performance",
+      "Supports immune function",
+      "Improves respiratory health",
+      "May have antioxidant properties"
+    ],
+    "side effects": [
+      "Gastrointestinal discomfort",
+      "Diarrhea",
+      "Nausea",
+      "Dry mouth",
+      "Allergic reactions in sensitive individuals"
+    ]
+  },
+  "fa": {
+    "description": "کوردیپس یک جنس از قارچ‌های پارازیتی است که عمدتاً حشره‌ها و سایر بندپایان را آلوده می‌کند. این قارچ به خاطر خواص دارویی‌اش، برای قرن‌ها در طب سنتی چینی مورد استفاده قرار گرفته است. کوردیپس به افزایش سطح انرژی، بهبود عملکرد ورزشی و افزایش استقامت و توانایی از طریق افزایش تولید ATP در بدن شناخته شده است. علاوه بر این، کوردیپس به تقویت عملکرد سیستم ایمنی، بهبود سلامت تنفسی و ممکن است اثرات آنتی اکسیدانی از طریق خنثی کردن رادیکال‌های آزاد مضر ارائه دهد.",
+    "benefits": [
+      "افزایش انرژی و استقامت",
+      "بهبود عملکرد ورزشی",
+      "حمایت از عملکرد سیستم ایمنی",
+      "بهبود سلامت تنفسی",
+      "ممکن است خواص آنتی اکسیدانی داشته باشد"
+    ],
+    "side effects": [
+      "ناراحتی گوارشی",
+      "اسهال",
+      "تهوع",
+      "خشکی دهان",
+      "واکنش‌های آلرژیک در افراد حساس"
+    ]
+  }
+}

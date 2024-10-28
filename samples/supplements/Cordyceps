@@ -1,36 +1,50 @@
-{
-  "en": {
-    "description": "Cordyceps is a genus of parasitic fungi that primarily infects insects and other arthropods. Known for its medicinal properties, Cordyceps has been used in traditional Chinese medicine for centuries. It is recognized for its potential to boost energy levels, enhance athletic performance, and improve stamina and endurance through increasing ATP production in the body. Additionally, Cordyceps is believed to support immune function, improve respiratory health, and may provide antioxidant effects by neutralizing harmful free radicals.",
-    "benefits": [
-      "Boosts energy and stamina",
-      "Enhances athletic performance",
-      "Supports immune function",
-      "Improves respiratory health",
-      "May have antioxidant properties"
-    ],
-    "side effects": [
-      "Gastrointestinal discomfort",
-      "Diarrhea",
-      "Nausea",
-      "Dry mouth",
-      "Allergic reactions in sensitive individuals"
-    ]
-  },
-  "fa": {
-    "description": "کوردیپس یک جنس از قارچ‌های پارازیتی است که عمدتاً حشره‌ها و سایر بندپایان را آلوده می‌کند. این قارچ به خاطر خواص دارویی‌اش، برای قرن‌ها در طب سنتی چینی مورد استفاده قرار گرفته است. کوردیپس به افزایش سطح انرژی، بهبود عملکرد ورزشی و افزایش استقامت و توانایی از طریق افزایش تولید ATP در بدن شناخته شده است. علاوه بر این، کوردیپس به تقویت عملکرد سیستم ایمنی، بهبود سلامت تنفسی و ممکن است اثرات آنتی اکسیدانی از طریق خنثی کردن رادیکال‌های آزاد مضر ارائه دهد.",
-    "benefits": [
-      "افزایش انرژی و استقامت",
-      "بهبود عملکرد ورزشی",
-      "حمایت از عملکرد سیستم ایمنی",
-      "بهبود سلامت تنفسی",
-      "ممکن است خواص آنتی اکسیدانی داشته باشد"
-    ],
-    "side effects": [
-      "ناراحتی گوارشی",
-      "اسهال",
-      "تهوع",
-      "خشکی دهان",
-      "واکنش‌های آلرژیک در افراد حساس"
-    ]
-  }
-}
+# Cordyceps
+
+## General Information
+
+Cordyceps is a genus of parasitic fungi known for its unique life cycle and various health benefits. Commonly referred to as "caterpillar fungus," it grows on insect larvae and is used in traditional Chinese medicine for centuries. There are several species of Cordyceps, with **Cordyceps sinensis** and **Cordyceps militaris** being the most widely studied and used in supplements.
+
+### Nutritional Composition
+Cordyceps is rich in:
+
+- **Polysaccharides**: Beneficial for immune support and energy production.
+- **Cordycepin**: A compound that has shown potential anti-cancer properties and is considered an active ingredient in Cordyceps extracts.
+- **Adenosine**: Important for energy metabolism and cardiovascular health.
+- **Beta-glucans**: Known for their immune-boosting effects.
+
+### Health Benefits
+Cordyceps is reputed to offer several health benefits, including:
+
+1. **Enhanced Athletic Performance**: May improve oxygen utilization and increase ATP production, leading to improved physical performance.
+2. **Energy and Stamina Boost**: Often used to combat fatigue and boost energy levels during exertion.
+3. **Immune System Support**: May enhance the body’s immune response and combat oxidative stress.
+4. **Anti-Aging Effects**: Antioxidants in Cordyceps may help slow the aging process at the cellular level.
+5. **Support for Sexual Health**: Traditionally used to improve libido and sexual function.
+6. **Potential Anti-Cancer Properties**: Laboratory studies have suggested that Cordyceps may inhibit tumor growth and promote cancer cell apoptosis.
+
+## Usage and Dosage
+Cordyceps can be taken in several forms, including:
+
+- **Capsules**: Convenient dosage form for consistent intake.
+- **Powder**: Can be added to smoothies, juices, or food.
+- **Extracts**: Concentrated forms providing higher amounts of active constituents.
+
+### Recommended Dosage
+- Typical doses range from **1,000 mg to 3,000 mg** per day, but it's essential to follow the manufacturer’s instructions and consult with a healthcare provider for personalized advice.
+
+## Side Effects
+
+While Cordyceps is generally considered safe for most people, some individuals may experience:
+
+- **Gastrointestinal Issues**: Such as nausea, diarrhea, or upset stomach.
+- **Allergic Reactions**: Skin rashes, itching, or other allergy symptoms in sensitive individuals.
+- **Effects on Blood Sugar**: May lower blood sugar levels; caution is advised for those with diabetes or hypoglycemia.
+- **Interactions with Medications**: May affect anticoagulant medications or immunosuppressive drugs; consult a healthcare provider if on such medications.
+
+### Contraindications
+- **Pregnancy and Breastfeeding**: Limited research on safety; consult a healthcare provider.
+- **Autoimmune Disorders**: May stimulate the immune system; caution is advised.
+
+## Conclusion
+
+Cordyceps is a fascinating supplement with a rich history in traditional medicine and promising potential health benefits. Its unique composition may support energy levels, athletic performance, immune health, and more. However, it is crucial to approach supplementation with careful consideration of dosage and potential side effects. Always consult a healthcare professional before adding a new supplement to your regimen, especially if you have underlying health conditions or are taking medications.

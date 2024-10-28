@@ -1,0 +1,22 @@
+{
+ "en": {
+    "description": "Plant sterols are naturally occurring substances found in plant foods that resemble cholesterol in structure but have a different effect on the body. They are known for their ability to lower LDL (low-density lipoprotein) cholesterol levels, which is a significant risk factor for heart disease. Plant sterols work by blocking the absorption of cholesterol in the intestines, ultimately leading to improved cardiovascular health when included in a balanced diet.",
+    "benefits": "The primary benefits of plant sterols include lowering LDL cholesterol levels, reducing the risk of heart disease, and potentially lowering the risk of certain types of cancer. Additionally, they can improve overall heart health when combined with a healthy lifestyle, including a diet rich in fruits, vegetables, and whole grains.",
+    "side effects": [
+        "Digestive discomfort",
+        "Gas and bloating",
+        "Increased bowel movements",
+        "Possible interference with the absorption of fat-soluble vitamins"
+    ]
+ },
+ "fa": {
+    "description": "استرول‌های گیاهی مواد طبیعی هستند که در غذاهای گیاهی وجود دارند و از نظر ساختاری شبیه کلسترول هستند، اما تأثیر متفاوتی بر بدن دارند. آن‌ها به خاطر توانایی‌شان در کاهش سطح کلسترول LDL (لیپوپروتئین با چگالی کم) شناخته شده‌اند، که یکی از عوامل خطر اصلی بیماری‌های قلبی است. استرول‌های گیاهی با مسدود کردن جذب کلسترول در روده‌ها عمل کرده و در نهایت به بهبود سلامت قلبی عروقی کمک می‌کنند، زمانی که در یک رژیم غذایی متعادل گنجانده شوند.",
+    "benefits": "مزایای اصلی استرول‌های گیاهی شامل کاهش سطح کلسترول LDL، کاهش خطر بیماری‌های قلبی و احتمالاً کاهش خطر برخی انواع سرطان‌ها است. علاوه بر این، آن‌ها می‌توانند با ترکیب با یک سبک زندگی سالم، از جمله یک رژیم غذایی غنی از میوه‌ها، سبزیجات و غلات کامل، به بهبود کلی سلامتی قلب کمک کنند.",
+    "side effects": [
+        "ناراحتی‌های گوارشی",
+        "گاز و نفخ",
+        "افزایش حرکات روده",
+        "احتمال تداخل با جذب ویتامین‌های محلول در چربی"
+    ]
+ }
+}

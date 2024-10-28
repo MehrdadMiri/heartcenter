@@ -1,44 +1,44 @@
-```json
-{
-  "en": {
-    "description": "Ashwagandha, scientifically known as Withania somnifera, is an ancient medicinal herb commonly used in Ayurvedic medicine. It is classified as an adaptogen, meaning it helps the body cope with stress, anxiety, and fatigue. Traditionally, the root and leaves of the plant are used to create supplements that promote overall health, enhance vitality, and support mental clarity. Ashwagandha is also believed to possess anti-inflammatory and antioxidant properties, making it beneficial for various physical and mental health conditions.",
-    "benefits": [
-      "Reduces stress and anxiety levels",
-      "Enhances cognitive function and memory",
-      "Improves energy and overall vitality",
-      "Supports immune system health",
-      "Balances hormone levels",
-      "Promotes better sleep quality",
-      "May aid in muscle growth and recovery"
-    ],
-    "side effects": [
-      "Gastrointestinal upset",
-      "Diarrhea",
-      "Nausea",
-      "Headache",
-      "Drowsiness or sedation",
-      "Potential allergic reactions"
-    ]
-  },
-  "fa": {
-    "description": "اشواگاندا، که به‌طور علمی به عنوان Withania somnifera شناخته می‌شود، یک گیاه دارویی باستانی است که معمولاً در طب آیورودا استفاده می‌شود. این گیاه به عنوان یک آداپتوژن طبقه‌بندی می‌شود و به معنای کمک به بدن جهت مقابله با استرس، اضطراب و خستگی است. به‌طور سنتی، ریشه و برگ‌های این گیاه برای تولید مکمل‌هایی که به سلامتی کلی، افزایش انرژی و حمایت از وضوح ذهن کمک می‌کنند، مورد استفاده قرار می‌گیرند. اشواگاندا همچنین دارای خواص ضد التهابی و آنتی‌اکسیدانی است که به نفع شرایط مختلف جسمی و روانی می‌باشد.",
-    "benefits": [
-      "کاهش سطوح استرس و اضطراب",
-      "بهبود عملکرد شناختی و حافظه",
-      "افزایش انرژی و سلامتی کلی",
-      "حمایت از سلامت سیستم ایمنی",
-      "تعادل در سطوح هورمونی",
-      "بهبود کیفیت خواب",
-      "ممکن است به رشد و بهبودی عضلات کمک کند"
-    ],
-    "side effects": [
-      "اختلالات گوارشی",
-      "اسهال",
-      "تهوع",
-      "سردرد",
-      "خواب آلودگی یا آرام‌بخشی",
-      "احتمال واکنش‌های آلرژیک"
-    ]
-  }
-}
-```
+# Ashwagandha
+
+## General Information
+
+**Ashwagandha** (Withania somnifera), also known as Indian ginseng or winter cherry, is a prominent herb in Ayurvedic medicine, traditionally used for its adaptogenic properties—helping the body adapt to stress and promoting overall well-being. It is classified as an adaptogen, meaning it may help in reducing stress and anxiety levels while enhancing physical performance and vitality.
+
+### Key Components
+- **Withanolides**: The active compounds in ashwagandha that are believed to provide health benefits.
+- **Alkaloids**: Contribute to its sedative effects and overall wellness properties.
+- **Saponins**: Known for their anti-inflammatory and immune-boosting effects.
+
+### Health Benefits
+1. **Stress Reduction**: May lower cortisol levels, thus reducing stress and anxiety.
+2. **Improved Mood**: May enhance overall mood and alleviate symptoms of depression.
+3. **Cognitive Enhancement**: Potential benefits in improving memory and cognitive function.
+4. **Physical Performance**: Can increase stamina and strength, often used by athletes.
+5. **Hormonal Balance**: May support thyroid function and balance hormones.
+6. **Anti-inflammatory and Antioxidant Effects**: Contributes to overall health by combating oxidative stress.
+
+### Common Uses
+- Reducing anxiety and stress
+- Enhancing overall well-being
+- Supporting brain health and cognitive function
+- Improving physical performance and recovery
+- Balancing blood sugar levels
+
+## Dosage
+The recommended dosage of ashwagandha varies, but commonly falls within the range of **300–600 mg** of standardized extract daily. It is advisable to consult a healthcare professional before starting any new supplement regimen.
+
+## Side Effects
+While ashwagandha is generally considered safe for most individuals when taken at recommended doses, some potential side effects include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, or upset stomach.
+- **Drowsiness**: May cause sedative effects, leading to fatigue or drowsiness in some individuals.
+- **Hormonal Effects**: Could alter hormone levels, so caution is advised for pregnant or breastfeeding women.
+- **Allergic Reactions**: Some individuals may experience allergies, particularly with pre-existing sensitivities.
+- **Interactions with Medications**: May interact with sedatives, thyroid medications, and medications that lower blood sugar levels.
+
+## Precautions
+- Consult with a healthcare provider before use, especially for individuals with existing health conditions, those who are pregnant or breastfeeding, or those taking medication.
+- People with autoimmune diseases should use caution, as ashwagandha may stimulate the immune system.
+
+## Conclusion
+Ashwagandha is a versatile herbal supplement with many potential health benefits, particularly in managing stress and improving mental and physical performance. However, it is essential to approach its use with care, considering possible side effects and interactions with other medications. Always consult a healthcare professional for personalized advice.

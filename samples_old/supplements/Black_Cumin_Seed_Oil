@@ -1,0 +1,42 @@
+{
+ "en": {
+    "description": "Black Cumin Seed Oil, derived from the seeds of the Nigella sativa plant, is a natural oil famed for its medicinal properties. It has been used for centuries in traditional medicine to aid in various health conditions. Rich in thymoquinone, an active compound known for its antioxidant and anti-inflammatory effects, Black Cumin Seed Oil is believed to support immune function, promote skin health, and aid in digestive health, making it a popular choice for holistic wellness.",
+    "benefits": [
+        "Supports immune system function.",
+        "Reduces inflammation.",
+        "May assist in managing asthma symptoms.",
+        "Promotes healthy skin and may help with conditions like eczema or acne.",
+        "Aids digestion and may support weight management.",
+        "Possesses antioxidant properties.",
+        "May improve cardiovascular health."
+    ],
+    "side effects": [
+        "Allergic reactions (skin rash, itching).",
+        "Stomach upset or gastrointestinal discomfort.",
+        "Nausea or vomiting.",
+        "Hypotension (low blood pressure).",
+        "Headaches.",
+        "Diarrhea in some individuals."
+    ]
+ },
+ "fa": {
+    "description": "روغن دانه سیاه، که از دانه‌های گیاه نیگلا ساتیوا استخراج می‌شود، به خاطر خواص دارویی‌اش مشهور است. این روغن قرن‌هاست که در طب سنتی برای کمک به شرایط مختلف سلامت استفاده می‌شود. این روغن سرشار از تیموکینون است که یک ترکیب فعال با خواص آنتی‌اکسیدانی و ضدالتهابی شناخته می‌شود. روغن دانه سیاه به تقویت سیستم ایمنی، بهبود سلامت پوست و کمک به سلامت دستگاه گوارش معروف است و به همین دلیل گزینه‌ای محبوب برای سلامت جامع محسوب می‌شود.",
+    "benefits": [
+        "حمایت از عملکرد سیستم ایمنی.",
+        "کاهش التهاب.",
+        "ممکن است در مدیریت علائم آسم کمک کند.",
+        "به سلامت پوست کمک کرده و ممکن است در مواردی مانند اگزما یا آکنه موثر باشد.",
+        "کمک به هضم و ممکن است در مدیریت وزن موثر باشد.",
+        "دارای خواص آنتی‌اکسیدانی.",
+        "ممکن است سلامت قلب و عروق را بهبود بخشد."
+    ],
+    "side effects": [
+        "واکنش‌های آلرژیک (جوش پوستی، خارش).",
+        "ناراحتی معده یا ناراحتی گوارشی.",
+        "تهوع یا استفراغ.",
+        "افت فشار خون.",
+        "سردرد.",
+        "اسهال در برخی افراد."
+    ]
+ }
+}

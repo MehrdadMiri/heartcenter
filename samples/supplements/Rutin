@@ -1,28 +1,32 @@
-```json
-{
-  "en": {
-    "description": "Rutin is a natural bioflavonoid, primarily found in foods such as buckwheat, citrus fruits, and various vegetables. It is known for its antioxidant properties and its ability to support blood vessel health by strengthening capillaries, reducing inflammation, and improving circulation. Rutin is often used as a dietary supplement to help relieve symptoms of conditions like chronic venous insufficiency and hemorrhoids.",
-    "benefits": "Rutin has several benefits including promoting cardiovascular health, reducing oxidative stress, improving circulation, alleviating symptoms of chronic venous insufficiency, and potentially boosting immunity. It may also have anti-inflammatory effects and help in managing blood pressure.",
-    "side effects": [
-      "Nausea",
-      "Headaches",
-      "Stomach upset",
-      "Allergic reactions (rare)",
-      "Dry mouth",
-      "Diarrhea"
-    ]
-  },
-  "fa": {
-    "description": "روتین یک بیوفلاونوئید طبیعی است که عمدتاً در غذاهایی مانند گندم سیاه، مرکبات و سبزیجات مختلف یافت می‌شود. این ماده به دلیل خواص آنتی‌اکسیدانی خود و توانایی تقویت سلامت رگ‌های خونی مشهور است. روتین با تقویت مویرگ‌ها، کاهش التهاب و بهبود گردش خون، به بهبود وضعیت‌های مرتبط با نارسایی وریدی مزمن و هموروئید کمک می‌کند.",
-    "benefits": "روتین مزایای زیادی دارد، از جمله تقویت سلامت قلب و عروق، کاهش استرس اکسیداتیو، بهبود گردش خون، کاهش علائم نارسایی وریدی مزمن و افزایش بالقوه ایمنی بدن. همچنین ممکن است اثرات ضد التهابی داشته و در مدیریت فشار خون مؤثر باشد.",
-    "side effects": [
-      "تهوع",
-      "سردرد",
-      "اختلالات معده",
-      "واکنش‌های آلرژیک (نادر)",
-      "خشکی دهان",
-      "اسهال"
-    ]
-  }
-}
-```
+# Rutin
+
+## General Information
+Rutin is a powerful flavonoid found in various fruits, vegetables, and plants. It is a glycoside of quercetin and is known for its antioxidant properties, which help protect the body against cellular damage caused by free radicals. Rutin is commonly found in foods such as buckwheat, apples, citrus fruits, and onions. 
+
+### Potential Benefits of Rutin
+1. **Antioxidant Activity**: Rutin helps to neutralize free radicals, which can reduce oxidative stress in the body.
+2. **Anti-Inflammatory Properties**: It may help alleviate inflammation, potentially benefiting those with chronic inflammatory diseases.
+3. **Improvement in Circulation**: Rutin is known to strengthen blood vessels and improve microcirculation, making it beneficial for vein health.
+4. **Support for Heart Health**: Due to its ability to improve blood vessel health and lower cholesterol levels, rutin may contribute to cardiovascular health.
+5. **Potential Allergy Relief**: Rutin may act as a natural antihistamine, potentially reducing allergy symptoms.
+6. **Blood Sugar Regulation**: Some studies suggest that rutin might help regulate blood sugar levels and improve insulin sensitivity.
+7. **Cancer Prevention**: Preliminary research indicates that rutin may have anti-cancer properties, although more research is needed.
+
+## Dosage
+Rutin is commonly available as a dietary supplement. The typical dosage ranges from 500 to 1000 mg per day, taken in divided doses. However, it is essential to follow the guidance of a healthcare provider for personalized recommendations.
+
+## Side Effects
+While rutin is generally considered safe for most people when taken at recommended doses, some potential side effects may include:
+
+- **Nausea**: Some individuals may experience stomach upset or nausea.
+- **Headaches**: Occasional headaches have been reported.
+- **Digestive Issues**: Possible side effects include diarrhea or constipation.
+- **Allergic Reactions**: Rarely, some people may experience an allergic reaction, including rash, itching, or difficulty breathing.
+- **Hypotension**: Rutin can lower blood pressure; individuals with hypotension should use caution.
+  
+### Precautions
+- **Pregnancy and Breastfeeding**: There is limited research on the safety of rutin during pregnancy and lactation. Consult a healthcare provider before use.
+- **Medications**: Rutin may interact with certain medications, especially anticoagulants (blood thinners). Always discuss with a healthcare professional if you are on medication.
+
+## Conclusion
+Rutin is a versatile flavonoid supplement that offers several potential health benefits, particularly for vascular health and antioxidant support. While it is generally safe, it is crucial to consult with a healthcare provider before starting any new supplement, especially if you have existing health conditions or are on medications.

@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Inositol is a carbohydrate that is often classified as a vitamin-like substance, found naturally in various food sources such as fruits, beans, grains, and nuts. It plays a vital role in cellular signaling and has gained attention for its potential benefits in mental health, particularly in managing conditions like anxiety and depression, as well as its use in treating polycystic ovary syndrome (PCOS). Inositol is believed to help regulate insulin levels and may improve ovarian function, promoting overall reproductive health.",
+    "benefits": "Inositol may help reduce symptoms of anxiety and depression, improve insulin sensitivity, support ovarian function in women with PCOS, and aid in weight management. It may also contribute to better mood regulation and overall mental health.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset",
+      "Headache",
+      "Dizziness",
+      "Fatigue"
+    ]
+  },
+  "fa": {
+    "description": "ایندوسیتول یک کربوهیدرات است که غالباً به عنوان یک ماده شبیه ویتامین طبقه‌بندی می‌شود و به طور طبیعی در منابع غذایی مختلفی مانند میوه‌ها، حبوبات، غلات و مغزها یافت می‌شود. این ماده نقش مهمی در سیگنال‌دهی سلولی ایفا کرده و توجه زیادی را به خود جلب کرده است به ویژه برای مزایای بالقوه‌اش در سلامت روان، به ویژه در مدیریت شرایطی مانند اضطراب و افسردگی، و همچنین استفاده از آن در درمان سندرم تخمدان پلی‌کیستیک (PCOS). اندوسیتول به تنظیم سطح انسولین کمک می‌کند و ممکن است عملکرد تخمدان را بهبود بخشد و به سلامت باروری کلی کمک کند.",
+    "benefits": "ایندوسیتول ممکن است به کاهش علائم اضطراب و افسردگی کمک کند، حساسیت به انسولین را بهبود بخشد، عملکرد تخمدان‌ها را در زنان مبتلا به PCOS حمایت کند و به مدیریت وزن کمک کند. همچنین ممکن است به تنظیم بهتری خلق و خو و سلامت عمومی روانی کمک کند.",
+    "side effects": [
+      "تهوع",
+      "اسهال",
+      "ناراحتی معده",
+      "سرache",
+      "سرگیجه",
+      "خستگی"
+    ]
+  }
+}

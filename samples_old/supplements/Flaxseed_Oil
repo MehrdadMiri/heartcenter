@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Flaxseed oil is extracted from the seeds of the flax plant (Linum usitatissimum) and is rich in omega-3 fatty acids, particularly alpha-linolenic acid (ALA). This oil is commonly used as a dietary supplement due to its potential health benefits, particularly in promoting heart health, reducing inflammation, and supporting digestive health. Flaxseed oil is often taken in liquid form or as capsules and can be used in salad dressings or added to smoothies for an extra nutrient boost.",
+    "benefits": "Flaxseed oil is known to lower cholesterol levels, improve heart health, reduce the risk of certain chronic diseases, alleviate symptoms of menopause, support weight loss, and provide anti-inflammatory effects.",
+    "side effects": [
+      "Digestive problems (bloating, gas, diarrhea)",
+      "Allergic reactions (rash, itching, swelling)",
+      "Bleeding risks (especially if taken with anticoagulants)",
+      "Hormonal effects (due to phytoestrogens)",
+      "Lower blood pressure",
+      "Changes in stool color"
+    ]
+  },
+  "fa": {
+    "description": "روغن بذر کتانی از دانه‌های گیاه کتان (Linum usitatissimum) استخراج می‌شود و سرشار از اسیدهای چرب امگا-۳، به ویژه اسید آلفا-لینولنیک (ALA) است. این روغن به عنوان یک مکمل غذایی به دلیل مزایای بالقوه سلامتی‌اش، به ویژه در بهبود سلامت قلب، کاهش التهاب و حمایت از سلامت گوارش، به‌طور گسترده‌ای استفاده می‌شود. روغن بذر کتانی معمولاً به صورت مایع یا کپسول مصرف می‌شود و می‌تواند در سس‌های سالاد یا نوشیدنی‌های پروتئینی برای افزایش مواد مغذی اضافه شود.",
+    "benefits": "روغن بذر کتانی به کاهش سطوح کلسترول، بهبود سلامت قلب، کاهش خطر ابتلا به برخی بیماری‌های مزمن، تسکین علائم یائسگی، حمایت از کاهش وزن و ارائه اثرات ضد التهابی شناخته می‌شود.",
+    "side effects": [
+      "مشکلات گوارشی (نفخ، گاز، اسهال)",
+      "واکنش‌های آلرژیک (راش، خارش، تورم)",
+      "خطرات خونریزی (به ویژه اگر با رقیق‌کننده‌های خون مصرف شود)",
+      "اثرهای هورمونی (به دلیل وجود فیتواستروژن‌ها)",
+      "کاهش فشار خون",
+      "تغییر رنگ مدفوع"
+    ]
+  }
+}

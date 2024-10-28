@@ -1,0 +1,40 @@
+{
+  "en": {
+    "description": "Vitamin D is a fat-soluble vitamin that is essential for maintaining the health of bones and teeth, supporting the immune system, and facilitating normal growth and development of cells. It can be obtained from sunlight exposure, certain foods, and supplements. This vitamin plays a critical role in calcium absorption, which is vital for bone density and overall skeletal health.",
+    "benefits": [
+      "Supports bone health by enhancing calcium absorption.",
+      "Boosts immune function and helps fight off infections.",
+      "May reduce the risk of chronic diseases such as heart disease.",
+      "Promotes muscle function and strength.",
+      "Contributes to mood regulation and mental health."
+    ],
+    "side effects": [
+      "Nausea",
+      "Vomiting",
+      "Weakness",
+      "Frequent urination",
+      "Kidney stones",
+      "Excessive calcium in the blood (hypercalcemia)",
+      "Fatigue"
+    ]
+  },
+  "fa": {
+    "description": "ویتامین D یک ویتامین محلول در چربی است که برای حفظ سلامت استخوان‌ها و دندان‌ها، حمایت از سیستم ایمنی و تسهیل رشد و توسعه طبیعی سلول‌ها ضروری است. این ویتامین می‌تواند از طریق تابش خورشید، برخی مواد غذایی و مکمل‌ها به دست آید. ویتامین D نقش مهمی در جذب کلسیم ایفا می‌کند که برای سلامت استخوان‌های کلی و دانسیته استخوان‌ها حیاتی است.",
+    "benefits": [
+      "حمایت از سلامت استخوان‌ها با افزایش جذب کلسیم.",
+      "تقویت عملکرد ایمنی و کمک به مبارزه با عفونت‌ها.",
+      "کاهش خطر بیماری‌های مزمن مانند بیماری قلبی.",
+      "ترویج عملکرد و قدرت عضلات.",
+      "کمک به تنظیم وضعیت روحی و سلامت روان."
+    ],
+    "side effects": [
+      "تهوع",
+      "استفراغ",
+      "ضعف",
+      "ادرار مکرر",
+      "سنگ کلیه",
+      "افزایش کلسیم در خون (هیپرکلسمی)",
+      "خستگی"
+    ]
+  }
+}

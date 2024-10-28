@@ -1,30 +1,50 @@
-{
-  "en": {
-    "description": "Potassium is an essential mineral and electrolyte that plays a crucial role in maintaining proper cellular function, regulating blood pressure, and ensuring normal muscle and nerve function. It is vital for the synthesis of proteins, carbohydrate metabolism, and the transmission of electrical impulses in the body. Potassium is found in various foods, including bananas, oranges, potatoes, spinach, and beans, and is often recommended as a supplement for those experiencing deficiencies or specific health conditions.",
-    "benefits": "Potassium helps regulate fluid balance, supports nerve function, aids in muscle contractions, decreases the risk of hypertension, and may help prevent strokes and cardiovascular diseases by reducing blood pressure levels. Additionally, it can promote bone health and help prevent kidney stones.",
-    "side effects": [
-      "Hyperkalemia (high potassium levels)",
-      "Hypokalemia (low potassium levels)",
-      "Abdominal pain",
-      "Nausea",
-      "Vomiting",
-      "Diarrhea",
-      "Weakness or fatigue",
-      "Irregular heart rhythms"
-    ]
-  },
-  "fa": {
-    "description": "پتاسیم یک ماده معدنی و الکترولیت ضروری است که نقش حیاتی در حفظ عملکرد صحیح سلولی، تنظیم فشار خون و اطمینان از عملکرد عادی ماهیچه‌ها و اعصاب ایفا می‌کند. این ماده برای سنتز پروتئین‌ها، متابولیسم کربوهیدرات‌ها و انتقال امواج الکتریکی در بدن ضروری است. پتاسیم در غذاهای مختلفی مانند موز، پرتقال، سیب‌زمینی، اسفناج و لوبیا یافت می‌شود و معمولاً به عنوان مکمل برای کسانی که دچار کمبود یا شرایط خاص سلامتی هستند، توصیه می‌شود.",
-    "benefits": "پتاسیم به تنظیم تعادل مایعات کمک می‌کند، از عملکرد عصبی حمایت می‌نماید، به انقباضات عضلانی کمک می‌کند، خطر فشار خون بالا را کاهش می‌دهد و ممکن است به پیشگیری از سکته مغزی و بیماری‌های قلبی عروقی از طریق کاهش سطح فشار خون کمک کند. علاوه بر این، می‌تواند سلامت استخوان را تقویت کرده و خطر سنگ کلیه را کاهش دهد.",
-    "side effects": [
-      "هیپرکالمی (سطوح بالای پتاسیم)",
-      "هیپوکالمی (سطوح پایین پتاسیم)",
-      "درد شکم",
-      "تهوع",
-      "استفراغ",
-      "اسهال",
-      "ضعف یا خستگی",
-      "آریتمی قلبی"
-    ]
-  }
-}
+# Potassium
+
+## General Information
+Potassium is an essential mineral and electrolyte that is crucial for the proper functioning of the body's cells, tissues, and organs. It plays a key role in various physiological processes, including:
+
+- **Fluid Balance**: Helps maintain fluid balance in the body by regulating the concentration of electrolytes.
+- **Nerve Function**: Essential for transmitting nerve impulses and muscle contractions.
+- **Muscle Contraction**: Vital for normal muscle function, including the heart muscle.
+- **Blood Pressure Regulation**: Can help lower blood pressure by balancing out the negative effects of sodium.
+
+### Sources of Potassium
+Potassium is naturally found in many foods, including:
+
+- **Fruits**: Bananas, oranges, apricots, and melons.
+- **Vegetables**: Spinach, potatoes, sweet potatoes, and avocados.
+- **Legumes**: Lentils, beans, and peas.
+- **Dairy**: Milk and yogurt.
+- **Nuts and Seeds**: Almonds and sunflower seeds.
+
+### Recommended Dietary Allowance (RDA)
+The adequate intake of potassium varies by age and gender. As a general guideline:
+
+- **Adults**: Approximately 2,500 to 3,000 mg per day.
+- **Children**: Varies by age, approximately 1,000 to 2,300 mg per day.
+
+## Health Benefits
+- **Cardiovascular Health**: Adequate potassium intake is associated with reduced risk of stroke and other cardiovascular diseases.
+- **Bone Health**: Plays a role in bone health by helping to prevent osteoporosis.
+- **Kidney Function**: Supports healthy kidney function by improving urinary potassium excretion.
+
+## Side Effects and Risks
+While potassium is essential for health, excessive intake can lead to problems, especially for individuals with certain medical conditions. Potential side effects of excessive potassium include:
+
+- **Hyperkalemia**: Elevated potassium levels in the blood, which can cause:
+  - Nausea and vomiting
+  - Muscle weakness
+  - Fatigue
+  - Heart palpitations or arrhythmias
+  - Possible cardiac arrest in severe cases
+
+- **Interactions with Medications**: Certain medications (e.g., ACE inhibitors, potassium-sparing diuretics) can increase potassium levels, leading to hyperkalemia.
+
+- **Gastrointestinal Distress**: Some individuals may experience stomach upset or diarrhea with high doses of potassium supplements.
+
+### Contraindications
+- Individuals with kidney disease or dysfunction should avoid potassium supplements unless specifically prescribed by a healthcare provider since their ability to excrete potassium may be impaired.
+- Those on specific medications that affect potassium levels should consult their doctor before taking potassium supplements.
+
+## Conclusion
+Potassium is a vital mineral necessary for various bodily functions, particularly for nerve transmission, muscle contraction, and overall heart health. Maintaining an adequate intake through a balanced diet is essential, and supplements should generally be used only under medical supervision, especially in individuals with health concerns. Always consult a healthcare professional before starting any supplement regimen.

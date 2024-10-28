@@ -1,0 +1,28 @@
+{
+ "en": {
+    "description": "Psyllium is a natural soluble fiber derived from the seeds of the Plantago ovata plant. It is commonly used as a laxative to relieve constipation and promote regular bowel movements. It works by absorbing water in the gut, forming a gel-like substance that helps soften stool and stimulate intestinal peristalsis. Additionally, psyllium can be beneficial for managing cholesterol levels and supporting overall digestive health.",
+    "benefits": "Helps relieve constipation, promotes regular bowel movements, aids in lowering cholesterol levels, supports heart health, may assist in weight management by increasing feelings of fullness.",
+    "side effects": [
+        "Bloating",
+        "Gas",
+        "Abdominal cramps",
+        "Diarrhea",
+        "Nausea",
+        "Difficulty swallowing (rare)",
+        "Allergic reactions (rare)"
+    ]
+ },
+ "fa": {
+    "description": "پسیلیم نوعی فیبر طبیعی محلول است که از دانه‌های گیاه Plantago ovata استخراج می‌شود. این ماده معمولاً به عنوان ملین برای تسکین یبوست و ترویج حرکت منظم روده‌ها استفاده می‌شود. پسیلیم با جذب آب در روده عمل می‌کند و ماده‌ای ژل‌مانند تشکیل می‌دهد که به نرم شدن مدفوع و تحریک حرکت‌های روده‌ای کمک می‌کند. علاوه بر این، پسیلیم می‌تواند برای مدیریت سطح کلسترول و حمایت از سلامت دستگاه گوارش مفید باشد.",
+    "benefits": "کمک به رفع یبوست، ترویج حرکت منظم روده، کمک به کاهش سطح کلسترول، حمایت از سلامت قلب، ممکن است به مدیریت وزن با افزایش احساس سیری کمک کند.",
+    "side effects": [
+        "نفخ",
+        "گاز",
+        "کرامپ‌های شکم",
+        "اسهال",
+        "تهوع",
+        "مشکل در بلع (نادر)",
+        "واکنش‌های آلرژیک (نادر)"
+    ]
+ }
+}

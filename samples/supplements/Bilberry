@@ -1,24 +1,53 @@
-{
-  "en": {
-    "description": "Bilberry, a small dark blue fruit closely related to the blueberry, is rich in antioxidants, vitamins, and essential nutrients. Traditionally used in herbal medicine, bilberry is believed to support eye health, improve vision, and enhance blood circulation. Its active compounds, such as anthocyanins, are known for their anti-inflammatory properties, making bilberry a popular choice for those looking to boost overall wellness and eye-related conditions, particularly night vision and age-related macular degeneration.",
-    "benefits": "Bilberry may improve vision, particularly in low-light conditions, help manage blood sugar levels, support vascular health, and reduce the risk of eye diseases. Additionally, its antioxidant properties can combat oxidative stress, which is beneficial for overall health.",
-    "side effects": [
-      "Digestive upset",
-      "Headaches",
-      "Rash or allergic reactions",
-      "Diarrhea",
-      "Nausea"
-    ]
-  },
-  "fa": {
-    "description": "بیل‌ بری، میوه‌ای کوچک و تیره آبی که به زغال‌اخته نزدیک است، غنی از آنتی‌اکسیدان‌ها، ویتامین‌ها و مواد مغذی ضروری است. این میوه به طور سنتی در پزشکی گیاهی استفاده می‌شود و اعتقاد بر این است که به سلامت چشم، بهبود بینایی و تقویت گردش خون کمک می‌کند. ترکیبات فعال آن، مانند آنتوسیانین‌ها، به خاطر خواص ضد التهابی‌اش شناخته شده‌اند و بیل‌ بری گزینه‌ای محبوب برای کسانی است که به دنبال افزایش سلامت عمومی و شرایط مربوط به چشم به ویژه بینایی در شب و دژنراسیون ماکولا مربوط به سن هستند.",
-    "benefits": "بیل‌ بری ممکن است بینایی را به ویژه در شرایط نور کم بهبود بخشد، به کنترل سطح قند خون کمک کند، از سلامت عروقی حمایت کند و خطر ابتلا به بیماری‌های چشمی را کاهش دهد. همچنین، خواص آنتی‌اکسیدانی آن می‌تواند با استرس اکسیداتیو مقابله کند که برای سلامت کلی مفید است.",
-    "side effects": [
-      "اختلالات گوارشی",
-      "سردرد",
-      "خارش یا واکنش‌های آلرژیک",
-      "اسهال",
-      "تهوع"
-    ]
-  }
-}
+# Bilberry Supplement
+
+## General Information
+
+**Bilberry (Vaccinium myrtillus)** is a flowering plant in the heath family. It is native to Europe and is closely related to the blueberry, with which it shares many properties. The fruit of the bilberry plant is dark blue to purple and is similar in size to a blueberry but is slightly more acidic in taste.
+
+Bilberry is commonly used as a dietary supplement due to its high concentration of antioxidants, particularly anthocyanins. These compounds are believed to provide numerous health benefits, particularly for eye health and cardiovascular support.
+
+### Common Uses
+- **Eye Health**: Bilberry has a long history of use for improving vision and preventing eye strain. It is thought to help with night vision and may reduce the risk of age-related macular degeneration (AMD).
+- **Circulatory Health**: Some studies suggest bilberry can improve blood circulation and support vascular health.
+- **Antioxidant Effects**: Due to its high levels of anthocyanins, bilberry may help to combat oxidative stress in the body, potentially reducing the risk of chronic diseases.
+- **Anti-Inflammatory**: Bilberry may also possess anti-inflammatory properties that can help in reducing symptoms associated with inflammation.
+
+### Forms Available
+- Capsules
+- Extracts
+- Dried berries
+- Teas
+
+## Potential Benefits
+- Improved night vision
+- Enhanced eye health and reduced risk of macular degeneration
+- Improved vascular health
+- Antioxidant support
+- Support for cardiovascular health
+
+## Dosage
+The recommended dosage can vary based on the form of supplement. Common dosages include:
+- **Capsules/Extracts**: 160–480 mg per day
+- **Dried Berries**: 20–40 grams per day
+
+It is advisable to follow the instructions on the supplement label or consult a healthcare professional for appropriate dosing.
+
+## Side Effects
+Bilberry is generally considered safe for most people when taken in appropriate amounts. However, some potential side effects may include:
+
+- **Digestive Issues**: Stomach upset, diarrhea, or constipation may occur.
+- **Allergic Reactions**: Individuals who are allergic to blueberries or other berries may have an allergic reaction.
+- **Blood Sugar Levels**: Bilberry may lower blood sugar levels; caution is advised for those on diabetes medications.
+- **Interactions**: Bilberry can interact with anticoagulant medications, increasing the risk of bleeding.
+
+### Rare Side Effects
+- Nausea
+- Vomiting
+- Headaches
+
+## Precautions
+- **Pregnancy and Breastfeeding**: There is not enough reliable information about the safety of bilberry during pregnancy and breastfeeding. It's advised to avoid use unless prescribed by a healthcare provider.
+- **Surgery**: Due to its potential effects on blood sugar and clotting, it is advised to stop taking bilberry at least two weeks before scheduled surgery.
+
+## Conclusion
+Bilberry is a widely used supplement with a variety of potential health benefits, particularly in relation to eye health and antioxidant support. While generally safe, users should be aware of possible side effects and interactions with medications. Always consult with a healthcare professional before starting any new supplement regimen.

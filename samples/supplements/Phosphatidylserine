@@ -1,26 +1,49 @@
-{
-  "en": {
-    "description": "Phosphatidylserine is a phospholipid that is essential for the functioning of neuronal cells and is involved in various cellular processes, particularly in the brain. It is often used as a dietary supplement to support cognitive functions, reduce stress, and aid in memory retention. Phosphatidylserine helps to maintain the fluidity of cell membranes and supports neuronal communication, making it crucial for brain health and function.",
-    "benefits": "The benefits of phosphatidylserine include improved cognitive function, enhanced memory and learning abilities, reduced symptoms of stress and anxiety, support in age-related cognitive decline, and overall improvement in mood and mental clarity.",
-    "side effects": [
-      "Insomnia",
-      "Stomach upset",
-      "Nausea",
-      "Diarrhea",
-      "Headache",
-      "Fatigue"
-    ]
-  },
-  "fa": {
-    "description": "فسفاتیدیل سرین یک فسفولیپید است که برای عملکرد سلول‌های عصبی ضروری است و در فرآیندهای سلولی مختلف، به‌ویژه در مغز نقش دارد. این ماده به‌عنوان مکمل غذایی برای حمایت از عملکردهای شناختی، کاهش استرس و کمک به حفظ حافظه استفاده می‌شود. فسفاتیدیل سرین به حفظ سیالی غشای سلولی و حمایت از ارتباط عصبی کمک می‌کند که برای سلامت و عملکرد مغز حیاتی است.",
-    "benefits": "مزایای فسفاتیدیل سرین شامل بهبود عملکرد شناختی، افزایش توانایی‌های حافظه و یادگیری، کاهش علائم استرس و اضطراب، حمایت از کاهش شناختی مرتبط با سن و بهبود کلی حالت روحی و روشنی ذهن است.",
-    "side effects": [
-      "بی‌خوابی",
-      "ناراحتی معده",
-      "تهوع",
-      "اسهال",
-      "سردرد",
-      "خستگی"
-    ]
-  }
-}
+# Phosphatidylserine
+
+## General Information
+
+**Phosphatidylserine (PS)** is a phospholipid, a type of fat found in cell membranes, particularly in the brain. It plays a vital role in cellular function, especially in maintaining the structural integrity of cellular membranes, aiding in cell signaling, and supporting the activity of neurotransmitters. 
+
+- **Sources**: Phosphatidylserine is found naturally in foods such as soybeans, egg yolks, and fish. It can also be synthesized in the body from another phospholipid called phosphatidylcholine.
+
+- **Uses**: PS supplements are commonly taken to promote brain health and cognitive function. They are often marketed for memory enhancement, mood stabilization, and reducing cognitive decline associated with aging. 
+
+- **Forms**: PS is available as a dietary supplement in various forms, including capsules, soft gels, and powder.
+
+## Potential Health Benefits
+
+1. **Cognitive Function**: Some studies suggest that phosphatidylserine may improve cognitive functions such as memory, attention, and processing speed, particularly in older adults or in individuals experiencing cognitive decline.
+
+2. **Stress Reduction**: Phosphatidylserine has been reported to lower levels of cortisol, the stress hormone, thereby aiding in stress management.
+
+3. **Exercise Recovery**: Some athletes use phosphatidylserine to enhance athletic performance and recovery post-exercise.
+
+4. **Mood Support**: There is some evidence that PS may assist in alleviating symptoms of anxiety and depression.
+
+## Recommended Dosage
+
+The typical dosage of phosphatidylserine varies based on the purpose of use. However, common dosages range from 100 mg to 300 mg per day, divided into two or three doses.
+
+## Side Effects
+
+While phosphatidylserine is generally considered safe for most individuals, some side effects may occur, particularly at higher doses. Possible side effects include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, and stomach upset may occur.
+  
+- **Insomnia**: In some cases, phosphatidylserine may interfere with sleep when taken in excessive amounts or late in the day.
+
+- **Headaches**: Headaches have been reported by some users.
+
+- **Allergic Reactions**: Although rare, allergic reactions can occur, particularly in individuals sensitive to soy (as many supplements are derived from soy sources).
+
+## Precautions
+
+- **Pregnant and Breastfeeding Women**: The safety of phosphatidylserine during pregnancy and breastfeeding is not well established; thus, it is advisable to avoid use in these cases.
+
+- **Anticoagulant Medications**: Phosphatidylserine may have blood-thinning effects, so caution is recommended for those taking blood-thinning medications.
+
+- **Children**: The effects of long-term use of phosphatidylserine in children have not been studied extensively, so it should be used with caution under medical supervision.
+
+## Conclusion
+
+Phosphatidylserine is a promising supplement for supporting cognitive health and reducing the effects of stress. However, like any supplement, it should be taken under the guidance of a healthcare professional, especially for individuals with underlying health conditions or those taking other medications. Always discuss the use of phosphatidylserine with a healthcare provider before beginning any new supplement regimen.

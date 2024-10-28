@@ -1,24 +1,45 @@
-{
- "en": {
-    "description": "Policosanol is a natural fatty alcohol extract obtained from sugar cane, and is often used as a dietary supplement to help manage cholesterol levels. It works by inhibiting the synthesis of cholesterol in the liver, thereby reducing low-density lipoprotein (LDL) cholesterol and triglycerides while potentially increasing high-density lipoprotein (HDL) cholesterol. This makes it a popular choice for individuals looking to support cardiovascular health and maintain healthy lipid profiles.",
-    "benefits": "Policosanol is known to help lower LDL cholesterol and triglycerides, support cardiovascular health, improve overall lipid profiles, and may have additional antioxidant properties. It is often favored for its natural composition compared to pharmaceutical cholesterol management options.",
-    "side effects": [
-        "Mild gastrointestinal symptoms (nausea, diarrhea)",
-        "Headache",
-        "Insomnia",
-        "Rash",
-        "Dizziness"
-    ]
- },
- "fa": {
-    "description": "پولیکوزانول یک عصاره الکل چرب طبیعی است که از نیشکر استخراج می‌شود و معمولاً به عنوان یک مکمل غذایی برای کمک به مدیریت سطوح کلسترول استفاده می‌شود. این ماده با مهار سنتز کلسترول در کبد عمل کرده و به کاهش کلسترول کم چگالی (LDL) و تری گلیسیرید کمک می‌کند، در حالی که ممکن است به افزایش کلسترول خوب (HDL) نیز کمک کند. این مکمل به طور کلی برای افرادی که به دنبال حمایت از سلامت قلب و عروق و حفظ پروفایل‌های چربی سالم هستند، مورد توجه است.",
-    "benefits": "پولیکوزانول به کاهش کلسترول LDL و تری گلیسیرید کمک می‌کند، از سلامت قلب و عروق حمایت می‌کند، پروفایل‌های چربی کلی را بهبود می‌بخشد و ممکن است خواص آنتی‌اکسیدانی اضافی داشته باشد. این مکمل به دلیل ترکیب طبیعی آن نسبت به گزینه‌های دارویی مدیریت کلسترول ترجیح داده می‌شود.",
-    "side effects": [
-        "علائم گوارشی خفیف (تهوع، اسهال)",
-        "سردرد",
-        "بی‌خوابی",
-        "راش",
-        "سرگیجه"
-    ]
- }
-}
+# Policosanol
+
+## General Information
+
+**Policosanol** is a natural supplement derived primarily from the waxy coating of sugarcane and is also found in other plant sources like wheat germ and beeswax. It is composed of a mixture of aliphatic alcohols, with octacosanol being the most prominent component. Policosanol has garnered attention for its potential health benefits, particularly in cardiovascular health.
+
+### Mechanism of Action
+
+Policosanol is believed to work by:
+- **Cholesterol Regulation**: It may help lower levels of total cholesterol and low-density lipoprotein (LDL, often referred to as "bad" cholesterol) while increasing high-density lipoprotein (HDL, "good" cholesterol).
+- **Blood Platelet Function**: Policosanol may have an effect on platelet aggregation, which could contribute to its cardiovascular benefits.
+- **Antioxidant Effects**: Its antioxidant properties may help in reducing oxidative stress in the body.
+
+### Uses
+
+Policosanol is often used for the following purposes:
+- **Cholesterol Management**: Primarily used to reduce high cholesterol levels.
+- **Cardiovascular Health**: May help in reducing the risk of heart disease.
+- **Weight Management**: Sometimes claimed to aid weight loss efforts, though more research is needed.
+- **Enhancing Athletic Performance**: Some athletes use it for improving stamina and performance, though evidence is limited.
+
+## Dosage
+
+The typical dosage of policosanol ranges from **5 mg to 20 mg per day**. It's important to consult with a healthcare provider to determine the appropriate dosage based on individual health needs and conditions.
+
+## Side Effects
+
+While policosanol is generally considered safe for most people, some side effects may include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, or upset stomach.
+- **Headache**: Possible mild headaches reported by some users.
+- **Skin Rash**: Rare instances of skin reactions or rashes.
+- **Allergic Reactions**: Those allergic to sugarcane or related products should avoid its use.
+
+It's crucial to discontinue use and consult a healthcare provider if any severe or unexpected reactions occur.
+
+## Precautions
+
+- **Pregnant or Nursing**: The safety of policosanol during pregnancy or breastfeeding is not well studied; consult a doctor before use.
+- **Surgery**: Stop using policosanol at least two weeks before any scheduled surgery, as it may affect blood clotting.
+- **Medication Interactions**: May interact with blood-thinning medications (like warfarin) or cholesterol-lowering drugs. Always inform your healthcare provider of all supplements being taken.
+
+## Conclusion
+
+Policosanol is a natural supplement that may offer notable benefits to those looking to manage their cholesterol levels and support cardiovascular health. As with any supplement, it is essential to approach its use with care and consult with a healthcare professional to ensure its safety and efficacy, as well as to avoid potential interactions with other medications or health conditions.

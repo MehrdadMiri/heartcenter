@@ -1,28 +1,44 @@
-{
-  "en": {
-    "description": "Olive leaf extract is a natural substance derived from the leaves of the olive tree (Olea europaea) known for its potential therapeutic benefits. It contains a variety of bioactive compounds, particularly oleuropein, which is believed to possess antioxidant, anti-inflammatory, and antimicrobial properties. Olive leaf extract is often used in herbal medicine to support cardiovascular health, boost the immune system, and improve overall well-being.",
-    "benefits": "The potential benefits of olive leaf extract include lowering blood pressure, improving cholesterol levels, enhancing blood sugar control, providing anticancer effects, supporting brain health, and offering protection against infections due to its antimicrobial activities.",
-    "side effects": [
-      "Gastrointestinal upset",
-      "Headaches",
-      "Fatigue",
-      "Dizziness",
-      "Allergic reactions",
-      "Low blood pressure",
-      "Skin rash"
-    ]
-  },
-  "fa": {
-    "description": "عصاره برگ زیتون یک ماده طبیعی است که از برگ‌های درخت زیتون (Olea europaea) به دست می‌آید و به خاطر فواید درمانی آن شناخته شده است. این عصاره حاوی ترکیبات بیواکتیو متنوعی است، به ویژه اولئوروپین، که believed می‌شود خواص آنتی‌اکسیدانی، ضد التهابی و ضد میکروبی دارد. عصاره برگ زیتون غالباً در طب گیاهی برای حمایت از سلامت قلبی عروقی، تقویت سیستم ایمنی و بهبود سلامت کلی استفاده می‌شود.",
-    "benefits": "از جمله فواید بالقوه عصاره برگ زیتون می‌توان به کاهش فشار خون، بهبود سطح کلسترول، افزایش کنترل قند خون، اثرات ضد سرطانی، حمایت از سلامت مغز و ارائه حفاظت در برابر عفونت‌ها به دلیل فعالیت‌های ضد میکروبی آن اشاره کرد.",
-    "side effects": [
-      "ناراحتی‌های گوارشی",
-      "سردرد",
-      "خستگی",
-      "سرگیجه",
-      "واکنش‌های آلرژیک",
-      "فشار خون پایین",
-      "کهیر"
-    ]
-  }
-}
+# Olive Leaf Extract
+
+## General Information
+
+**Olive Leaf Extract** is derived from the leaves of the olive tree (*Olea europaea*). This supplement has been used in traditional medicine for centuries, primarily for its potential health benefits and active compounds. The most notable of these compounds is **oleuropein**, which is believed to contribute to many of the extract's beneficial properties.
+
+### Potential Benefits
+
+Olive leaf extract has been studied for various health benefits, including:
+
+- **Antioxidant Properties**: The extract is rich in antioxidants, which help to neutralize free radicals and reduce oxidative stress in the body.
+- **Anti-inflammatory Effects**: Olive leaf extract contains compounds that may help lessen inflammation, providing support for conditions associated with chronic inflammatory responses.
+- **Cardiovascular Health**: Some studies suggest that olive leaf extract may help lower blood pressure and improve cholesterol levels, contributing to overall heart health.
+- **Antimicrobial Effects**: It may have antibacterial, antiviral, and antifungal properties, potentially aiding in the defense against infections.
+- **Blood Sugar Regulation**: There is emerging evidence that it might assist in regulating blood sugar levels, making it of interest for managing diabetes.
+
+### Active Compounds
+
+- **Oleuropein**: This is the most significant polyphenol found in olive leaves, responsible for many of the extract's health benefits.
+- **Hydroxytyrosol**: An antioxidant that may provide protective benefits for the heart and overall health.
+- **Quercetin**: A flavonoid that has anti-inflammatory effects and could contribute to the health benefits of olive leaf extract.
+
+## Recommended Dosage
+
+While the optimal dosage can vary based on the specific product and individual health needs, common dosages range from 500 mg to 1,500 mg per day. It's advisable to consult a healthcare professional before starting any new supplement.
+
+## Side Effects
+
+Olive leaf extract is generally considered safe, but some individuals may experience side effects, such as:
+
+- **Digestive Issues**: Nausea, diarrhea, or stomach discomfort may occur in some individuals, particularly at higher doses.
+- **Allergic Reactions**: Rarely, some individuals may experience allergic reactions, including skin rash or respiratory issues.
+- **Headaches**: Some users report headaches after taking olive leaf extract.
+- **Low Blood Pressure**: Due to its potential effects on blood pressure, it may cause hypotension in some individuals, especially if combined with other blood pressure medications.
+- **Fatigue**: Some people may feel tired or fatigued after taking the supplement, particularly at higher doses.
+
+### Precautions
+
+- **Pregnancy and Breastfeeding**: There is limited research on the safety of olive leaf extract during pregnancy or breastfeeding; thus, it is best to avoid it during these periods unless advised by a health professional.
+- **Surgery**: Due to its potential effects on blood pressure, it is recommended to stop taking olive leaf extract at least two weeks before any scheduled surgery.
+
+## Conclusion
+
+Olive leaf extract presents a range of possible health benefits, particularly concerning cardiovascular health, inflammation, and infection resistance. However, as with any supplement, it is important to approach its use with informed caution and in consultation with a healthcare provider, especially if taking other medications or having underlying health conditions.

@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Quercetin is a natural flavonoid found in various fruits, vegetables, and grains, known for its antioxidant, anti-inflammatory, and antihistamine properties. It plays a key role in enhancing overall health by protecting against oxidative stress and inflammation, contributing to cardiovascular health, and potentially alleviating allergy symptoms. Quercetin is commonly used as a dietary supplement to support immune function and improve overall wellness.",
+    "benefits": "The benefits of quercetin include its ability to reduce inflammation, lower blood pressure, improve cardiovascular health, boost immune function, alleviate allergy symptoms, and provide antioxidant protection against cellular damage.",
+    "side effects": [
+      "Headaches",
+      "Stomach upset",
+      "Nausea",
+      "Diarrhea",
+      "Fatigue",
+      "Allergic reactions (in rare cases)"
+    ]
+ },
+ "fa": {
+    "description": "کوارسیتین یک فلاونوئید طبیعی است که در میوه‌ها، سبزیجات و غلات مختلف یافت می‌شود و به خواص آنتی‌اکسیدانی، ضدالتهابی و آنتی‌هیستامینی معروف است. این ترکیب در بهبود سلامت کلی با محافظت در برابر استرس اکسیداتیو و التهاب، کمک به سلامت قلب و عروق و احتمالا کاهش علائم آلرژی نقش کلیدی دارد. کوارسیتین معمولا به عنوان یک مکمل غذایی برای حمایت از عملکرد ایمنی و بهبود کلی سلامت استفاده می‌شود.",
+    "benefits": "فواید کوارسیتین شامل کاهش التهاب، کاهش فشار خون، بهبود سلامت قلب و عروق، تقویت عملکرد ایمنی، تسکین علائم آلرژی و فراهم کردن حفاظت آنتی‌اکسیدانی در برابر آسیب‌های سلولی است.",
+    "side effects": [
+      "سر درد",
+      "اختلالات معده",
+      "تهوع",
+      "اسهال",
+      "خستگی",
+      "عوارض آلرژیک (در موارد نادر)"
+    ]
+ }
+}

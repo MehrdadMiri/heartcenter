@@ -1,0 +1,38 @@
+{
+ "en": {
+    "description": "Vitamin E is a fat-soluble antioxidant that plays a crucial role in protecting cells from oxidative stress and damage. It is essential for immune function, skin health, and the maintenance of healthy blood vessels. Vitamin E exists in various forms, with alpha-tocopherol being the most active in humans. It can be obtained through dietary sources such as nuts, seeds, green leafy vegetables, and vegetable oils, or through supplements. Overall, Vitamin E is important for overall health and well-being.",
+    "benefits": [
+      "Acts as a powerful antioxidant, protecting cells from damage.",
+      "Supports immune function and helps the body fight off infections.",
+      "Promotes healthy skin and may reduce skin aging.",
+      "Improves blood circulation and cardiovascular health.",
+      "May help in the prevention of chronic diseases such as heart disease and certain cancers."
+    ],
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Fatigue",
+      "Headache",
+      "Blurred vision",
+      "Increased risk of bleeding, especially at high doses"
+    ]
+ },
+ "fa": {
+     "description": "ویتامین E یک آنتی‌اکسیدان محلول در چربی است که نقش مهمی در محافظت از سلول‌ها در برابر استرس و آسیب اکسیداتیو ایفا می‌کند. این ویتامین برای عملکرد سیستم ایمنی، سلامت پوست و حفظ عروق خونی سالم ضروری است. ویتامین E در اشکال مختلفی وجود دارد که آلفا-توکوفرول فعال‌ترین شکل آن در انسان‌ها می‌باشد. این ویتامین را می‌توان از منابع غذایی مانند آجیل‌ها، دانه‌ها، سبزیجات ورق دار و روغن‌های گیاهی دریافت کرد یا از مکمل‌ها استفاده کرد. در کل، ویتامین E برای سلامت عمومی و رفاه مهم است.",
+     "benefits": [
+       "عملکرد به عنوان یک آنتی‌اکسیدان قوی، محافظت از سلول‌ها در برابر آسیب.",
+       "حمایت از عملکرد سیستم ایمنی و کمک به مبارزه با عفونت‌ها.",
+       "ترویج سلامت پوست و ممکن است پیری پوست را کاهش دهد.",
+       "بهبود گردش خون و سلامت قلب و عروق.",
+       "ممکن است در پیشگیری از بیماری‌های مزمن مانند بیماری قلبی و برخی سرطان‌ها کمک کند."
+     ],
+     "side effects": [
+       "تهوع",
+       "اسهال",
+       "خستگی",
+       "سردرد",
+       "کاهش دید",
+       "افزایش خطر خونریزی، به ویژه در دوزهای بالا"
+     ]
+ }
+}

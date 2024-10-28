@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Alpha-Tocopherol, a form of vitamin E, is a fat-soluble antioxidant that plays a crucial role in protecting cells from oxidative damage, supporting immune function, and maintaining healthy skin and eyes. It is found naturally in foods such as nuts, seeds, and green leafy vegetables and is often taken as a dietary supplement to ensure adequate intake, especially in individuals with certain health conditions or dietary restrictions.",
+    "benefits": "Alpha-Tocopherol has several health benefits, including its role in reducing the risk of heart disease by preventing the oxidation of LDL cholesterol, supporting skin health by enhancing moisture retention and reducing UV damage, boosting immune function, and potentially lowering the risk of certain chronic diseases.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach cramps",
+      "Fatigue",
+      "Headaches",
+      "Increased risk of bleeding (especially at high doses)",
+      "Interactions with anticoagulants"
+    ]
+  },
+  "fa": {
+    "description": "آلفا-توکوفرول، نوعی ویتامین E، یک آنتی‌اکسیدان محلول در چربی است که نقش مهمی در محافظت از سلول‌ها در برابر آسیب‌های اکسیداتیو و حمایت از عملکرد ایمنی و حفظ سلامت پوست و چشم‌ها ایفا می‌کند. این ویتامین به‌طور طبیعی در مواد غذایی مانند آجیل، دانه‌ها و سبزیجات برگ سبز یافت می‌شود و معمولاً به‌عنوان مکمل غذایی برای اطمینان از دریافت کافی، به‌ویژه در افرادی با شرایط بهداشتی خاص یا محدودیت‌های غذایی مصرف می‌شود.",
+    "benefits": "آلفا-توکوفرول دارای چندین مزیت بهداشتی است، از جمله نقش آن در کاهش ریسک بیماری‌های قلبی با جلوگیری از اکسیداسیون کلسترول LDL، حمایت از سلامت پوست با افزایش نگه‌داشت رطوبت و کاهش آسیب‌های UV، تقویت عملکرد ایمنی و احتمالاً کاهش ریسک برخی بیماری‌های مزمن.",
+    "side effects": [
+      "تهوع",
+      "اسهال",
+      "گرفتی شکم",
+      "خستگی",
+      "سردرد",
+      "افزایش ریسک خونریزی (به‌خصوص در دوزهای بالا)",
+      "تداخل با داروهای ضد انعقاد"
+    ]
+  }
+}

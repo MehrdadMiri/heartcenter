@@ -1,0 +1,44 @@
+```json
+{
+  "en": {
+    "description": "Fish oil is a dietary supplement derived from the tissues of oily fish, primarily rich in omega-3 fatty acids, such as EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid). It is known for its potential health benefits, including supporting heart health, reducing inflammation, promoting brain function, and improving joint health. Fish oil can also help in lowering triglyceride levels and may contribute to overall wellness when included as part of a balanced diet.",
+    "benefits": [
+      "Supports cardiovascular health",
+      "Reduces inflammation",
+      "Promotes brain health and function",
+      "Improves joint health",
+      "Lowers triglyceride levels",
+      "May assist in managing depression and anxiety"
+    ],
+    "side effects": [
+      "Fishy aftertaste",
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset",
+      "Bad breath",
+      "Increased risk of bleeding",
+      "Allergic reactions"
+    ]
+  },
+  "fa": {
+    "description": "روغن ماهی یک مکمل غذایی است که از بافت‌های ماهی‌های چرب استخراج می‌شود و دارای اسیدهای چرب امگا-3، از جمله EPA (اسید ایکوزاپنتانوئیک) و DHA (اسید دوکوزاهگزانوئیک) است. این مکمل به عنوان یک عامل احتمالی برای بهبود سلامت قلب، کاهش التهاب، ترویج عملکرد مغز و بهبود سلامت مفاصل شناخته شده است. همچنین، روغن ماهی می‌تواند به کاهش سطوح تری گلیسیرید کمک کرده و می‌تواند در صورت گنجاندن در یک رژیم غذایی متعادل به سلامت کلی کمک کند.",
+    "benefits": [
+      "حمایت از سلامت قلب",
+      "کاهش التهاب",
+      "ترویج سلامت و عملکرد مغز",
+      "بهبود سلامت مفاصل",
+      "کاهش سطوح تری گلیسیرید",
+      "ممکن است در مدیریت افسردگی و اضطراب کمک کند"
+    ],
+    "side effects": [
+      "طعم ماهی دهان",
+      "تهوع",
+      "اسهال",
+      "اختلال در معده",
+      "بدمزگی دهان",
+      "افزایش خطر خونریزی",
+      "واکنش‌های آلرژیک"
+    ]
+  }
+}
+```

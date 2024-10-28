@@ -1,0 +1,28 @@
+```json
+{
+  "en": {
+    "description": "Rutin is a natural bioflavonoid, primarily found in foods such as buckwheat, citrus fruits, and various vegetables. It is known for its antioxidant properties and its ability to support blood vessel health by strengthening capillaries, reducing inflammation, and improving circulation. Rutin is often used as a dietary supplement to help relieve symptoms of conditions like chronic venous insufficiency and hemorrhoids.",
+    "benefits": "Rutin has several benefits including promoting cardiovascular health, reducing oxidative stress, improving circulation, alleviating symptoms of chronic venous insufficiency, and potentially boosting immunity. It may also have anti-inflammatory effects and help in managing blood pressure.",
+    "side effects": [
+      "Nausea",
+      "Headaches",
+      "Stomach upset",
+      "Allergic reactions (rare)",
+      "Dry mouth",
+      "Diarrhea"
+    ]
+  },
+  "fa": {
+    "description": "روتین یک بیوفلاونوئید طبیعی است که عمدتاً در غذاهایی مانند گندم سیاه، مرکبات و سبزیجات مختلف یافت می‌شود. این ماده به دلیل خواص آنتی‌اکسیدانی خود و توانایی تقویت سلامت رگ‌های خونی مشهور است. روتین با تقویت مویرگ‌ها، کاهش التهاب و بهبود گردش خون، به بهبود وضعیت‌های مرتبط با نارسایی وریدی مزمن و هموروئید کمک می‌کند.",
+    "benefits": "روتین مزایای زیادی دارد، از جمله تقویت سلامت قلب و عروق، کاهش استرس اکسیداتیو، بهبود گردش خون، کاهش علائم نارسایی وریدی مزمن و افزایش بالقوه ایمنی بدن. همچنین ممکن است اثرات ضد التهابی داشته و در مدیریت فشار خون مؤثر باشد.",
+    "side effects": [
+      "تهوع",
+      "سردرد",
+      "اختلالات معده",
+      "واکنش‌های آلرژیک (نادر)",
+      "خشکی دهان",
+      "اسهال"
+    ]
+  }
+}
+```

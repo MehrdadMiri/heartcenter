@@ -1,0 +1,30 @@
+{
+ "en": {
+    "description": "Red yeast rice is a traditional Chinese food product made by fermenting rice with a specific type of mold called Monascus purpureus. It has been used for centuries in Asian cuisine and traditional medicine for its potential health benefits. The key active compound in red yeast rice is monacolin K, which is chemically identical to the active ingredient in the prescription drug lovastatin, a cholesterol-lowering medication. This supplement is commonly used to help support cardiovascular health by managing cholesterol levels, improving circulation, and maintaining overall heart health.",
+    "benefits": "The primary benefits of red yeast rice include its ability to lower total cholesterol and LDL (bad cholesterol) levels, improve cardiovascular health, reduce the risk of heart disease, and support overall metabolic health. Some studies have also suggested that it may help with weight management and improving blood circulation.",
+    "side effects": [
+      "Muscle pain or weakness",
+      "Liver damage",
+      "Digestive problems",
+      "Headache",
+      "Nausea",
+      "Stomach upset",
+      "Allergic reactions",
+      "Elevated liver enzymes"
+    ]
+ },
+ "fa": {
+     "description": "برنج مخمر قرمز یک محصول غذایی سنتی چینی است که با تخمیری از برنج با نوع خاصی از قارچ به نام Monascus purpureus تهیه می‌شود. این محصول برای قرن‌ها در آشپزی آسیایی و پزشکی سنتی به دلیل مزایای بهداشتی بالقوه‌اش استفاده شده است. ترکیب فعال کلیدی در برنج مخمر قرمز، مناکولین K است که به‌طور شیمیایی معادل ترکیب فعال موجود در داروی تجویزی لوواستاتین، یک داروی کاهش دهنده کلسترول می‌باشد. این مکمل به طور معمول برای حمایت از سلامت قلب و عروق، مدیریت سطح کلسترول، بهبود گردش خون و حفظ سلامت کلی قلب استفاده می‌شود.",
+     "benefits": "مزایای اصلی برنج مخمر قرمز شامل توانایی آن در کاهش سطح کلسترول کل و LDL (کلسترول بد)، بهبود سلامت قلب و عروق، کاهش خطر بیماری‌های قلبی و حمایت از سلامت متابولیک کلی است. برخی از مطالعات همچنین نشان داده‌اند که ممکن است به مدیریت وزن و بهبود جریان خون کمک کند.",
+     "side effects": [
+      "درد یا ضعف عضلانی",
+      "آسیب کبدی",
+      "مشکلات گوارشی",
+      "سردرد",
+      "تهوع",
+      "ناراحتی معده",
+      "واکنش‌های آلرژیک",
+      "افزایش آنزیم‌های کبدی"
+     ]
+ }
+}

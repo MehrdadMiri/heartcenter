@@ -1,32 +1,41 @@
-{
- "en": {
-    "description": "Vitamin K2, also known as menaquinone, is a fat-soluble vitamin that plays a crucial role in calcium metabolism in the body. It is primarily found in animal products and fermented foods, such as natto, cheese, and eggs, and is important for the synthesis of proteins required for blood clotting and bone health. Research suggests that vitamin K2 may help to prevent osteoporosis and cardiovascular diseases by directing calcium to the bones and teeth while preventing its accumulation in the arteries and soft tissues.",
-    "benefits": [
-        "Supports healthy bone metabolism and helps prevent osteoporosis.",
-        "May reduce the risk of coronary artery disease by preventing arterial calcification.",
-        "Enhances the effectiveness of vitamin D in promoting calcium absorption.",
-        "Contributes to proper blood coagulation, which is essential for healing."
-    ],
-    "side effects": [
-        "Generally considered safe when taken in appropriate amounts.",
-        "Mild gastrointestinal upset (nausea, diarrhea).",
-        "Allergic reactions (rare).",
-        "Interference with anticoagulant medications, increasing the risk of clotting."
-    ]
- },
- "fa": {
-    "description": "ویتامین K2 که به نام منا کینون نیز شناخته می‌شود، یک ویتامین محلول در چربی است که نقش حیاتی در متابولیسم کلسیم در بدن ایفا می‌کند. این ویتامین عمدتاً در محصولات حیوانی و غذاهای تخمیری مانند ناتو، پنیر و تخم‌مرغ یافت می‌شود و برای سنتز پروتئین‌های مورد نیاز برای لخته شدن خون و سلامت استخوان اهمیت دارد. تحقیقات نشان می‌دهد که ویتامین K2 می‌تواند به پیشگیری از پوکی استخوان و بیماری‌های قلب و عروق کمک کند چرا که کلسیم را به سمت استخوان‌ها و دندان‌ها هدایت می‌کند و از انباشته شدن آن در شریان‌ها و بافت‌های نرم جلوگیری می‌کند.",
-    "benefits": [
-        "حمایت از متابولیسم سالم استخوان و کمک به پیشگیری از پوکی استخوان.",
-        "کاهش خطر بیماری‌های عروق کرونر از طریق جلوگیری از کلسیم در شریان‌ها.",
-        "افزایش اثر بخشی ویتامین D در جذب کلسیم.",
-        "مشارکت در لخته شدن خون که برای درمان ضروری است."
-    ],
-    "side effects": [
-        "عموماً در صورت مصرف در مقادیر مناسب بی‌خطر شناخته می‌شود.",
-        "ممکن است باعث ناراحتی گوارشی خفیف (تهوع، اسهال) شود.",
-        "واکنش‌های آلرژیک (نادر).",
-        "ایجاد تداخل با داروهای رقیق‌کننده خون، که باعث افزایش خطر لخته شدن می‌شود."
-    ]
- }
-}
+# Vitamin K2
+
+## General Information
+
+Vitamin K2, also known as menaquinone, is a fat-soluble vitamin that plays a crucial role in various bodily functions, particularly in blood clotting and bone metabolism. It is part of the vitamin K family, which also includes Vitamin K1 (phylloquinone). The primary sources of Vitamin K2 are fermented foods, animal products, and certain types of cheese. 
+
+### Types of Vitamin K2
+Vitamin K2 can be subdivided into several subtypes, with the most prominent being MK-4 and MK-7:
+- **MK-4 (Menaquinone-4)**: Found in animal products such as meat, eggs, and dairy. 
+- **MK-7 (Menaquinone-7)**: Found in fermented foods, especially natto (fermented soybeans), and has a longer half-life in the body compared to MK-4.
+
+### Functions of Vitamin K2
+Vitamin K2 is primarily known for:
+- **Blood Clotting**: Essential for the synthesis of proteins involved in blood coagulation (e.g., prothrombin).
+- **Bone Health**: Helps in the regulation of calcium in the bones and arteries. Vitamin K2 activates osteocalcin, a protein that binds calcium to the bone matrix, promoting bone density.
+- **Cardiovascular Health**: Aids in preventing arterial calcification by activating matrix Gla-protein (MGP), which inhibits the mineralization of soft tissues.
+
+### Dietary Sources
+- Fermented foods (e.g., natto, sauerkraut, miso)
+- Dairy products (e.g., cheese, milk)
+- Meat (especially liver)
+- Egg yolks
+
+## Recommended Intake
+The appropriate intake of Vitamin K2 can vary based on age, sex, and individual health conditions. Generally, the adequate intake (AI) levels are often determined based on combined sources of Vitamin K (K1 and K2):
+- Adult males: 120 µg/day
+- Adult females: 90 µg/day
+
+## Side Effects
+Vitamin K2 is generally considered safe when consumed in normal dietary amounts. However, high doses or inappropriate use may lead to:
+
+- **Allergic Reactions**: Rare, but possible in some individuals.
+- **Interactions with Medications**: Particularly blood thinners like warfarin. High levels of Vitamin K can interfere with blood-thinning medications, potentially leading to clotting issues.
+- **Gastrointestinal Symptoms**: Including nausea, diarrhea, or abdominal cramps, especially at higher doses when taken as a supplement.
+
+### Contraindications
+- Individuals on anticoagulant therapy (e.g., warfarin) should consult a healthcare provider before taking Vitamin K2 supplements, as it may counteract the effects of these medications.
+- Those with certain medical conditions affecting blood clotting should also use caution.
+
+## Conclusion
+Vitamin K2 is an essential nutrient that contributes significantly to blood health, bone health, and cardiovascular function. While it is generally safe when obtained from food, supplementation should be approached cautiously and under the guidance of a healthcare professional, especially for those on certain medications or with specific health conditions. Always consult with a healthcare provider for personalized advice regarding vitamin supplementation.

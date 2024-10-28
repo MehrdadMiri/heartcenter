@@ -1,24 +1,48 @@
-{
-  "en": {
-    "description": "Pycnogenol is a natural plant extract derived from the bark of the French maritime pine tree, Pinus pinaster. Rich in proanthocyanidins and other antioxidants, it has been studied for its potential health benefits, including its ability to improve circulation, reduce inflammation, and enhance skin health. It is often used as a dietary supplement for various conditions, including chronic venous insufficiency, asthma, and for improving overall cardiovascular health.",
-    "benefits": "Pycnogenol may help in improving blood flow, reducing symptoms of chronic venous insufficiency, alleviating allergic symptoms, and promoting skin hydration and elasticity. It is also believed to have neuroprotective properties and may improve cognitive function.",
-    "side effects": [
-      "Gastrointestinal issues (e.g., stomach upset, diarrhea)",
-      "Headaches",
-      "Dizziness",
-      "Mouth ulcers",
-      "Allergic reactions (in rare cases)"
-    ]
-  },
-  "fa": {
-    "description": "پیکنوژنول یک عصاره طبیعی است که از پوست درخت صنوبر دریایی فرانسه (Pinus pinaster) استخراج می‌شود. این عصاره غنی از پروآنتوسیانیدین‌ها و سایر آنتی‌اکسیدان‌ها بوده و به خاطر فواید بالقوه‌اش برای سلامت مورد مطالعه قرار گرفته است، از جمله توانایی آن در بهبود گردش خون، کاهش التهاب و بهبود سلامت پوست. این مکمل معمولاً برای شرایط مختلفی مانند نارسایی وریدی مزمن، آسم و بهبود سلامت قلب و عروق به کار می‌رود.",
-    "benefits": "پیکنوژنول ممکن است به بهبود جریان خون، کاهش نشانه‌های نارسایی وریدی مزمن، تسکین علائم آلرژیک و افزایش آبرسانی و الاستیسیته پوست کمک کند. همچنین به نظر می‌رسد خواص محافظتی عصبی داشته و ممکن است عملکرد شناختی را بهبود بخشد.",
-    "side effects": [
-      "مشکلات گوارشی (مانند ناراحتی معده، اسهال)",
-      "سردرد",
-      "سرگیجه",
-      "زخم‌های دهانی",
-      "واکنش‌های آلرژیک (در موارد نادر)"
-    ]
-  }
-}
+# Pycnogenol: Overview
+
+**Pycnogenol** is a standardized NATURAL plant extract derived from the bark of the French maritime pine tree (*Pinus pinaster*). It is a rich source of proanthocyanidins, a class of flavonoids known for their antioxidant properties. Pycnogenol has been studied for its various health benefits, particularly concerning cardiovascular health, inflammation, and skin health.
+
+## General Information
+
+- **Active Ingredient:** Proanthocyanidins 
+- **Source:** French maritime pine bark
+- **Common Uses:**
+  - Antioxidant support
+  - Cardiovascular health
+  - Reduction of inflammation
+  - Improving blood circulation
+  - Skin health and hydration
+  - Support for conditions like ADHD and diabetes
+
+## Potential Benefits
+
+1. **Antioxidant Properties:** Pycnogenol is known for its strong antioxidant effects, which help combat oxidative stress and free radicals in the body.
+2. **Cardiovascular Health:** It may help improve blood circulation, reduce blood pressure, and support overall heart health.
+3. **Anti-Inflammatory Effects:** Pycnogenol can help reduce inflammation, potentially benefiting conditions like arthritis and asthma.
+4. **Skin Health:** It is often included in skincare products for its ability to promote skin hydration, elasticity, and overall appearance.
+5. **Cognitive Function:** Some studies suggest potential benefits for cognitive impairments and attention-related disorders.
+6. **Blood Sugar Control:** May assist in improving glycemic control among people with diabetes.
+
+## Dosage
+
+The typical dosage of Pycnogenol varies, usually ranging from **25 mg to 100 mg per day**, depending on the intended use and recommendations by healthcare providers.
+
+## Side Effects
+
+While Pycnogenol is generally considered safe for most people, some individuals may experience side effects. Common side effects may include:
+
+- **Gastrointestinal Issues:** Nausea, stomach upset, or diarrhea.
+- **Allergic Reactions:** Skin rash or itching, particularly in individuals allergic to pine.
+- **Headaches:** Some users report mild headaches.
+- **Dizziness:** Occasional dizziness or lightheadedness.
+- **Menstrual Side Effects:** Some women have reported changes in menstrual flow.
+
+## Contraindications
+
+- **Pregnancy and Breastfeeding:** The safety of Pycnogenol during pregnancy and lactation has not been established, and its use is generally not recommended.
+- **Autoimmune Disorders:** Individuals with autoimmune diseases should consult a healthcare provider before using this supplement.
+- **Surgery:** It may interfere with blood clotting; discontinue use at least two weeks prior to a scheduled surgery.
+
+## Conclusion
+
+Pycnogenol is a potent natural supplement with various potential health benefits, particularly in promoting cardiovascular health, reducing inflammation, and enhancing skin health. Although it is generally safe, it's essential to consider possible side effects and consult with a healthcare professional before starting any new supplement regimen, especially for individuals with underlying health issues or those who are pregnant or breastfeeding.

@@ -1,40 +1,48 @@
-{
-  "en": {
-    "description": "L-Carnitine is a naturally occurring amino acid derivative that plays a crucial role in the metabolism of fatty acids. It is vital for transporting long-chain fatty acids into the mitochondria, where they can be burned for energy, making it an important supplement for those looking to increase fat oxidation and improve athletic performance. L-Carnitine is commonly used to support weight loss, enhance exercise capacity, and promote heart health.",
-    "benefits": [
-      "Enhances fat burning and weight loss",
-      "Improves exercise performance and recovery",
-      "Supports heart health by improving energy production",
-      "May reduce muscle soreness and damage",
-      "Potentially helps to improve mental clarity and cognitive function"
-    ],
-    "side effects": [
-      "Nausea",
-      "Vomiting",
-      "Abdominal cramps",
-      "Diarrhea",
-      "Increased appetite",
-      "Fishy body odor",
-      "Restlessness"
-    ]
-  },
-  "fa": {
-    "description": "ال-کارنیتین یک مشتق طبیعی از اسیدهای آمینه است که نقش مهمی در متابولیسم اسیدهای چرب دارد. این ماده برای حمل‌ونقل اسیدهای چرب زنجیره بلند به میتوکندری‌ها ضروری است، جایی که این اسیدها می‌توانند برای تولید انرژی بسوزند، بنابراین مکملی مهم برای افرادی است که به دنبال افزایش اکسیداسیون چربی و بهبود عملکرد ورزشی هستند. ال-کارنیتین معمولاً برای حمایت از کاهش وزن، افزایش ظرفیت ورزشی و ارتقاء سلامت قلب استفاده می‌شود.",
-    "benefits": [
-      "افزایش سوزاندن چربی و کاهش وزن",
-      "بهبود عملکرد ورزشی و تسریع در بهبودی",
-      "حمایت از سلامت قلب از طریق بهبود تولید انرژی",
-      "کاهش احتمالی درد و آسیب‌های عضلانی",
-      "احتمالاً بهبود وضوح ذهنی و عملکرد شناختی"
-    ],
-    "side effects": [
-      "تهوع",
-      "استفراغ",
-      "گرفتگی‌های شکمی",
-      "اسهال",
-      "افزایش اشتها",
-      "بوی بد بدن مانند ماهی",
-      "بی‌قراری"
-    ]
-  }
-}
+# L-Carnitine: Overview
+
+L-Carnitine is a naturally occurring compound derived from two essential amino acids, lysine and methionine. It plays a crucial role in the body's metabolism by facilitating the transport of fatty acids into the mitochondria, where they are oxidized for energy production. While the body can synthesize L-Carnitine, it can also be obtained from certain dietary sources, particularly animal products.
+
+## Sources of L-Carnitine
+L-Carnitine can be found in various foods, including:
+- **Red Meat:** Beef and lamb are particularly high in L-Carnitine.
+- **Poultry:** Chicken and turkey contain moderate levels.
+- **Fish:** Species like cod and salmon contain L-Carnitine.
+- **Dairy Products:** Milk and cheese provide lower amounts.
+- **Vegetables:** Small amounts can be found in avocados and whole grains.
+
+## Functions and Benefits
+L-Carnitine serves several vital functions in the body, including:
+
+1. **Fat Metabolism:** Assists in the transport of fatty acids to both skeletal and heart muscle for energy production.
+2. **Energy Production:** Enhances overall energy levels and may improve exercise performance by increasing endurance.
+3. **Muscle Recovery:** May help reduce muscle soreness and fat accumulation after exercise.
+4. **Cognitive Function:** Some studies suggest it might support brain health and function, particularly in older adults.
+5. **Weight Management:** Often marketed for weight loss, potentially aiding in fat oxidation during exercise.
+
+## Supplementation
+L-Carnitine can be taken as a dietary supplement in various forms, such as:
+- **L-Carnitine L-Tartrate:** Commonly used for athletic performance.
+- **Acetyl-L-Carnitine:** More bioavailable form often associated with cognitive benefits.
+- **Propionyl-L-Carnitine:** Typically used for heart health and circulation.
+
+## Recommended Dosage
+Dosage may vary based on individual needs and health goals, but common dosages range between:
+- **General Health:** 500 mg to 2,000 mg per day.
+- **Athletic Performance:** Up to 3,000 mg per day, taken before exercise.
+
+## Side Effects
+L-Carnitine is generally considered safe when taken in appropriate doses, but some individuals may experience side effects, including:
+
+- **Gastrointestinal Issues:** Nausea, vomiting, abdominal cramps, diarrhea.
+- **Fishy Odor:** High doses may lead to a strong fishy body odor due to the production of trimethylamine.
+- **Increased Heart Rate:** Some users may experience palpitations.
+- **Nausea and Vomiting:** Commonly reported after high doses.
+- **Potential Impact on Heart Health:** Some studies suggest high L-Carnitine levels may increase risk of atherosclerosis due to links with trimethylamine-N-oxide (TMAO) production.
+
+## Precautions and Considerations
+- **Consult Healthcare Provider:** Always discuss supplementation with a healthcare professional, especially if pregnant, nursing, or taking medications.
+- **Possible Drug Interactions:** L-Carnitine may interact with certain medications, including those affecting thyroid function and anticoagulants.
+- **Pre-existing Conditions:** Individuals with specific health conditions, such as kidney disease, should approach supplementation cautiously.
+
+## Conclusion
+L-Carnitine is a popular supplement for its potential benefits in fat metabolism and energy production. While it can be beneficial, users should be aware of potential side effects and should consider consulting healthcare professionals before starting supplementation. A balanced diet incorporating natural sources of L-Carnitine is also a preferable approach for most individuals.

@@ -1,22 +1,40 @@
-{
- "en": {
-    "description": "Plant sterols are naturally occurring substances found in plant foods that resemble cholesterol in structure but have a different effect on the body. They are known for their ability to lower LDL (low-density lipoprotein) cholesterol levels, which is a significant risk factor for heart disease. Plant sterols work by blocking the absorption of cholesterol in the intestines, ultimately leading to improved cardiovascular health when included in a balanced diet.",
-    "benefits": "The primary benefits of plant sterols include lowering LDL cholesterol levels, reducing the risk of heart disease, and potentially lowering the risk of certain types of cancer. Additionally, they can improve overall heart health when combined with a healthy lifestyle, including a diet rich in fruits, vegetables, and whole grains.",
-    "side effects": [
-        "Digestive discomfort",
-        "Gas and bloating",
-        "Increased bowel movements",
-        "Possible interference with the absorption of fat-soluble vitamins"
-    ]
- },
- "fa": {
-    "description": "استرول‌های گیاهی مواد طبیعی هستند که در غذاهای گیاهی وجود دارند و از نظر ساختاری شبیه کلسترول هستند، اما تأثیر متفاوتی بر بدن دارند. آن‌ها به خاطر توانایی‌شان در کاهش سطح کلسترول LDL (لیپوپروتئین با چگالی کم) شناخته شده‌اند، که یکی از عوامل خطر اصلی بیماری‌های قلبی است. استرول‌های گیاهی با مسدود کردن جذب کلسترول در روده‌ها عمل کرده و در نهایت به بهبود سلامت قلبی عروقی کمک می‌کنند، زمانی که در یک رژیم غذایی متعادل گنجانده شوند.",
-    "benefits": "مزایای اصلی استرول‌های گیاهی شامل کاهش سطح کلسترول LDL، کاهش خطر بیماری‌های قلبی و احتمالاً کاهش خطر برخی انواع سرطان‌ها است. علاوه بر این، آن‌ها می‌توانند با ترکیب با یک سبک زندگی سالم، از جمله یک رژیم غذایی غنی از میوه‌ها، سبزیجات و غلات کامل، به بهبود کلی سلامتی قلب کمک کنند.",
-    "side effects": [
-        "ناراحتی‌های گوارشی",
-        "گاز و نفخ",
-        "افزایش حرکات روده",
-        "احتمال تداخل با جذب ویتامین‌های محلول در چربی"
-    ]
- }
-}
+# Plant Sterols
+
+## General Information
+
+Plant sterols, also known as phytosterols, are naturally occurring compounds found in the cell membranes of plants. Structurally similar to cholesterol, they are known for their ability to lower cholesterol levels in the human body. Plant sterols can be found in a variety of foods, including:
+
+- Vegetable oils (e.g., corn oil, soybean oil, sunflower oil)
+- Nuts and seeds (e.g., almonds, pistachios, sunflower seeds)
+- Legumes (e.g., beans, lentils)
+- Whole grains (e.g., oats, wheat)
+- Fruits and vegetables (e.g., avocados, broccoli)
+
+In addition to their dietary sources, plant sterols are often added to certain functional foods, such as margarine and yogurt, and are available as dietary supplements.
+
+## Health Benefits
+
+Plant sterols primarily provide health benefits by:
+
+- **Reducing LDL Cholesterol:** Plant sterols compete with cholesterol for absorption in the digestive system, leading to lower levels of low-density lipoprotein (LDL) cholesterol, often referred to as "bad" cholesterol.
+- **Supporting Heart Health:** By lowering LDL cholesterol levels, plant sterols may reduce the risk of heart disease and improve overall cardiovascular health.
+
+## Recommended Dosage
+
+The typical recommended daily intake of plant sterols is about **1.5 to 3 grams**. This amount can be achieved through a combination of dietary sources and fortified foods. However, it's important to consult with a healthcare provider before starting any new supplement regimen.
+
+## Side Effects
+
+While plant sterols are generally considered safe for most people, some individuals may experience side effects, including:
+
+- **Gastrointestinal Issues:** Such as gas, bloating, diarrhea, or constipation.
+- **Nutrient Absorption Interference:** High doses of plant sterols may interfere with the absorption of fat-soluble vitamins (A, D, E, and K) and carotenoids.
+
+### Special Considerations
+
+- **Individuals with Sitosterolemia:** People with this rare genetic disorder, which causes excessive accumulation of phytosterols in the body, should avoid plant sterols.
+- **Pregnant and Nursing Women:** It's advisable for pregnant and breastfeeding women to consult their healthcare provider before using plant sterols.
+
+## Conclusion
+
+Plant sterols can be a beneficial addition to a heart-healthy diet by helping to reduce cholesterol levels. They are primarily found in various plant-based foods and are available in fortified products or as supplements. As always, it is recommended to consult with a healthcare professional before starting any new dietary supplements, especially if you have existing health conditions or are taking medications.

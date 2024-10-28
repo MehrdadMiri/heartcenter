@@ -1,42 +1,39 @@
-{
-  "en": {
-    "description": "Guggul is a resin derived from the Commiphora mukul tree, traditionally used in Ayurvedic medicine for its potential health benefits, particularly in managing cholesterol levels, promoting weight loss, and enhancing thyroid function. Known for its anti-inflammatory and antioxidant properties, Guggul is often utilized for conditions such as arthritis, obesity, and cardiovascular diseases. Its active compounds, including guggulsterones, are believed to help regulate lipid metabolism and support overall metabolic health.",
-    "benefits": [
-      "May help lower cholesterol levels",
-      "Supports weight loss efforts",
-      "Promotes healthy thyroid function",
-      "Acts as an anti-inflammatory agent",
-      "Provides antioxidant protection",
-      "May aid in managing arthritis symptoms",
-      "Supports cardiovascular health"
-    ],
-    "side effects": [
-      "Gastrointestinal upset",
-      "Diarrhea",
-      "Nausea",
-      "Allergic skin reactions",
-      "Headache",
-      "Possible interactions with certain medications"
-    ]
-  },
-  "fa": {
-    "description": "گوگول یک رزین است که از درخت Commiphora mukul به‌دست می‌آید و به‌طور سنتی در طب آیورودا برای خواص سلامتی احتمالی‌اش مورد استفاده قرار می‌گیرد، به‌ویژه در مدیریت سطح کلسترول، ترویج کاهش وزن و تقویت عملکرد تیروئید. این ماده به خاطر خواص ضد التهابی و آنتی‌اکسیدانی‌اش شناخته شده است و معمولاً برای شرایطی مانند آرتریت، چاقی و بیماری‌های قلبی عروقی استفاده می‌شود. ترکیبات فعال آن، از جمله گگوگلسترون‌ها، به تنظیم متابولیسم لیپیدها و حمایت از سلامت متابولیک کلی بدن کمک می‌کنند.",
-    "benefits": [
-      "ممکن است به کاهش سطح کلسترول کمک کند",
-      "از تلاش‌های کاهش وزن حمایت می‌کند",
-      "عملکرد سالم تیروئید را ترویج می‌دهد",
-      "به‌عنوان یک عامل ضد التهابی عمل می‌کند",
-      "حفاظت آنتی‌اکسیدانی ارائه می‌دهد",
-      "ممکن است در مدیریت علائم آرتریت کمک کند",
-      "از سلامت قلب و عروق حمایت می‌کند"
-    ],
-    "side effects": [
-      "ناراحتی‌های گوارشی",
-      "اسهال",
-      "تهوع",
-      "واکنش‌های جلدی آلرژیک",
-      "سردرد",
-      "امکان تداخل با برخی داروها"
-    ]
-  }
-}
+# Guggul
+
+## General Information
+
+**Guggul** (Commiphora mukul) is a plant resin derived from the sap of the guggul tree, native to India and parts of Africa. It has been used in traditional Ayurvedic medicine for centuries and is renowned for its potential health benefits. The primary active compounds in guggul are called gugglesterones, which are believed to contribute to its therapeutic effects.
+
+### Uses
+
+Guggul is commonly used for:
+
+- **Weight Management**: It is thought to aid in weight loss by boosting metabolism.
+- **Cholesterol Management**: Guggul has been studied for its potential to lower cholesterol and triglyceride levels.
+- **Arthritis Relief**: It may have anti-inflammatory properties that can be beneficial in treating arthritis and other inflammatory conditions.
+- **Skin Disorders**: Traditionally, guggul has been used to help with skin issues such as acne and psoriasis.
+- **Thyroid Health**: Guggul is sometimes used to treat hypothyroidism due to its purported ability to stimulate thyroid function.
+
+### Dosage
+
+The typical dosage of guggul extract varies, but it generally ranges between **500 to 1500 mg** of guggulsterone per day, often divided into two or three doses. It is essential to consult a healthcare professional for personalized recommendations and to ensure it is appropriate for your situation.
+
+## Side Effects
+
+Guggul is considered safe for most people when taken in appropriate doses. However, some individuals may experience side effects, which can include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, stomach upset, and flatulence.
+- **Allergic Reactions**: Skin rashes, itching, or other allergic reactions, especially in individuals sensitive to myrrh.
+- **Headache**: Some people report experiencing headaches.
+- **Hormonal Effects**: Since guggul can stimulate thyroid function, it may lead to changes in hormone levels.
+- **Drug Interactions**: Guggul may interact with medications that affect thyroid hormone levels, blood sugar levels, or cholesterol medications.
+
+### Precautions
+
+- **Pregnancy and Breastfeeding**: The safety of guggul during pregnancy or breastfeeding has not been established, so it is advised to avoid it during these periods.
+- **Thyroid Disorders**: Individuals with thyroid issues should use caution and consult their healthcare provider before using guggul, as it can affect thyroid hormone levels.
+- **Surgery**: Discontinue guggul at least two weeks prior to any planned surgery due to its potential effects on blood sugar levels and thyroid function.
+
+## Conclusion
+
+Guggul is a renowned herbal supplement with various potential health benefits, particularly related to weight management and cholesterol levels. While generally safe for most, it is crucial for individuals to seek guidance from healthcare professionals to ensure safe and effective use, especially in the presence of pre-existing conditions or when taking other medications.

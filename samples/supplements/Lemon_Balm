@@ -1,26 +1,48 @@
-{
- "en": {
-    "description": "Lemon Balm, scientifically known as Melissa officinalis, is a perennial herb that belongs to the mint family. It has been used for centuries in traditional medicine for its calming effects and as a remedy for various ailments, such as anxiety, insomnia, and digestive issues. The leaves of lemon balm can be brewed into teas, used in culinary dishes, or taken in supplement form. Its mild lemon scent and flavor make it a popular addition to teas and desserts, while its medicinal properties are attributed to its high levels of flavonoids and essential oils.",
-    "benefits": "Lemon Balm is known for its numerous health benefits, including reducing anxiety and stress, improving sleep quality, enhancing cognitive function, alleviating digestive disorders, and possessing antiviral properties. It may also help in relieving menstrual cramps and boosting mood.",
-    "side effects": [
-      "Drowsiness",
-      "Nausea",
-      "Vomiting",
-      "Allergic reactions",
-      "Heartburn",
-      "Stomach upset"
-    ]
- },
- "fa": {
-    "description": "بادرنجبویه، که به طور علمی به عنوان Melissa officinalis شناخته می‌شود، یک گیاه دائمی است که به خانواده نعناع تعلق دارد. این گیاه قرن‌هاست که در طب سنتی برای اثرات آرام‌بخش و به عنوان درمانی برای انواع بیماری‌ها مانند اضطراب، بی‌خوابی و مشکلات گوارشی مورد استفاده قرار می‌گیرد. برگ‌های بادرنجبویه را می‌توان به صورت دمنوش تهیه کرد، در غذاها استفاده کرد یا به شکل مکمل مصرف نمود. عطر و طعم ملایم لیمویی آن، آن را به یک افزودنی محبوب برای دمنوش‌ها و دسرها تبدیل کرده و خواص پزشکی آن به سطوح بالای فلاونوئیدها و روغن‌های اساسی نسبت داده می‌شود.",
-    "benefits": "بادرنجبویه به خاطر مزایای سلامتی بسیاری که دارد شناخته شده است، از جمله کاهش اضطراب و استرس، بهبود کیفیت خواب، افزایش عملکرد شناختی، تسکین اختلالات گوارشی و داشتن خواص ضد ویروسی. همچنین ممکن است در تسکین دردهای قاعدگی و بهبود خلق‌وخو کمک کند.",
-    "side effects": [
-      "خواب‌آلودگی",
-      "تهوع",
-      "استفراغ",
-      "واکنش‌های آلرژیک",
-      "سوزش معده",
-      "ناراحتی معده"
-    ]
- }
-}
+# Lemon Balm
+
+## General Information
+
+**Common Name:** Lemon Balm  
+**Scientific Name:** Melissa officinalis  
+**Family:** Lamiaceae (Mint Family)
+
+### Description
+Lemon balm is a perennial herb known for its lemon-scented leaves and is often used in traditional herbal medicine. It is native to Europe, the Mediterranean region, and parts of Asia. The plant is often grown in gardens for its aromatic properties and as a natural insect repellent. 
+
+### Uses
+Lemon balm has a long history of use in herbal medicine for various health benefits, including:
+
+- **Anxiety Relief:** It is known for its calming effects and may help reduce stress and anxiety.
+- **Sleep Aid:** Lemon balm is often used to improve sleep quality and reduce insomnia.
+- **Digestive Health:** It may help alleviate digestive issues such as bloating and gas.
+- **Cognitive Support:** Some studies suggest it may enhance cognitive function and memory, particularly in individuals with mild cognitive impairment.
+- **Antiviral Properties:** Research indicates that lemon balm may have antiviral effects, particularly against viruses like herpes simplex.
+- **Mood Enhancement:** It may help improve mood and reduce symptoms of depression.
+
+## Forms Available
+Lemon balm can be found in various forms, including:
+
+- Fresh or dried leaves
+- Teas
+- Tinctures
+- Capsules
+- Essential oils
+
+## Dosage
+The appropriate dosage of lemon balm can vary based on the form used and the specific health condition being addressed. It's commonly consumed as a tea (1-2 teaspoons of dried herb steeped in hot water for 10-15 minutes) or as a tincture. Always consult with a healthcare provider for personalized dosing recommendations.
+
+## Side Effects
+While lemon balm is generally considered safe for most people, it can cause side effects in some cases. Possible side effects include:
+
+- **Drowsiness:** Due to its calming effects, some people may experience excessive drowsiness.
+- **Allergic Reactions:** Rarely, individuals may be allergic to lemon balm, leading to skin irritation or other allergy symptoms.
+- **Gastrointestinal Issues:** Some users may experience nausea, vomiting, or abdominal pain.
+- **Interaction with Medications:** Lemon balm may interact with sedative medications and thyroid medications. Patients on these treatments should consult a healthcare provider before use.
+- **Headaches:** Occasionally, lemon balm can cause headaches in sensitive individuals.
+
+## Precautions
+- Consult with a healthcare provider before using lemon balm, especially for pregnant or breastfeeding women, children, and individuals with pre-existing health conditions or those taking medications.
+- It is advisable to avoid using lemon balm immediately before or during activities requiring full alertness, such as driving.
+
+## Conclusion
+Lemon balm is a versatile herb that offers a range of potential health benefits, particularly for anxiety, sleep support, and digestive health. While it is generally safe, individuals should be mindful of possible side effects and interactions with medications. Always consult a healthcare professional before starting any new supplement regime.

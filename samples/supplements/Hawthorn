@@ -1,28 +1,41 @@
-{
- "en": {
-    "description": "Hawthorn is a flowering plant in the rose family, traditionally used for its cardiovascular benefits. It is known primarily for its role in supporting heart health, particularly in improving symptoms of heart failure and angina, by enhancing blood flow and reducing blood pressure. Hawthorn is rich in antioxidants, primarily proanthocyanidins, which help protect blood vessels and support overall heart function.",
-    "benefits": "Hawthorn may improve heart function, reduce symptoms of heart disease, lower blood pressure, and enhance blood circulation. It can also help relieve symptoms of anxiety and stress due to its calming effects.",
-    "side effects": [
-       "Nausea",
-       "Dizziness",
-       "Headache",
-       "Fatigue",
-       "Stomach upset",
-       "Allergic reactions",
-       "Low blood pressure"
-    ]
- },
- "fa": {
-    "description": "بیدمشک یک گیاه گلدار از خانواده گل‌سرخ است که به‌طور سنتی به خاطر فواید قلبی‌عروقی‌اش استفاده می‌شود. این گیاه عمدتاً به دلیل نقش آن در حمایت از سلامت قلب مشهور است، به‌ویژه در بهبود علائم نارسایی قلب و آنژین، با افزایش جریان خون و کاهش فشار خون. بیدمشک غنی از آنتی‌اکسیدان‌ها، به‌ویژه پروآنتوسیانیدین‌ها است که به حفاظت از رگ‌های خونی و حمایت از عملکرد کلی قلب کمک می‌کنند.",
-    "benefits": "بیدمشک ممکن است عملکرد قلب را بهبود بخشد، علائم بیماری قلبی را کاهش دهد، فشار خون را پایین بیاورد و گردش خون را افزایش دهد. همچنین می‌تواند به تسکین علائم اضطراب و استرس به دلیل اثرات آرامش‌بخش آن کمک کند.",
-    "side effects": [
-       "تهوع",
-       "سرگیجه",
-       "سردرد",
-       "خستگی",
-       "مشکل معده",
-       "واکنش‌های آلرژیک",
-       "فشار خون پایین"
-    ]
- }
-}
+# Hawthorn
+
+## General Information
+Hawthorn (Crataegus spp.) is a flowering shrub in the rose family, commonly used for its potential cardiovascular benefits. It has a long history of use in traditional medicine, particularly in European herbal practices. Hawthorn is primarily known for its ability to support heart health, improve circulation, and reduce symptoms of heart-related conditions.
+
+### Active Compounds
+Hawthorn contains several bioactive compounds, including:
+- **Flavonoids**: These compounds have antioxidant properties and may help improve blood flow.
+- **Procyanidins**: These compounds contribute to vasodilation (widening of blood vessels).
+- **Phenolic acids**: These have anti-inflammatory properties and may help protect the cardiovascular system.
+
+### Uses
+Hawthorn is often used for:
+- **Heart Failure**: May help improve heart function and reduce symptoms.
+- **Angina**: May alleviate chest pain caused by reduced blood flow to the heart.
+- **High Blood Pressure (Hypertension)**: May help lower blood pressure.
+- **Cholesterol Management**: May positively affect cholesterol levels.
+- **Anxiety and Stress**: Some anecdotal evidence suggests it may help reduce anxiety symptoms.
+
+## Dosage
+The typical dosage of Hawthorn extract is usually between 160 to 900 mg per day, divided into multiple doses, depending on the formulation and specific health goals. It’s advisable to follow a healthcare provider's recommendations or the instructions on the product label.
+
+## Side Effects
+While Hawthorn is generally considered safe for most people, it can cause side effects in some cases. Potential side effects include:
+
+- **Gastrointestinal Issues**: Such as stomach upset, nausea, or diarrhea.
+- **Dizziness**: May occur, particularly in individuals sensitive to changes in blood pressure.
+- **Fatigue**: Some people report experiencing fatigue.
+- **Headache**: Occasional headaches have been reported.
+- **Allergic Reactions**: Rarely, it may cause allergic reactions, including rashes or difficulty breathing.
+
+## Precautions
+- **Pregnancy and Breastfeeding**: There is insufficient evidence regarding safety; consult a healthcare provider before use.
+- **Surgery**: Hawthorn may affect blood pressure; it's advisable to discontinue use at least 2 weeks prior to surgery.
+- **Interactions with Medications**: Hawthorn may interact with the following medications:
+  - **Antihypertensives**: It may enhance the effects of blood pressure medications.
+  - **Cardiac medications**: Including digoxin, may increase the risk of side effects.
+  - **Anticoagulants**: It could alter the effects of blood-thinning medications.
+
+## Conclusion
+Hawthorn is a widely used herbal supplement with potential benefits for cardiovascular health. While considered generally safe, it is crucial to consult with a healthcare provider before starting any new supplement, especially for individuals with pre-existing health conditions or those taking medications. Always ensure that supplements are sourced from reputable manufacturers and are utilized according to the recommended dosages.

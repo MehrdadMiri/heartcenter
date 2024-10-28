@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "L-Arginine is an amino acid that plays a crucial role in the production of nitric oxide, a compound that relaxes blood vessels and improves blood flow. It is commonly found in protein-rich foods and is also available as a dietary supplement. L-Arginine is used to enhance cardiovascular health, support muscle growth, and improve athletic performance by increasing blood circulation and nutrient delivery to muscles. Additionally, it may have beneficial effects on immune function and wound healing.",
+    "benefits": "Some notable benefits of L-Arginine include improved cardiovascular health, enhanced exercise performance, increased muscle mass and strength, improved recovery from injury, and potential benefits for erectile dysfunction and sexual health.",
+    "side effects": [
+      "Gastrointestinal discomfort (such as nausea, diarrhea, or bloating)",
+      "Hypotension (low blood pressure)",
+      "Allergic reactions (like rash or itching)",
+      "Increased risk of bleeding",
+      "Potential interactions with medications, especially blood thinners and those for hypertension"
+    ]
+  },
+  "fa": {
+    "description": "ال-آرژنین یک اسید آمینه است که نقش مهمی در تولید نیتریک اکسید، ترکیبی که عروق خونی را شل کرده و جریان خون را بهبود می‌بخشد، ایفا می‌کند. این ماده به طور طبیعی در غذاهای غنی از پروتئین یافت می‌شود و همچنین به عنوان یک مکمل غذایی در دسترس است. ال-آرژنین برای بهبود سلامتی قلب و عروق، حمایت از رشد عضلات و بهبود عملکرد ورزشی از طریق افزایش گردش خون و تحویل مواد مغذی به عضلات استفاده می‌شود. علاوه بر این، ممکن است اثرات مفیدی بر عملکرد سیستم ایمنی و بهبود زخم‌ها داشته باشد.",
+    "benefits": "برخی از مزایای مهم ال-آرژنین شامل بهبود سلامتی قلب و عروق، افزایش عملکرد ورزشی، افزایش توده و قدرت عضلانی، بهبود بهبودی از آسیب و مزایای بالقوه برای اختلال نعوظ و سلامتی جنسی است.",
+    "side effects": [
+      "ناراحتی گوارشی (مانند حالت تهوع، اسهال یا نفخ)",
+      "فشار خون پایین",
+      "واکنش‌های آلرژیک (مانند جوش یا خارش)",
+      "افزایش خطر خونریزی",
+      "امکان تداخل با داروها، به ویژه رقیق‌کننده‌های خون و داروهای فشار خون"
+    ]
+  }
+}

@@ -1,34 +1,31 @@
-{
- "en": {
-    "description": "Artichoke leaf extract is a natural supplement derived from the leaves of the artichoke plant (Cynara scolymus). It is primarily known for its potential health benefits associated with liver function and digestion. The extract is rich in antioxidants and compounds such as cynarin and chlorogenic acid, which may help enhance bile production, support cholesterol management, and reduce symptoms of indigestion and bloating.",
-    "benefits": [
-      "Supports liver health and function",
-      "Aids in digestion and reduces bloating",
-      "May help lower cholesterol levels",
-      "Rich in antioxidants that protect against oxidative stress",
-      "Potentially helps regulate blood sugar levels"
-    ],
-    "side effects": [
-      "Digestive upset such as gas or bloating",
-      "Allergic reactions in individuals sensitive to artichokes, daisies, or related plants",
-      "Headaches",
-      "Skin rash"
-    ]
- },
- "fa": {
-     "description": "عصاره برگ آرتیشو یک مکمل طبیعی است که از برگ‌های گیاه آرتیشو (Cynara scolymus) استخراج می‌شود. این عصاره به خاطر مزایای بالقوه‌اش در زمینه سلامت کبد و هضم شناخته شده است. این عصاره غنی از آنتی‌اکسیدان‌ها و ترکیباتی مانند سینارین و اسید کلروژنیک است که می‌تواند به افزایش تولید صفرا، مدیریت کلسترول و کاهش علائم ناراحتی گوارشی و نفخ کمک کند.",
-     "benefits": [
-       "حمایت از سلامت و عملکرد کبد",
-       "کمک به هضم و کاهش نفخ",
-       "کمک به کاهش سطح کلسترول",
-       "غنی از آنتی‌اکسیدان‌ها که در برابر استرس اکسیداتیو محافظت می‌کند",
-       "پتانسیل کمک به تنظیم سطح قند خون"
-     ],
-     "side effects": [
-       "اختلالات گوارشی مانند گاز یا نفخ",
-       "واکنش‌های آلرژیک در افرادی که به آرتیشو، گل داودی یا گیاهان مرتبط حساسیت دارند",
-       "سردرد",
-       "راش پوستی"
-     ]
- }
-}
+# Artichoke Leaf Extract
+
+## General Information
+Artichoke leaf extract is derived from the leaves of the European globe artichoke (Cynara scolymus), a perennial plant known for its edible flower buds. This extract has been used in traditional medicine for centuries and is recognized for various health benefits, particularly related to digestive health and liver function. Artichoke leaf extract contains a range of active compounds including cynarin, chlorogenic acid, and various flavonoids, which are believed to be responsible for its therapeutic effects.
+
+### Common Uses
+1. **Digestive Health**: Artichoke leaf extract is commonly used to improve digestion, stimulate bile production, and alleviate symptoms of indigestion, such as bloating and discomfort.
+2. **Liver Support**: It is thought to promote liver health by enhancing detoxification processes and supporting liver cell regeneration.
+3. **Cholesterol Management**: Some studies suggest that artichoke leaf extract may help lower cholesterol levels and improve overall lipid profiles.
+4. **Antioxidant Properties**: The phytochemicals in artichoke leaf extract have antioxidant effects, which can help neutralize free radicals in the body.
+5. **Weight Management**: It is sometimes marketed as a natural aid for weight loss due to its purported ability to promote fat digestion.
+
+## Dosage
+The appropriate dosage of artichoke leaf extract varies depending on the form (capsule, tablet, liquid) and the specific health condition being addressed. Typical dosages range from 320 to 640 mg taken daily, often divided into two to three doses.
+
+## Side Effects
+While artichoke leaf extract is generally considered safe for most individuals, some potential side effects may include:
+
+- **Gastrointestinal Issues**: Mild digestive upset, including gas, bloating, or diarrhea.
+- **Allergic Reactions**: In rare cases, some individuals may experience allergic reactions, especially those with allergies to related plants (e.g., ragweed, marigolds, daisies, or chrysanthemums).
+- **Heartburn**: Increased stomach acidity may lead to discomfort in sensitive individuals.
+- **Interactions with Medications**: Potential interactions with medications that affect bile production or cholestasis (deficiency in bile flow).
+
+## Contraindications
+Artichoke leaf extract should be used with caution in certain populations, including:
+- **Pregnant and Nursing Women**: There is insufficient research on the safety of artichoke extract during pregnancy and lactation.
+- **Individuals with Gallbladder Issues**: Those with gallstones or bile duct obstructions should avoid its use unless directed by a healthcare professional.
+- **Diabetes**: It may affect blood sugar levels; monitor closely when used with diabetes medications.
+
+## Conclusion
+Artichoke leaf extract is a popular herbal supplement with a variety of potential health benefits, particularly for digestive and liver health. While it is generally safe for most people, it is important to be aware of potential side effects and contraindications. As always, consult with a healthcare provider before beginning any new supplement regimen, especially if you have underlying health conditions or are taking other medications.

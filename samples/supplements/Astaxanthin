@@ -1,26 +1,50 @@
-{
-  "en": {
-    "description": "Astaxanthin is a powerful antioxidant derived from microalgae, particularly Haematococcus pluvialis, that gives aquatic organisms, such as shrimp and salmon, their pink color. It is known for its ability to scavenge free radicals and reduce oxidative stress, thereby supporting skin health, eye health, and enhancing exercise performance. Astaxanthin may also play a role in reducing inflammation, improving cardiovascular health, and boosting the immune system.",
-    "benefits": "Some of the notable benefits of astaxanthin include improved skin elasticity and hydration, protection against UV radiation-induced skin damage, enhanced recovery post-exercise, improved endurance and stamina, potential neuroprotective effects, and support for heart health. It is also associated with potential benefits for eye health, including the reduction of eye fatigue and improvement in visual acuity.",
-    "side effects": [
-      "Allergic reactions",
-      "Stomach discomfort",
-      "Nausea",
-      "Diarrhea",
-      "Red or orange discoloration of skin (when taken in excessive amounts)",
-      "Potential interactions with blood thinners"
-    ]
-  },
-  "fa": {
-    "description": "استاکسنتین یک آنتی‌اکسیدان قوی است که از میکروآلگاها، به‌ویژه هیمتوکوکوس پلوویالیس، تهیه می‌شود و به موجودات آبی مانند میگو و سالمون رنگ صورتی می‌دهد. این ماده به خاطر توانایی خود در شکار رادیکال‌های آزاد و کاهش استرس اکیسیژن شناخته شده است و به همین دلیل از سلامت پوست، سلامت چشم و بهبود عملکرد ورزشی حمایت می‌کند. استاکسنتین همچنین ممکن است نقش مهمی در کاهش التهاب، بهبود سلامت قلب و عروق و تقویت سیستم ایمنی داشته باشد.",
-    "benefits": "برخی از مزایای قابل توجه استاکسنتین شامل بهبود الاستیسیته و هیدراتاسیون پوست، محافظت در برابر آسیب‌های ناشی از UV، بهبود بازیابی پس از ورزش، افزایش استقامت و انگیزه، اثرات محافظتی احتمالی عصبی، و پشتیبانی از سلامت قلب است. همچنین به مزایای احتمالی برای سلامت چشم، از جمله کاهش خستگی چشم و بهبود وضوح بینایی مرتبط است.",
-    "side effects": [
-      "واکنش‌های آلرژیک",
-      "ناراحتی معده",
-      "تهوع",
-      "اسهال",
-      "تغییر رنگ قرمز یا نارنجی پوست (زمانی که در مقادیر زیاد مصرف شود)",
-      "تعاملات احتمالی با رقیق‌کننده‌های خون"
-    ]
-  }
-}
+# Astaxanthin
+
+## General Information
+Astaxanthin is a powerful carotenoid pigment found in various marine organisms, such as microalgae, shrimp, and salmon. It is responsible for the pink-red color of these organisms and is known for its strong antioxidant properties. Astaxanthin is gaining popularity as a dietary supplement due to its potential health benefits, including its role in combating oxidative stress and supporting overall health.
+
+### Sources
+- **Natural Sources**: Astaxanthin is mainly derived from the microalga *Haematococcus pluvialis*, which is considered the richest source. Other sources include:
+  - Red yeast
+  - Shrimp
+  - Crustaceans
+  - Salmon
+  
+- **Supplement Forms**: Available in capsules, soft gels, and powders, often derived from the microalga.
+
+### Health Benefits
+Astaxanthin is associated with various health benefits, including:
+
+1. **Antioxidant Effects**: It has one of the strongest antioxidant activities among carotenoids, helping to neutralize free radicals in the body.
+   
+2. **Eye Health**: It may support eye health by protecting against oxidative damage and reducing the risk of macular degeneration.
+
+3. **Skin Protection**: Some studies suggest astaxanthin can improve skin elasticity, reduce the appearance of fine lines, and protect against UV-induced damage.
+
+4. **Anti-Inflammatory Properties**: Astaxanthin may help reduce inflammation, potentially benefiting conditions such as arthritis.
+
+5. **Cardiovascular Health**: Research indicates it may improve heart health by lowering oxidative stress and improving cholesterol levels.
+
+6. **Exercise Performance**: Some athletes use astaxanthin to enhance endurance and reduce muscle damage after exercise.
+
+### Recommended Dosage
+While there is no established daily recommended intake for astaxanthin, typical supplemental doses range from 4 mg to 12 mg per day. It is advisable to consult a healthcare professional before starting any new supplement regimen.
+
+## Side Effects
+Astaxanthin is generally considered safe for most individuals when taken in appropriate amounts. However, some potential side effects may include:
+
+- **Digestive Issues**: Some users may experience stomach upset, diarrhea, or gas.
+  
+- **Allergic Reactions**: Rarely, individuals may experience allergic reactions, especially those allergic to seafood.
+
+- **Hormonal Effects**: Astaxanthin may influence hormone levels; individuals with hormone-sensitive conditions should consult a healthcare provider.
+
+- **Drug Interactions**: It could interact with certain medications, especially those that affect blood clotting or blood pressure.
+
+## Contraindications
+Astaxanthin should be used with caution in certain populations:
+- **Pregnant and Nursing Women**: Safety during pregnancy and lactation has not been fully established.
+- **Individuals with Seafood Allergies**: Those sensitive to shellfish or specific marine products should avoid astaxanthin sourced from these ingredients.
+
+## Conclusion
+Astaxanthin is a promising supplement with various potential health benefits, particularly due to its antioxidant properties. While generally safe, it's essential to be aware of possible side effects and to consult with a healthcare professional before introducing it into your health regimen.

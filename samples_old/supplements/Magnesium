@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Magnesium is an essential mineral crucial for various bodily functions, including muscle and nerve function, blood glucose control, and blood pressure regulation. It plays an important role in the synthesis of protein, DNA, and bone development. A sufficient intake of magnesium is vital for overall health, as it also aids in energy production and the activation of vitamin D.",
+    "benefits": "Some benefits of magnesium include improved muscle function, enhanced energy production, better sleep quality, reduced symptoms of anxiety and depression, and improved bone health. It may also help to regulate blood sugar levels and support cardiovascular health.",
+    "side effects": [
+        "Diarrhea",
+        "Nausea",
+        "Abdominal cramping",
+        "Drowsiness",
+        "Muscle weakness"
+    ]
+ },
+ "fa": {
+    "description": "منیزیم یک ماده معدنی ضروری است که برای عملکردهای مختلف بدن مهم است، از جمله عملکرد ماهیچه‌ها و اعصاب، کنترل قند خون و تنظیم فشار خون. این ماده در سنتز پروتئین، DNA و توسعه استخوان‌ها نقش مهمی دارد. مصرف کافی منیزیم برای سلامتی کلی بدن حیاتی است زیرا همچنین در تولید انرژی و فعال‌سازی ویتامین D کمک می‌کند.",
+    "benefits": "برخی از مزایای منیزیم شامل بهبود عملکرد ماهیچه‌ها، افزایش تولید انرژی، بهبود کیفیت خواب، کاهش علائم اضطراب و افسردگی و بهبود سلامت استخوان‌ها است. همچنین ممکن است به تنظیم سطح قند خون و حمایت از سلامت قلب و عروق کمک کند.",
+    "side effects": [
+        "اسهال",
+        "تهوع",
+        "دل‌درد",
+        "خواب‌آلودگی",
+        "ضعف عضلانی"
+    ]
+ }
+}

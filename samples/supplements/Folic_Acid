@@ -1,28 +1,60 @@
-{
- "en": {
-    "description": "Folic acid, also known as vitamin B9, is a water-soluble vitamin essential for the production and maintenance of new cells in the body. It plays a crucial role in DNA synthesis and repair, making it particularly important during periods of rapid growth such as pregnancy, infancy, and adolescence. Additionally, folic acid helps in the formation of red blood cells and supports proper brain function.",
-    "benefits": "Folic acid is known for reducing the risk of neural tube defects in developing fetuses, improving cardiovascular health by lowering homocysteine levels, enhancing mood and cognitive function, and potentially reducing the risk of certain cancers.",
-    "side effects": [
-        "Nausea",
-        "Bloating",
-        "Gas",
-        "Sleep disturbances",
-        "Skin rash",
-        "Irritability",
-        "Altered sleep patterns"
-    ]
- },
- "fa": {
-     "description": "فولیک اسید، که به عنوان ویتامین B9 نیز شناخته می‌شود، ویتامینی زود حل است که برای تولید و نگهداری سلول‌های جدید در بدن ضروری است. این ویتامین نقش مهمی در سنتز و ترمیم DNA دارد و به ویژه در دوره‌های رشد سریع مانند بارداری، نوزادی و نوجوانی بسیار مهم است. علاوه بر این، فولیک اسید به تشکیل گلبول‌های قرمز خون کمک کرده و از عملکرد صحیح مغز حمایت می‌کند.",
-     "benefits": "فولیک اسید به کاهش خطر عیوب لوله عصبی در جنین‌های در حال توسعه کمک می‌کند، سلامت قلب و عروق را با کاهش سطح هموسیستئین بهبود می‌بخشد، حالت روحی و عملکرد شناختی را افزایش می‌دهد و به طور بالقوه خطر برخی سرطان‌ها را کاهش می‌دهد.",
-     "side effects": [
-         "حالت تهوع",
-         "نفخ",
-         "گاز",
-         "اختلالات خواب",
-         "کهیر",
-         "تحریک‌پذیری",
-         "تغییر در الگوهای خواب"
-     ]
- }
-}
+# Folic Acid
+
+## General Information
+
+Folic acid, also known as Vitamin B9, is a water-soluble vitamin that plays a crucial role in various bodily functions. It is essential for DNA synthesis, repair, and methylation, as well as for the production of red blood cells. Folic acid is particularly important during periods of rapid growth, such as during pregnancy, infancy, and adolescence. 
+
+### Sources of Folic Acid
+
+Folic acid is found naturally in many foods, predominantly in the form of folate. Common dietary sources include:
+
+- Leafy green vegetables (e.g., spinach, kale, romaine lettuce)
+- Fruits (e.g., oranges, bananas, avocados)
+- Beans and legumes (e.g., lentils, chickpeas, black beans)
+- Nuts and seeds
+- Fortified cereals and bread
+- Liver and other organ meats
+
+### Recommended Dietary Allowance (RDA)
+
+The recommended daily allowance of folate varies by age, sex, and life stage:
+
+- **Adults**: 400 mcg DFE (Dietary Folate Equivalent)
+- **Pregnant Women**: 600 mcg DFE
+- **Lactating Women**: 500 mcg DFE
+
+### Uses and Benefits
+
+Folic acid is used for several health-related purposes, including:
+
+- **Preventing Neural Tube Defects**: Adequate folic acid intake before conception and during early pregnancy significantly reduces the risk of neural tube defects in the developing fetus.
+- **Supporting Heart Health**: Folic acid may help lower homocysteine levels, an amino acid linked to cardiovascular disease, by aiding in its metabolism.
+- **Treating Folate Deficiency**: It is often prescribed for individuals with folate deficiency to help restore normal folate levels and prevent anemia.
+- **Supporting Mental Health**: Some studies suggest that folic acid may play a role in improving mood and reducing the risk of depression.
+
+
+## Side Effects
+
+While folic acid is generally considered safe when taken within recommended doses, excessive intake can lead to potential side effects. Common side effects may include:
+
+- **Nausea**
+- **Bloating**
+- **Gas**
+- **Sleep disturbances** (sometimes reported with high doses)
+- **Skin reactions** (in rare cases, allergic reactions may occur)
+
+### Overdose Risks
+
+Excessive intake of folic acid, especially from supplements (above 1000 mcg per day), can mask symptoms of Vitamin B12 deficiency, potentially leading to neurological complications. Chronic high intake may also increase the risk of cancer in those with pre-existing tumors.
+
+### Interactions with Medications
+
+Folic acid can interact with certain medications, including:
+
+- **Anticonvulsants**: May decrease the effectiveness of some seizure medications.
+- **Methotrexate**: A chemotherapy drug, which folic acid can counteract; supplementation should be managed by a healthcare professional.
+- **Sulfasalazine**: Used for inflammatory bowel disease, which can reduce folate absorption.
+
+## Conclusion
+
+Folic acid is a vital nutrient that supports many bodily functions, especially during pregnancy and periods of growth. While it is generally safe and beneficial, it is essential to adhere to recommended dosages and consult a healthcare provider before starting any new supplementation, especially if one is on medication or has underlying health conditions.

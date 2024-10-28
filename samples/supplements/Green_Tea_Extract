@@ -1,40 +1,46 @@
-{
- "en": {
-    "description": "Green tea extract is derived from the leaves of the Camellia sinensis plant and is packed with antioxidants known as catechins, particularly epigallocatechin gallate (EGCG). This supplement is often used for its potential health benefits, including support for weight loss, improved brain function, and reduction in the risk of various chronic diseases. It is available in various forms such as capsules, powders, and liquid extracts.",
-    "benefits": [
-        "Supports weight management and fat oxidation",
-        "Enhances brain function and cognitive performance",
-        "Provides antioxidant protection against oxidative stress",
-        "May reduce the risk of cardiovascular diseases",
-        "Can improve metabolic health and glucose regulation"
-    ],
-    "side effects": [
-        "Insomnia",
-        "Nausea",
-        "Stomach upset",
-        "Headaches",
-        "Increased heart rate",
-        "Elevated blood pressure in sensitive individuals",
-        "Liver toxicity in excessive doses"
-    ]
- },
- "fa": {
-     "description": "عصاره چای سبز از برگ‌های گیاه کاملیا سیننسیس استخراج می‌شود و سرشار از آنتی‌اکسیدان‌هایی است که به کاتچین‌ها معروفند، به‌ویژه اپی‌گالوکاتچین گالات (EGCG). این مکمل معمولاً برای مزایای بالقوه آن در سلامتی، از جمله حمایت از کاهش وزن، بهبود عملکرد مغز، و کاهش خطر بیماری‌های مزمن مختلف استفاده می‌شود. این محصول در اشکال مختلفی مانند کپسول‌ها، پودرها و عصاره‌های مایع در دسترس است.",
-     "benefits": [
-         "حمایت از مدیریت وزن و اکسیداسیون چربی",
-         "بهبود عملکرد مغز و توانایی شناختی",
-         "فراهم کردن محافظت آنتی‌اکسیدانی در برابر استرس اکسیداتیو",
-         "کاهش خطر بیماری‌های قلبی عروقی ممکن است",
-         "بهبود سلامت متابولیک و تنظیم قند خون"
-     ],
-     "side effects": [
-         "بی‌خوابی",
-         "تهوع",
-         "آشفتگی معده",
-         "سردرد",
-         "افزایش ضربان قلب",
-         "افزایش فشار خون در افراد حساس",
-         "سمیت کبدی در دوزهای زیاد"
-     ]
- }
-}
+# Green Tea Extract
+
+## General Information
+
+Green Tea Extract is derived from the leaves of the Camellia sinensis plant. It is a concentrated source of bioactive compounds, particularly polyphenols such as catechins and flavonoids, which are thought to be responsible for many of its health benefits. The primary component, epigallocatechin gallate (EGCG), is recognized for its antioxidant properties.
+
+### Forms of Green Tea Extract
+
+- **Capsules or tablets**: Convenient for supplementation.
+- **Powder**: Can be mixed into drinks or foods.
+- **Liquid extracts**: Often used in teas or as dietary supplements.
+
+### Health Benefits
+
+1. **Antioxidant properties**: Green Tea Extract is loaded with antioxidants, which help combat oxidative stress and free radical damage.
+2. **Weight loss support**: May enhance metabolic rate and fat burning, contributing to weight management.
+3. **Heart health**: Can improve cholesterol levels and promote cardiovascular health.
+4. **Brain health**: Potential neuroprotective effects that may support cognitive function and reduce the risk of neurodegenerative diseases.
+5. **Anti-inflammatory effects**: Can help reduce inflammation in the body, potentially alleviating conditions such as arthritis.
+6. **Blood sugar regulation**: May improve insulin sensitivity and help control blood sugar levels.
+7. **Cancer prevention**: Some studies suggest that the catechins in green tea may help prevent certain types of cancer, though research is still ongoing.
+
+## Dosage
+
+The appropriate dosage of Green Tea Extract can vary based on the intended use. A common dosage range is typically 250 to 500 mg per day, though higher doses may be utilized in some cases. It is important to follow the manufacturer's instructions or consult a healthcare professional for personalized advice.
+
+## Side Effects
+
+While Green Tea Extract is generally considered safe for most people, it can cause side effects in some instances, especially when taken in high doses. Possible side effects include:
+
+- **Gastrointestinal Issues**: Nausea, stomach upset, or diarrhea may occur, especially when taking concentrated forms.
+- **Insomnia**: Due to its caffeine content, it may affect sleep patterns if taken in large amounts or close to bedtime.
+- **Headaches**: Some individuals may experience headaches as a result of caffeine or other compounds.
+- **Increased heart rate**: High doses may lead to heartbeat irregularities.
+- **Liver damage**: In rare cases, high doses over prolonged periods can lead to liver problems; monitoring is advised.
+- **Interactions with medications**: May interact with blood thinners (e.g., warfarin), blood pressure medications, or other drugs due to its potential effects on metabolism.
+
+### Precautions
+
+- Pregnant or breastfeeding women should consult a healthcare provider before using.
+- Individuals with caffeine sensitivity should use caution and monitor their intake.
+- Those with liver issues or on medications affecting the liver should also seek medical advice.
+
+## Conclusion
+
+Green Tea Extract offers numerous health benefits and is a popular supplement for those seeking to improve overall wellness. As with any supplement, it is vital to follow recommended dosages and consult with a healthcare professional to avoid potential interactions and side effects.

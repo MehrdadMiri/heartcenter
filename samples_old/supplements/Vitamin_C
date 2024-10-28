@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Vitamin C, also known as ascorbic acid, is a water-soluble vitamin that is vital for the growth, development, and repair of body tissues. It is an antioxidant that helps protect cells from damage caused by free radicals and supports the immune system in fighting infections. Additionally, Vitamin C plays a crucial role in collagen synthesis, which is essential for the health of skin, cartilage, tendons, ligaments, and blood vessels.",
+    "benefits": "Vitamin C offers numerous benefits including boosting the immune system, reducing the severity and duration of colds, supporting skin health and wound healing, enhancing iron absorption from plant-based foods, and potentially lowering the risk of chronic diseases.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach cramps",
+      "Heartburn",
+      "Bloating",
+      "Headaches"
+    ]
+ },
+ "fa": {
+    "description": "ویتامین C، که به عنوان اسید آسکوربیک نیز شناخته می‌شود، ویتامینی محلول در آب است که برای رشد، توسعه و تعمیر بافت‌های بدن حیاتی است. این ویتامین یک آنتی‌اکسیدان است که به محافظت از سلول‌ها در برابر آسیب‌های ناشی از رادیکال‌های آزاد کمک می‌کند و سیستم ایمنی بدن را در مقابله با عفونت‌ها حمایت می‌کند. علاوه بر این، ویتامین C نقش مهمی در سنتز کلاژن ایفا می‌کند که برای سلامت پوست، غضروف، تاندون‌ها، رباط‌ها و عروق خونی ضروری است.",
+    "benefits": "ویتامین C مزایای بسیاری دارد، از جمله تقویت سیستم ایمنی، کاهش شدت و مدت سرماخوردگی‌ها، حمایت از سلامت پوست و بهبود زخم‌ها، افزایش جذب آهن از غذاهای مبتنی بر گیاه و احتمالاً کاهش خطر بیماری‌های مزمن.",
+    "side effects": [
+      "تهوع",
+      "اسهال",
+      "دل‌درد",
+      "سوزش معده",
+      "نفخ",
+      "سردرد"
+    ]
+ }
+}

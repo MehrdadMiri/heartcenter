@@ -1,26 +1,53 @@
-{
-  "en": {
-    "description": "Flaxseed oil is extracted from the seeds of the flax plant (Linum usitatissimum) and is rich in omega-3 fatty acids, particularly alpha-linolenic acid (ALA). This oil is commonly used as a dietary supplement due to its potential health benefits, particularly in promoting heart health, reducing inflammation, and supporting digestive health. Flaxseed oil is often taken in liquid form or as capsules and can be used in salad dressings or added to smoothies for an extra nutrient boost.",
-    "benefits": "Flaxseed oil is known to lower cholesterol levels, improve heart health, reduce the risk of certain chronic diseases, alleviate symptoms of menopause, support weight loss, and provide anti-inflammatory effects.",
-    "side effects": [
-      "Digestive problems (bloating, gas, diarrhea)",
-      "Allergic reactions (rash, itching, swelling)",
-      "Bleeding risks (especially if taken with anticoagulants)",
-      "Hormonal effects (due to phytoestrogens)",
-      "Lower blood pressure",
-      "Changes in stool color"
-    ]
-  },
-  "fa": {
-    "description": "روغن بذر کتانی از دانه‌های گیاه کتان (Linum usitatissimum) استخراج می‌شود و سرشار از اسیدهای چرب امگا-۳، به ویژه اسید آلفا-لینولنیک (ALA) است. این روغن به عنوان یک مکمل غذایی به دلیل مزایای بالقوه سلامتی‌اش، به ویژه در بهبود سلامت قلب، کاهش التهاب و حمایت از سلامت گوارش، به‌طور گسترده‌ای استفاده می‌شود. روغن بذر کتانی معمولاً به صورت مایع یا کپسول مصرف می‌شود و می‌تواند در سس‌های سالاد یا نوشیدنی‌های پروتئینی برای افزایش مواد مغذی اضافه شود.",
-    "benefits": "روغن بذر کتانی به کاهش سطوح کلسترول، بهبود سلامت قلب، کاهش خطر ابتلا به برخی بیماری‌های مزمن، تسکین علائم یائسگی، حمایت از کاهش وزن و ارائه اثرات ضد التهابی شناخته می‌شود.",
-    "side effects": [
-      "مشکلات گوارشی (نفخ، گاز، اسهال)",
-      "واکنش‌های آلرژیک (راش، خارش، تورم)",
-      "خطرات خونریزی (به ویژه اگر با رقیق‌کننده‌های خون مصرف شود)",
-      "اثرهای هورمونی (به دلیل وجود فیتواستروژن‌ها)",
-      "کاهش فشار خون",
-      "تغییر رنگ مدفوع"
-    ]
-  }
-}
+# Flaxseed Oil: An Overview
+
+Flaxseed oil is derived from the seeds of the flax plant (Linum usitatissimum), which is known for its high content of omega-3 fatty acids, specifically alpha-linolenic acid (ALA). It is commonly used as a dietary supplement for various health benefits.
+
+## Nutritional Profile
+
+Flaxseed oil contains:
+- **Omega-3 Fatty Acids**: Primarily alpha-linolenic acid (ALA), which is essential for heart health.
+- **Omega-6 Fatty Acids**: Such as linoleic acid.
+- **Lignans**: Flaxseed oil contains limited lignans, which are phytoestrogens with antioxidant properties.
+- **Vitamin E**: An antioxidant that helps protect against oxidative stress.
+
+## Health Benefits
+
+Flaxseed oil is often touted for the following health benefits:
+
+1. **Heart Health**: Omega-3 fatty acids can help reduce inflammation and lower blood pressure, thereby supporting cardiovascular health.
+2. **Anti-inflammatory Properties**: Flaxseed oil may help reduce inflammation in conditions such as arthritis.
+3. **Digestive Health**: It may support digestive health by improving bowel regularity.
+4. **Skin Health**: Flaxseed oil is sometimes used to improve skin hydration and reduce the symptoms of eczema and other skin conditions.
+5. **Hormonal Balance**: The phytoestrogens in flax may help balance hormones, which can be particularly beneficial for women during menopause.
+6. **Weight Management**: Some studies suggest that flaxseed oil may support weight loss efforts when included in a balanced diet.
+
+## Recommended Dosage
+
+The typical dosage of flaxseed oil ranges from:
+- **1 to 2 tablespoons (15-30 mL) per day**, depending on individual needs and health conditions.
+
+### Forms Available
+Flaxseed oil is available in several forms, including:
+- Liquid oil
+- Softgel capsules
+- Powder
+
+## Side Effects
+
+While flaxseed oil is generally safe for most people, some potential side effects include:
+
+- **Digestive Issues**: Diarrhea, bloating, and gas may occur, especially with high doses.
+- **Allergic Reactions**: Some people may experience allergic reactions, including skin rashes or respiratory issues.
+- **Blood Thinning Effects**: Flaxseed oil may increase bleeding risk, especially in individuals taking anticoagulant medications.
+- **Hormonal Effects**: Due to the phytoestrogens, there may be concerns for individuals with hormone-sensitive conditions, though research is limited.
+- **Laxative Effect**: Excessive intake may lead to a laxative effect, resulting in loose stools.
+
+## Precautions and Interactions
+
+- **Consultation with Healthcare Provider**: Always consult a healthcare provider before adding flaxseed oil to your routine, especially if you're pregnant, nursing, have a medical condition, or are taking medications.
+- **Surgery Warning**: Discontinue use at least 2 weeks prior to any scheduled surgery due to potential blood-thinning effects.
+- **Medication Interactions**: Use caution if taking blood thinners, anti-inflammatory drugs, or hormone therapies.
+
+## Conclusion
+
+Flaxseed oil is a potent source of omega-3 fatty acids and offers various health benefits. However, as with any supplement, it is crucial to take it mindfully and under the guidance of a healthcare professional. Always consider potential side effects and interactions with medications or existing health issues.

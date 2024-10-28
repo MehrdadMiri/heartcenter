@@ -1,0 +1,28 @@
+{
+ "en": {
+    "description": "Hawthorn is a flowering plant in the rose family, traditionally used for its cardiovascular benefits. It is known primarily for its role in supporting heart health, particularly in improving symptoms of heart failure and angina, by enhancing blood flow and reducing blood pressure. Hawthorn is rich in antioxidants, primarily proanthocyanidins, which help protect blood vessels and support overall heart function.",
+    "benefits": "Hawthorn may improve heart function, reduce symptoms of heart disease, lower blood pressure, and enhance blood circulation. It can also help relieve symptoms of anxiety and stress due to its calming effects.",
+    "side effects": [
+       "Nausea",
+       "Dizziness",
+       "Headache",
+       "Fatigue",
+       "Stomach upset",
+       "Allergic reactions",
+       "Low blood pressure"
+    ]
+ },
+ "fa": {
+    "description": "بیدمشک یک گیاه گلدار از خانواده گل‌سرخ است که به‌طور سنتی به خاطر فواید قلبی‌عروقی‌اش استفاده می‌شود. این گیاه عمدتاً به دلیل نقش آن در حمایت از سلامت قلب مشهور است، به‌ویژه در بهبود علائم نارسایی قلب و آنژین، با افزایش جریان خون و کاهش فشار خون. بیدمشک غنی از آنتی‌اکسیدان‌ها، به‌ویژه پروآنتوسیانیدین‌ها است که به حفاظت از رگ‌های خونی و حمایت از عملکرد کلی قلب کمک می‌کنند.",
+    "benefits": "بیدمشک ممکن است عملکرد قلب را بهبود بخشد، علائم بیماری قلبی را کاهش دهد، فشار خون را پایین بیاورد و گردش خون را افزایش دهد. همچنین می‌تواند به تسکین علائم اضطراب و استرس به دلیل اثرات آرامش‌بخش آن کمک کند.",
+    "side effects": [
+       "تهوع",
+       "سرگیجه",
+       "سردرد",
+       "خستگی",
+       "مشکل معده",
+       "واکنش‌های آلرژیک",
+       "فشار خون پایین"
+    ]
+ }
+}

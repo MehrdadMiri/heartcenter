@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Methylfolate, the active form of vitamin B9, is crucial for DNA synthesis, repair, and methylation, as well as the production of neurotransmitters. It is particularly important in the metabolism of homocysteine and is essential in prenatal health, supporting neural development during early pregnancy. Methylfolate supplementation is often recommended for individuals with MTHFR mutations, as they may have impaired conversion of folic acid to methylfolate, leading to deficiency and associated health issues.",
+    "benefits": "Methylfolate supports mental health by aiding in the production of serotonin, dopamine, and norepinephrine. It is effective in reducing the risk of neural tube defects during pregnancy, promoting cardiovascular health by lowering homocysteine levels, and may improve mood and cognitive function in individuals with depressive disorders.",
+    "side effects": [
+      "Nausea",
+      "Fatigue",
+      "Irritability",
+      "Insomnia",
+      "Allergic reactions",
+      "Skin rashes",
+      "Gastrointestinal discomfort"
+    ]
+  },
+  "fa": {
+    "description": "متیل‌فولات، شکل فعال ویتامین B9 است که برای سنتز، ترمیم و متیلاسیون DNA و همچنین تولید انتقال‌دهنده‌های عصبی ضروری است. این ماده به ویژه در متابولیسم هموسیستئین مهم بوده و در سلامت پیش‌زادها برای حمایت از توسعه عصبی در دوران اولیه بارداری نقش کلیدی دارد. مکمل متیل‌فولات غالباً برای افرادی که دارای جهش MTHFR هستند، توصیه می‌شود، زیرا این افراد ممکن است در تبدیل اسید فولیک به متیل‌فولات دچار اختلال شوند و به همین علت به کمبود و مسائل مرتبط با آن مبتلا باشند.",
+    "benefits": "متیل‌فولات با کمک به تولید سروتونین، دوپامین و نوراپی‌نفرین از سلامت ذهنی حمایت می‌کند. این ماده خطر نقص‌های لوله عصبی در دوران بارداری را کاهش می‌دهد، به سلامت قلب و عروق با کاهش سطوح هموسیستئین کمک می‌کند و ممکن است در بهبود خلق‌وخو و کارکرد شناختی در افراد مبتلا به اختلالات افسردگی مؤثر باشد.",
+    "side effects": [
+      "تهوع",
+      "خستگی",
+      "زودرنجی",
+      "بی‌خوابی",
+      "واکنش‌های آلرژیک",
+      "کهیر‌های پوستی",
+      "ناراحتی دستگاه گوارش"
+    ]
+  }
+}

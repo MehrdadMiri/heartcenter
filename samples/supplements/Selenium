@@ -1,32 +1,53 @@
-```json
-{
-  "en": {
-    "description": "Selenium is a trace mineral that plays a crucial role in metabolism and is essential for the proper functioning of the thyroid gland. It acts as an antioxidant, protecting cells from damage caused by free radicals, and supports immune system function. Selenium is found in various dietary sources such as Brazil nuts, seafood, and grains. Although selenium deficiencies can lead to serious health issues, adequate intake can improve overall health and reduce the risk of certain diseases.",
-    "benefits": "The benefits of selenium include its ability to enhance immune response, promote thyroid health, reduce oxidative stress, and potentially lower the risk of certain types of cancer. Additionally, selenium may help improve fertility and support cognitive function.",
-    "side effects": [
-      "Nausea",
-      "Diarrhea",
-      "Fatigue",
-      "Irritability",
-      "Garlic-like odor in breath or body",
-      "Skin rashes",
-      "Brittle hair and nails",
-      "Loss of appetite"
-    ]
-  },
-  "fa": {
-    "description": "سلنیوم یک ماده معدنی ریز است که نقش مهمی در متابولیسم دارد و برای عملکرد صحیح غده تیروئید ضروری است. این ماده به عنوان یک آنتی‌اکسیدان عمل می‌کند و از سلول‌ها در برابر آسیب ناشی از رادیکال‌های آزاد محافظت می‌کند و به تقویت عملکرد سیستم ایمنی کمک می‌کند. سلنیوم در منابع غذایی مختلفی همچون آجیل برزیلی، غذاهای دریایی و غلات یافت می‌شود. در حالی که کمبود سلنیوم می‌تواند منجر به مشکلات جدی سلامتی شود، مصرف کافی آن می‌تواند سلامت کلی را بهبود بخشد و خطر بروز برخی بیماری‌ها را کاهش دهد.",
-    "benefits": "مزایای سلنیوم شامل توانایی آن در تقویت واکنش ایمنی، ترویج سلامت تیروئید، کاهش استرس اکسیداتیو و احتمالاً کاهش خطر بروز نوع خاصی از سرطان‌ها است. علاوه بر این، سلنیوم ممکن است به بهبود باروری و حمایت از عملکرد شناختی کمک کند.",
-    "side effects": [
-      "تهوع",
-      "اسهال",
-      "خستگی",
-      "عصبانیت",
-      "بوی سیر مانند در تنفس یا بدن",
-      "راش های پوستی",
-      "موها و ناخن‌های شکننده",
-      "کاهش اشتها"
-    ]
-  }
-}
-```
+# Selenium: A Comprehensive Overview
+
+### General Information
+
+**Selenium** is a trace mineral essential for various bodily functions. It is a key component of several enzymes and proteins, known as selenoproteins, that play a crucial role in antioxidant defense, thyroid hormone metabolism, and immune function.
+
+#### Sources of Selenium
+
+Selenium can be obtained from various dietary sources, including:
+- **Brazil nuts**: One of the richest sources of selenium.
+- **Seafood**: Such as tuna, sardines, and shrimp.
+- **Meats**: Including beef, turkey, and chicken.
+- **Eggs and dairy products**: Sources of selenium in animal-based diets.
+- **Whole grains**: Such as brown rice and barley.
+- **Legumes**: Including lentils and peas.
+
+### Health Benefits
+
+Selenium is associated with several health benefits, including:
+
+- **Antioxidant properties**: Helps protect cells from damage caused by free radicals.
+- **Thyroid function**: Supports the conversion of thyroid hormones, crucial for metabolic processes.
+- **Immune system support**: Enhances the immune response and may reduce the risk of infections.
+- **Potential cancer prevention**: Some studies suggest that adequate selenium levels may lower the risk of certain cancers.
+
+### Recommended Daily Intake
+
+The recommended dietary allowance (RDA) for selenium varies by age and gender:
+- **Adults**: 55 micrograms (mcg) per day
+- **Pregnant women**: 60 mcg per day
+- **Lactating women**: 70 mcg per day
+
+### Side Effects
+
+While selenium is vital for health, excessive intake can lead to toxicity. The following side effects may occur:
+
+- **Selenosis**: A condition caused by selenium toxicity, characterized by symptoms such as:
+  - Garlic breath odor
+  - Hair loss
+  - Fatigue
+  - Nail brittleness
+  - Skin lesions
+- **Gastrointestinal distress**: Nausea, vomiting, and diarrhea when taken in high doses.
+- **Neurological symptoms**: Such as irritability and peripheral neuropathy in extreme cases.
+
+### Precautions
+
+- **Consultation with Healthcare Provider**: It's essential to consult a healthcare professional before starting selenium supplementation, particularly for those with pre-existing health conditions or those who are pregnant or breastfeeding.
+- **Avoid High Doses**: Do not exceed the upper limit of 400 mcg per day for adults without medical supervision.
+
+### Conclusion
+
+Selenium is a vital mineral that plays an essential role in human health. It is important to maintain proper levels through diet or supplementation while being cautious about potential side effects from excessive intake. Always consult with a healthcare provider for personalized recommendations.

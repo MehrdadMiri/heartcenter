@@ -1,38 +1,43 @@
-{
- "en": {
-    "description": "Hesperidin is a naturally occurring flavonoid glycoside primarily found in citrus fruits. It is known for its antioxidant properties and its ability to improve blood circulation by strengthening blood vessels, which may help alleviate symptoms associated with conditions like varicose veins, hemorrhoids, and chronic venous insufficiency. Hesperidin is often used as a dietary supplement due to its potential anti-inflammatory and immune-boosting effects, and it may also contribute to heart health by reducing cholesterol levels.",
-    "benefits": [
-        "Improves blood circulation",
-        "Strengthens blood vessel walls",
-        "Alleviates symptoms of varicose veins and hemorrhoids",
-        "Possesses antioxidant properties",
-        "May reduce inflammation",
-        "Supports heart health"
-    ],
-    "side effects": [
-        "Headaches",
-        "Digestive upset",
-        "Nausea",
-        "Diarrhea",
-        "Allergic reactions (rarely)"
-    ]
- },
- "fa": {
-     "description": "هسپریدین یک گلیcosید فلاونوئیدی طبیعی است که عمدتاً در میوه‌های Citrus یافت می‌شود. این ماده به خاطر خواص آنتی‌اکسیدانی‌اش و توانایی‌اش در بهبود گردش خون با تقویت رگ‌های خونی شناخته شده است که ممکن است به کاهش علایم مرتبط با شرایطی مانند واریس، بواسیر و نارسایی وریدی مزمن کمک کند. هسپریدین به عنوان یک مکمل غذایی به دلیل اثرات آنتی‌التهابی و تقویت کننده سیستم ایمنی‌اش استفاده می‌شود و همچنین ممکن است به سلامت قلب با کاهش سطوح کلسترول کمک کند.",
-     "benefits": [
-         "بهبود گردش خون",
-         "تقویت دیواره‌های رگ‌های خونی",
-         "کاهش علائم واریس و بواسیر",
-         "دارای خواص آنتی‌اکسیدانی",
-         "ممکن است التهاب را کاهش دهد",
-         "حمایت از سلامت قلب"
-     ],
-     "side effects": [
-         "سردرد",
-         "ناراحتی گوارشی",
-         "تهوع",
-         "اسهال",
-         "واکنش‌های آلرژیک (به ندرت)"
-     ]
- }
-}
+# Hesperidin
+
+## General Information
+
+Hesperidin is a flavonoid glycoside primarily found in citrus fruits, especially in the peels and membranes. It is a member of the flavonoid family, which is known for its antioxidant properties. Hesperidin has been studied for its potential health benefits, including anti-inflammatory, antioxidant, and vascular supportive properties. 
+
+### Sources
+- Citrus fruits (e.g., oranges, lemons, grapefruits)
+- Citrus peel extracts
+- Dietary supplements
+
+### Potential Benefits
+1. **Cardiovascular Health**: Hesperidin may help improve blood circulation and reduce blood pressure.
+2. **Anti-inflammatory Effects**: Research suggests that it may help alleviate symptoms of inflammation.
+3. **Antioxidant Properties**: Hesperidin can neutralize free radicals, which may help protect against oxidative stress.
+4. **Venous Support**: It is often used to improve vein health and symptoms of chronic venous insufficiency.
+5. **Allergy Relief**: Some studies indicate that hesperidin may help reduce symptoms of allergies.
+
+## Dosage
+
+The appropriate dosage of hesperidin can vary depending on the specific health condition being addressed. Typical dosages in supplements range from 500 mg to 1,000 mg daily. However, it's advisable to consult with a healthcare provider before starting any new supplement regimen.
+
+## Side Effects
+
+While hesperidin is generally considered safe for most people when taken in appropriate amounts, some potential side effects may include:
+
+- **Gastrointestinal Distress**: Nausea, diarrhea, or abdominal discomfort.
+- **Allergic Reactions**: Although rare, some individuals may experience allergic reactions, including rash, itching, or swelling.
+- **Interactions with Medications**: Hesperidin may interact with certain medications, particularly those that affect blood pressure and blood thinning medications.
+
+## Precautions
+
+- Pregnant or nursing women should consult a healthcare professional before using hesperidin.
+- People with known allergies to citrus fruits should avoid hesperidin supplements.
+- It is essential to consult a healthcare provider if you are on medication or have a pre-existing health condition.
+
+## Conclusion
+
+Hesperidin is a flavonoid with promising health benefits, particularly in relation to cardiovascular health and inflammation. Though generally safe, it is crucial to be aware of potential side effects and interactions with medications. As always, consulting a healthcare provider before starting any new supplement is recommended.
+
+---
+
+**Disclaimer**: This information is for educational purposes only and is not intended as a substitute for professional medical advice. Always consult a qualified healthcare professional for guidance related to health conditions or before starting any new supplements.

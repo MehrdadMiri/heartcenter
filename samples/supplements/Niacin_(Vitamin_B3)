@@ -1,34 +1,51 @@
-{
-  "en": {
-    "description": "Niacin, also known as Vitamin B3, is an essential water-soluble vitamin that plays a crucial role in converting food into energy, supporting metabolism, and maintaining healthy skin, nerves, and digestive system. It is involved in the synthesis of important biomolecules, including NAD (nicotinamide adenine dinucleotide) and NADP (nicotinamide adenine dinucleotide phosphate), which are vital for cellular functions. Niacin can be obtained from various dietary sources such as meat, fish, eggs, green leafy vegetables, and grains.",
-    "benefits": "Niacin is known for its cholesterol-lowering effects, as it can help increase HDL (good) cholesterol while decreasing LDL (bad) cholesterol and triglycerides. It may also improve circulation, reduce inflammation, and support brain health by aiding in the production of neurotransmitters. Furthermore, niacin is often used to manage conditions like pellagra (niacin deficiency), and to alleviate symptoms of certain skin disorders.",
-    "side effects": [
-      "Flushing of the skin",
-      "Itching or rash",
-      "Nausea",
-      "Vomiting",
-      "Diarrhea",
-      "Abdominal pain",
-      "Headache",
-      "Dizziness",
-      "Increased blood sugar levels",
-      "Liver toxicity (with high doses)"
-    ]
-  },
-  "fa": {
-    "description": "نیاسین، که به عنوان ویتامین B3 نیز شناخته می‌شود، ویتامینی ضروری و محلول در آب است که نقش حیاتی در تبدیل غذا به انرژی، حمایت از متابولیسم، و حفظ سلامت پوست، اعصاب و سیستم گوارشی دارد. این ویتامین در سنتز بیومولکول‌های مهمی چون NAD و NADP که برای عملکرد سلولی حیاتی هستند، دخالت دارد. نیاسین از منابع غذایی مختلفی مانند گوشت، ماهی، تخم‌مرغ، سبزیجات ورقه‌دار سبز و غلات به دست می‌آید.",
-    "benefits": "نیاسین به خاطر تأثیرات کاهش کلسترول خود معروف است زیرا می‌تواند به افزایش کلسترول HDL (خوب) و کاهش کلسترول LDL (بد) و تری‌گلیسریدها کمک کند. همچنین ممکن است گردش خون را بهبود بخشد، التهاب را کاهش دهد و از سلامت مغز با کمک به تولید انتقال‌دهنده‌های عصبی حمایت کند. علاوه بر این، نیاسین معمولاً برای مدیریت شرایطی مانند پلاگر (کمبود نیاسین) و کاهش علائم برخی اختلالات پوستی استفاده می‌شود.",
-    "side effects": [
-      "برافروختگی پوست",
-      "خارش یا بثورات",
-      "تهوع",
-      "استفراغ",
-      "اسهال",
-      "درد شکمی",
-      "سردرد",
-      "سرگیجه",
-      "افزایش سطح قند خون",
-      "سمی بودن کبد (با دوزهای بالا)"
-    ]
-  }
-}
+# Niacin (Vitamin B3)
+
+## General Information
+Niacin, also known as Vitamin B3, is a water-soluble vitamin that is part of the B-vitamin family. It plays a crucial role in energy metabolism and the functioning of the body’s cells. Niacin is found in various food sources including meat, fish, poultry, fortified cereals, legumes, nuts, and seeds. 
+
+Niacin exists in three forms:
+1. **Nicotinic Acid** - the most widely studied, often used to manage cholesterol levels.
+2. **Nicotinamide (Niacinamide)** - does not affect cholesterol levels and is commonly used in skin care products.
+3. **Inositol Hexanicotinate** - an ester that is sometimes marketed as a "flush-free" niacin.
+
+### Functions
+- Supports the metabolism of carbohydrates, fats, and proteins.
+- Plays a critical role in the production of energy through the conversion of nutrients into usable energy.
+- Important for the functioning of the nervous system.
+- Aids in the synthesis of DNA and the production of steroid hormones in the adrenal gland.
+
+### Recommended Dietary Allowances (RDA)
+The RDA for Niacin varies by age, sex, and life stage. Here are the general guidelines for adults:
+- **Men (19 years and older)**: 16 mg/day
+- **Women (19 years and older)**: 14 mg/day
+- **Pregnant Women**: 18 mg/day
+- **Breastfeeding Women**: 17 mg/day
+
+## Health Benefits
+- **Cholesterol Management**: Niacin has been shown to help increase high-density lipoprotein (HDL) cholesterol and lower triglyceride levels.
+- **Cardiovascular Health**: It may help reduce the risk of heart disease when used appropriately, often in conjunction with other therapies.
+- **Skin Health**: Nicotinamide is used topically to improve skin hydration and can reduce the appearance of fine lines and wrinkles.
+- **Cognitive Function**: There is some evidence to suggest that niacin may support cognitive function and may play a role in the prevention of Alzheimer’s disease.
+
+## Side Effects
+While niacin is generally considered safe when taken in appropriate doses, it can cause side effects, especially in high doses:
+
+### Common Side Effects
+- **Flushing**: A warm, tingling sensation accompanied by redness of the skin, particularly in the face and neck.
+- **Itching or Rash**: Some individuals may experience skin reactions or itching.
+- **Gastrointestinal Issues**: Nausea, vomiting, diarrhea, or abdominal pain.
+- **Headache**: Commonly reported among those taking niacin supplements.
+
+### Serious Side Effects
+- **Liver Damage**: High doses, especially of nicotinic acid, can lead to liver toxicity.
+- **Gout**: Increased uric acid levels can trigger gout attacks.
+- **Changes in Blood Sugar Levels**: May affect glucose tolerance, which can be especially concerning for individuals with diabetes or pre-diabetes.
+- **Vision Changes**: Some cases of blurred vision or macular edema have been reported with high doses.
+
+## Contraindications and Precautions
+- Individuals with liver disease should avoid high doses of niacin.
+- Those taking medications for diabetes, cholesterol-lowering drugs (especially statins), or blood thinners should consult a healthcare provider before taking niacin supplements.
+- Pregnant or breastfeeding women should speak with a healthcare provider before adding niacin supplements to their regimen.
+
+## Conclusion
+Niacin plays an essential role in various bodily functions and can offer numerous health benefits, particularly concerning cardiovascular health and skin care. However, it is important to use niacin appropriately and be aware of potential side effects. Always consult a healthcare professional before beginning any new supplement regimen.

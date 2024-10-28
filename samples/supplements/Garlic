@@ -1,40 +1,61 @@
-{
-  "en": {
-    "description": "Garlic (Allium sativum) is a bulbous plant belonging to the onion family, often used both as a culinary ingredient and for its potential health benefits. Rich in sulfur compounds such as allicin, garlic is believed to possess antioxidant, anti-inflammatory, and antimicrobial properties. It is commonly used to boost heart health, lower blood pressure, improve cholesterol levels, and may also enhance the immune system. Additionally, garlic has been associated with reducing the risk of certain cancers and improving overall digestive health.",
-    "benefits": [
-      "Lowers blood pressure",
-      "Improves cholesterol levels",
-      "Enhances immune function",
-      "Possesses antioxidant properties",
-      "May reduce the risk of certain cancers",
-      "Improves cardiovascular health"
-    ],
-    "side effects": [
-      "Bad breath",
-      "Body odor",
-      "Heartburn",
-      "Nausea",
-      "Diarrhea",
-      "Allergic reactions in some individuals"
-    ]
-  },
-  "fa": {
-    "description": "سیر (Allium sativum) یک گیاه پیازی از خانواده پیاز است که به طور معمول به عنوان ماده‌ای غذایی و همچنین به دلیل فواید بهداشتی آن استفاده می‌شود. سیر غنی از ترکیبات گوگردی مانند آلیسین است که به خواص آنتی‌اکسیدانی، ضدالتهابی و ضد میکروبی مشهور است. این گیاه معمولاً برای تقویت سلامت قلب، کاهش فشار خون، بهبود سطح کلسترول و همچنین افزایش عملکرد سیستم ایمنی بدن به کار می‌رود. علاوه بر این، سیر با کاهش خطر برخی از انواع سرطان و بهبود سلامت کلی سیستم گوارش نیز مرتبط است.",
-    "benefits": [
-      "کاهش فشار خون",
-      "بهبود سطح کلسترول",
-      "تقویت عملکرد سیستم ایمنی",
-      "دارای خواص آنتی‌اکسیدانی",
-      "کاهش خطر برخی سرطان‌ها",
-      "بهبود سلامت قلب و عروق"
-    ],
-    "side effects": [
-      "بوی بد دهان",
-      "بوی بد بدن",
-      "سوزش معده",
-      "تهوع",
-      "اسهال",
-      "واکنش‌های آلرژیک در برخی افراد"
-    ]
-  }
-}
+# Garlic (Allium sativum)
+
+## General Information
+Garlic, scientifically known as Allium sativum, is a bulbous plant widely known for its culinary and medicinal properties. It has been used for centuries, both as a food flavoring and as a traditional remedy for various health conditions. Garlic is rich in sulfur compounds, particularly allicin, which is produced when garlic is crushed or chopped. It is believed that these compounds are primarily responsible for garlic's health benefits.
+
+### Nutritional Profile
+Garlic is low in calories but contains several essential nutrients, including:
+- Manganese
+- Vitamin B6
+- Vitamin C
+- Selenium
+- Fiber
+
+### Health Benefits
+Garlic has been studied extensively for its potential health benefits, which include:
+
+1. **Cardiovascular Health**: 
+   - Garlic may help lower blood pressure and reduce cholesterol levels, which can contribute to better heart health.
+
+2. **Anti-inflammatory Properties**:
+   - It contains antioxidants that can help combat oxidative stress and inflammation in the body.
+
+3. **Immune System Support**:
+   - Garlic may enhance the immune system’s function, potentially helping to fend off colds and infections.
+
+4. **Antimicrobial Effects**:
+   - Has been shown to have antibacterial, antiviral, and antifungal properties.
+
+5. **Cancer Prevention**:
+   - Some studies suggest that garlic consumption may be associated with a reduced risk of certain types of cancer, particularly stomach and colorectal cancers.
+
+6. **Blood Sugar Control**:
+   - Garlic may help regulate blood sugar levels, which can be especially beneficial for individuals with diabetes.
+
+## Side Effects
+While garlic is generally safe for most individuals when consumed in food amounts, it can cause side effects, especially in supplement form. Possible side effects include:
+
+- **Gastrointestinal Issues**: 
+  - Nausea, upset stomach, diarrhea, and heartburn are common complaints, particularly when consumed in large amounts.
+
+- **Garlic Breath and Body Odor**: 
+  - The sulfur compounds can linger, causing a strong odor.
+
+- **Allergic Reactions**: 
+  - Some people may experience allergic reactions, leading to symptoms like skin rash, headaches, or respiratory distress.
+
+- **Increased Bleeding Risk**:
+  - Garlic can act as a blood thinner, so it may increase bleeding risk, particularly in those taking anticoagulant medications.
+
+- **Interaction with Medications**:
+  - Garlic supplements may interact with certain medications, including blood thinners, HIV/AIDS medications, and some types of chemotherapy drugs.
+
+## Dosage
+The appropriate dosage of garlic can vary based on the form (fresh, powdered, oil, etc.) and intended use. General recommendations include:
+- **Fresh Garlic**: 1-2 cloves per day.
+- **Garlic Supplements**: Typically, doses range from 600 to 1200 mg of garlic extract per day, divided into multiple doses.
+
+It is always advisable to consult with a healthcare provider before starting any new supplement, especially for individuals with existing health conditions or those taking medications.
+
+## Conclusion
+Garlic is a versatile supplement known for its numerous health benefits, especially for cardiovascular health, immune function, and as a potential cancer-fighting agent. While it is generally safe, it is important to be aware of possible side effects and interactions with medications. As with any supplement, it's best to discuss its use with a healthcare professional to ensure it fits into your health regimen safely.

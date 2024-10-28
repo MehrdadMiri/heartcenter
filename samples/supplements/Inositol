@@ -1,26 +1,42 @@
-{
-  "en": {
-    "description": "Inositol is a carbohydrate that is often classified as a vitamin-like substance, found naturally in various food sources such as fruits, beans, grains, and nuts. It plays a vital role in cellular signaling and has gained attention for its potential benefits in mental health, particularly in managing conditions like anxiety and depression, as well as its use in treating polycystic ovary syndrome (PCOS). Inositol is believed to help regulate insulin levels and may improve ovarian function, promoting overall reproductive health.",
-    "benefits": "Inositol may help reduce symptoms of anxiety and depression, improve insulin sensitivity, support ovarian function in women with PCOS, and aid in weight management. It may also contribute to better mood regulation and overall mental health.",
-    "side effects": [
-      "Nausea",
-      "Diarrhea",
-      "Stomach upset",
-      "Headache",
-      "Dizziness",
-      "Fatigue"
-    ]
-  },
-  "fa": {
-    "description": "ایندوسیتول یک کربوهیدرات است که غالباً به عنوان یک ماده شبیه ویتامین طبقه‌بندی می‌شود و به طور طبیعی در منابع غذایی مختلفی مانند میوه‌ها، حبوبات، غلات و مغزها یافت می‌شود. این ماده نقش مهمی در سیگنال‌دهی سلولی ایفا کرده و توجه زیادی را به خود جلب کرده است به ویژه برای مزایای بالقوه‌اش در سلامت روان، به ویژه در مدیریت شرایطی مانند اضطراب و افسردگی، و همچنین استفاده از آن در درمان سندرم تخمدان پلی‌کیستیک (PCOS). اندوسیتول به تنظیم سطح انسولین کمک می‌کند و ممکن است عملکرد تخمدان را بهبود بخشد و به سلامت باروری کلی کمک کند.",
-    "benefits": "ایندوسیتول ممکن است به کاهش علائم اضطراب و افسردگی کمک کند، حساسیت به انسولین را بهبود بخشد، عملکرد تخمدان‌ها را در زنان مبتلا به PCOS حمایت کند و به مدیریت وزن کمک کند. همچنین ممکن است به تنظیم بهتری خلق و خو و سلامت عمومی روانی کمک کند.",
-    "side effects": [
-      "تهوع",
-      "اسهال",
-      "ناراحتی معده",
-      "سرache",
-      "سرگیجه",
-      "خستگی"
-    ]
-  }
-}
+# Inositol
+
+## General Information
+Inositol is a type of sugar that influences the insulin response and several hormones associated with mood, cognition, and behavior. It is a type of polyol (sugar alcohol) and has various forms, with myo-inositol and D-chiro-inositol being the most commonly researched and utilized. Inositol is classified as a member of the vitamin B complex, although it is not officially recognized as a vitamin because the human body can synthesize it from glucose.
+
+### Sources of Inositol
+Inositol can be found in various foods, including:
+- Fruits (e.g., cantaloupe, oranges, and bananas)
+- Beans and legumes
+- Grains (especially whole grains)
+- Nuts and seeds
+- Certain vegetables (like Brussels sprouts and cabbage)
+
+### Uses of Inositol
+Inositol is commonly used for various health conditions, such as:
+- **Mental Health:** Studies indicate that inositol may help with anxiety disorders, depression, and conditions like obsessive-compulsive disorder (OCD).
+- **Polycystic Ovary Syndrome (PCOS):** It is often used to improve insulin sensitivity and hormonal balance in women with PCOS.
+- **Metabolic Disorders:** Inositol shows potential in managing insulin resistance and metabolic conditions.
+- **Fertility:** Some research suggests that it may help improve oocyte quality in women undergoing fertility treatments.
+
+## Mechanism of Action
+Inositol is believed to work by acting as a secondary messenger in cellular signaling, particularly in pathways related to insulin and neurotransmitters. This action supports better glucose metabolism and may help enhance mood and behavioral health.
+
+## Dosage
+Typical doses of inositol range from 500 mg to 4,000 mg per day, often divided into two or three doses. However, it is essential to consult a healthcare provider for personalized dosing plans.
+
+## Side Effects
+Inositol is generally considered safe for most people when taken in appropriate doses. However, some individuals may experience side effects, which can include:
+
+- **Gastrointestinal Distress:** Nausea, upset stomach, diarrhea, or flatulence.
+- **Dizziness:** Some users report feeling lightheaded.
+- **Sleep Disturbances:** Rarely, people may experience insomnia or alterations in sleep patterns.
+- **Headaches:** Some individuals may encounter headaches.
+  
+Most side effects are mild and may subside as the body adjusts to the supplement. Severe side effects are rare, but if any unusual or extreme reactions occur, it is crucial to seek medical advice promptly.
+
+## Contraindications
+- **Pregnancy and Breastfeeding:** There is limited research on the effects of inositol during pregnancy and lactation; therefore, it is advisable to consult a healthcare professional beforehand.
+- **Hypoglycemia:** Individuals with low blood sugar should use inositol cautiously due to its effects on insulin sensitivity.
+
+## Conclusion
+Inositol is a promising supplement with various potential benefits, particularly for mental health, metabolic health, and reproductive health. While it is generally safe for use, it is crucial for individuals considering inositol supplementation to talk with a healthcare provider to determine the right dosage and assess any potential interactions with existing medications or health conditions.

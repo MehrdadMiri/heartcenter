@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Policosanol is a natural fatty alcohol extract obtained from sugar cane, and is often used as a dietary supplement to help manage cholesterol levels. It works by inhibiting the synthesis of cholesterol in the liver, thereby reducing low-density lipoprotein (LDL) cholesterol and triglycerides while potentially increasing high-density lipoprotein (HDL) cholesterol. This makes it a popular choice for individuals looking to support cardiovascular health and maintain healthy lipid profiles.",
+    "benefits": "Policosanol is known to help lower LDL cholesterol and triglycerides, support cardiovascular health, improve overall lipid profiles, and may have additional antioxidant properties. It is often favored for its natural composition compared to pharmaceutical cholesterol management options.",
+    "side effects": [
+        "Mild gastrointestinal symptoms (nausea, diarrhea)",
+        "Headache",
+        "Insomnia",
+        "Rash",
+        "Dizziness"
+    ]
+ },
+ "fa": {
+    "description": "پولیکوزانول یک عصاره الکل چرب طبیعی است که از نیشکر استخراج می‌شود و معمولاً به عنوان یک مکمل غذایی برای کمک به مدیریت سطوح کلسترول استفاده می‌شود. این ماده با مهار سنتز کلسترول در کبد عمل کرده و به کاهش کلسترول کم چگالی (LDL) و تری گلیسیرید کمک می‌کند، در حالی که ممکن است به افزایش کلسترول خوب (HDL) نیز کمک کند. این مکمل به طور کلی برای افرادی که به دنبال حمایت از سلامت قلب و عروق و حفظ پروفایل‌های چربی سالم هستند، مورد توجه است.",
+    "benefits": "پولیکوزانول به کاهش کلسترول LDL و تری گلیسیرید کمک می‌کند، از سلامت قلب و عروق حمایت می‌کند، پروفایل‌های چربی کلی را بهبود می‌بخشد و ممکن است خواص آنتی‌اکسیدانی اضافی داشته باشد. این مکمل به دلیل ترکیب طبیعی آن نسبت به گزینه‌های دارویی مدیریت کلسترول ترجیح داده می‌شود.",
+    "side effects": [
+        "علائم گوارشی خفیف (تهوع، اسهال)",
+        "سردرد",
+        "بی‌خوابی",
+        "راش",
+        "سرگیجه"
+    ]
+ }
+}

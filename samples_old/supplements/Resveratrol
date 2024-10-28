@@ -1,0 +1,36 @@
+{
+  "en": {
+    "description": "Resveratrol is a natural polyphenolic compound found in various plants, red wine, grapes, and berries. It is renowned for its antioxidant properties and is studied for its potential to promote heart health, reduce inflammation, and offer protection against certain diseases, including cancer and neurodegenerative disorders. Resveratrol works by activating specific genes that mimic the effects of caloric restriction, thereby potentially increasing lifespan and improving metabolic health.",
+    "benefits": [
+      "Antioxidant properties that help combat oxidative stress.",
+      "Potential cardiovascular benefits, including improved heart health and circulation.",
+      "May reduce inflammation and support immune function.",
+      "Possible neuroprotective effects benefiting brain health and cognitive function.",
+      "Can potentially enhance metabolic health and aid in weight management."
+    ],
+    "side effects": [
+      "Digestive issues such as diarrhea or upset stomach.",
+      "Allergic reactions in some individuals, including rashes or itching.",
+      "Possible interaction with blood thinners, increasing bleeding risk.",
+      "Hormonal effects which may affect estrogen levels in women.",
+      "Potential for liver toxicity at very high doses."
+    ]
+  },
+  "fa": {
+    "description": "رسوراترول یک ترکیب طبیعی پلی‌فنولیک است که در گیاهان مختلف، شراب قرمز، انگور و توت‌ها یافت می‌شود. این ترکیب به خاطر خواص آنتی‌اکسیدانی‌اش شناخته شده و به طور گسترده‌ای برای پتانسیل آن در بهبود سلامت قلب، کاهش التهاب و ارائه محافظت در برابر برخی بیماری‌ها از جمله سرطان و اختلالات نورودژنتیک مورد مطالعه قرار می‌گیرد. رسوراترول با فعال کردن ژن‌های خاصی که اثرات محدودیت کالری را تقلید می‌کنند، می‌تواند به افزایش طول عمر و بهبود سلامت متابولیک کمک کند.",
+    "benefits": [
+      "خواص آنتی‌اکسیدانی که به مبارزه با استرس اکسیداتیو کمک می‌کند.",
+      "مزایای بالقوه قلبی‌عروقی، شامل بهبود سلامت قلب و گردش خون.",
+      "ممکن است التهاب را کاهش داده و از عملکرد ایمنی حمایت کند.",
+      "اثرات محافظتی احتمالی بر مغز که به سلامت مغز و عملکرد شناختی کمک می‌کند.",
+      "می‌تواند به بهبود سلامت متابولیک و کمک به مدیریت وزن کمک کند."
+    ],
+    "side effects": [
+      "مشکلات گوارشی مانند اسهال یا ناراحتی معده.",
+      "واکنش‌های آلرژیک در برخی افراد، از جمله خارش یا راش.",
+      "احتمال تداخل با رقیق‌کننده‌های خون که ممکن است ریسک خونریزی را افزایش دهد.",
+      "اثرات هورمونی که ممکن است بر سطح استروژن در زنان تأثیر بگذارد.",
+      "احتمال سمیت کبدی در دوزهای بسیار بالا."
+    ]
+  }
+}

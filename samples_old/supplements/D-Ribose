@@ -1,0 +1,26 @@
+```json
+{
+  "en": {
+    "description": "D-Ribose is a naturally occurring sugar that is crucial for the production of ATP (adenosine triphosphate), the primary energy carrier in cells. Supplementing with D-Ribose is commonly utilized by those with chronic fatigue syndrome, fibromyalgia, and heart disease, as it aids in the replenishment of ATP levels and can enhance energy production in the body, particularly during high-stress periods or after strenuous exercise.",
+    "benefits": "D-Ribose can enhance energy levels, improve recovery after exercise, support heart function, reduce symptoms of chronic fatigue syndrome, and alleviate muscle pain associated with fibromyalgia.",
+    "side effects": [
+      "Gastrointestinal upset",
+      "Diarrhea",
+      "Nausea",
+      "Stomach discomfort",
+      "Low blood sugar (hypoglycemia)"
+    ]
+  },
+  "fa": {
+    "description": "دی-ریبوز یک قند طبیعی است که برای تولید ATP (آدنوزین تری‌فسفات)، حامل اصلی انرژی در سلول‌ها، ضروری است. مکمل‌سازی با دی-ریبوز به طور معمول توسط افرادی که از خستگی مفرط مزمن، فیبرومیالژیا و بیماری‌های قلبی رنج می‌برند، استفاده می‌شود، زیرا به بازنگه‌داری سطوح ATP کمک کرده و می‌تواند تولید انرژی در بدن را به ویژه در دوره‌های استرس‌زا یا پس از ورزش شدید افزایش دهد.",
+    "benefits": "دی-ریبوز می‌تواند سطح انرژی را افزایش دهد، بهبود بازیابی پس از ورزش، حمایت از عملکرد قلب، کاهش علائم خستگی مزمن و تسکین درد عضلانی مرتبط با فیبرومیالژیا را فراهم کند.",
+    "side effects": [
+      "آسیب‌های گوارشی",
+      "اسهال",
+      "تهوع",
+      "ناراحتی معده",
+      "کاهش قند خون (هیپوگلیسمی)"
+    ]
+  }
+}
+```

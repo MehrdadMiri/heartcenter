@@ -1,40 +1,41 @@
-{
-  "en": {
-    "description": "Milk thistle is a flowering herb that has been used for centuries to support liver health and overall wellness. The active ingredient in milk thistle, silymarin, is a powerful antioxidant that helps protect liver cells from damage, promotes liver regeneration, and detoxification. Traditionally, it has been used to treat liver-related conditions, including cirrhosis, jaundice, and hepatitis, while also being explored for its potential benefits in managing cholesterol levels and providing anti-inflammatory effects.",
-    "benefits": [
-      "Supports liver health and detoxification",
-      "Promotes liver cell regeneration",
-      "Acts as an antioxidant to reduce oxidative stress",
-      "May help manage cholesterol levels",
-      "Potential anti-inflammatory properties",
-      "Can alleviate symptoms of liver diseases"
-    ],
-    "side effects": [
-      "Gastrointestinal upset",
-      "Allergic reactions (such as rash or itching)",
-      "Headache",
-      "Nausea",
-      "Diarrhea",
-      "Fatigue"
-    ]
-  },
-  "fa": {
-    "description": "خار مریم یک گیاه گلدار است که قرن‌ها برای حمایت از سلامت کبد و رفاه عمومی استفاده می‌شود. ماده فعال در خار مریم، سیلیمارین، یک آنتی‌اکسیدان قوی است که به حفاظت از سلول‌های کبدی در برابر آسیب، ترویج تجدید سلول‌های کبدی و سم‌زدایی کمک می‌کند. به طور سنتی، از آن برای درمان بیماری‌های مرتبط با کبد، از جمله سیروز، زردی و هپاتیت استفاده شده است و همچنین برای پتانسیل‌های آن در مدیریت سطح کلسترول و ارائه اثرات ضد التهابی بررسی شده است.",
-    "benefits": [
-      "حمایت از سلامت کبد و سم‌زدایی",
-      "ترویج تجدید سلول‌های کبدی",
-      "عمل به عنوان یک آنتی‌اکسیدان برای کاهش استرس اکسیداتیو",
-      "ممکن است به مدیریت سطح کلسترول کمک کند",
-      "پتانسیل خواص ضد التهابی",
-      "می‌تواند علائم بیماری‌های کبدی را کاهش دهد"
-    ],
-    "side effects": [
-      "ناراحتی گوارشی",
-      "واکنش‌های آلرژیک (مانند کهیر یا خارش)",
-      "سردرد",
-      "تهوع",
-      "اسهال",
-      "خستگی"
-    ]
-  }
-}
+# Milk Thistle
+
+## General Information
+
+**Scientific Name:** Silybum marianum
+
+**Common Names:** Milk thistle, Mary thistle, Mediterranean thistle
+
+**Description:**  
+Milk thistle is a flowering herb that belongs to the Asteraceae family. It is native to Europe and the Mediterranean region but can now be found worldwide. The plant has distinctive purple flowers and white veins on its leaves. The active ingredient in milk thistle is silymarin, which is derived from the seeds of the plant. Silymarin is renowned for its antioxidant and anti-inflammatory properties and is often used to support liver health.
+
+**Uses:**  
+Milk thistle is primarily used as a dietary supplement for various health benefits, including:
+- **Liver Health:** Silymarin is believed to protect the liver from toxins, support liver regeneration, and improve liver function.
+- **Antioxidant Properties:** It offers protection against oxidative stress, which can damage cells and lead to chronic diseases.
+- **Support for Certain Liver Diseases:** It is frequently used to assist in the management of conditions such as hepatitis and cirrhosis.
+- **Cholesterol Management:** Some studies suggest that milk thistle may help lower cholesterol and improve lipid profiles.
+
+## Dosage
+
+The typical dosage of milk thistle extract varies, but standard doses range from **150 mg to 600 mg per day**, taken in divided doses. It is important to consult a healthcare professional before starting any new supplement to determine the appropriate dosage based on individual health needs and existing conditions.
+
+## Side Effects
+
+While milk thistle is generally considered safe for most people, some may experience side effects. Common side effects include:
+
+- **Gastrointestinal issues:** Nausea, diarrhea, and stomach upset.
+- **Allergic Reactions:** Allergic reactions can occur, especially in individuals allergic to plants in the Asteraceae family (e.g., ragweed).
+- **Headaches:** Some users may experience headaches as a side effect.
+- **Hormonal Effects:** There is some evidence suggesting it may have estrogenic effects, which could be a concern for individuals with hormone-sensitive conditions.
+- **Potential Drug Interactions:** Milk thistle may interact with certain medications, affecting the metabolism of drugs processed by the liver.
+
+## Precautions
+
+- **Pregnancy and Breastfeeding:** The safety of milk thistle during pregnancy and breastfeeding is not established. Use only under the guidance of a healthcare professional.
+- **Surgery:** Stop using milk thistle at least two weeks before a scheduled surgery, as it may affect blood sugar and liver function.
+- **Existing Health Conditions:** Individuals with hormone-sensitive cancers, diabetes, or liver disease should consult a healthcare provider before taking milk thistle.
+
+## Conclusion
+
+Milk thistle is a popular herbal supplement with potential benefits for liver health and antioxidant support. While many people use it safely for health purposes, it's advisable to consult with a healthcare provider, especially if you have pre-existing health conditions or are taking other medications. Always consider potential side effects and the importance of proper dosing.

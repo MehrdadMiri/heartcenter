@@ -1,0 +1,38 @@
+{
+ "en": {
+    "description": "Ginkgo Biloba is a herbal supplement derived from the leaves of the Ginkgo tree, one of the oldest living tree species. Traditionally used in herbal medicine, it is believed to enhance cognitive function, improve memory, and boost overall brain health by increasing blood flow to the brain and acting as an antioxidant. Ginkgo Biloba is often used by individuals looking to support mental clarity and reduce symptoms associated with conditions such as dementia and anxiety.",
+    "benefits": [
+        "Enhances cognitive function and memory.",
+        "Improves blood circulation.",
+        "Acts as an antioxidant, reducing oxidative stress.",
+        "May alleviate symptoms of anxiety and depression.",
+        "Supports eye health and may help with vision-related issues."
+    ],
+    "side effects": [
+        "Headaches",
+        "Dizziness",
+        "Nausea",
+        "Stomach upset",
+        "Allergic skin reactions",
+        "Increased risk of bleeding or bruising"
+    ]
+ },
+ "fa": {
+     "description": "جینکو بیلوبا یک مکمل گیاهی است که از برگ‌های درخت جینکو، یکی از قدیمی‌ترین گونه‌های درختی، استخراج می‌شود. این گیاه به طور سنتی در طب گیاهی استفاده می‌شود و اعتقاد بر این است که عملکرد شناختی را بهبود می‌بخشد، حافظه را افزایش می‌دهد و سلامت کلی مغز را با افزایش جریان خون به مغز و عمل به عنوان یک آنتی‌اکسیدان تقویت می‌کند. جینکو بیلوبا معمولاً توسط افرادی که به دنبال حمایت از وضوح ذهنی و کاهش علائم مرتبط با شرایطی مانند زوال عقل و اضطراب هستند، استفاده می‌شود.",
+     "benefits": [
+         "بهبود عملکرد شناختی و حافظه.",
+         "بهبود گردش خون.",
+         "عملکرد به عنوان یک آنتی‌اکسیدان و کاهش استرس اکسیداتیو.",
+         "ممکن است علائم اضطراب و افسردگی را تسکین دهد.",
+         "حمایت از سلامت چشم و ممکن است به مشکلات بینایی کمک کند."
+     ],
+     "side effects": [
+         "سردرد",
+         "سرگیجه",
+         "تهوع",
+         "ناراحتی معده",
+         "واکنش‌های آلرژیک پوستی",
+         "افزایش خطر خونریزی یا کبودی"
+     ]
+ }
+}

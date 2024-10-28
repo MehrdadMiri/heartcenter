@@ -1,22 +1,57 @@
-{
- "en": {
-    "description": "Almonds are nutrient-rich seeds that are commonly consumed as a snack or used in various recipes. They are loaded with healthy fats, proteins, vitamins, and minerals, particularly vitamin E, magnesium, and fiber. Almonds can be eaten raw, roasted, or as almond butter, and they serve as a versatile ingredient in both sweet and savory dishes, promoting overall health and wellness.",
-    "benefits": "Almonds are known to improve heart health, lower cholesterol levels, support weight management, and enhance brain function. They also provide antioxidants, help regulate blood sugar levels, and may reduce inflammation in the body.",
-    "side effects": [
-      "Allergic reactions (e.g., hives, swelling, difficulty breathing)",
-      "Digestive issues (e.g., bloating, gas, diarrhea if consumed excessively)",
-      "Weight gain (if consumed in large quantities due to high-caloric content)",
-      "Nutrient absorption interference (due to high oxalate levels in some individuals)"
-    ]
- },
- "fa": {
-     "description": "بادام‌ها دانه‌های مغذی هستند که معمولاً به‌عنوان تنقلات یا در دستورهای مختلف مورد استفاده قرار می‌گیرند. آن‌ها سرشار از چربی‌های سالم، پروتئین‌ها، ویتامین‌ها و مواد معدنی، به ویژه ویتامین E، منیزیم و فیبر هستند. بادام‌ها می‌توانند به‌صورت خام، بو داده، یا به‌عنوان کره بادام مصرف شوند و به‌عنوان ماده‌ای چندمنظوره در غذاهای شیرین و شور عمل کنند و سلامت کلی را ترویج دهند.",
-     "benefits": "بادام‌ها به بهبود سلامت قلب، کاهش سطح کلسترول، حمایت از مدیریت وزن و افزایش عملکرد مغز معروف هستند. آن‌ها همچنین حاوی آنتی‌اکسیدان‌ها هستند، به تنظیم سطح قند خون کمک می‌کنند و ممکن است التهاب در بدن را کاهش دهند.",
-     "side effects": [
-       "واکنش‌های آلرژیک (مانند کهیر، ورم، مشکل در تنفس)",
-       "مشکلات گوارشی (مانند نفخ، گاز، اسهال در صورت مصرف بیش از حد)",
-       "افزایش وزن (اگر در مقادیر زیاد به دلیل محتوای بالای کالری مصرف شوند)",
-       "مداخله در جذب مواد مغذی (به دلیل سطح بالای اگزالات در بعضی افراد)"
-     ]
- }
-}
+# Almonds: A Comprehensive Guide
+
+## General Information
+
+Almonds are seeds of the almond tree (Prunus dulcis) and belong to the family Rosaceae. They are widely cultivated for their edible seeds and are considered a tree nut. Almonds are consumed in various forms, including raw, roasted, and as almond butter or oil. 
+
+### Nutritional Profile
+
+Almonds are known for their rich nutrient content. Here are some key components:
+
+- **Macronutrients (per 100g)**:
+  - Calories: 579
+  - Protein: 21.15g
+  - Carbohydrates: 21.55g
+    - Dietary Fiber: 12.5g
+    - Sugars: 4.35g
+  - Fats: 49.93g
+    - Saturated Fat: 3.73g
+    - Monounsaturated Fat: 31.55g
+    - Polyunsaturated Fat: 12.33g
+
+- **Vitamins**:
+  - Vitamin E: 25.6 mg (over 100% of the daily recommended intake)
+  - B vitamins, including riboflavin and niacin
+
+- **Minerals**:
+  - Magnesium: 268 mg
+  - Calcium: 264 mg
+  - Iron: 3.71 mg
+  - Phosphorus: 481 mg
+
+### Health Benefits
+
+1. **Heart Health**: Almonds are high in monounsaturated fats, which can lower LDL cholesterol levels and reduce heart disease risk.
+2. **Weight Management**: Despite being calorie-dense, almonds are satiating, which may help with weight control.
+3. **Bone Health**: They provide calcium, magnesium, and phosphorus that contribute to bone density and strength.
+4. **Blood Sugar Control**: The high fiber and healthy fats in almonds can stabilize blood sugar and provide a low glycemic index option for snacking.
+5. **Cognitive Function**: Antioxidants and nutrients like vitamin E are believed to support cognitive health.
+
+## Side Effects
+
+While almonds are nutritious and offer numerous health benefits, they can also have side effects, particularly when consumed in excess or if an individual has a specific allergy. Some side effects include:
+
+1. **Allergic Reactions**: Some people may have tree nut allergies, which can lead to severe allergic reactions, including anaphylaxis.
+2. **Digestive Issues**: Overconsumption may lead to digestive problems such as bloating, gas, or diarrhea due to their high fiber content.
+3. **Weight Gain**: Excessive intake can contribute to weight gain due to their high-caloric density.
+4. **Oxalate Content**: Almonds contain oxalates, which can contribute to kidney stone formation in susceptible individuals.
+5. **Interference with Nutrient Absorption**: The presence of phytic acid may inhibit the absorption of certain minerals.
+
+## Consumption Recommendations
+
+- **Serving Size**: A standard serving size is about 28 grams (approximately 23 almonds) daily.
+- **Preparation**: Raw or lightly roasted almonds are preferable to heavily salted or sugar-coated varieties.
+
+## Conclusion
+
+Almonds are a nutrient-dense food offering numerous health benefits, particularly for heart health, weight management, and overall wellness. However, it is essential to consume them in moderation, keeping potential allergic reactions and side effects in mind. Always consult with a healthcare professional for personalized dietary advice.

@@ -1,26 +1,52 @@
-{
-  "en": {
-    "description": "Beta-Glucan is a polysaccharide found in the cell walls of cereals (like oats and barley), yeast, and certain mushrooms. It is known for its immune-boosting properties and is often used as a dietary supplement to enhance overall health. Beta-Glucan activates immune cells, such as macrophages and natural killer cells, leading to increased protection against infections and diseases. It may also aid in lowering cholesterol levels and improving cardiovascular health.",
-    "benefits": "Some of the primary benefits of Beta-Glucan include enhancing the immune response, lowering cholesterol levels, improving blood sugar control, and promoting gut health. It may also assist in wound healing and has antioxidant properties.",
-    "side effects": [
-      "Gastrointestinal discomfort",
-      "Bloating",
-      "Gas",
-      "Diarrhea",
-      "Nausea",
-      "Headaches"
-    ]
-  },
-  "fa": {
-    "description": "بتا-گلوکان یک پلی‌ساکارید است که در دیواره‌های سلولی غلات (مانند جو و جو دوسر)، مخمر و برخی از قارچ‌ها یافت می‌شود. این ماده به دلیل خواص تقویت‌کننده ایمنی خود شناخته شده است و اغلب به عنوان مکمل غذایی برای بهبود سلامت عمومی استفاده می‌شود. بتا-گلوکان سلول‌های ایمنی مانند ماکروفاژها و سلول‌های کشنده طبیعی را فعال می‌کند که منجر به افزایش حفاظت در برابر عفونت‌ها و بیماری‌ها می‌شود.",
-    "benefits": "برخی از مزایای اصلی بتا-گلوکان عبارتند از: تقویت پاسخ ایمنی، کاهش سطح کلسترول، بهبود کنترل قند خون و ارتقاء سلامت روده. این ترکیب همچنین ممکن است در بهبود زخم‌ها کمک کند و خواص آنتی‌اکسیدانی داشته باشد.",
-    "side effects": [
-      "ناراحتی‌های گوارشی",
-      "نفخ",
-      "گاز",
-      "اسهال",
-      "تهوع",
-      "سردرد"
-    ]
-  }
-}
+# Beta-Glucan
+
+## General Information
+
+**Beta-Glucan** is a type of soluble dietary fiber that is predominantly found in the cell walls of cereals, bacteria, and fungi. It is known for its immune-boosting properties and potential health benefits. The most common sources of beta-glucans include oats, barley, and certain mushrooms, such as shiitake and maitake.
+
+### Functions and Benefits
+1. **Immune System Support:** Beta-glucan is believed to enhance the immune response by activating macrophages and other immune cells.
+2. **Cholesterol Management:** Studies suggest that beta-glucan may help lower LDL cholesterol levels, improving cardiovascular health.
+3. **Blood Sugar Regulation:** It can help in controlling blood sugar levels by slowing down the absorption of carbohydrates.
+4. **Gut Health:** As a soluble fiber, beta-glucan aids digestion and promotes the growth of beneficial gut bacteria.
+
+### Sources of Beta-Glucan
+- Oats
+- Barley
+- Fungi (mushrooms such as shiitake and reishi)
+- Baker’s yeast
+- Seaweed
+
+## Recommended Dosage
+
+The recommended dosage of beta-glucan varies based on the specific health goals and forms of beta-glucan being used:
+- **For general immune support:** 100-500 mg per day.
+- **For cholesterol reduction:** 3 grams of beta-glucan per day (found in approximately 3 servings of oats or barley).
+
+## Side Effects
+
+Beta-glucan is generally considered safe for most people when taken in appropriate doses. However, some individuals may experience side effects, including:
+
+1. **Gastrointestinal Issues:** 
+   - Bloating
+   - Gas
+   - Diarrhea
+   - Abdominal discomfort
+
+2. **Allergic Reactions:** 
+   - Individuals with allergies to yeast or fungi might experience allergic reactions.
+
+3. **Interaction with Medications:**
+   - May interact with medications that affect the immune system (e.g., immunosuppressants) and diabetes medications (as it can lower blood sugar).
+
+4. **Overconsumption Risks:**
+   - High doses may exacerbate gastrointestinal symptoms.
+
+## Contraindications
+
+- People with allergies to yeast or specific dietary restrictions should avoid beta-glucan derived from those sources.
+- Consult a healthcare professional before starting beta-glucan, especially if you are pregnant, nursing, or have a pre-existing health condition.
+
+## Conclusion
+
+Beta-glucan is a versatile supplement known for its immune-boosting, cholesterol-lowering, and blood sugar-regulating benefits. While it is generally safe, it's essential to be aware of possible side effects and consult with a healthcare provider for personalized advice, especially if there are underlying health conditions or medication use.

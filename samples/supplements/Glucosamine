@@ -1,30 +1,34 @@
-{
-  "en": {
-    "description": "Glucosamine is a natural compound found in cartilage, which is the tough tissue that cushions joints. It is commonly used as a dietary supplement to help manage symptoms of osteoarthritis and joint pain. Glucosamine is available in various forms, including glucosamine sulfate, glucosamine hydrochloride, and N-acetyl glucosamine, and is often taken in combination with chondroitin sulfate, another joint health supplement, to enhance its effects.",
-    "benefits": "Glucosamine may help reduce joint pain and stiffness, improve joint function, and slow the deterioration of cartilage in individuals with osteoarthritis. Some studies suggest that it may contribute to better mobility and quality of life for those suffering from joint conditions.",
-    "side effects": [
-      "Nausea",
-      "Diarrhea",
-      "Constipation",
-      "Heartburn",
-      "Stomach pain",
-      "Allergic reactions (especially in individuals sensitive to shellfish)",
-      "Drowsiness",
-      "Headaches"
-    ]
-  },
-  "fa": {
-    "description": "گلوکزامین یک ترکیب طبیعی است که در غضروف وجود دارد، که بافت سختی است که مفاصل را محافظت می‌کند. این ماده به طور معمول به عنوان یک مکمل غذایی برای کمک به مدیریت علائم استئوآرتریت و درد مفاصل مورد استفاده قرار می‌گیرد. گلوکزامین به شکل‌های مختلفی از جمله گلوکزامین سولفات، گلوکزامین هیدروکلراید و N-استیل گلوکزامین در دسترس است و اغلب همراه با کندرویتین سولفات، یک مکمل سلامتی مفاصل دیگر، برای تقویت اثرات آن مصرف می‌شود.",
-    "benefits": "گلوکزامین ممکن است به کاهش درد و سفتی مفاصل، بهبود عملکرد مفاصل و کند کردن تخریب غضروف در افرادی که مبتلا به استئوآرتریت هستند، کمک کند. برخی از مطالعات نشان می‌دهد که ممکن است به بهبود تحرک و کیفیت زندگی برای افرادی که از شرایط مفصلی رنج می‌برند، کمک کند.",
-    "side effects": [
-      "تهوع",
-      "اسهال",
-      "یبوست",
-      "سوزش سر دل",
-      "درد معده",
-      "واکنش‌های آلرژیک (به‌ویژه در افرادی که به غذاهای دریایی حساس هستند)",
-      "خواب‌آلودگی",
-      "سردرد"
-    ]
-  }
-}
+# Glucosamine
+
+## General Information
+Glucosamine is a natural compound found in cartilage, which is the tissue that cushions joints. It is commonly used as a dietary supplement to help support joint health and may be beneficial for individuals suffering from osteoarthritis, a degenerative joint disease. Glucosamine supplements are usually derived from shellfish or synthesized in a laboratory. There are several forms of glucosamine available, including:
+
+- **Glucosamine sulfate**: The most common and studied formulation.
+- **Glucosamine hydrochloride**: A form that may not contain the sulfate component.
+- **N-acetyl glucosamine**: A modified form often used for different therapeutic purposes.
+
+### Uses
+- **Arthritis Relief**: Primarily used to reduce symptoms of osteoarthritis, including pain and stiffness.
+- **Joint Health**: May help in maintaining cartilage integrity and supporting overall joint function.
+- **Post-Surgery Recovery**: Sometimes used to aid recovery after joint-related surgeries.
+
+## Dosage
+Typical dosages of glucosamine can range from 1,500 to 2,000 mg per day, often divided into two or three doses. It is advisable to follow the specific dosing instructions provided on the supplement packaging or by a healthcare professional.
+
+## Side Effects
+While glucosamine is generally considered safe for most people, some may experience side effects, including:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, constipation, or heartburn.
+- **Allergic Reactions**: Especially in individuals allergic to shellfish; symptoms may include hives, itching, or swelling.
+- **Drowsiness**: Some users report feelings of fatigue or drowsiness.
+- **Headaches**: Occasional headaches have been reported.
+- **Increased Blood Sugar Levels**: It may affect insulin sensitivity; diabetic individuals should monitor blood glucose levels carefully.
+- **Potential Interaction with Blood Thinners**: Glucosamine may increase the risk of bleeding when used with anticoagulant medications.
+
+## Precautions
+- **Pregnancy and Breastfeeding**: Safety during pregnancy and breastfeeding has not been established; consult a healthcare provider before use.
+- **Shellfish Allergy**: Individuals with shellfish allergies should avoid glucosamine derived from shellfish and consider synthetic alternatives.
+- **Medical Conditions**: Those with a history of diabetes, bleeding disorders, or liver conditions should consult with a healthcare professional before starting glucosamine.
+
+## Conclusion
+Glucosamine is a popular supplement for supporting joint health, particularly in individuals suffering from osteoarthritis. While it may provide benefits, it's essential to use it under the guidance of a healthcare professional, especially in the presence of existing health conditions or when taking other medications. Always consult with a doctor for personalized advice and to discuss potential interactions and contraindications.

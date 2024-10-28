@@ -1,0 +1,34 @@
+{
+  "en": {
+    "description": "Niacin, also known as Vitamin B3, is an essential water-soluble vitamin that plays a crucial role in converting food into energy, supporting metabolism, and maintaining healthy skin, nerves, and digestive system. It is involved in the synthesis of important biomolecules, including NAD (nicotinamide adenine dinucleotide) and NADP (nicotinamide adenine dinucleotide phosphate), which are vital for cellular functions. Niacin can be obtained from various dietary sources such as meat, fish, eggs, green leafy vegetables, and grains.",
+    "benefits": "Niacin is known for its cholesterol-lowering effects, as it can help increase HDL (good) cholesterol while decreasing LDL (bad) cholesterol and triglycerides. It may also improve circulation, reduce inflammation, and support brain health by aiding in the production of neurotransmitters. Furthermore, niacin is often used to manage conditions like pellagra (niacin deficiency), and to alleviate symptoms of certain skin disorders.",
+    "side effects": [
+      "Flushing of the skin",
+      "Itching or rash",
+      "Nausea",
+      "Vomiting",
+      "Diarrhea",
+      "Abdominal pain",
+      "Headache",
+      "Dizziness",
+      "Increased blood sugar levels",
+      "Liver toxicity (with high doses)"
+    ]
+  },
+  "fa": {
+    "description": "نیاسین، که به عنوان ویتامین B3 نیز شناخته می‌شود، ویتامینی ضروری و محلول در آب است که نقش حیاتی در تبدیل غذا به انرژی، حمایت از متابولیسم، و حفظ سلامت پوست، اعصاب و سیستم گوارشی دارد. این ویتامین در سنتز بیومولکول‌های مهمی چون NAD و NADP که برای عملکرد سلولی حیاتی هستند، دخالت دارد. نیاسین از منابع غذایی مختلفی مانند گوشت، ماهی، تخم‌مرغ، سبزیجات ورقه‌دار سبز و غلات به دست می‌آید.",
+    "benefits": "نیاسین به خاطر تأثیرات کاهش کلسترول خود معروف است زیرا می‌تواند به افزایش کلسترول HDL (خوب) و کاهش کلسترول LDL (بد) و تری‌گلیسریدها کمک کند. همچنین ممکن است گردش خون را بهبود بخشد، التهاب را کاهش دهد و از سلامت مغز با کمک به تولید انتقال‌دهنده‌های عصبی حمایت کند. علاوه بر این، نیاسین معمولاً برای مدیریت شرایطی مانند پلاگر (کمبود نیاسین) و کاهش علائم برخی اختلالات پوستی استفاده می‌شود.",
+    "side effects": [
+      "برافروختگی پوست",
+      "خارش یا بثورات",
+      "تهوع",
+      "استفراغ",
+      "اسهال",
+      "درد شکمی",
+      "سردرد",
+      "سرگیجه",
+      "افزایش سطح قند خون",
+      "سمی بودن کبد (با دوزهای بالا)"
+    ]
+  }
+}

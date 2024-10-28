@@ -1,0 +1,40 @@
+{
+  "en": {
+    "description": "L-Carnitine is a naturally occurring amino acid derivative that plays a crucial role in the metabolism of fatty acids. It is vital for transporting long-chain fatty acids into the mitochondria, where they can be burned for energy, making it an important supplement for those looking to increase fat oxidation and improve athletic performance. L-Carnitine is commonly used to support weight loss, enhance exercise capacity, and promote heart health.",
+    "benefits": [
+      "Enhances fat burning and weight loss",
+      "Improves exercise performance and recovery",
+      "Supports heart health by improving energy production",
+      "May reduce muscle soreness and damage",
+      "Potentially helps to improve mental clarity and cognitive function"
+    ],
+    "side effects": [
+      "Nausea",
+      "Vomiting",
+      "Abdominal cramps",
+      "Diarrhea",
+      "Increased appetite",
+      "Fishy body odor",
+      "Restlessness"
+    ]
+  },
+  "fa": {
+    "description": "ال-کارنیتین یک مشتق طبیعی از اسیدهای آمینه است که نقش مهمی در متابولیسم اسیدهای چرب دارد. این ماده برای حمل‌ونقل اسیدهای چرب زنجیره بلند به میتوکندری‌ها ضروری است، جایی که این اسیدها می‌توانند برای تولید انرژی بسوزند، بنابراین مکملی مهم برای افرادی است که به دنبال افزایش اکسیداسیون چربی و بهبود عملکرد ورزشی هستند. ال-کارنیتین معمولاً برای حمایت از کاهش وزن، افزایش ظرفیت ورزشی و ارتقاء سلامت قلب استفاده می‌شود.",
+    "benefits": [
+      "افزایش سوزاندن چربی و کاهش وزن",
+      "بهبود عملکرد ورزشی و تسریع در بهبودی",
+      "حمایت از سلامت قلب از طریق بهبود تولید انرژی",
+      "کاهش احتمالی درد و آسیب‌های عضلانی",
+      "احتمالاً بهبود وضوح ذهنی و عملکرد شناختی"
+    ],
+    "side effects": [
+      "تهوع",
+      "استفراغ",
+      "گرفتگی‌های شکمی",
+      "اسهال",
+      "افزایش اشتها",
+      "بوی بد بدن مانند ماهی",
+      "بی‌قراری"
+    ]
+  }
+}

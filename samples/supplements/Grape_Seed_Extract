@@ -1,42 +1,38 @@
-```json
-{
-  "en": {
-    "description": "Grape Seed Extract is a concentrated substance derived from the seeds of grapes, scientifically known for its high antioxidant content, particularly proanthocyanidins. This extract is commonly used as a dietary supplement to support cardiovascular health, improve circulation, and enhance skin health by protecting against UV radiation and promoting collagen synthesis. Its antioxidant properties also help combat oxidative stress and inflammation in the body.",
-    "benefits": [
-      "Supports cardiovascular health and improves circulation.",
-      "Reduces blood pressure and cholesterol levels.",
-      "Enhances skin health by providing protection from UV damage.",
-      "Promotes collagen synthesis for improved skin elasticity.",
-      "Acts as a powerful antioxidant, helping to reduce oxidative stress.",
-      "May aid in weight management and metabolic health."
-    ],
-    "side effects": [
-      "Headache",
-      "Nausea",
-      "Dizziness",
-      "Upset stomach",
-      "Allergic reactions (in rare cases)",
-      "Potential interactions with blood-thinning medications"
-    ]
-  },
-  "fa": {
-    "description": "عصاره دانه انگور ماده‌ای غلیظ است که از دانه‌های انگور استخراج می‌شود و به دلیل محتوای بالای آنتی‌اکسیدان، به‌ویژه پروآنتوسیانیدین‌ها، شناخته شده است. این عصاره معمولاً به‌عنوان یک مکمل غذایی برای حمایت از سلامت قلب و عروق، بهبود گردش خون و افزایش سلامت پوست مورد استفاده قرار می‌گیرد زیرا از پوست در برابر اشعه ماوراء بنفش محافظت می‌کند و سنتز کلاژن را تشویق می‌نماید. خواص آنتی‌اکسیدانی آن همچنین به مقابله با استرس اکسیداتیو و التهاب در بدن کمک می‌کند.",
-    "benefits": [
-      "حمایت از سلامت قلب و عروق و بهبود گردش خون.",
-      "کاهش فشار خون و سطح کلسترول.",
-      "بهبود سلامت پوست با فراهم کردن محافظت در برابر آسیب‌های UV.",
-      "تشویق به سنتز کلاژن برای بهبود الاستیسیته پوست.",
-      "عمل به عنوان یک آنتی‌اکسیدان قوی، کمک به کاهش استرس اکسیداتیو.",
-      "ممکن است به مدیریت وزن و سلامت متابولیک کمک کند."
-    ],
-    "side effects": [
-      "سردرد",
-      "تهوع",
-      "سرگیجه",
-      "معده‌درد",
-      "واکنش‌های آلرژیک (در موارد نادر)",
-      "ممکن است با داروهای رقیق‌کننده خون تداخل داشته باشد"
-    ]
-  }
-}
-```
+# Grape Seed Extract
+
+## General Information
+
+Grape seed extract is derived from the seeds of grapes, particularly the Vitis vinifera species, which are often a byproduct of wine production. It is a rich source of antioxidants, particularly oligomeric proanthocyanidin complexes (OPCs). These compounds have been studied for their potential health benefits, which include anti-inflammatory, antioxidant, and cardiovascular-supportive properties.
+
+### Health Benefits
+
+1. **Antioxidant Properties**: Grape seed extract is known for its high antioxidant content, which helps combat oxidative stress in the body.
+2. **Cardiovascular Health**: Studies suggest that grape seed extract can support heart health by improving circulation, lowering blood pressure, and reducing cholesterol levels.
+3. **Anti-Inflammatory Effects**: The anti-inflammatory properties may aid in reducing inflammation throughout the body, benefiting conditions like arthritis.
+4. **Skin Health**: Due to its antioxidant properties, grape seed extract is sometimes used in skincare for promoting skin elasticity and reducing signs of aging.
+5. **Weight Management**: Some research indicates that it may aid in weight loss and fat reduction.
+6. **Diabetic Support**: It may help in managing blood glucose levels and improving insulin sensitivity.
+7. **Cognitive Function**: Antioxidative effects may also play a role in protecting brain health and function.
+
+## Recommended Dosage
+
+Typical dosages of grape seed extract range from **100 mg to 300 mg per day**, depending on the specific health goals and individual needs. It's essential to follow product guidelines or consult with a healthcare provider for personalized recommendations.
+
+## Side Effects
+
+Although grape seed extract is generally considered safe for most people, some potential side effects may include:
+
+- **Gastrointestinal Issues**: Upset stomach, nausea, diarrhea, or constipation.
+- **Headaches**: Some users report headaches as a side effect.
+- **Allergic Reactions**: Rare instances of allergic reactions, including rash, itching, or swelling.
+- **Blood Pressure Changes**: It may lower blood pressure, so individuals on antihypertensive medications should monitor their levels.
+- **Possible Interactions**: Grape seed extract may interact with certain medications, including blood thinners (like warfarin), anticancer drugs, and anti-inflammatory medications.
+
+## Precautions
+
+- **Pregnancy and Nursing**: There is insufficient evidence on the safety of grape seed extract during pregnancy and lactation, so it is advisable to avoid it during these times.
+- **Surgery**: It is recommended to stop using grape seed extract at least two weeks before any surgical procedure due to potential effects on blood clotting.
+
+## Conclusion
+
+Grape seed extract is a popular dietary supplement that offers a range of potential health benefits primarily due to its antioxidant properties. However, as with any supplement, it is important to consult with a healthcare provider before starting, especially if you have existing health conditions or are taking other medications.

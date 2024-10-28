@@ -1,0 +1,26 @@
+{
+ "en": {
+    "description": "Lemon Balm, scientifically known as Melissa officinalis, is a perennial herb that belongs to the mint family. It has been used for centuries in traditional medicine for its calming effects and as a remedy for various ailments, such as anxiety, insomnia, and digestive issues. The leaves of lemon balm can be brewed into teas, used in culinary dishes, or taken in supplement form. Its mild lemon scent and flavor make it a popular addition to teas and desserts, while its medicinal properties are attributed to its high levels of flavonoids and essential oils.",
+    "benefits": "Lemon Balm is known for its numerous health benefits, including reducing anxiety and stress, improving sleep quality, enhancing cognitive function, alleviating digestive disorders, and possessing antiviral properties. It may also help in relieving menstrual cramps and boosting mood.",
+    "side effects": [
+      "Drowsiness",
+      "Nausea",
+      "Vomiting",
+      "Allergic reactions",
+      "Heartburn",
+      "Stomach upset"
+    ]
+ },
+ "fa": {
+    "description": "بادرنجبویه، که به طور علمی به عنوان Melissa officinalis شناخته می‌شود، یک گیاه دائمی است که به خانواده نعناع تعلق دارد. این گیاه قرن‌هاست که در طب سنتی برای اثرات آرام‌بخش و به عنوان درمانی برای انواع بیماری‌ها مانند اضطراب، بی‌خوابی و مشکلات گوارشی مورد استفاده قرار می‌گیرد. برگ‌های بادرنجبویه را می‌توان به صورت دمنوش تهیه کرد، در غذاها استفاده کرد یا به شکل مکمل مصرف نمود. عطر و طعم ملایم لیمویی آن، آن را به یک افزودنی محبوب برای دمنوش‌ها و دسرها تبدیل کرده و خواص پزشکی آن به سطوح بالای فلاونوئیدها و روغن‌های اساسی نسبت داده می‌شود.",
+    "benefits": "بادرنجبویه به خاطر مزایای سلامتی بسیاری که دارد شناخته شده است، از جمله کاهش اضطراب و استرس، بهبود کیفیت خواب، افزایش عملکرد شناختی، تسکین اختلالات گوارشی و داشتن خواص ضد ویروسی. همچنین ممکن است در تسکین دردهای قاعدگی و بهبود خلق‌وخو کمک کند.",
+    "side effects": [
+      "خواب‌آلودگی",
+      "تهوع",
+      "استفراغ",
+      "واکنش‌های آلرژیک",
+      "سوزش معده",
+      "ناراحتی معده"
+    ]
+ }
+}

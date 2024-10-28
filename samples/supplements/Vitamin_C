@@ -1,26 +1,54 @@
-{
- "en": {
-    "description": "Vitamin C, also known as ascorbic acid, is a water-soluble vitamin that is vital for the growth, development, and repair of body tissues. It is an antioxidant that helps protect cells from damage caused by free radicals and supports the immune system in fighting infections. Additionally, Vitamin C plays a crucial role in collagen synthesis, which is essential for the health of skin, cartilage, tendons, ligaments, and blood vessels.",
-    "benefits": "Vitamin C offers numerous benefits including boosting the immune system, reducing the severity and duration of colds, supporting skin health and wound healing, enhancing iron absorption from plant-based foods, and potentially lowering the risk of chronic diseases.",
-    "side effects": [
-      "Nausea",
-      "Diarrhea",
-      "Stomach cramps",
-      "Heartburn",
-      "Bloating",
-      "Headaches"
-    ]
- },
- "fa": {
-    "description": "ویتامین C، که به عنوان اسید آسکوربیک نیز شناخته می‌شود، ویتامینی محلول در آب است که برای رشد، توسعه و تعمیر بافت‌های بدن حیاتی است. این ویتامین یک آنتی‌اکسیدان است که به محافظت از سلول‌ها در برابر آسیب‌های ناشی از رادیکال‌های آزاد کمک می‌کند و سیستم ایمنی بدن را در مقابله با عفونت‌ها حمایت می‌کند. علاوه بر این، ویتامین C نقش مهمی در سنتز کلاژن ایفا می‌کند که برای سلامت پوست، غضروف، تاندون‌ها، رباط‌ها و عروق خونی ضروری است.",
-    "benefits": "ویتامین C مزایای بسیاری دارد، از جمله تقویت سیستم ایمنی، کاهش شدت و مدت سرماخوردگی‌ها، حمایت از سلامت پوست و بهبود زخم‌ها، افزایش جذب آهن از غذاهای مبتنی بر گیاه و احتمالاً کاهش خطر بیماری‌های مزمن.",
-    "side effects": [
-      "تهوع",
-      "اسهال",
-      "دل‌درد",
-      "سوزش معده",
-      "نفخ",
-      "سردرد"
-    ]
- }
-}
+# Vitamin C
+
+## General Information
+
+### Description
+Vitamin C, also known as ascorbic acid, is a water-soluble vitamin that plays a crucial role in numerous bodily functions. It is essential for the growth and repair of tissues in the body, helping to maintain healthy skin, blood vessels, bones, and cartilage. Vitamin C is also a powerful antioxidant that helps protect cells from damage caused by free radicals.
+
+### Sources
+Vitamin C can be obtained from various dietary sources, primarily fruits and vegetables. Some of the richest sources include:
+- Oranges and orange juice
+- Kiwifruit
+- Strawberries
+- Pineapples
+- Guavas
+- Bell peppers
+- Broccoli
+- Brussels sprouts
+- Tomatoes
+- Spinach
+
+### Functions
+- **Antioxidant Activity**: It neutralizes free radicals, reducing oxidative stress and inflammation.
+- **Collagen Synthesis**: Essential for the production of collagen, a protein that helps maintain skin integrity and supports wound healing.
+- **Immune Function**: Supports the immune system by enhancing the function of immune cells.
+- **Iron Absorption**: Increases the absorption of non-heme iron from plant-based foods.
+- **Neurotransmitter Synthesis**: Aids in the production of neurotransmitters like norepinephrine, which are essential for brain function.
+
+### Recommended Dietary Allowance (RDA)
+The RDA for Vitamin C varies by age, gender, and life stage:
+- **Adult Men**: 90 mg/day
+- **Adult Women**: 75 mg/day
+- **Pregnant Women**: 85 mg/day
+- **Breastfeeding Women**: 120 mg/day
+
+## Side Effects
+
+Although Vitamin C is generally considered safe, excessive intake, primarily from supplements, may lead to side effects such as:
+
+- **Gastrointestinal Disturbances**: Includes stomach cramps, diarrhea, and nausea.
+- **Kidney Stones**: High doses of Vitamin C can increase the risk of developing oxalate stones in susceptible individuals.
+- **Skin Reactions**: In rare cases, it may cause skin rashes or itching.
+- **Headaches**: Some individuals may experience headaches as a result of high doses.
+- **Flare-up of G6PD Deficiency**: People with glucose-6-phosphate dehydrogenase deficiency may experience hemolytic anemia if they consume high doses of Vitamin C.
+
+## Interactions
+
+Vitamin C may interact with certain medications, including:
+- **Anticoagulants**: It may affect the efficacy of blood-thinning medications like warfarin.
+- **Chemotherapy Agents**: High doses during chemotherapy may reduce the effectiveness of certain anticancer drugs.
+- **Statins**: Large amounts of Vitamin C could potentially decrease the effectiveness of statin medications used for lowering cholesterol.
+
+## Conclusion
+
+Vitamin C is an essential nutrient that offers numerous health benefits, particularly related to immune health and collagen production. While it is generally safe to consume within recommended limits from both dietary sources and supplements, it is important to be aware of potential side effects and interactions with medications. Always consult a healthcare provider before starting any supplement regimen, especially if you have underlying health conditions or are taking other medications.

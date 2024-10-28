@@ -1,24 +1,43 @@
-{
- "en": {
-    "description": "L-Theanine is a naturally occurring amino acid found primarily in green tea leaves. It is known for its calming effects and is often used to promote relaxation without drowsiness. L-Theanine has the ability to enhance alpha brain wave activity, leading to improved focus, cognitive performance, and reduced mental fatigue. It is commonly consumed as a supplement to help alleviate stress and anxiety while promoting a sense of well-being.",
-    "benefits": "The benefits of L-Theanine include reducing stress and anxiety, improving focus and attention, enhancing sleep quality, supporting cognitive function, and providing a calming effect without sedation. It may also increase levels of neurotransmitters such as serotonin and dopamine, which are crucial for mood regulation.",
-    "side effects": [
-      "Headaches",
-      "Dizziness",
-      "Gastrointestinal issues",
-      "Nausea",
-      "Changes in blood pressure"
-    ]
- },
- "fa": {
-    "description": "ال-تریونین یک آمینواسید طبیعی است که عمدتاً در برگ‌های چای سبز یافت می‌شود. این ماده به خاطر تأثیرات آرام‌بخش خود شناخته شده و معمولاً برای ترویج آرامش بدون خواب‌آلودگی استفاده می‌شود. ال-تریونین توانایی افزایش فعالیت امواج آلفا در مغز را دارد که منجر به بهبود تمرکز، عملکرد شناختی و کاهش خستگی ذهنی می‌شود. معمولاً به صورت مکمل مصرف می‌شود تا به کاهش استرس و اضطراب کمک کند و حس خوبی را ایجاد کند.",
-    "benefits": "فواید ال-تریونین شامل کاهش استرس و اضطراب، بهبود تمرکز و توجه، افزایش کیفیت خواب، حمایت از عملکرد شناختی و ایجاد تأثیر آرام بخش بدون خواب‌آلودگی است. همچنین ممکن است سطح انتقال‌دهنده‌های عصبی مانند سروتونین و دوپامین را که برای تنظیم حالت روانی ضروری هستند، افزایش دهد.",
-    "side effects": [
-      "سردرد",
-      "سرگیجه",
-      "مشکلات گوارشی",
-      "تهوع",
-      "تغییرات در فشار خون"
-    ]
- }
-}
+# L-Theanine: An Overview
+
+L-Theanine is a naturally occurring amino acid primarily found in tea leaves, particularly green tea (Camellia sinensis). It is known for its relaxing and calming effects without causing sedation. This compound has gained popularity as a dietary supplement, often used to improve mental focus, promote relaxation, and support overall well-being.
+
+## Benefits of L-Theanine
+
+L-Theanine is often praised for its various health benefits, which may include:
+
+1. **Stress Reduction**: L-Theanine may help reduce stress and anxiety levels by promoting relaxation.
+2. **Enhanced Focus**: Many individuals report improved attention and focus when combining L-Theanine with caffeine.
+3. **Improved Sleep Quality**: Although it does not act as a sedative, L-Theanine may promote better sleep quality and help with insomnia.
+4. **Neuroprotection**: Some studies suggest that L-Theanine has neuroprotective properties, potentially aiding in cognitive function and memory.
+5. **Mood Enhancement**: By increasing the production of dopamine and serotonin, L-Theanine may contribute to mood improvements.
+
+## Mechanism of Action
+
+L-Theanine works by influencing several neurotransmitters in the brain, including:
+
+- **GABA (gamma-aminobutyric acid)**: Increases levels may promote relaxation and reduce anxiety.
+- **Dopamine**: Enhancing dopamine levels can improve mood and focus.
+- **Serotonin**: May play a role in regulating mood, sleep, and appetite.
+
+## Dosage
+
+The typical dosage of L-Theanine varies but commonly ranges from **100 mg to 400 mg** per day, depending on individual needs and purposes. It can be taken alone or in combination with other supplements such as caffeine.
+
+## Side Effects
+
+While L-Theanine is generally considered safe for most people, some may experience side effects, including:
+
+- **Headaches**: Some individuals report mild headaches.
+- **Nausea**: A few may experience nausea or gastrointestinal discomfort.
+- **Lethargy**: Although it promotes relaxation, it may cause drowsiness in some individuals.
+- **Interactions with Medications**: L-Theanine may interact with certain medications, particularly those affecting blood pressure and mental health. Always consult with a healthcare provider if you are taking other medications.
+
+## Precautions
+
+- **Pregnant or Nursing Women**: There is limited research on the effects of L-Theanine during pregnancy or breastfeeding.
+- **Pre-existing Conditions**: Consult your healthcare provider if you have any medical conditions, particularly those affecting mental health or blood pressure.
+
+## Conclusion
+
+L-Theanine is a useful amino acid for those looking to reduce stress, improve relaxation, and enhance cognitive focus without sedation. As with any supplement, it's essential to consult a healthcare provider before starting, especially if you have underlying health issues or are taking other medications.

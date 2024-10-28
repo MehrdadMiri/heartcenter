@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Zinc is an essential trace mineral that plays a crucial role in various biological functions in the body, including immune system support, protein synthesis, wound healing, DNA synthesis, and cell division. It can be found in a variety of foods, such as meat, shellfish, legumes, seeds, nuts, dairy, and whole grains. Supplementation may be necessary for individuals with deficiency, leading to improved overall health and well-being.",
+    "benefits": "Zinc supplementation can enhance immune function, promote healing of wounds, improve skin health, aid in the treatment of acne, support normal growth and development during pregnancy, childhood, and adolescence, and may also reduce the duration of the common cold.",
+    "side effects": [
+      "Nausea",
+      "Vomiting",
+      "Diarrhea",
+      "Headache",
+      "Metallic taste in the mouth",
+      "Loss of appetite",
+      "Abdominal cramps",
+      "Long-term use may lead to copper deficiency"
+    ]
+  },
+  "fa": {
+    "description": "زینک یک عنصر کمیاب اساسی است که نقش مهمی در عملکردهای بیولوژیکی مختلف در بدن از جمله حمایت از سیستم ایمنی، سنتز پروتئین، بهبود زخم، سنتز DNA و تقسیم سلولی ایفا می کند. این ماده در انواع غذاها مانند گوشت، صدف، حبوبات، دانه‌ها، آجیل، لبنیات و غلات کامل یافت می‌شود. ممکن است مصرف مکمل برای افرادی که دچار کمبود آن هستند، ضروری باشد که به بهبود سلامت و رفاه کلی کمک می‌کند.",
+    "benefits": "مکمل زینک می‌تواند عملکرد ایمنی بدن را تقویت کند، به بهبود زخم‌ها کمک کند، سلامت پوست را بهبود بخشد، در درمان آکنه موثر باشد، از رشد و توسعه طبیعی در دوران بارداری، کودکی و نوجوانی حمایت کند و همچنین ممکن است مدت زمان سرماخوردگی رایج را کاهش دهد.",
+    "side effects": [
+      "تهوع",
+      "استفراغ",
+      "اسهال",
+      "سردرد",
+      "طعم فلزی در دهان",
+      "کاهش اشتها",
+      "دردهای شکمی",
+      "استفاده طولانی‌مدت ممکن است به کمبود مس منجر شود"
+    ]
+  }
+}

@@ -1,38 +1,55 @@
-{
-  "en": {
-    "description": "Alpha-Lipoic Acid (ALA) is a naturally occurring antioxidant found in every cell of the body, playing a crucial role in energy metabolism and the conversion of glucose into energy. ALA is notable for its unique ability to function in both water and fat environments, making it highly versatile in combating oxidative stress and enhancing the functions of other antioxidants. It is often utilized as a dietary supplement to help prevent or manage conditions related to oxidative stress, such as diabetes, neuropathy, and brain health.",
-    "benefits": [
-      "Improves insulin sensitivity and helps control blood sugar levels.",
-      "Reduces symptoms of peripheral neuropathy and nerve pain.",
-      "Enhances antioxidant defenses by regenerating other antioxidants.",
-      "May improve skin health and reduce signs of aging.",
-      "Supports weight loss and improves metabolic symptoms."
-    ],
-    "side effects": [
-      "Nausea",
-      "Vomiting",
-      "Stomach upset",
-      "Skin rash",
-      "Headaches",
-      "Allergic reactions (rare)"
-    ]
-  },
-  "fa": {
-    "description": "اسید آلفا-لیپوئیک (ALA) یک آنتی‌اکسیدان طبیعی است که در هر سلول بدن وجود دارد و نقش مهمی در متابولیسم انرژی و تبدیل گلوکز به انرژی ایفا می‌کند. ALA به خاطر قابلیت منحصر به فردش در عمل در محیط‌های آبی و چربی شناخته شده است که این موضوع باعث می‌شود که به خوبی با استرس اکسیداتیو مبارزه کند و عملکرد دیگر آنتی‌اکسیدان‌ها را تقویت نماید. این مکمل عموماً برای پیشگیری یا مدیریت شرایط مرتبط با استرس اکسیداتیو مانند دیابت، نوروپاتی و سلامت مغز مورد استفاده قرار می‌گیرد.",
-    "benefits": [
-      "بهبود حساسیت به انسولین و کمک به کنترل سطح قند خون.",
-      "کاهش علائم نوروپاتی محیطی و درد عصبی.",
-      "تقویت دفاع‌های آنتی‌اکسیدانی با بازسازی دیگر آنتی‌اکسیدان‌ها.",
-      "ممکن است سلامت پوست را بهبود بخشد و علائم پیری را کاهش دهد.",
-      "حمایت از کاهش وزن و بهبود علائم متابولیکی."
-    ],
-    "side effects": [
-      "تهوع",
-      "استفراغ",
-      "ناراحتی معده",
-      "کهیر",
-      "سردرد",
-      "واکنش‌های آلرژیک (کمیاب)"
-    ]
-  }
-}
+# Alpha-Lipoic Acid
+
+## General Information
+
+**Alpha-Lipoic Acid (ALA)** is a powerful antioxidant that is synthesized in small amounts by the body and is also obtained from dietary sources. It plays a crucial role in energy metabolism and helps the body convert glucose into energy. Alpha-lipoic acid is unique because it is both water-soluble and fat-soluble, allowing it to function in various cellular environments and to combat oxidative stress in different parts of the body.
+
+### Sources of Alpha-Lipoic Acid
+- **Foods**: Alpha-lipoic acid is found in small amounts in various foods, particularly in:
+  - Spinach
+  - Broccoli
+  - Potatoes
+  - Liver
+  - Yeast
+- **Supplements**: ALA is also available as a dietary supplement in capsule, tablet, and powder forms.
+
+### Mechanism of Action
+Alpha-Lipoic Acid works by:
+- Acting as a cofactor for mitochondrial bioenergetic reactions.
+- Regenerating other antioxidants, such as vitamins C and E.
+- Reducing oxidative stress and inflammation in the body.
+- Enhancing insulin sensitivity, which can help in glucose metabolism.
+
+## Health Benefits
+
+Research suggests that alpha-lipoic acid may provide several health benefits, including:
+
+1. **Blood Sugar Regulation**: ALA may improve insulin sensitivity and help lower blood sugar levels in individuals with type 2 diabetes.
+2. **Antioxidant Effects**: It helps in reducing oxidative stress, which has implications for various chronic diseases.
+3. **Neuropathy Relief**: Some studies indicate it may relieve symptoms of diabetic neuropathy by improving nerve conduction and reducing pain.
+4. **Weight Loss Support**: ALA may aid in weight management by enhancing metabolic function.
+5. **Neuroprotective Benefits**: Preliminary research shows potential in protecting against neurodegenerative diseases like Alzheimer's.
+
+## Dosage Recommendations
+
+The typical dosage of alpha-lipoic acid ranges from **300 mg to 600 mg per day**, but it is important to consult a healthcare provider for personalized advice. 
+
+## Side Effects
+
+While alpha-lipoic acid is generally considered safe for most people, it can cause side effects in some cases. The common side effects include:
+
+- **Gastrointestinal Issues**: Nausea, vomiting, diarrhea, and stomach upset.
+- **Skin Reactions**: Rash or allergic reactions in sensitive individuals.
+- **Hypoglycemia**: Low blood sugar levels, especially in people with diabetes who are on medications.
+- **Headaches**: Some users report experiencing headaches.
+- **Fatigue**: Some individuals may feel unusually tired or fatigued.
+
+### Precautions
+
+1. **Diabetes**: Individuals with diabetes should monitor blood sugar levels closely while taking ALA, as it may lower those levels significantly.
+2. **Pregnancy and Breastfeeding**: Limited safety data is available; consult a healthcare provider before use.
+3. **Surgery**: Discontinue ALA supplementation at least two weeks before surgery due to potential effects on blood sugar control.
+
+## Conclusion
+
+Alpha-Lipoic Acid is a versatile antioxidant that offers various health benefits, especially concerning metabolism and oxidative stress. While it is generally safe for most individuals, potential side effects should be considered, and it is advisable to consult a healthcare professional before starting any new supplement, particularly for those with underlying health conditions or those taking medications.

@@ -1,0 +1,30 @@
+{
+  "en": {
+    "description": "Potassium is an essential mineral and electrolyte that plays a crucial role in maintaining proper cellular function, regulating blood pressure, and ensuring normal muscle and nerve function. It is vital for the synthesis of proteins, carbohydrate metabolism, and the transmission of electrical impulses in the body. Potassium is found in various foods, including bananas, oranges, potatoes, spinach, and beans, and is often recommended as a supplement for those experiencing deficiencies or specific health conditions.",
+    "benefits": "Potassium helps regulate fluid balance, supports nerve function, aids in muscle contractions, decreases the risk of hypertension, and may help prevent strokes and cardiovascular diseases by reducing blood pressure levels. Additionally, it can promote bone health and help prevent kidney stones.",
+    "side effects": [
+      "Hyperkalemia (high potassium levels)",
+      "Hypokalemia (low potassium levels)",
+      "Abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Diarrhea",
+      "Weakness or fatigue",
+      "Irregular heart rhythms"
+    ]
+  },
+  "fa": {
+    "description": "پتاسیم یک ماده معدنی و الکترولیت ضروری است که نقش حیاتی در حفظ عملکرد صحیح سلولی، تنظیم فشار خون و اطمینان از عملکرد عادی ماهیچه‌ها و اعصاب ایفا می‌کند. این ماده برای سنتز پروتئین‌ها، متابولیسم کربوهیدرات‌ها و انتقال امواج الکتریکی در بدن ضروری است. پتاسیم در غذاهای مختلفی مانند موز، پرتقال، سیب‌زمینی، اسفناج و لوبیا یافت می‌شود و معمولاً به عنوان مکمل برای کسانی که دچار کمبود یا شرایط خاص سلامتی هستند، توصیه می‌شود.",
+    "benefits": "پتاسیم به تنظیم تعادل مایعات کمک می‌کند، از عملکرد عصبی حمایت می‌نماید، به انقباضات عضلانی کمک می‌کند، خطر فشار خون بالا را کاهش می‌دهد و ممکن است به پیشگیری از سکته مغزی و بیماری‌های قلبی عروقی از طریق کاهش سطح فشار خون کمک کند. علاوه بر این، می‌تواند سلامت استخوان را تقویت کرده و خطر سنگ کلیه را کاهش دهد.",
+    "side effects": [
+      "هیپرکالمی (سطوح بالای پتاسیم)",
+      "هیپوکالمی (سطوح پایین پتاسیم)",
+      "درد شکم",
+      "تهوع",
+      "استفراغ",
+      "اسهال",
+      "ضعف یا خستگی",
+      "آریتمی قلبی"
+    ]
+  }
+}

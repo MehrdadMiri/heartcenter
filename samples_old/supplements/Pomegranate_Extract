@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Pomegranate extract is derived from the seeds and peels of the pomegranate fruit, rich in antioxidants such as punicalagins and anthocyanins. This natural extract is celebrated for its potential health benefits, including anti-inflammatory properties, cardiovascular support, and possible anticancer effects. Pomegranate extract is commonly used as a dietary supplement to promote overall health and wellness.",
+    "benefits": "Pomegranate extract offers several health benefits, including improving heart health by reducing cholesterol levels and blood pressure, supporting weight loss due to its ability to boost metabolism, enhancing memory and cognitive function, and possessing anti-viral and anti-bacterial properties that may help prevent infections.",
+    "side effects": [
+      "Stomach upset",
+      "Diarrhea",
+      "Nausea",
+      "Allergic reactions (rare)",
+      "Interactions with certain medications (e.g., blood thinners)"
+    ]
+ },
+ "fa": {
+    "description": "عصاره انار از دانه‌ها و پوست میوه انار تهیه می‌شود و غنی از آنتی‌اکسیدان‌هایی مانند پونیکالاژین‌ها و آنتوسیانین‌ها است. این عصاره طبیعی به خاطر مزایای بهداشتی بالقوه‌اش از جمله خواص ضدالتهابی، حمایت از سلامت قلب و عروق، و آثار ضدسرطانی ممکنش مشهور است. عصاره انار به‌طور معمول به‌عنوان مکمل غذایی برای ترویج سلامت کلی و رفاه استفاده می‌شود.",
+    "benefits": "عصاره انار دارای چندین مزیت بهداشتی است، از جمله بهبود سلامت قلب از طریق کاهش سطح کلسترول و فشار خون، حمایت از کاهش وزن به دلیل توانایی آن در افزایش متابولیسم، بهبود حافظه و عملکرد شناختی، و خواص ضد ویروسی و ضد باکتریایی که ممکن است به پیشگیری از عفونت‌ها کمک کند.",
+    "side effects": [
+      "ناراحتی معده",
+      "اسهال",
+      "تهوع",
+      "واکنش‌های آلرژیک (نادر)",
+      "تداخل با برخی داروها (مانند رقیق‌کننده‌های خون)"
+    ]
+ }
+}

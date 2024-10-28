@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Phytosterols are plant-derived compounds that resemble cholesterol in structure and are found in various foods such as nuts, seeds, legumes, and whole grains. They play a significant role in reducing cholesterol levels by inhibiting the absorption of dietary cholesterol in the intestines, thereby promoting heart health. Incorporation of phytosterols into a balanced diet can help lower LDL cholesterol levels and may offer additional benefits in reducing the risk of certain chronic diseases.",
+    "benefits": "The primary benefits of phytosterols include lowering LDL cholesterol levels, improving cardiovascular health, supporting immune function, and potentially lowering the risk of certain cancers. They may also contribute to better digestive health by promoting the balance of cholesterol levels in the body.",
+    "side effects": [
+      "Gas",
+      "Bloating",
+      "Diarrhea",
+      "Nausea",
+      "Stomach cramps"
+    ]
+ },
+ "fa": {
+     "description": "فیتوسترول‌ها ترکیبات گیاهی هستند که از نظر ساختار شباهت زیادی به کلسترول دارند و در انواع غذاها مانند مغزها، دانه‌ها، حبوبات و غلات کامل یافت می‌شوند. آن‌ها در کاهش سطح کلسترول با مسدود کردن جذب کلسترول غذایی در روده‌ها نقش مهمی دارند و به این ترتیب موجب ارتقای سلامت قلب می‌شوند. گنجاندن فیتوسترول‌ها در یک رژیم غذایی متعادل می‌تواند به کاهش سطوح کلسترول LDL کمک کند و ممکن است مزایای اضافی در کاهش خطر ابتلا به برخی بیماری‌های مزمن ارائه دهد.",
+     "benefits": "مزایای اصلی فیتوسترول‌ها شامل کاهش سطوح کلسترول LDL، بهبود سلامت قلبی، حمایت از عملکرد ایمنی و احتمالاً کاهش خطر برخی سرطان‌ها می‌باشد. آن‌ها همچنین می‌توانند به بهبود سلامت گوارش با ارتقای تعادل سطوح کلسترول در بدن کمک کنند.",
+     "side effects": [
+       "گاز",
+       "نفخ",
+       "اسهال",
+       "تهوع",
+       "دل‌درد"
+     ]
+ }
+}

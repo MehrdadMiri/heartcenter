@@ -1,0 +1,28 @@
+{
+  "en": {
+    "description": "Olive leaf extract is a natural substance derived from the leaves of the olive tree (Olea europaea) known for its potential therapeutic benefits. It contains a variety of bioactive compounds, particularly oleuropein, which is believed to possess antioxidant, anti-inflammatory, and antimicrobial properties. Olive leaf extract is often used in herbal medicine to support cardiovascular health, boost the immune system, and improve overall well-being.",
+    "benefits": "The potential benefits of olive leaf extract include lowering blood pressure, improving cholesterol levels, enhancing blood sugar control, providing anticancer effects, supporting brain health, and offering protection against infections due to its antimicrobial activities.",
+    "side effects": [
+      "Gastrointestinal upset",
+      "Headaches",
+      "Fatigue",
+      "Dizziness",
+      "Allergic reactions",
+      "Low blood pressure",
+      "Skin rash"
+    ]
+  },
+  "fa": {
+    "description": "عصاره برگ زیتون یک ماده طبیعی است که از برگ‌های درخت زیتون (Olea europaea) به دست می‌آید و به خاطر فواید درمانی آن شناخته شده است. این عصاره حاوی ترکیبات بیواکتیو متنوعی است، به ویژه اولئوروپین، که believed می‌شود خواص آنتی‌اکسیدانی، ضد التهابی و ضد میکروبی دارد. عصاره برگ زیتون غالباً در طب گیاهی برای حمایت از سلامت قلبی عروقی، تقویت سیستم ایمنی و بهبود سلامت کلی استفاده می‌شود.",
+    "benefits": "از جمله فواید بالقوه عصاره برگ زیتون می‌توان به کاهش فشار خون، بهبود سطح کلسترول، افزایش کنترل قند خون، اثرات ضد سرطانی، حمایت از سلامت مغز و ارائه حفاظت در برابر عفونت‌ها به دلیل فعالیت‌های ضد میکروبی آن اشاره کرد.",
+    "side effects": [
+      "ناراحتی‌های گوارشی",
+      "سردرد",
+      "خستگی",
+      "سرگیجه",
+      "واکنش‌های آلرژیک",
+      "فشار خون پایین",
+      "کهیر"
+    ]
+  }
+}

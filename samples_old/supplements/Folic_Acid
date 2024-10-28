@@ -1,0 +1,28 @@
+{
+ "en": {
+    "description": "Folic acid, also known as vitamin B9, is a water-soluble vitamin essential for the production and maintenance of new cells in the body. It plays a crucial role in DNA synthesis and repair, making it particularly important during periods of rapid growth such as pregnancy, infancy, and adolescence. Additionally, folic acid helps in the formation of red blood cells and supports proper brain function.",
+    "benefits": "Folic acid is known for reducing the risk of neural tube defects in developing fetuses, improving cardiovascular health by lowering homocysteine levels, enhancing mood and cognitive function, and potentially reducing the risk of certain cancers.",
+    "side effects": [
+        "Nausea",
+        "Bloating",
+        "Gas",
+        "Sleep disturbances",
+        "Skin rash",
+        "Irritability",
+        "Altered sleep patterns"
+    ]
+ },
+ "fa": {
+     "description": "فولیک اسید، که به عنوان ویتامین B9 نیز شناخته می‌شود، ویتامینی زود حل است که برای تولید و نگهداری سلول‌های جدید در بدن ضروری است. این ویتامین نقش مهمی در سنتز و ترمیم DNA دارد و به ویژه در دوره‌های رشد سریع مانند بارداری، نوزادی و نوجوانی بسیار مهم است. علاوه بر این، فولیک اسید به تشکیل گلبول‌های قرمز خون کمک کرده و از عملکرد صحیح مغز حمایت می‌کند.",
+     "benefits": "فولیک اسید به کاهش خطر عیوب لوله عصبی در جنین‌های در حال توسعه کمک می‌کند، سلامت قلب و عروق را با کاهش سطح هموسیستئین بهبود می‌بخشد، حالت روحی و عملکرد شناختی را افزایش می‌دهد و به طور بالقوه خطر برخی سرطان‌ها را کاهش می‌دهد.",
+     "side effects": [
+         "حالت تهوع",
+         "نفخ",
+         "گاز",
+         "اختلالات خواب",
+         "کهیر",
+         "تحریک‌پذیری",
+         "تغییر در الگوهای خواب"
+     ]
+ }
+}

@@ -1,0 +1,46 @@
+```json
+{
+  "en": {
+    "description": "Curcumin is a natural compound found in the spice turmeric, known for its bright yellow color and potential health benefits. It is a powerful antioxidant and anti-inflammatory agent, which has been studied for its role in supporting joint health, enhancing cognitive function, and providing cardiovascular support. Curcumin may also possess anticancer properties and help manage various chronic diseases due to its ability to modulate various signaling pathways in the body.",
+    "benefits": [
+      "Reduces inflammation and oxidative stress",
+      "Supports joint and muscle health",
+      "May improve brain function and memory",
+      "Aids in digestion and gut health",
+      "Possesses potential anticancer effects",
+      "Supports heart health",
+      "Boosts immune system function"
+    ],
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset",
+      "Allergic reactions",
+      "Headaches",
+      "Skin rash",
+      "Increased risk of bleeding"
+    ]
+  },
+  "fa": {
+    "description": "کورکومین ترکیبی طبیعی است که در ادویه زردچوبه یافت می‌شود و به دلیل رنگ زرد روشن و فواید بالقوه سلامتی شناخته شده است. این ماده یک آنتی‌اکسیدان و عامل ضد التهاب قوی است که برای نقش آن در حمایت از سلامت مفاصل، بهبود عملکرد شناختی و ارائه حمایت قلبی عروقی مورد مطالعه قرار گرفته است. کورکومین ممکن است خواص ضد سرطانی داشته باشد و به مدیریت بیماری‌های مزمن مختلف کمک کند به دلیل توانایی آن در تعدیل مسیرهای سیگنال‌دهی مختلف در بدن.",
+    "benefits": [
+      "کاهش التهاب و استرس اکسیداتیو",
+      "حمایت از سلامت مفاصل و عضلات",
+      "ممکن است عملکرد و حافظه مغز را بهبود بخشد",
+      "به هضم و سلامت روده کمک می‌کند",
+      "دارای خواص ضد سرطانی بالقوه",
+      "حمایت از سلامت قلب",
+      "تقویت عملکرد سیستم ایمنی"
+    ],
+    "side effects": [
+      "تهوع",
+      "دل درد",
+      "مشکل معده",
+      "واکنش‌های آلرژیک",
+      "سردرد",
+      "کهیر پوستی",
+      "افزایش ریسک خون‌ریزی"
+    ]
+  }
+}
+```

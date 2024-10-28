@@ -1,0 +1,34 @@
+{
+ "en": {
+    "description": "Walnuts are nutrient-dense nuts that belong to the tree nut family. They are known for their distinctive shape, rich flavor, and high content of essential fatty acids, particularly omega-3 fatty acids. Walnuts are a versatile ingredient that can be eaten raw, roasted, or used in a variety of dishes, such as salads, baked goods, and as toppings. They are often praised for their health benefits, which include improved heart health, brain function, and anti-inflammatory properties.",
+    "benefits": [
+      "Rich source of omega-3 fatty acids, promoting heart health.",
+      "Supports cognitive function and brain health.",
+      "Contains antioxidants that help combat oxidative stress.",
+      "May aid in weight management by promoting satiety.",
+      "Provides important vitamins and minerals, including magnesium and vitamin E."
+    ],
+    "side effects": [
+      "Potential allergic reactions in sensitive individuals.",
+      "Overconsumption may lead to weight gain due to high calorie content.",
+      "Possible gastrointestinal discomfort if consumed in large quantities.",
+      "May interact with certain medications, such as blood thinners."
+    ]
+ },
+ "fa": {
+    "description": "گردوها مغزهای غنی از مواد مغذی هستند که به خانواده مغزهای درختی تعلق دارند. آن‌ها به خاطر شکل خاص، طعم غنی و محتوای بالای اسیدهای چرب ضروری، به‌ویژه اسیدهای چرب امگا-3 شناخته شده‌اند. گردوها یک ماده غذایی چندمنظوره هستند که می‌توان آن‌ها را خام، بو داده یا در انواع غذاها مانند سالاد، محصولات نانوایی و به عنوان تزئین مصرف کرد. آن‌ها اغلب به خاطر مزایای سلامتی‌شان، که شامل بهبود سلامت قلب، عملکرد مغز و خواص ضد التهابی، تحسین می‌شوند.",
+    "benefits": [
+      "منبع غنی از اسیدهای چرب امگا-3 که سلامت قلب را ترویج می‌دهد.",
+      "حمایت از عملکرد شناختی و سلامت مغز.",
+      "دارای آنتی‌اکسیدان‌هایی که به مبارزه با استرس اکسیداتیو کمک می‌کنند.",
+      "ممکن است به مدیریت وزن با ترویج سیری کمک کند.",
+      "منبع مهم ویتامین‌ها و مواد معدنی، از جمله منیزیم و ویتامین E."
+    ],
+    "side effects": [
+      "احتمال واکنش‌های آلرژیک در افراد حساس.",
+      "مصرف بیش از حد ممکن است به افزایش وزن منجر شود به‌خاطر محتوای بالای کالری.",
+      "ممکن است در صورت مصرف زیاد، ناراحتی گوارشی ایجاد کند.",
+      "ممکن است با برخی داروها، مانند رقیق‌کننده‌های خون، تداخل داشته باشد."
+    ]
+ }
+}

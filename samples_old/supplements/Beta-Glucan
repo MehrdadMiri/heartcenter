@@ -1,0 +1,26 @@
+{
+  "en": {
+    "description": "Beta-Glucan is a polysaccharide found in the cell walls of cereals (like oats and barley), yeast, and certain mushrooms. It is known for its immune-boosting properties and is often used as a dietary supplement to enhance overall health. Beta-Glucan activates immune cells, such as macrophages and natural killer cells, leading to increased protection against infections and diseases. It may also aid in lowering cholesterol levels and improving cardiovascular health.",
+    "benefits": "Some of the primary benefits of Beta-Glucan include enhancing the immune response, lowering cholesterol levels, improving blood sugar control, and promoting gut health. It may also assist in wound healing and has antioxidant properties.",
+    "side effects": [
+      "Gastrointestinal discomfort",
+      "Bloating",
+      "Gas",
+      "Diarrhea",
+      "Nausea",
+      "Headaches"
+    ]
+  },
+  "fa": {
+    "description": "بتا-گلوکان یک پلی‌ساکارید است که در دیواره‌های سلولی غلات (مانند جو و جو دوسر)، مخمر و برخی از قارچ‌ها یافت می‌شود. این ماده به دلیل خواص تقویت‌کننده ایمنی خود شناخته شده است و اغلب به عنوان مکمل غذایی برای بهبود سلامت عمومی استفاده می‌شود. بتا-گلوکان سلول‌های ایمنی مانند ماکروفاژها و سلول‌های کشنده طبیعی را فعال می‌کند که منجر به افزایش حفاظت در برابر عفونت‌ها و بیماری‌ها می‌شود.",
+    "benefits": "برخی از مزایای اصلی بتا-گلوکان عبارتند از: تقویت پاسخ ایمنی، کاهش سطح کلسترول، بهبود کنترل قند خون و ارتقاء سلامت روده. این ترکیب همچنین ممکن است در بهبود زخم‌ها کمک کند و خواص آنتی‌اکسیدانی داشته باشد.",
+    "side effects": [
+      "ناراحتی‌های گوارشی",
+      "نفخ",
+      "گاز",
+      "اسهال",
+      "تهوع",
+      "سردرد"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "en": {
+    "description": "Black garlic is a type of aged garlic that is produced by fermenting raw garlic bulbs at a high temperature and humidity for an extended period of time. This process gives black garlic a unique sweet flavor and chewy texture, differentiating it from its raw counterpart. It is rich in antioxidants, compounds that help combat oxidative stress in the body, and is often praised for its potential health benefits, including improved heart health, enhanced immune function, and anti-inflammatory effects.",
+    "benefits": "Black garlic is known for its ability to lower blood pressure, reduce cholesterol levels, enhance digestion, and provide antimicrobial properties. It may also help improve cognitive function and boost athletic performance due to its high nutrient and antioxidant content.",
+    "side effects": [
+      "Digestive upset",
+      "Heartburn",
+      "Allergic reactions in sensitive individuals",
+      "Bad breath",
+      "Nausea"
+    ]
+  },
+  "fa": {
+    "description": "سیر سیاه نوعی سیر مورد استفاده است که با تخمیر حبه‌های سیر خام در دما و رطوبت بالا به مدت طولانی تولید می‌شود. این فرایند طعمی شیرین و بافتی چسبناک به سیر می‌بخشد که آن را از سیر خام متمایز می‌کند. سیر سیاه غنی از آنتی‌اکسیدان‌هاست که به مبارزه با استرس اکسیداتیو در بدن کمک می‌کند و به خاطر مزایای بهداشتی بالقوه‌اش شامل بهبود سلامت قلب، افزایش عملکرد ایمنی و اثرات ضدالتهابی تحسین می‌شود.",
+    "benefits": "سیر سیاه به عنوان عاملی برای کاهش فشار خون، کاهش سطح کلسترول، بهبود هضم و ارائه خواص ضد میکروبی شناخته شده است. همچنین ممکن است به بهبود کارکرد شناختی و افزایش عملکرد ورزشی به دلیل محتوای بالای مواد مغذی و آنتی‌اکسیدان‌ها کمک کند.",
+    "side effects": [
+      "ناراحتی گوارشی",
+      "سوزش سر دل",
+      "واکنش‌های آلرژیک در افراد حساس",
+      "نفخ",
+      "تهوع"
+    ]
+  }
+}

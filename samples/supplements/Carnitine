@@ -1,32 +1,54 @@
-```json
-{
-  "en": {
-    "description": "Carnitine is a naturally occurring compound that plays a crucial role in the metabolism of fatty acids, transporting them into the mitochondria of cells where they are burned for energy. It is synthesized in the body from the amino acids leucine and lysine and is found in high concentrations in muscle and heart tissues. Carnitine is often taken as a dietary supplement to enhance physical performance, assist in weight management, and improve overall energy levels.",
-    "benefits": "The primary benefits of carnitine supplementation include improved endurance and exercise performance, enhanced fat burning and weight loss, improved recovery from exercise, and potential benefits for heart health by improving cardiac function and reducing angina symptoms.",
-    "side effects": [
-      "Nausea",
-      "Vomiting",
-      "Stomach upset",
-      "Diarrhea",
-      "Abdominal cramps",
-      "Fishy body odor",
-      "Increased heart rate (tachycardia)",
-      "Allergic reactions (rare)"
-    ]
-  },
-  "fa": {
-    "description": "کارنیتین یک ترکیب طبیعی است که نقش مهمی در متابولیسم اسیدهای چرب ایفا می‌کند و آن‌ها را به میتوکندری سلول‌ها منتقل می‌کند تا در آنجا برای تولید انرژی سوخته شوند. این ماده در بدن از اسیدهای آمینه لوسین و لیزین سنتز می‌شود و در غلظت‌های بالا در بافت‌های عضلانی و قلبی یافت می‌شود. کارنیتین اغلب به عنوان مکمل غذایی برای افزایش عملکرد بدنی، کمک به مدیریت وزن و بهبود سطح انرژی کلی مورد استفاده قرار می‌گیرد.",
-    "benefits": "فواید اصلی مکمل کارنیتین شامل بهبود استقامت و عملکرد ورزشی، افزایش چربی سوزی و کاهش وزن، بهبود بهبودی پس از ورزش و همچنین مزایای بالقوه برای سلامت قلب با بهبود عملکرد قلبی و کاهش علائم آنژین است.",
-    "side effects": [
-      "تهوع",
-      "استفراغ",
-      "ناراحتی معده",
-      "اسهال",
-      "گرفتگی شکم",
-      "بوی بدن ماهی",
-      "افزایش ضربان قلب (تاکی‌کاردی)",
-      "واکنش‌های آلرژیک (نادر)"
-    ]
-  }
-}
-```
+# Carnitine
+
+## General Information
+
+**Carnitine** is a naturally occurring compound derived from the amino acids lysine and methionine. It plays an essential role in the production of energy by transporting fatty acids into the mitochondria, the powerhouse of cells, where they are oxidized to produce energy. There are two main forms of carnitine:
+
+- **L-Carnitine:** The biologically active form.
+- **D-Carnitine:** A less common form that can interfere with the action of L-Carnitine if present in high doses.
+
+Carnitine is predominantly found in animal products, such as red meat, fish, poultry, and dairy products. It is also available as an over-the-counter dietary supplement and is often marketed for various health benefits, including fat loss, enhanced exercise performance, and improved recovery.
+
+## Benefits
+
+Carnitine is believed to offer a range of benefits, including:
+
+1. **Fat Burning:** Supports the utilization of fatty acids for energy, potentially aiding in weight loss.
+2. **Exercise Performance:** May enhance athletic performance by increasing stamina and reducing fatigue.
+3. **Recovery:** Helps improve recovery from intense exercise by reducing muscle soreness.
+4. **Heart Health:** Might improve heart function, especially in individuals with heart conditions.
+5. **Cognitive Function:** Some studies suggest potential benefits for cognitive function and memory in older adults.
+
+## Dosage
+
+The typical dosage of carnitine varies depending on the health goals, but common ranges are:
+
+- **For general health:** 300-600 mg per day.
+- **For weight loss/athletic performance:** Up to 1,500-3,000 mg per day.
+
+Always consult with a healthcare provider before starting any supplementation.
+
+## Side Effects
+
+While carnitine is generally considered safe for most people, some may experience side effects, including:
+
+- **Nausea**
+- **Vomiting**
+- **Stomach cramps**
+- **Diarrhea**
+- **Increased appetite**
+- **Body odor (fishy smell)**
+- **Headache**
+- **Palpitations**
+- **Risk of seizure in susceptible individuals**
+
+### Precautions
+
+- Individuals with hypothyroidism should exercise caution, as carnitine can interfere with oxidative metabolism.
+- High doses should be avoided unless prescribed by a healthcare professional.
+
+## Conclusion
+
+Carnitine is a versatile and widely used supplement that may offer various health benefits, particularly in fat metabolism and exercise performance. However, it's essential to consult with a healthcare provider before beginning supplementation, especially for those with pre-existing health conditions or who are taking other medications.
+
+For optimum benefits, combine carnitine supplementation with a healthy diet and regular exercise.

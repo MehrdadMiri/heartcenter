@@ -1,28 +1,47 @@
-{
-  "en": {
-    "description": "Methylfolate, the active form of vitamin B9, is crucial for DNA synthesis, repair, and methylation, as well as the production of neurotransmitters. It is particularly important in the metabolism of homocysteine and is essential in prenatal health, supporting neural development during early pregnancy. Methylfolate supplementation is often recommended for individuals with MTHFR mutations, as they may have impaired conversion of folic acid to methylfolate, leading to deficiency and associated health issues.",
-    "benefits": "Methylfolate supports mental health by aiding in the production of serotonin, dopamine, and norepinephrine. It is effective in reducing the risk of neural tube defects during pregnancy, promoting cardiovascular health by lowering homocysteine levels, and may improve mood and cognitive function in individuals with depressive disorders.",
-    "side effects": [
-      "Nausea",
-      "Fatigue",
-      "Irritability",
-      "Insomnia",
-      "Allergic reactions",
-      "Skin rashes",
-      "Gastrointestinal discomfort"
-    ]
-  },
-  "fa": {
-    "description": "متیل‌فولات، شکل فعال ویتامین B9 است که برای سنتز، ترمیم و متیلاسیون DNA و همچنین تولید انتقال‌دهنده‌های عصبی ضروری است. این ماده به ویژه در متابولیسم هموسیستئین مهم بوده و در سلامت پیش‌زادها برای حمایت از توسعه عصبی در دوران اولیه بارداری نقش کلیدی دارد. مکمل متیل‌فولات غالباً برای افرادی که دارای جهش MTHFR هستند، توصیه می‌شود، زیرا این افراد ممکن است در تبدیل اسید فولیک به متیل‌فولات دچار اختلال شوند و به همین علت به کمبود و مسائل مرتبط با آن مبتلا باشند.",
-    "benefits": "متیل‌فولات با کمک به تولید سروتونین، دوپامین و نوراپی‌نفرین از سلامت ذهنی حمایت می‌کند. این ماده خطر نقص‌های لوله عصبی در دوران بارداری را کاهش می‌دهد، به سلامت قلب و عروق با کاهش سطوح هموسیستئین کمک می‌کند و ممکن است در بهبود خلق‌وخو و کارکرد شناختی در افراد مبتلا به اختلالات افسردگی مؤثر باشد.",
-    "side effects": [
-      "تهوع",
-      "خستگی",
-      "زودرنجی",
-      "بی‌خوابی",
-      "واکنش‌های آلرژیک",
-      "کهیر‌های پوستی",
-      "ناراحتی دستگاه گوارش"
-    ]
-  }
-}
+# Methylfolate
+
+## General Information
+
+Methylfolate, or L-methylfolate, is the active form of folate (Vitamin B9). It is a critical nutrient that plays a vital role in various bodily processes, including:
+
+- **DNA Synthesis and Repair**: Methylfolate is essential for the synthesis of nucleic acids, which are the building blocks of DNA and RNA.
+- **Amino Acid Metabolism**: It is necessary for the metabolism of homocysteine to methionine, an essential amino acid.
+- **Neurotransmitter Production**: Methylfolate helps produce neurotransmitters such as serotonin, dopamine, and norepinephrine, impacting mood and cognitive function.
+
+This form of folate is especially important for individuals with certain genetic mutations, such as MTHFR (methylenetetrahydrofolate reductase) mutations, which impair the body's ability to convert folate to its active form.
+
+## Sources of Methylfolate
+
+- Dietary sources of folate include leafy greens (spinach, kale), legumes, nuts, seeds, and fortified foods.
+- Methylfolate supplements are available in various forms, including capsules, tablets, and powders.
+
+## Recommended Dosage
+
+The recommended dietary allowance (RDA) for folate varies by age, sex, and life stage. For most adults, the RDA is 400 micrograms (mcg) of dietary folate equivalents (DFE) per day. Methylfolate supplements can be prescribed in higher doses, especially for individuals with specific health conditions or genetic predispositions.
+
+## Health Benefits
+
+1. **Supports Brain Health**: Methylfolate has been shown to help with cognitive function and support mental health by influencing neurotransmitter levels.
+2. **Pregnancy Support**: Adequate folate intake during pregnancy is crucial as it helps prevent neural tube defects in developing fetuses.
+3. **Cardiovascular Health**: By aiding in the metabolism of homocysteine, methylfolate may contribute to lower risks of cardiovascular issues.
+4. **Mood Regulation**: Some studies suggest methylfolate supplementation may help alleviate symptoms of depression, particularly in individuals with certain genetic profiles.
+
+## Side Effects
+
+Methylfolate is generally well-tolerated, but some individuals may experience side effects, particularly when taken in high doses. Possible side effects include:
+
+- **Gastrointestinal Issues**: Nausea, bloating, or an upset stomach.
+- **Sleep Disturbances**: Insomnia or increased restlessness.
+- **Anxiety or Agitation**: Some individuals may experience heightened anxiety or restlessness.
+- **Headaches**: Tension headaches have been reported in some users.
+- **Allergic Reactions**: Rarely, individuals may experience allergic reactions, including skin rash, itching, or swelling.
+
+## Precautions
+
+- **Consult a Healthcare Provider**: Individuals considering methylfolate supplementation, especially those with existing health conditions or those taking medications, should consult a healthcare provider to determine appropriate dosages and avoid potential interactions.
+- **Pregnancy and Breastfeeding**: Pregnant or breastfeeding women should consult a healthcare provider before starting supplementation.
+- **Genetic Considerations**: Individuals with known MTHFR mutations may benefit more from methylfolate supplements, while others should assess their dietary intake of folate.
+
+## Conclusion
+
+Methylfolate is an essential nutrient that plays a critical role in various bodily functions, particularly those related to mental and cardiovascular health. While generally safe, it's important to consider potential side effects and consult with a healthcare professional when considering supplementation.

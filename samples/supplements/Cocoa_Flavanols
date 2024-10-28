@@ -1,36 +1,52 @@
-{
-  "en": {
-    "description": "Cocoa flavanols are natural compounds found in cocoa beans, known for their antioxidant properties. These bioactive compounds are believed to have a range of health benefits, particularly for cardiovascular health, cognitive function, and overall wellness. Regular consumption of cocoa flavanols, usually through dark chocolate or cocoa powders, can enhance blood flow, lower blood pressure, and improve brain health by increasing neuroplasticity and cognitive performance.",
-    "benefits": [
-      "Improves cardiovascular health by enhancing blood flow and reducing blood pressure",
-      "May enhance cognitive function and memory",
-      "Provides antioxidant protection against oxidative stress",
-      "May support healthy cholesterol levels",
-      "Could improve mood and reduce symptoms of depression and anxiety"
-    ],
-    "side effects": [
-      "Insomnia due to caffeine content",
-      "Increased heart rate",
-      "Potential digestive issues such as bloating or gas",
-      "Allergic reactions in sensitive individuals",
-      "Headaches in some users due to caffeine"
-    ]
-  },
-  "fa": {
-    "description": "فلاوانول‌های کاکائو ترکیبات طبیعی هستند که در دانه‌های کاکائو یافت می‌شوند و به خاطر خواص آنتی‌اکسیدانی خود شناخته شده‌اند. این ترکیبات زیست‌فعال اعتقاد بر این است که طیف وسیعی از مزایای سلامتی، به ویژه برای سلامت قلب و عروق، عملکرد شناختی و رفاه عمومی دارند. مصرف منظم فلاوانول‌های کاکائو، معمولاً از طریق شکلات تلخ یا پودر کاکائو، می‌تواند جریان خون را افزایش داده و فشار خون را کاهش دهد و سلامت مغز را با افزایش انعطاف‌پذیری عصبی و عملکرد شناختی بهبود بخشد.",
-    "benefits": [
-      "بهبود سلامت قلب و عروق از طریق افزایش جریان خون و کاهش فشار خون",
-      "ممکن است عملکرد شناختی و حافظه را تقویت کند",
-      "محافظت آنتی‌اکسیدانی در برابر استرس اکسیداتیو فراهم می‌کند",
-      "ممکن است از سطوح سالم کلسترول پشتیبانی کند",
-      "ممکن است حالت روحی را بهبود بخشد و علائم افسردگی و اضطراب را کاهش دهد"
-    ],
-    "side effects": [
-      "بی‌خوابی به دلیل محتوای کافئین",
-      "افزایش ضربان قلب",
-      "مشکلات گوارشی مانند نفخ یا گاز",
-      "واکنش‌های آلرژیک در افراد حساس",
-      "سردرد در برخی از مصرف‌کنندگان به دلیل کافئین"
-    ]
-  }
-}
+# Cocoa Flavanols
+
+## General Information
+
+Cocoa flavanols are bioactive compounds found in cocoa beans, which are the primary ingredient in chocolate. They belong to a class of plant chemicals known as flavonoids, which are known for their antioxidant properties. Cocoa flavanols have gained attention for their potential health benefits, particularly in relation to cardiovascular health, cognitive function, and overall well-being.
+
+### Sources of Cocoa Flavanols
+
+Cocoa flavanols are predominantly found in:
+- Dark chocolate (especially varieties with high cocoa content)
+- Cocoa powder
+- Cocoa liquor
+- Some supplements designed to concentrate these compounds
+
+### Health Benefits
+
+Research indicates that cocoa flavanols may provide several health benefits, including:
+
+- **Cardiovascular Health**: Cocoa flavanols are linked to reduced risk factors for heart disease, including:
+  - Lowering blood pressure
+  - Improving endothelial function
+  - Enhancing blood flow
+  - Reducing LDL cholesterol oxidation
+
+- **Cognitive Function**: Some studies suggest that cocoa flavanols may improve cognitive function, particularly in older adults, possibly by promoting blood flow to the brain.
+
+- **Anti-inflammatory Effects**: The antioxidant properties of cocoa flavanols may help reduce inflammation in the body.
+
+- **Skin Health**: Some research indicates that cocoa flavanols may improve skin hydration, texture, and protection against UV damage.
+
+## Dosage
+
+There is no established Recommended Dietary Allowance (RDA) for cocoa flavanols. However, studies often use doses ranging from 200 mg to 1000 mg of cocoa flavanols per day, though it is advisable to follow the recommendations of a healthcare provider or the product's guidelines.
+
+## Side Effects
+
+Cocoa flavanols are generally considered safe for most individuals when consumed in moderation through dietary sources. However, excess consumption or concentrated supplement forms may lead to side effects, including:
+
+- **Gastrointestinal Issues**: Such as nausea, bloating, or diarrhea.
+- **Allergic Reactions**: Rarely, individuals may experience allergic reactions to cocoa.
+- **Caffeine Sensitivity**: Some cocoa products contain caffeine, which may cause jitteriness, insomnia, or increased heart rate in sensitive individuals.
+- **Interaction with Medications**: Cocoa flavanols may interact with certain medications, particularly those that affect blood pressure or blood clotting. Consult a healthcare provider if taking such medications.
+
+## Precautions
+
+- **Pregnancy and Breastfeeding**: While cocoa in moderation is generally considered safe, high doses of cocoa flavanols in supplement form should be approached with caution. Consult a healthcare professional.
+- **Children**: The safety of concentrated cocoa flavanols for children has not been well-studied. Whole food sources (e.g., dark chocolate) are usually safer.
+- **Heart Conditions**: Those with heart conditions or on related medications should discuss cocoa flavanol supplementation with their doctor.
+
+## Conclusion
+
+Cocoa flavanols can be a beneficial addition to a healthy diet due to their potential cardiovascular and cognitive benefits. However, it's important to consider individual circumstances, possible side effects, and interactions with medications before starting any new supplement regimen. Always consult a healthcare professional for personalized advice.

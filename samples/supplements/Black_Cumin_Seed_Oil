@@ -1,42 +1,73 @@
-{
- "en": {
-    "description": "Black Cumin Seed Oil, derived from the seeds of the Nigella sativa plant, is a natural oil famed for its medicinal properties. It has been used for centuries in traditional medicine to aid in various health conditions. Rich in thymoquinone, an active compound known for its antioxidant and anti-inflammatory effects, Black Cumin Seed Oil is believed to support immune function, promote skin health, and aid in digestive health, making it a popular choice for holistic wellness.",
-    "benefits": [
-        "Supports immune system function.",
-        "Reduces inflammation.",
-        "May assist in managing asthma symptoms.",
-        "Promotes healthy skin and may help with conditions like eczema or acne.",
-        "Aids digestion and may support weight management.",
-        "Possesses antioxidant properties.",
-        "May improve cardiovascular health."
-    ],
-    "side effects": [
-        "Allergic reactions (skin rash, itching).",
-        "Stomach upset or gastrointestinal discomfort.",
-        "Nausea or vomiting.",
-        "Hypotension (low blood pressure).",
-        "Headaches.",
-        "Diarrhea in some individuals."
-    ]
- },
- "fa": {
-    "description": "روغن دانه سیاه، که از دانه‌های گیاه نیگلا ساتیوا استخراج می‌شود، به خاطر خواص دارویی‌اش مشهور است. این روغن قرن‌هاست که در طب سنتی برای کمک به شرایط مختلف سلامت استفاده می‌شود. این روغن سرشار از تیموکینون است که یک ترکیب فعال با خواص آنتی‌اکسیدانی و ضدالتهابی شناخته می‌شود. روغن دانه سیاه به تقویت سیستم ایمنی، بهبود سلامت پوست و کمک به سلامت دستگاه گوارش معروف است و به همین دلیل گزینه‌ای محبوب برای سلامت جامع محسوب می‌شود.",
-    "benefits": [
-        "حمایت از عملکرد سیستم ایمنی.",
-        "کاهش التهاب.",
-        "ممکن است در مدیریت علائم آسم کمک کند.",
-        "به سلامت پوست کمک کرده و ممکن است در مواردی مانند اگزما یا آکنه موثر باشد.",
-        "کمک به هضم و ممکن است در مدیریت وزن موثر باشد.",
-        "دارای خواص آنتی‌اکسیدانی.",
-        "ممکن است سلامت قلب و عروق را بهبود بخشد."
-    ],
-    "side effects": [
-        "واکنش‌های آلرژیک (جوش پوستی، خارش).",
-        "ناراحتی معده یا ناراحتی گوارشی.",
-        "تهوع یا استفراغ.",
-        "افت فشار خون.",
-        "سردرد.",
-        "اسهال در برخی افراد."
-    ]
- }
-}
+# Black Cumin Seed Oil
+
+## General Information
+
+**Scientific Name:** Nigella sativa
+
+**Common Names:** Black Cumin Seed Oil, Kalonji Oil, Nigella Oil
+
+**Description:**
+Black Cumin Seed Oil is derived from the seeds of the Nigella sativa plant, native to Southeast Asia and the Mediterranean regions. Historically celebrated for its medicinal properties, black cumin seed oil is known for its rich profile of bioactive compounds, particularly thymoquinone, which is believed to contribute significantly to its health benefits.
+
+**Nutritional Profile:**
+Black Cumin Seed Oil is rich in:
+- Essential fatty acids (omega-3 and omega-6)
+- Antioxidants
+- Vitamins (especially vitamin E)
+- Minerals and trace elements
+
+## Health Benefits
+
+1. **Anti-Inflammatory Properties:**  
+   Thymoquinone, an active compound in black cumin seed oil, has potent anti-inflammatory effects, making it beneficial for conditions like arthritis and asthma.
+
+2. **Immune System Support:**  
+   It has been shown to enhance immune function, helping the body to ward off infections and diseases.
+
+3. **Antioxidant Effects:**  
+   The oil is rich in antioxidants that help neutralize harmful free radicals in the body, potentially reducing oxidative stress and preventing cellular damage.
+
+4. **Digestive Health:**  
+   Black cumin seed oil can aid in digestion and alleviate issues such as bloating and gas. It has been traditionally used to relieve stomach pain.
+
+5. **Respiratory Health:**  
+   The oil can support respiratory function and manage conditions like allergies and bronchitis.
+
+6. **Skin Health:**  
+   Due to its antimicrobial and anti-inflammatory properties, black cumin seed oil is often used in skincare to treat acne and eczema as well as to hydrate dry skin.
+
+7. **Metabolic Health:**  
+   Some studies suggest that it may help regulate blood sugar levels and cholesterol, contributing to better metabolic health.
+
+## Side Effects
+
+While black cumin seed oil is generally considered safe when used in moderation, some individuals may experience side effects, including:
+
+1. **Allergic Reactions:**  
+   Skin rashes or irritations in sensitive individuals may occur.
+
+2. **Gastrointestinal Issues:**  
+   Mild stomach upset, diarrhea, or nausea can occur, especially if consumed in large quantities.
+
+3. **Low Blood Sugar Levels:**  
+   Since it may influence blood sugar levels, individuals with diabetes should use caution and consult with a healthcare provider.
+
+4. **Blood Thinning Effects:**  
+   Black cumin seed oil can have anticoagulant effects; therefore, it should be used cautiously in combination with blood-thinning medications.
+
+5. **Pregnancy and Breastfeeding:**  
+   Pregnant women and breastfeeding mothers should consult a healthcare professional before using black cumin seed oil, as its safety in these populations is not well established.
+
+## Dosage and Administration
+
+- **Dosage:** Typical dosages vary, but 1-3 teaspoons (5-15 mL) per day is often recommended. Always consult a healthcare professional for personalized recommendations.
+- **Forms:** Available in softgel capsules, liquid oil, or as an addition to food and beverages.
+
+## Precautions
+
+- **Consultation with a Healthcare Provider:** Always consult with a healthcare provider before starting any new supplement, especially if you have underlying health conditions or take medications.
+- **Quality of Product:** Choose high-quality, cold-pressed black cumin seed oil to ensure the best nutritional properties and effectiveness.
+
+## Conclusion
+
+Black Cumin Seed Oil is a versatile supplement known for its numerous health benefits, particularly its anti-inflammatory and antioxidant properties. While it is generally safe for most individuals, awareness of potential side effects and proper consultations are essential for safe usage.

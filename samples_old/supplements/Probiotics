@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Probiotics are live microorganisms, often referred to as 'good' or 'friendly' bacteria, that provide health benefits when consumed in adequate amounts. They are commonly found in fermented foods, such as yogurt, kefir, sauerkraut, and dietary supplements. Probiotics help maintain a healthy balance of gut microbiota, which can be crucial for digestion, immune function, and overall health. Research suggests that probiotics can aid in the prevention and treatment of gastrointestinal disorders such as diarrhea, irritable bowel syndrome (IBS), and inflammatory bowel disease (IBD), as well as potentially enhancing mental health and supporting the immune system.",
+    "benefits": "The benefits of probiotics include improved digestive health, enhanced immune function, prevention of antibiotic-associated diarrhea, relief from symptoms of IBS, support for mental health, and potential weight management, among others.",
+    "side effects": [
+        "Gas and bloating",
+        "Digestive upset",
+        "Infections in immunocompromised individuals",
+        "Unpleasant taste",
+        "Temporary increase in digestive symptoms"
+    ]
+ },
+ "fa": {
+    "description": "پروبیوتیک‌ها میکروارگانیسم‌های زنده‌ای هستند که به عنوان باکتری‌های 'خوب' یا 'دوست' شناخته می‌شوند و در صورت مصرف در مقدار مناسب، مزایای سلامتی را ارائه می‌دهند. این باکتری‌ها معمولاً در غذاهای تخمیری مانند ماست، کفیر، کلم ترش و مکمل‌های غذایی یافت می‌شوند. پروبیوتیک‌ها به حفظ تعادل سالم میکروب‌های روده کمک می‌کنند که برای گوارش، عملکرد ایمنی و سلامت کلی حائز اهمیت است. تحقیقات نشان می‌دهد که پروبیوتیک‌ها می‌توانند در پیشگیری و درمان اختلالات گوارشی مانند اسهال، سندرم روده تحریک پذیر (IBS) و بیماری‌های التهابی روده (IBD) مفید باشند و همچنین ممکن است به بهبود سلامت روانی و حمایت از سیستم ایمنی کمک کنند.",
+    "benefits": "از مزایای پروبیوتیک‌ها می‌توان به بهبود سلامتی گوارشی، تقویت عملکرد ایمنی، پیشگیری از اسهال ناشی از آنتی‌بیوتیک، کاهش علائم IBS، حمایت از سلامت روانی و مدیریت وزن اشاره کرد.",
+    "side effects": [
+        "گاز و نفخ",
+        "نوسانات گوارشی",
+        "عفونت در افراد دارای نقص ایمنی",
+        "طعم ناخوشایند",
+        "افزایش موقتی علائم گوارشی"
+    ]
+ }
+}

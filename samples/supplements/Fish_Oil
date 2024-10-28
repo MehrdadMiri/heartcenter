@@ -1,44 +1,34 @@
-```json
-{
-  "en": {
-    "description": "Fish oil is a dietary supplement derived from the tissues of oily fish, primarily rich in omega-3 fatty acids, such as EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid). It is known for its potential health benefits, including supporting heart health, reducing inflammation, promoting brain function, and improving joint health. Fish oil can also help in lowering triglyceride levels and may contribute to overall wellness when included as part of a balanced diet.",
-    "benefits": [
-      "Supports cardiovascular health",
-      "Reduces inflammation",
-      "Promotes brain health and function",
-      "Improves joint health",
-      "Lowers triglyceride levels",
-      "May assist in managing depression and anxiety"
-    ],
-    "side effects": [
-      "Fishy aftertaste",
-      "Nausea",
-      "Diarrhea",
-      "Stomach upset",
-      "Bad breath",
-      "Increased risk of bleeding",
-      "Allergic reactions"
-    ]
-  },
-  "fa": {
-    "description": "روغن ماهی یک مکمل غذایی است که از بافت‌های ماهی‌های چرب استخراج می‌شود و دارای اسیدهای چرب امگا-3، از جمله EPA (اسید ایکوزاپنتانوئیک) و DHA (اسید دوکوزاهگزانوئیک) است. این مکمل به عنوان یک عامل احتمالی برای بهبود سلامت قلب، کاهش التهاب، ترویج عملکرد مغز و بهبود سلامت مفاصل شناخته شده است. همچنین، روغن ماهی می‌تواند به کاهش سطوح تری گلیسیرید کمک کرده و می‌تواند در صورت گنجاندن در یک رژیم غذایی متعادل به سلامت کلی کمک کند.",
-    "benefits": [
-      "حمایت از سلامت قلب",
-      "کاهش التهاب",
-      "ترویج سلامت و عملکرد مغز",
-      "بهبود سلامت مفاصل",
-      "کاهش سطوح تری گلیسیرید",
-      "ممکن است در مدیریت افسردگی و اضطراب کمک کند"
-    ],
-    "side effects": [
-      "طعم ماهی دهان",
-      "تهوع",
-      "اسهال",
-      "اختلال در معده",
-      "بدمزگی دهان",
-      "افزایش خطر خونریزی",
-      "واکنش‌های آلرژیک"
-    ]
-  }
-}
-```
+# Fish Oil
+
+## General Information
+Fish oil is derived from the tissues of oily fish, such as mackerel, herring, tuna, salmon, and sardines. It is rich in omega-3 fatty acids, which are essential fats that the body cannot produce on its own. The two main types of omega-3s found in fish oil are **EPA (eicosapentaenoic acid)** and **DHA (docosahexaenoic acid)**. 
+
+### Health Benefits
+Fish oil is widely known for its various health benefits, which may include:
+
+- **Heart Health**: Fish oil helps lower blood pressure, reduce triglycerides, and may decrease the risk of heart disease.
+- **Brain Health**: DHA is vital for brain development and function, and may play a role in reducing cognitive decline.
+- **Inflammation**: Fish oil has anti-inflammatory properties, which can help manage conditions like arthritis.
+- **Mental Health**: Some studies suggest that omega-3 fatty acids may help reduce symptoms of depression and anxiety.
+- **Eye Health**: DHA is also found in the retina, and therefore fish oil may support eye health, particularly in age-related macular degeneration.
+
+## Recommended Dosage
+The recommended dosage of fish oil can vary based on an individual’s health needs. Generally, a common dosage ranges from **1,000 to 3,000 mg** of combined EPA and DHA per day. However, it is best to consult with a healthcare provider for personalized recommendations.
+
+## Side Effects
+While fish oil is generally safe for most people, it can cause some side effects, especially at high doses. Common side effects may include:
+
+- **Fishy Aftertaste**: Many people report a fishy taste or smell in their mouth after taking fish oil supplements.
+- **Nausea**: Some may experience gastrointestinal discomfort or nausea.
+- **Diarrhea**: High doses may lead to loose stools or diarrhea.
+- **Stomach Upset**: Fish oil can sometimes cause indigestion or other stomach-related issues.
+- **Increased Bleeding Risk**: High doses of fish oil can potentially thin the blood and increase bleeding, particularly when taken with blood-thinning medications.
+- **Allergic Reactions**: People who are allergic to fish or shellfish might experience allergic reactions.
+
+## Precautions
+- **Medication Interactions**: Always consult a healthcare professional before taking fish oil if you are on blood-thinning medications, as it can increase the risk of bleeding.
+- **Pregnancy and Breastfeeding**: Pregnant or breastfeeding women should consult their healthcare provider before taking fish oil supplements.
+- **Quality**: Choose high-quality fish oil supplements that are tested for contaminants like mercury and PCBs to minimize health risks.
+
+## Conclusion
+Fish oil can provide a wide range of health benefits, primarily due to its rich content of omega-3 fatty acids. As with any supplement, it's essential to consider potential side effects and consult with a healthcare professional if you're considering adding fish oil to your regimen. Always choose high-quality products to ensure safety and efficacy.

@@ -1,0 +1,44 @@
+```json
+{
+  "en": {
+    "description": "Ashwagandha, scientifically known as Withania somnifera, is an ancient medicinal herb commonly used in Ayurvedic medicine. It is classified as an adaptogen, meaning it helps the body cope with stress, anxiety, and fatigue. Traditionally, the root and leaves of the plant are used to create supplements that promote overall health, enhance vitality, and support mental clarity. Ashwagandha is also believed to possess anti-inflammatory and antioxidant properties, making it beneficial for various physical and mental health conditions.",
+    "benefits": [
+      "Reduces stress and anxiety levels",
+      "Enhances cognitive function and memory",
+      "Improves energy and overall vitality",
+      "Supports immune system health",
+      "Balances hormone levels",
+      "Promotes better sleep quality",
+      "May aid in muscle growth and recovery"
+    ],
+    "side effects": [
+      "Gastrointestinal upset",
+      "Diarrhea",
+      "Nausea",
+      "Headache",
+      "Drowsiness or sedation",
+      "Potential allergic reactions"
+    ]
+  },
+  "fa": {
+    "description": "اشواگاندا، که به‌طور علمی به عنوان Withania somnifera شناخته می‌شود، یک گیاه دارویی باستانی است که معمولاً در طب آیورودا استفاده می‌شود. این گیاه به عنوان یک آداپتوژن طبقه‌بندی می‌شود و به معنای کمک به بدن جهت مقابله با استرس، اضطراب و خستگی است. به‌طور سنتی، ریشه و برگ‌های این گیاه برای تولید مکمل‌هایی که به سلامتی کلی، افزایش انرژی و حمایت از وضوح ذهن کمک می‌کنند، مورد استفاده قرار می‌گیرند. اشواگاندا همچنین دارای خواص ضد التهابی و آنتی‌اکسیدانی است که به نفع شرایط مختلف جسمی و روانی می‌باشد.",
+    "benefits": [
+      "کاهش سطوح استرس و اضطراب",
+      "بهبود عملکرد شناختی و حافظه",
+      "افزایش انرژی و سلامتی کلی",
+      "حمایت از سلامت سیستم ایمنی",
+      "تعادل در سطوح هورمونی",
+      "بهبود کیفیت خواب",
+      "ممکن است به رشد و بهبودی عضلات کمک کند"
+    ],
+    "side effects": [
+      "اختلالات گوارشی",
+      "اسهال",
+      "تهوع",
+      "سردرد",
+      "خواب آلودگی یا آرام‌بخشی",
+      "احتمال واکنش‌های آلرژیک"
+    ]
+  }
+}
+```

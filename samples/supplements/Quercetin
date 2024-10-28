@@ -1,26 +1,61 @@
-{
- "en": {
-    "description": "Quercetin is a natural flavonoid found in various fruits, vegetables, and grains, known for its antioxidant, anti-inflammatory, and antihistamine properties. It plays a key role in enhancing overall health by protecting against oxidative stress and inflammation, contributing to cardiovascular health, and potentially alleviating allergy symptoms. Quercetin is commonly used as a dietary supplement to support immune function and improve overall wellness.",
-    "benefits": "The benefits of quercetin include its ability to reduce inflammation, lower blood pressure, improve cardiovascular health, boost immune function, alleviate allergy symptoms, and provide antioxidant protection against cellular damage.",
-    "side effects": [
-      "Headaches",
-      "Stomach upset",
-      "Nausea",
-      "Diarrhea",
-      "Fatigue",
-      "Allergic reactions (in rare cases)"
-    ]
- },
- "fa": {
-    "description": "کوارسیتین یک فلاونوئید طبیعی است که در میوه‌ها، سبزیجات و غلات مختلف یافت می‌شود و به خواص آنتی‌اکسیدانی، ضدالتهابی و آنتی‌هیستامینی معروف است. این ترکیب در بهبود سلامت کلی با محافظت در برابر استرس اکسیداتیو و التهاب، کمک به سلامت قلب و عروق و احتمالا کاهش علائم آلرژی نقش کلیدی دارد. کوارسیتین معمولا به عنوان یک مکمل غذایی برای حمایت از عملکرد ایمنی و بهبود کلی سلامت استفاده می‌شود.",
-    "benefits": "فواید کوارسیتین شامل کاهش التهاب، کاهش فشار خون، بهبود سلامت قلب و عروق، تقویت عملکرد ایمنی، تسکین علائم آلرژی و فراهم کردن حفاظت آنتی‌اکسیدانی در برابر آسیب‌های سلولی است.",
-    "side effects": [
-      "سر درد",
-      "اختلالات معده",
-      "تهوع",
-      "اسهال",
-      "خستگی",
-      "عوارض آلرژیک (در موارد نادر)"
-    ]
- }
-}
+# Quercetin
+
+## General Information
+
+**Quercetin** is a natural flavonoid found in many fruits, vegetables, and grains. It is known for its antioxidant properties and potential health benefits. Quercetin is commonly used as a dietary supplement and is often included in various formulations aimed at promoting overall health.
+
+### Sources of Quercetin
+Quercetin can be found in various foods, including:
+- Apples
+- Onions
+- Berries (e.g., blueberries, cranberries)
+- Tea (especially green and black tea)
+- Red wine
+- Citrus fruits
+- Leafy greens
+
+### Mechanism of Action
+Quercetin appears to exert its effects by:
+- Scavenging free radicals and reducing oxidative stress.
+- Modulating immune response and inflammation.
+- Influencing signaling pathways related to cell growth and apoptosis.
+- Potentially inhibiting the activity of enzymes that play a role in chronic diseases.
+
+## Potential Health Benefits
+
+1. **Anti-Inflammatory Effects**: Quercetin may help reduce inflammation in the body, which can be beneficial for conditions such as arthritis.
+
+2. **Allergy Relief**: It is believed to stabilize mast cells and decrease the release of histamine, making it potentially useful for managing allergies.
+
+3. **Antioxidant Properties**: Quercetin acts as a powerful antioxidant, helping to protect cells against damage caused by free radicals.
+
+4. **Cardiovascular Health**: Preliminary studies suggest that quercetin may help lower blood pressure and improve overall heart health.
+
+5. **Immune System Support**: Some research indicates that quercetin may enhance immune response, potentially reducing the risk of infections.
+
+6. **Exercise Performance**: Quercetin has been investigated for its potential to enhance athletic performance and reduce fatigue, although results have been mixed.
+
+7. **Blood Sugar Control**: Some studies suggest that quercetin may help regulate blood sugar levels and improve insulin sensitivity.
+
+## Dosage and Administration
+
+The typical dosage of quercetin supplements ranges from 500 mg to 1000 mg per day, though it is advisable to start with a lower dose and adjust based on individual tolerance and health conditions. Quercetin is often taken with food to enhance absorption.
+
+## Potential Side Effects
+
+While quercetin is generally considered safe for most people when taken in recommended doses, some individuals may experience side effects, including:
+
+- **Gastrointestinal Issues**: Such as nausea, diarrhea, and stomach upset.
+- **Headaches**: Some individuals may experience headaches after taking quercetin.
+- **Fatigue**: Rarely, fatigue or a feeling of lethargy may occur.
+- **Allergic Reactions**: Although uncommon, some people may experience allergic reactions, including hives, rash, or difficulty breathing.
+- **Drug Interactions**: Quercetin may interact with certain medications, including blood thinners and medications for high blood pressure. It is advisable to consult a healthcare provider before use, especially for those on medication.
+
+## Precautions
+
+- **Pregnancy and Nursing**: There is not enough reliable information about the safety of quercetin during pregnancy or breastfeeding. It's best to avoid use unless prescribed by a healthcare professional.
+- **Medical Conditions**: Individuals with specific health conditions (e.g., kidney disorders) or those undergoing surgery should consult a healthcare provider before taking quercetin.
+
+## Conclusion
+
+Quercetin is a promising supplement with various potential health benefits, especially due to its antioxidant and anti-inflammatory properties. However, it is essential to consider dosage, possible side effects, and interactions with medications. As with any supplement, it is advisable to consult a healthcare professional before starting any new regimen.

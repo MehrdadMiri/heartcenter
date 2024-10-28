@@ -1,0 +1,40 @@
+{
+ "en": {
+    "description": "Green tea extract is derived from the leaves of the Camellia sinensis plant and is packed with antioxidants known as catechins, particularly epigallocatechin gallate (EGCG). This supplement is often used for its potential health benefits, including support for weight loss, improved brain function, and reduction in the risk of various chronic diseases. It is available in various forms such as capsules, powders, and liquid extracts.",
+    "benefits": [
+        "Supports weight management and fat oxidation",
+        "Enhances brain function and cognitive performance",
+        "Provides antioxidant protection against oxidative stress",
+        "May reduce the risk of cardiovascular diseases",
+        "Can improve metabolic health and glucose regulation"
+    ],
+    "side effects": [
+        "Insomnia",
+        "Nausea",
+        "Stomach upset",
+        "Headaches",
+        "Increased heart rate",
+        "Elevated blood pressure in sensitive individuals",
+        "Liver toxicity in excessive doses"
+    ]
+ },
+ "fa": {
+     "description": "عصاره چای سبز از برگ‌های گیاه کاملیا سیننسیس استخراج می‌شود و سرشار از آنتی‌اکسیدان‌هایی است که به کاتچین‌ها معروفند، به‌ویژه اپی‌گالوکاتچین گالات (EGCG). این مکمل معمولاً برای مزایای بالقوه آن در سلامتی، از جمله حمایت از کاهش وزن، بهبود عملکرد مغز، و کاهش خطر بیماری‌های مزمن مختلف استفاده می‌شود. این محصول در اشکال مختلفی مانند کپسول‌ها، پودرها و عصاره‌های مایع در دسترس است.",
+     "benefits": [
+         "حمایت از مدیریت وزن و اکسیداسیون چربی",
+         "بهبود عملکرد مغز و توانایی شناختی",
+         "فراهم کردن محافظت آنتی‌اکسیدانی در برابر استرس اکسیداتیو",
+         "کاهش خطر بیماری‌های قلبی عروقی ممکن است",
+         "بهبود سلامت متابولیک و تنظیم قند خون"
+     ],
+     "side effects": [
+         "بی‌خوابی",
+         "تهوع",
+         "آشفتگی معده",
+         "سردرد",
+         "افزایش ضربان قلب",
+         "افزایش فشار خون در افراد حساس",
+         "سمیت کبدی در دوزهای زیاد"
+     ]
+ }
+}

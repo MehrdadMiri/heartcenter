@@ -1,36 +1,48 @@
-{
-  "en": {
-    "description": "Coenzyme Q10 (CoQ10) is a naturally occurring antioxidant found in every cell of the body, playing a critical role in the production of energy in the form of adenosine triphosphate (ATP) within the mitochondria. It is essential for proper cellular function and is involved in various metabolic processes. CoQ10 levels may decrease with age or due to certain medical conditions, leading to fatigue and other health issues.",
-    "benefits": [
-      "Improves energy production and reduces fatigue.",
-      "Acts as a powerful antioxidant, protecting cells from damage.",
-      "Supports heart health and may improve conditions like heart failure.",
-      "May enhance exercise performance and recovery.",
-      "Potentially supports brain health and may alleviate neurological disorders."
-    ],
-    "side effects": [
-      "Gastrointestinal discomfort (nausea, diarrhea, loss of appetite)",
-      "Headaches",
-      "Insomnia",
-      "Rash or allergic reactions",
-      "Lowering of blood pressure (may not be suitable for those on blood pressure medications)"
-    ]
-  },
-  "fa": {
-    "description": "کوآنزیم Q10 (CoQ10) یک آنتی‌اکسیدان طبیعی است که در هر سلول بدن وجود دارد و نقش حیاتی در تولید انرژی به‌صورت آدنوزین تری‌فسفات (ATP) در میتوکندری‌ها دارد. این کوآنزیم برای عملکرد صحیح سلول ضروری است و در فرآیندهای متابولیک مختلف دخالت دارد. سطح CoQ10 ممکن است با افزایش سن یا به‌دلیل برخی شرایط پزشکی کاهش یابد که منجر به خستگی و مشکلات سلامتی دیگر می‌شود.",
-    "benefits": [
-      "بهبود تولید انرژی و کاهش خستگی.",
-      "عملکرد به‌عنوان یک آنتی‌اکسیدان قوی و حفاظت از سلول‌ها در برابر آسیب.",
-      "حمایت از سلامت قلب و ممکن است وضعیت‌هایی مانند نارسایی قلبی را بهبود بخشد.",
-      "ممکن است عملکرد ورزشی و بهبود بعد از آن را افزایش دهد.",
-      "پتانسیل حمایت از سلامت مغز و ممکن است اختلالات عصبی را تسکین دهد."
-    ],
-    "side effects": [
-      "ناراحتی‌های گوارشی (حالت تهوع، اسهال، از دست دادن اشتها)",
-      "سردرد",
-      "بی‌خوابی",
-      "راش یا واکنش‌های آلرژیک",
-      "کاهش فشار خون (ممکن است برای کسانی که تحت درمان فشار خون هستند مناسب نباشد)"
-    ]
-  }
-}
+# Coenzyme Q10 (CoQ10)
+
+## General Information
+
+Coenzyme Q10, commonly referred to as CoQ10, is a naturally occurring antioxidant found in the cells of the body. It plays a crucial role in the production of adenosine triphosphate (ATP), which is the primary energy carrier in all living cells. CoQ10 is present in the highest concentrations in organs with the highest energy demands, such as the heart, liver, and kidneys.
+
+### Functions and Benefits
+- **Energy Production**: CoQ10 is essential for the mitochondrial function and helps convert nutrients into energy.
+- **Antioxidant Properties**: It protects cells from oxidative damage by neutralizing free radicals.
+- **Heart Health**: CoQ10 is commonly used to improve heart health by lowering blood pressure and improving heart function.
+- **Exercise Performance**: Some studies suggest that CoQ10 supplementation may improve exercise performance and reduce fatigue.
+- **Neurological Health**: There is evidence that CoQ10 may support brain health and protect against neurodegenerative diseases such as Parkinson's and Alzheimer's.
+
+## Sources of CoQ10
+CoQ10 can be obtained from dietary sources as well as through supplementation.  
+**Dietary Sources**:
+- Fatty fish (e.g., salmon, mackerel)
+- Meat (beef, pork)
+- Whole grains
+- Nuts and seeds (especially peanuts and sesame seeds)
+- Spinach and broccoli
+
+**Supplement Forms**:
+- Softgels
+- Capsules
+- Tablets
+- Powder
+
+## Recommended Dosage
+While there is no established Recommended Dietary Allowance (RDA) for CoQ10, typical dosages range from **100 mg to 300 mg per day**. It is advisable to consult with a healthcare professional for personalized dosing, especially for various health conditions.
+
+## Side Effects
+Coenzyme Q10 is generally considered safe for most individuals. However, some potential side effects include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, or upset stomach.
+- **Allergic Reactions**: Rare cases of skin rash or itching.
+- **Headaches**: Some individuals may experience headaches.
+- **Insomnia**: Some users report difficulty sleeping.
+- **Blood Pressure Effects**: CoQ10 may lower blood pressure, which could be problematic for individuals on antihypertensive medications.
+
+### Interactions
+CoQ10 may interact with certain medications, including:
+- **Blood Thinners** (like warfarin): CoQ10 may reduce the effectiveness of these drugs.
+- **Antihypertensive Medications**: Due to its blood pressure-lowering effects, caution is advised.
+- **Chemotherapy Agents**: There is some controversy over the interaction of CoQ10 with certain cancer treatments; consult a healthcare provider prior to use.
+
+## Conclusion
+Coenzyme Q10 is a vital nutrient that may offer numerous health benefits, primarily related to energy production and cellular health. As with any supplement, it's important to consult with a healthcare professional before starting CoQ10, especially for those with underlying health conditions or those taking medications.

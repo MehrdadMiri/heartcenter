@@ -1,0 +1,30 @@
+```json
+{
+  "en": {
+    "description": "Reishi mushroom, also known as Ganoderma lucidum, is a medicinal fungus widely recognized for its potential health benefits. Traditionally used in Asian medicine, it is often consumed in the form of capsules, powders, or teas. Reishi is believed to enhance the immune system, reduce stress, improve sleep quality, and promote overall wellness. It contains bioactive compounds such as triterpenes, polysaccharides, and peptidoglycans that are responsible for its therapeutic properties.",
+    "benefits": "The benefits of Reishi mushroom include boosting the immune system, reducing fatigue, alleviating stress and anxiety, improving sleep quality, enhancing liver function, and potentially possessing anti-cancer properties. It is also thought to have anti-inflammatory and antioxidant effects, contributing to overall health.",
+    "side effects": [
+      "Dry mouth",
+      "Digestive upset",
+      "Nausea",
+      "Dizziness",
+      "Allergic reactions",
+      "Increased bleeding risk",
+      "Low blood pressure"
+    ]
+  },
+  "fa": {
+    "description": "قارچ ریشی، که به آن گانودرما لوسیدوم نیز گفته می‌شود، یک قارچ دارویی است که به خاطر فواید بالقوه سلامت آن به طور گسترده‌ای شناخته شده است. این قارچ به طور سنتی در پزشکی آسیایی مورد استفاده قرار می‌گیرد و معمولاً در قالب کپسول‌ها، پودرها یا چای‌ها مصرف می‌شود. به اعتقاد عموم، قارچ ریشی می‌تواند سیستم ایمنی را تقویت کند، استرس را کاهش دهد، کیفیت خواب را بهبود بخشد و به سلامتی کلی کمک کند. این قارچ شامل ترکیبات زیست‌فعالی مانند تری‌ترپن‌ها، پلی‌ساکاریدها و پپتیدوگلیکان‌ها است که مسئول خواص درمانی آن می‌باشند.",
+    "benefits": "فواید قارچ ریشی شامل تقویت سیستم ایمنی، کاهش خستگی، تسکین استرس و اضطراب، بهبود کیفیت خواب، بهبود عملکرد کبد و احتمالاً خاصیت ضدسرطانی است. همچنین، به عنوان یک ضد التهاب و آنتی‌اکسیدان عمل کرده و به سلامتی کلی کمک می‌کند.",
+    "side effects": [
+      "خشکی دهان",
+      "ناراحتی‌های گوارشی",
+      "حالت تهوع",
+      "سرگیجه",
+      "واکنش‌های آلرژیک",
+      "افزایش خطر خونریزی",
+      "فشار خون پایین"
+    ]
+  }
+}
+```

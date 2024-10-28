@@ -1,38 +1,49 @@
-{
- "en": {
-    "description": "Ginkgo Biloba is a herbal supplement derived from the leaves of the Ginkgo tree, one of the oldest living tree species. Traditionally used in herbal medicine, it is believed to enhance cognitive function, improve memory, and boost overall brain health by increasing blood flow to the brain and acting as an antioxidant. Ginkgo Biloba is often used by individuals looking to support mental clarity and reduce symptoms associated with conditions such as dementia and anxiety.",
-    "benefits": [
-        "Enhances cognitive function and memory.",
-        "Improves blood circulation.",
-        "Acts as an antioxidant, reducing oxidative stress.",
-        "May alleviate symptoms of anxiety and depression.",
-        "Supports eye health and may help with vision-related issues."
-    ],
-    "side effects": [
-        "Headaches",
-        "Dizziness",
-        "Nausea",
-        "Stomach upset",
-        "Allergic skin reactions",
-        "Increased risk of bleeding or bruising"
-    ]
- },
- "fa": {
-     "description": "جینکو بیلوبا یک مکمل گیاهی است که از برگ‌های درخت جینکو، یکی از قدیمی‌ترین گونه‌های درختی، استخراج می‌شود. این گیاه به طور سنتی در طب گیاهی استفاده می‌شود و اعتقاد بر این است که عملکرد شناختی را بهبود می‌بخشد، حافظه را افزایش می‌دهد و سلامت کلی مغز را با افزایش جریان خون به مغز و عمل به عنوان یک آنتی‌اکسیدان تقویت می‌کند. جینکو بیلوبا معمولاً توسط افرادی که به دنبال حمایت از وضوح ذهنی و کاهش علائم مرتبط با شرایطی مانند زوال عقل و اضطراب هستند، استفاده می‌شود.",
-     "benefits": [
-         "بهبود عملکرد شناختی و حافظه.",
-         "بهبود گردش خون.",
-         "عملکرد به عنوان یک آنتی‌اکسیدان و کاهش استرس اکسیداتیو.",
-         "ممکن است علائم اضطراب و افسردگی را تسکین دهد.",
-         "حمایت از سلامت چشم و ممکن است به مشکلات بینایی کمک کند."
-     ],
-     "side effects": [
-         "سردرد",
-         "سرگیجه",
-         "تهوع",
-         "ناراحتی معده",
-         "واکنش‌های آلرژیک پوستی",
-         "افزایش خطر خونریزی یا کبودی"
-     ]
- }
-}
+# Ginkgo Biloba
+
+## General Information
+
+### Overview
+Ginkgo biloba, commonly known as ginkgo or maidenhair tree, is one of the oldest living tree species. Ginkgo leaves and seeds are traditionally used in herbal medicines. The primary use of ginkgo supplements is to enhance cognitive function and improve memory, but it has also been studied for a variety of other health benefits.
+
+### Common Uses
+- **Cognitive Enhancement**: Often marketed as a memory booster and cognitive enhancer, particularly in aging populations.
+- **Circulatory Support**: Believed to improve blood flow and support vascular health.
+- **Anxiety Relief**: Some studies suggest it might help alleviate symptoms of anxiety.
+- **Eye Health**: Antioxidant properties may support vision health, particularly in conditions like age-related macular degeneration.
+
+### Active Compounds
+The main active compounds in Ginkgo biloba are:
+- **Flavonoids**: Antioxidants that may help protect cells from damage.
+- **Terpenoids**: Improve blood circulation by dilating blood vessels and reducing blood viscosity.
+
+## Dosage
+Typically, Ginkgo biloba is available in various forms, including capsules, tablets, and liquid extracts. The standard dosage ranges from 120 to 240 mg per day, divided into two or three doses. It is advisable to consult a healthcare professional for personalized dosages.
+
+## Side Effects
+
+While Ginkgo biloba is generally considered safe for most people, it may cause side effects in some cases, including:
+
+- **Gastrointestinal Issues**: Stomach upset, diarrhea, or nausea.
+- **Headaches**: Some users report headaches after taking ginkgo.
+- **Dizziness**: May cause lightheadedness or dizziness in certain individuals.
+- **Allergic Reactions**: Rash or sensitivity in some users, especially in individuals allergic to poison ivy, cashews, or mangoes due to similar compounds.
+- **Increased Bleeding Risk**: Could affect blood clotting and should be used cautiously by individuals taking blood thinners.
+- **Drivenness or Hyperactivity**: Some people may experience increased energy or restlessness.
+
+## Precautions
+
+- **Blood Thinners**: If you are on anticoagulants (e.g., warfarin, aspirin), consult a healthcare provider before use.
+- **Pregnancy and Nursing**: Safety during pregnancy or lactation is not well established, so it should be avoided unless prescribed by a healthcare professional.
+- **Surgery**: Discontinue use at least two weeks before surgical procedures due to potential bleeding risk.
+- **Pre-existing Conditions**: Not recommended for individuals with certain conditions like seizure disorders or those prone to bleeding.
+
+## Interactions
+
+Ginkgo biloba may interact with various medications, including:
+- **Anticoagulants and Antiplatelet Drugs**: Increases bleeding risk.
+- **Antidepressants (SSRIs)**: May cause serotonin syndrome when combined.
+- **Anticonvulsants**: Can lower the effectiveness of certain medications prescribed for seizures.
+
+## Conclusion
+
+Ginkgo biloba is a widely used herbal supplement with potential benefits for cognitive function and circulatory health. However, users should be aware of possible side effects and interactions with medications. It is always advisable to consult healthcare providers before starting any new supplement regimen.

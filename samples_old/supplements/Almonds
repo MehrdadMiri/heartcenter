@@ -1,0 +1,22 @@
+{
+ "en": {
+    "description": "Almonds are nutrient-rich seeds that are commonly consumed as a snack or used in various recipes. They are loaded with healthy fats, proteins, vitamins, and minerals, particularly vitamin E, magnesium, and fiber. Almonds can be eaten raw, roasted, or as almond butter, and they serve as a versatile ingredient in both sweet and savory dishes, promoting overall health and wellness.",
+    "benefits": "Almonds are known to improve heart health, lower cholesterol levels, support weight management, and enhance brain function. They also provide antioxidants, help regulate blood sugar levels, and may reduce inflammation in the body.",
+    "side effects": [
+      "Allergic reactions (e.g., hives, swelling, difficulty breathing)",
+      "Digestive issues (e.g., bloating, gas, diarrhea if consumed excessively)",
+      "Weight gain (if consumed in large quantities due to high-caloric content)",
+      "Nutrient absorption interference (due to high oxalate levels in some individuals)"
+    ]
+ },
+ "fa": {
+     "description": "بادام‌ها دانه‌های مغذی هستند که معمولاً به‌عنوان تنقلات یا در دستورهای مختلف مورد استفاده قرار می‌گیرند. آن‌ها سرشار از چربی‌های سالم، پروتئین‌ها، ویتامین‌ها و مواد معدنی، به ویژه ویتامین E، منیزیم و فیبر هستند. بادام‌ها می‌توانند به‌صورت خام، بو داده، یا به‌عنوان کره بادام مصرف شوند و به‌عنوان ماده‌ای چندمنظوره در غذاهای شیرین و شور عمل کنند و سلامت کلی را ترویج دهند.",
+     "benefits": "بادام‌ها به بهبود سلامت قلب، کاهش سطح کلسترول، حمایت از مدیریت وزن و افزایش عملکرد مغز معروف هستند. آن‌ها همچنین حاوی آنتی‌اکسیدان‌ها هستند، به تنظیم سطح قند خون کمک می‌کنند و ممکن است التهاب در بدن را کاهش دهند.",
+     "side effects": [
+       "واکنش‌های آلرژیک (مانند کهیر، ورم، مشکل در تنفس)",
+       "مشکلات گوارشی (مانند نفخ، گاز، اسهال در صورت مصرف بیش از حد)",
+       "افزایش وزن (اگر در مقادیر زیاد به دلیل محتوای بالای کالری مصرف شوند)",
+       "مداخله در جذب مواد مغذی (به دلیل سطح بالای اگزالات در بعضی افراد)"
+     ]
+ }
+}

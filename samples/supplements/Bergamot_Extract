@@ -1,26 +1,53 @@
-{
- "en": {
-    "description": "Bergamot extract, derived from the peel of the bergamot orange (Citrus bergamia), is commonly used in aromatherapy and traditional medicine for its potential therapeutic properties, including its ability to improve mood, reduce anxiety, and promote relaxation. This extract is rich in flavonoids and essential oils that contribute to its antioxidant, anti-inflammatory, and antibacterial effects, making it popular in both dietary supplements and skincare products.",
-    "benefits": "Bergamot extract may help alleviate stress and anxiety, enhance digestive health, support cardiovascular health by regulating cholesterol levels, and boost mood and emotional well-being. Additionally, it has antimicrobial properties that can aid skin health and support the immune system.",
-    "side effects": [
-      "Skin irritation or allergic reactions",
-      "Photosensitivity or increased skin sensitivity to sunlight",
-      "Nausea or gastrointestinal discomfort",
-      "Headache",
-      "Dizziness",
-      "Potential interaction with certain medications (e.g., statins)"
-    ]
- },
- "fa": {
-     "description": "عصاره برگاموت که از پوست پرتقال برگاموت (Citrus bergamia) استخراج می‌شود، به طور معمول در آروماتراپی و طب سنتی برای خواص درمانی بالقوه‌اش مورد استفاده قرار می‌گیرد، از جمله توانایی آن در بهبود خلق‌وخوی، کاهش اضطراب و ترویج آرامش. این عصاره سرشار از فلاونوئیدها و روغن‌های ضروری است که به خواص آنتی‌اکسیدانی، ضد التهابی و آنتی باکتریالی آن کمک می‌کند و آن را در مکمل‌های غذایی و محصولات مراقبت از پوست محبوب می‌سازد.",
-     "benefits": "عصاره برگاموت ممکن است به کاهش استرس و اضطراب کمک کند، به بهبود سلامت گوارش کمک کرده، سلامت قلب و عروق را با تنظیم سطوح کلسترول پشتیبانی کند و خلق و خو و رفاه عاطفی را افزایش دهد. علاوه بر این، خواص ضد میکروبی آن می‌تواند به سلامت پوست و حمایت از سیستم ایمنی کمک کند.",
-     "side effects": [
-       "تحریکی یا واکنش آلرژیک پوستی",
-       "حساسیت به نور یا افزایش حساسیت پوست به نور خورشید",
-       "تهوع یا ناراحتی گوارشی",
-       "سردرد",
-       "سرگیجه",
-       "امکان تداخل با برخی داروها (مانند استاتین‌ها)"
-     ]
- }
-}
+# Bergamot Extract
+
+## General Information
+
+Bergamot extract is derived from the fruit of the bergamot orange (Citrus bergamia), a citrus fruit primarily grown in Italy. Known for its aromatic zest and oil, bergamot has gained popularity not just for its fragrance but also for its potential health benefits. The extract is rich in polyphenols, particularly flavonoids, which contribute to its various therapeutic properties.
+
+### Nutritional Profile
+
+- **Vitamins**: Contains small amounts of Vitamin C and other antioxidants.
+- **Flavonoids**: High in specific types such as bergamotine, which may have various health implications.
+- **Essential Oils**: Contains compounds like linalool and limonene that are thought to have medicinal properties.
+
+### Health Benefits
+
+1. **Cholesterol Management**: Bergamot extract may help lower LDL (bad cholesterol) and triglycerides while increasing HDL (good cholesterol).
+   
+2. **Antioxidant Properties**: The flavonoids in bergamot have antioxidant effects, which can help protect cells from oxidative stress.
+
+3. **Anti-Inflammatory Effects**: Bergamot may reduce inflammation, which is beneficial for various chronic diseases.
+
+4. **Metabolic Health**: Some studies suggest that it may improve metabolic parameters, including blood sugar levels.
+
+5. **Psychological Benefits**: Bergamot oil is often used in aromatherapy for its calming effects, potentially reducing anxiety and stress.
+
+6. **Anti-Microbial Effects**: Preliminary studies suggest that bergamot may exhibit antimicrobial properties.
+
+## Recommended Dosage
+
+The typical dosage of bergamot extract can vary depending on the form (capsule, oil, tea) and concentration. However, common dosages range from **500 mg to 1,500 mg daily**. It's vital to follow the manufacturer's instructions or consult a healthcare provider for personalized recommendations.
+
+## Side Effects
+
+While bergamot extract is generally considered safe when consumed at recommended doses, it can cause some side effects, including:
+
+- **Photosensitivity**: Some individuals may experience increased sensitivity to sunlight, leading to a higher risk of sunburn.
+  
+- **Gastrointestinal Issues**: Potential for nausea, diarrhea, or stomach upset.
+
+- **Allergic Reactions**: Some people may experience skin rashes or other allergic reactions.
+
+- **Drug Interactions**: May interact with certain medications, such as those used for high blood pressure, cholesterol, or blood sugar control.
+
+- **Blood Sugar Levels**: May affect blood sugar levels, which can be a concern for people with diabetes.
+
+## Contraindications
+
+- **Pregnancy and Breastfeeding**: There is limited research, so it is advisable to avoid bergamot extract during pregnancy and breastfeeding unless supervised by a healthcare provider.
+
+- **Liver Disorders**: Individuals with liver conditions should consult a doctor before using bergamot extract due to potential effects on liver function.
+
+## Conclusion
+
+Bergamot extract shows promise in several health areas, particularly for cholesterol management and antioxidant benefits. However, as with any supplement, it is crucial to use it responsibly and consult with a healthcare professional, especially for individuals with underlying health conditions or those taking other medications. Always consider potential side effects and interactions before adding bergamot extract to your regimen.

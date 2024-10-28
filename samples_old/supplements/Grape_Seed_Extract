@@ -1,0 +1,42 @@
+```json
+{
+  "en": {
+    "description": "Grape Seed Extract is a concentrated substance derived from the seeds of grapes, scientifically known for its high antioxidant content, particularly proanthocyanidins. This extract is commonly used as a dietary supplement to support cardiovascular health, improve circulation, and enhance skin health by protecting against UV radiation and promoting collagen synthesis. Its antioxidant properties also help combat oxidative stress and inflammation in the body.",
+    "benefits": [
+      "Supports cardiovascular health and improves circulation.",
+      "Reduces blood pressure and cholesterol levels.",
+      "Enhances skin health by providing protection from UV damage.",
+      "Promotes collagen synthesis for improved skin elasticity.",
+      "Acts as a powerful antioxidant, helping to reduce oxidative stress.",
+      "May aid in weight management and metabolic health."
+    ],
+    "side effects": [
+      "Headache",
+      "Nausea",
+      "Dizziness",
+      "Upset stomach",
+      "Allergic reactions (in rare cases)",
+      "Potential interactions with blood-thinning medications"
+    ]
+  },
+  "fa": {
+    "description": "عصاره دانه انگور ماده‌ای غلیظ است که از دانه‌های انگور استخراج می‌شود و به دلیل محتوای بالای آنتی‌اکسیدان، به‌ویژه پروآنتوسیانیدین‌ها، شناخته شده است. این عصاره معمولاً به‌عنوان یک مکمل غذایی برای حمایت از سلامت قلب و عروق، بهبود گردش خون و افزایش سلامت پوست مورد استفاده قرار می‌گیرد زیرا از پوست در برابر اشعه ماوراء بنفش محافظت می‌کند و سنتز کلاژن را تشویق می‌نماید. خواص آنتی‌اکسیدانی آن همچنین به مقابله با استرس اکسیداتیو و التهاب در بدن کمک می‌کند.",
+    "benefits": [
+      "حمایت از سلامت قلب و عروق و بهبود گردش خون.",
+      "کاهش فشار خون و سطح کلسترول.",
+      "بهبود سلامت پوست با فراهم کردن محافظت در برابر آسیب‌های UV.",
+      "تشویق به سنتز کلاژن برای بهبود الاستیسیته پوست.",
+      "عمل به عنوان یک آنتی‌اکسیدان قوی، کمک به کاهش استرس اکسیداتیو.",
+      "ممکن است به مدیریت وزن و سلامت متابولیک کمک کند."
+    ],
+    "side effects": [
+      "سردرد",
+      "تهوع",
+      "سرگیجه",
+      "معده‌درد",
+      "واکنش‌های آلرژیک (در موارد نادر)",
+      "ممکن است با داروهای رقیق‌کننده خون تداخل داشته باشد"
+    ]
+  }
+}
+```

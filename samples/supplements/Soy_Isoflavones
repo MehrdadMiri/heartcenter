@@ -1,36 +1,45 @@
-{
-  "en": {
-    "description": "Soy isoflavones are natural compounds found in soybeans that belong to a class of compounds known as phytoestrogens. They are structurally similar to estrogen and can bind to estrogen receptors in the body, potentially mimicking or modulating the effects of estrogen. Soy isoflavones are commonly used as dietary supplements for various health benefits, particularly in alleviating menopausal symptoms, supporting heart health, and possibly reducing the risk of certain cancers through their antioxidant properties.",
-    "benefits": [
-      "Alleviation of menopausal symptoms such as hot flashes and night sweats.",
-      "Support for cardiovascular health by improving lipid profiles.",
-      "Potential reduction in the risk of hormone-related cancers, such as breast and prostate cancer.",
-      "Bone health support by maintaining bone density.",
-      "Antioxidant properties that may protect against oxidative stress."
-    ],
-    "side effects": [
-      "Gastrointestinal disturbances such as bloating and gas.",
-      "Headaches.",
-      "Skin reactions or allergic responses.",
-      "Potential interaction with hormone-sensitive conditions.",
-      "Effects on thyroid function in individuals with existing thyroid problems."
-    ]
-  },
-  "fa": {
-    "description": "ایزوفلاون‌های سویا ترکیبات طبیعی هستند که در لوبیاهای سویا یافت می‌شوند و به دسته‌ای از ترکیبات به نام فیتواستروژن‌ها تعلق دارند. آن‌ها از نظر ساختاری شبیه به استروژن هستند و می‌توانند به گیرنده‌های استروژن در بدن متصل شوند و به طور بالقوه اثرات استروژن را شبیه‌سازی یا تعدیل کنند. ایزوفلاون‌های سویا معمولاً به عنوان مکمل‌های غذایی برای مزایای مختلف سلامتی، به ویژه برای کاهش علائم یائسگی، حمایت از سلامت قلب و احتمالاً کاهش خطر برخی سرطان‌ها از طریق خواص آنتی‌اکسیدانی استفاده می‌شوند.",
-    "benefits": [
-      "کاهش علائم یائسگی مانند گرگرفتگی و تعریق شبانه.",
-      "حمایت از سلامت قلب با بهبود پروفایل چربی‌ها.",
-      "کاهش بالقوه خطر سرطان‌های وابسته به هورمون، مانند سرطان سینه و پروستات.",
-      "حمایت از سلامت استخوان‌ها با حفظ چگالی استخوان.",
-      "خواص آنتی‌اکسیدانی که ممکن است در برابر استرس اکسیداتیو محافظت کند."
-    ],
-    "side effects": [
-      "اختلالات گوارشی مانند نفخ و گاز.",
-      "سردرد.",
-      "واکنش‌های پوستی یا حساسیتی.",
-      "تداخل بالقوه با شرایط حساس به هورمون.",
-      "تأثیرات بر عملکرد تیروئید در افرادی با مشکلات تیروئید موجود."
-    ]
-  }
-}
+# Soy Isoflavones
+
+## General Information
+
+Soy isoflavones are compounds found in soybeans and other soy products that belong to a class of phytoestrogens, which are plant-derived estrogens. The primary isoflavones found in soy include genistein, daidzein, and glycitein. These compounds are known for their potential health benefits and are often taken as supplements to support various aspects of health, particularly in relation to hormonal balance and menopausal symptoms.
+
+### Potential Health Benefits
+
+1. **Menopausal Symptom Relief**: Isoflavones may help alleviate hot flashes and other symptoms associated with menopause by mimicking the effects of estrogen in the body.
+  
+2. **Bone Health**: Some research suggests that soy isoflavones may help maintain bone density and reduce the risk of osteoporosis in postmenopausal women.
+
+3. **Cardiovascular Health**: Soy isoflavones may improve heart health by lowering blood cholesterol levels and improving arterial function.
+
+4. **Cancer Prevention**: Some studies indicate that soy isoflavones might have protective effects against certain types of cancer, particularly breast and prostate cancer, although more research is needed in this area.
+
+5. **Menstrual Health**: Isoflavones may support menstrual regularity and alleviate symptoms of premenstrual syndrome (PMS).
+
+## Dosage
+
+Typical dosages for soy isoflavones as a supplement range from 40 to 100 mg per day. However, it is important to follow the dosage recommendations provided on the product label or those given by a healthcare provider.
+
+## Side Effects
+
+While soy isoflavones are generally considered safe for most people when consumed in moderate amounts, they can cause side effects in some individuals. Possible side effects include:
+
+- **Gastrointestinal Issues**: Some users may experience bloating, gas, diarrhea, or constipation.
+  
+- **Allergic Reactions**: Individuals allergic to soy may experience symptoms such as rashes, itching, or swelling.
+
+- **Hormonal Effects**: Due to their estrogen-like properties, soy isoflavones may cause hormonal imbalances in sensitive individuals, potentially leading to menstrual irregularities or exacerbation of hormone-sensitive conditions.
+
+- **Thyroid Function**: High doses of soy isoflavones may interfere with thyroid hormone production, especially in individuals with pre-existing thyroid conditions.
+
+- **Medication Interactions**: Soy isoflavones could potentially interact with medications, particularly those related to hormonal therapies, anticoagulants, and thyroid medications.
+
+## Precautions
+
+- **Consult Healthcare Provider**: It's important for individuals, especially those with hormone-sensitive conditions or those taking other medications, to consult a healthcare provider before starting soy isoflavone supplements.
+
+- **Pregnancy and Breastfeeding**: Pregnant and breastfeeding women should use caution and consult a healthcare professional, as the safety of high doses of isoflavones during these periods is not well established.
+
+## Conclusion
+
+Soy isoflavones are a popular supplement, known for their potential health benefits, particularly related to women’s health and hormonal balance. While generally regarded as safe, it's essential to consider individual health conditions and consult with a healthcare provider before beginning any new supplement regimen.

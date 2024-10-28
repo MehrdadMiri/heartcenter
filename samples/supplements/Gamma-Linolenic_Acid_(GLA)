@@ -1,26 +1,49 @@
-{
-  "en": {
-    "description": "Gamma-Linolenic Acid (GLA) is an omega-6 fatty acid found in various plant oils, particularly evening primrose oil, borage oil, and black currant seed oil. It is recognized for its anti-inflammatory properties and is often used as a dietary supplement to manage various health conditions, including eczema, arthritis, and premenstrual syndrome (PMS). GLA is thought to help the body produce prostaglandins, which are hormone-like substances that play a crucial role in regulating inflammation and cell growth.",
-    "benefits": "GLA may support skin health by alleviating eczema symptoms, reduce joint pain and inflammation in arthritis, and help manage symptoms related to PMS. It is also believed to contribute to overall cardiovascular health and may aid in maintaining hormonal balance.",
-    "side effects": [
-      "Digestive issues (nausea, diarrhea)",
-      "Headaches",
-      "Skin rashes or irritation",
-      "Increased bleeding risk (especially in individuals on anticoagulants)",
-      "Low blood pressure",
-      "Allergic reactions in some individuals"
-    ]
-  },
-  "fa": {
-    "description": "اسید گامالینولنیک (GLA) یک اسید چرب امگا-6 است که در روغن‌های گیاهی مختلف، به ویژه روغن گل گاوزبان، روغن گل پریماوز و روغن دانه‌های زردآلو یافت می‌شود. این اسید به خاطر خواص ضد التهابی‌اش شناخته‌شده است و به‌طور معمول به عنوان یک مکمل غذایی برای مدیریت شرایط مختلف بهداشتی، از جمله اگزما، آرتریت و سندرم پیش از قاعدگی (PMS) استفاده می‌شود. GLA به تولید پروستاگلاندین‌ها کمک می‌کند که مواد شبیه هورمون هستند و نقشی حیاتی در تنظیم التهاب و رشد سلولی ایفا می‌کنند.",
-    "benefits": "GLA ممکن است با کاهش علائم اگزما از سلامت پوست حمایت کند، درد و التهاب مفاصل را در آرتریت کاهش دهد و به مدیریت علائم مرتبط با PMS کمک کند. همچنین معتقد است که GLA به سلامت کلی قلب و عروق کمک می‌کند و ممکن است در حفظ تعادل هورمونی موثر باشد.",
-    "side effects": [
-      "مشکلات گوارشی (تهوع، اسهال)",
-      "سردرد",
-      "خارش یا تحریک پوستی",
-      "افزایش خطر خونریزی (به‌ویژه در افرادی که از رقیق‌کننده‌های خون استفاده می‌کنند)",
-      "فشار خون پایین",
-      "واکنش‌های آلرژیک در برخی افراد"
-    ]
-  }
-}
+# Gamma-Linolenic Acid (GLA)
+
+## General Information
+
+**Gamma-Linolenic Acid (GLA)** is a fatty acid that is primarily found in certain plant oils, notably evening primrose oil, borage oil, and black currant seed oil. It is a member of the omega-6 fatty acid family, which plays a crucial role in cellular function and overall health. GLA is known for its anti-inflammatory properties and is often used as a dietary supplement.
+
+### Sources of GLA
+- **Evening Primrose Oil**: Extracted from the seeds of the evening primrose plant.
+- **Borage Oil**: Derived from the seeds of the borage herb.
+- **Black Currant Seed Oil**: Extracted from the seeds of black currants.
+- **Hemp Oil**: Contains smaller amounts of GLA.
+
+### Functions in the Body
+GLA is converted into important eicosanoids, which are signaling molecules that help regulate various bodily functions, including:
+- Inflammation response
+- Cell growth and repair
+- Hormonal regulation
+
+### Potential Health Benefits
+Research suggests that GLA may have several health benefits, including:
+- **Anti-inflammatory effects**: May help reduce symptoms of conditions like rheumatoid arthritis and eczema.
+- **Skin health**: Can support the skin barrier and improve hydration.
+- **Hormonal balance**: May help alleviate symptoms of premenstrual syndrome (PMS) and hormonal imbalances.
+- **Weight management**: Some studies suggest it may assist in managing weight and body fat.
+
+## Recommended Dosage
+The typical dosage of GLA supplements varies depending on the condition being treated but generally ranges from **240 mg to 400 mg per day**. It is recommended to consult a healthcare professional prior to starting GLA supplementation.
+
+## Side Effects
+While GLA is generally considered safe for most people, it may cause some side effects in certain individuals. Potential side effects include:
+
+- **Gastrointestinal Issues**: Nausea, diarrhea, and stomach discomfort.
+- **Allergic Reactions**: Rash, itching, or difficulty breathing, especially in those allergic to plants in the same family (e.g., evening primrose).
+- **Hormonal Effects**: Some individuals may experience changes in menstrual cycles or other hormonal fluctuations.
+- **Blood Thinning**: GLA may have a blood-thinning effect; caution is advised for individuals on anticoagulant medications.
+- **Interaction with Medications**: May interact with medications such as NSAIDs and antihypertensives.
+
+## Contraindications
+GLA should be used with caution in:
+- **Pregnant and breastfeeding women**: Limited research on safety.
+- **Individuals with bleeding disorders**: Due to potential blood-thinning effects.
+- **People on certain medications**: Particularly those that affect blood clotting or blood pressure.
+
+## Conclusion
+Gamma-Linolenic Acid (GLA) is a beneficial omega-6 fatty acid known for its potential anti-inflammatory properties and health benefits. It is primarily consumed through dietary supplements derived from specific plant oils. As with any supplement, it is important to discuss its use with a healthcare provider, especially in the context of existing health conditions or medications.
+
+---
+
+For further information, consult with a healthcare professional or a registered dietitian, and always adhere to recommended dosages and guidelines associating with supplementary health practices.

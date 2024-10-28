@@ -1,0 +1,40 @@
+{
+  "en": {
+    "description": "Garlic (Allium sativum) is a bulbous plant belonging to the onion family, often used both as a culinary ingredient and for its potential health benefits. Rich in sulfur compounds such as allicin, garlic is believed to possess antioxidant, anti-inflammatory, and antimicrobial properties. It is commonly used to boost heart health, lower blood pressure, improve cholesterol levels, and may also enhance the immune system. Additionally, garlic has been associated with reducing the risk of certain cancers and improving overall digestive health.",
+    "benefits": [
+      "Lowers blood pressure",
+      "Improves cholesterol levels",
+      "Enhances immune function",
+      "Possesses antioxidant properties",
+      "May reduce the risk of certain cancers",
+      "Improves cardiovascular health"
+    ],
+    "side effects": [
+      "Bad breath",
+      "Body odor",
+      "Heartburn",
+      "Nausea",
+      "Diarrhea",
+      "Allergic reactions in some individuals"
+    ]
+  },
+  "fa": {
+    "description": "سیر (Allium sativum) یک گیاه پیازی از خانواده پیاز است که به طور معمول به عنوان ماده‌ای غذایی و همچنین به دلیل فواید بهداشتی آن استفاده می‌شود. سیر غنی از ترکیبات گوگردی مانند آلیسین است که به خواص آنتی‌اکسیدانی، ضدالتهابی و ضد میکروبی مشهور است. این گیاه معمولاً برای تقویت سلامت قلب، کاهش فشار خون، بهبود سطح کلسترول و همچنین افزایش عملکرد سیستم ایمنی بدن به کار می‌رود. علاوه بر این، سیر با کاهش خطر برخی از انواع سرطان و بهبود سلامت کلی سیستم گوارش نیز مرتبط است.",
+    "benefits": [
+      "کاهش فشار خون",
+      "بهبود سطح کلسترول",
+      "تقویت عملکرد سیستم ایمنی",
+      "دارای خواص آنتی‌اکسیدانی",
+      "کاهش خطر برخی سرطان‌ها",
+      "بهبود سلامت قلب و عروق"
+    ],
+    "side effects": [
+      "بوی بد دهان",
+      "بوی بد بدن",
+      "سوزش معده",
+      "تهوع",
+      "اسهال",
+      "واکنش‌های آلرژیک در برخی افراد"
+    ]
+  }
+}

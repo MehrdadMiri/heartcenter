@@ -1,0 +1,24 @@
+{
+ "en": {
+    "description": "Chia seeds are tiny black seeds obtained from the Salvia hispanica plant, which is native to Mexico and Guatemala. They are rich in omega-3 fatty acids, antioxidants, fiber, protein, and various essential nutrients, making them a popular choice for health-conscious individuals. When soaked in water or other liquids, chia seeds expand and form a gel-like consistency, making them a versatile ingredient in smoothies, puddings, and baked goods. They are often praised for their health benefits, particularly for supporting heart health, digestion, and weight management.",
+    "benefits": "Chia seeds provide numerous health benefits, including improved heart health due to their high omega-3 fatty acid content, enhanced digestive health through their fiber content, and support for weight management as they promote a feeling of fullness. They also help maintain hydration, stabilize blood sugar levels, and provide important nutrients like calcium, magnesium, and phosphorus.",
+    "side effects": [
+      "Nausea",
+      "Diarrhea",
+      "Abdominal discomfort",
+      "Bloating",
+      "Allergic reactions (rare)"
+    ]
+ },
+ "fa": {
+     "description": "دانه‌های چیا دانه‌های کوچکی هستند که از گیاه سالویای هیسپانیکا گرفته شده‌اند که بومی مکزیک و گواتمالا هستند. این دانه‌ها سرشار از اسیدهای چرب امگا-۳، آنتی‌اکسیدان‌ها، فیبر، پروتئین و مواد مغذی ضروری هستند و به همین دلیل مورد توجه افراد آگاه به سلامت قرار گرفته‌اند. وقتی دانه‌های چیا در آب یا مایعات دیگر خیسانده شوند، متورم شده و یک قوام ژل مانند پیدا می‌کنند که آنها را به ماده‌ای چندمنظوره در اسموتی‌ها، پودینگ‌ها و محصولات پخته تبدیل می‌کند. دانه‌های چیا معمولاً به خاطر فواید سلامتی‌شان، به ویژه در حمایت از سلامت قلب، هضم و مدیریت وزن، تحسین می‌شوند.",
+     "benefits": "دانه‌های چیا فواید سلامتی متعددی دارند، از جمله بهبود سلامت قلب به دلیل محتوای بالای اسید چرب امگا-۳، بهبود سلامت دستگاه گوارش از طریق محتوای فیبر و حمایت از مدیریت وزن از طریق ارتقاء حس سیری. همچنین به حفظ هیدراتاسیون، تثبیت سطح قند خون و تأمین مواد مغذی مهمی مانند کلسیم، منیزیم و فسفر کمک می‌کنند.",
+     "side effects": [
+      "حالت تهوع",
+      "اسهال",
+      "ناراحتی شکمی",
+      "نفخ",
+      "واکنش‌های آلرژیک (کم‌تر شایع)"
+     ]
+ }
+}

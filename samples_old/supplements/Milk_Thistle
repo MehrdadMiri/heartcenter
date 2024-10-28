@@ -1,0 +1,40 @@
+{
+  "en": {
+    "description": "Milk thistle is a flowering herb that has been used for centuries to support liver health and overall wellness. The active ingredient in milk thistle, silymarin, is a powerful antioxidant that helps protect liver cells from damage, promotes liver regeneration, and detoxification. Traditionally, it has been used to treat liver-related conditions, including cirrhosis, jaundice, and hepatitis, while also being explored for its potential benefits in managing cholesterol levels and providing anti-inflammatory effects.",
+    "benefits": [
+      "Supports liver health and detoxification",
+      "Promotes liver cell regeneration",
+      "Acts as an antioxidant to reduce oxidative stress",
+      "May help manage cholesterol levels",
+      "Potential anti-inflammatory properties",
+      "Can alleviate symptoms of liver diseases"
+    ],
+    "side effects": [
+      "Gastrointestinal upset",
+      "Allergic reactions (such as rash or itching)",
+      "Headache",
+      "Nausea",
+      "Diarrhea",
+      "Fatigue"
+    ]
+  },
+  "fa": {
+    "description": "خار مریم یک گیاه گلدار است که قرن‌ها برای حمایت از سلامت کبد و رفاه عمومی استفاده می‌شود. ماده فعال در خار مریم، سیلیمارین، یک آنتی‌اکسیدان قوی است که به حفاظت از سلول‌های کبدی در برابر آسیب، ترویج تجدید سلول‌های کبدی و سم‌زدایی کمک می‌کند. به طور سنتی، از آن برای درمان بیماری‌های مرتبط با کبد، از جمله سیروز، زردی و هپاتیت استفاده شده است و همچنین برای پتانسیل‌های آن در مدیریت سطح کلسترول و ارائه اثرات ضد التهابی بررسی شده است.",
+    "benefits": [
+      "حمایت از سلامت کبد و سم‌زدایی",
+      "ترویج تجدید سلول‌های کبدی",
+      "عمل به عنوان یک آنتی‌اکسیدان برای کاهش استرس اکسیداتیو",
+      "ممکن است به مدیریت سطح کلسترول کمک کند",
+      "پتانسیل خواص ضد التهابی",
+      "می‌تواند علائم بیماری‌های کبدی را کاهش دهد"
+    ],
+    "side effects": [
+      "ناراحتی گوارشی",
+      "واکنش‌های آلرژیک (مانند کهیر یا خارش)",
+      "سردرد",
+      "تهوع",
+      "اسهال",
+      "خستگی"
+    ]
+  }
+}
