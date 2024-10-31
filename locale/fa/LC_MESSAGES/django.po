@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-31 11:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: templates/base.html:6 templates/home.html:4
+msgid "Heart Center"
+msgstr ""
+
+#: templates/base.html:22
+msgid "Switch to Persian"
+msgstr "تغییر به فارسی"
+
+#: templates/base.html:24
+msgid "Switch to English"
+msgstr "تغییر به انگلیسی"
+
+#: templates/base.html:28
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+#: templates/base.html:35 templates/home.html:10
+msgid "Diseases"
+msgstr "بیماری‌ها"
+
+#: templates/base.html:43 templates/home.html:11
+msgid "Medications"
+msgstr "داروها"
+
+#: templates/base.html:51 templates/home.html:12
+msgid "Supplements"
+msgstr "مکمل‌ها"
+
+#: templates/base.html:59 templates/home.html:13
+msgid "Doctors"
+msgstr "پزشکان"
+
+#: templates/diseases/disease_list.html:4
+msgid "Disease List"
+msgstr "لیست بیماری‌ها"
+
+#: templates/doctors/doctor_list.html:4
+msgid "doctor List"
+msgstr "لیست پزشکان"
+
+#: templates/home.html:7
+msgid "Welcome to the Heart Center"
+msgstr "به مرکز قلب خوش آمدید"
+
+#: templates/home.html:8
+msgid "Select a section to explore:"
+msgstr "بخشی را برای مشاهده انتخاب کنید:"
+
+#: templates/medications/medication_list.html:4
+msgid "medication List"
+msgstr "لیست داروها"
+
+#: templates/supplements/supplement_list.html:4
+msgid "supplement List"
+msgstr "لیست مکمل‌ها"

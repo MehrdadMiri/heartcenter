@@ -1,14 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Disease List</title>
-</head>
-<body>
-    <h1>Diseases</h1>
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}{% trans "Disease List" %}{% endblock %}
+
+{% block sidebar%}
     <ul>
         {% for disease in diseases %}
-            <li><a href="{% url 'diseases:disease_detail' disease.pk %}">{{ disease.name }}</a></li>
+            <li>
+                <a 
+                  hx-get="{% url 'diseases:disease_detail' disease.pk %}" 
+                  hx-target="#content" 
+                  hx-swap="innerHTML">
+                    {{ disease.name }}
+                </a>
+            </li>
         {% endfor %}
     </ul>
-</body>
-</html>
+{% endblock %}

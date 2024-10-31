@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Heart Center</title>
-</head>
-<body>
-    <h1>Welcome to the Heart Center</h1>
-    <p>Select a section to explore:</p>
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}{% trans "Heart Center" %}{% endblock %}
+
+{% block content %}
+    <h1>{% trans "Welcome to the Heart Center" %}</h1>
+    <p>{% trans "Select a section to explore:" %}</p>
     <ul>
-        <li><a href="{% url 'diseases:disease_list' %}">Diseases</a></li>
-        <li><a href="{% url 'medications:medication_list' %}">Medications</a></li>
-        <li><a href="{% url 'supplements:supplement_list' %}">Supplements</a></li>
-        <li><a href="{% url 'doctors:doctor_list' %}">Doctors</a></li>
+        <li><a href="{% url 'diseases:disease_list' %}">{% trans "Diseases" %}</a></li>
+        <li><a href="{% url 'medications:medication_list' %}">{% trans "Medications" %}</a></li>
+        <li><a href="{% url 'supplements:supplement_list' %}">{% trans "Supplements" %}</a></li>
+        <li><a href="{% url 'doctors:doctor_list' %}">{% trans "Doctors" %}</a></li>
     </ul>
-</body>
-</html>
+{% endblock %}

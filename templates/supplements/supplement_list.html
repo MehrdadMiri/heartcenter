@@ -1,16 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Supplement List</title>
-</head>
-<body>
-    <h1>Supplements</h1>
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}{% trans "Supplement List" %}{% endblock %}
+
+{% block sidebar%}
     <ul>
         {% for supplement in supplements %}
             <li>
-                <a href="{% url 'supplements:supplement_detail' supplement.pk %}">{{ supplement.name }}</a>
+                <a 
+                  hx-get="{% url 'supplements:supplement_detail' supplement.pk %}" 
+                  hx-target="#content" 
+                  hx-swap="innerHTML">
+                    {{ supplement.name }}
+                </a>
             </li>
         {% endfor %}
     </ul>
-</body>
-</html>
+{% endblock %}
+

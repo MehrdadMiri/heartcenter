@@ -1,0 +1,44 @@
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_CODE == 'fa' %}dir="rtl"{% else %}dir="ltr"{% endif %}>
+<head>
+    <title>{% block title %}{% trans "Heart Center" %}{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <script src="https://unpkg.com/htmx.org@1.8.4"></script>
+</head>
+<body>
+    {% load i18n %}
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_CODE == 'fa' %}dir="rtl"{% else %}dir="ltr"{% endif %}>
+<body>
+    <div class="container">
+        <div class="sidebar" id="sidebar">
+            <div class="language-switcher">
+                <form action="{% url 'set_language' %}" method="post">
+                    {% csrf_token %}
+                    <input name="next" type="hidden" value="{{ request.path }}">
+                    {% if LANGUAGE_CODE == 'en' %}
+                        <button type="submit" name="language" value="fa">{% trans "Switch to Persian" %}</button>
+                    {% else %}
+                        <button type="submit" name="language" value="en">{% trans "Switch to English" %}</button>
+                    {% endif %}
+                </form>
+            </div>
+            <h2>{% trans "Categories" %}</h2>
+            <ul>
+                <li><a href="{% url 'diseases:disease_list' %}">{% trans "Diseases" %}</a></li>
+                <li><a href="{% url 'medications:medication_list' %}">{% trans "Medications" %}</a></li>
+                <li><a href="{% url 'supplements:supplement_list' %}">{% trans "Supplements" %}</a></li>
+                <li><a href="{% url 'doctors:doctor_list' %}">{% trans "Doctors" %}</a></li>            </ul>
+            <div id="sidebar-content">
+                {% block sidebar %}{% endblock %}
+                <!-- This is where the disease list will load -->
+            </div>
+        </div>
+        <div class="content" id="content">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+</body>
+</html>

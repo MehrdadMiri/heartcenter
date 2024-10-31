@@ -1,16 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Doctor List</title>
-</head>
-<body>
-    <h1>Doctors</h1>
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}{% trans "Doctor List" %}{% endblock %}
+
+{% block sidebar%}
     <ul>
         {% for doctor in doctors %}
             <li>
-                <a href="{% url 'doctors:doctor_detail' doctor.pk %}">{{ doctor.name }}</a>
+                <a 
+                  hx-get="{% url 'doctor:doctor_detail' doctor.pk %}" 
+                  hx-target="#content" 
+                  hx-swap="innerHTML">
+                    {{ doctor.name }}
+                </a>
             </li>
         {% endfor %}
     </ul>
-</body>
-</html>
+{% endblock %}
