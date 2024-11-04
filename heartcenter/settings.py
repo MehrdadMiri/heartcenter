@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'medications',
     'supplements',
     'doctors',
+    'search',
 ]
 
 MIDDLEWARE = [

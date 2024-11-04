@@ -1,27 +1,47 @@
 {% load static %}
 {% load i18n %}
 <!DOCTYPE html>
-<html lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_CODE == 'fa' %}dir="rtl"{% else %}dir="ltr"{% endif %}>
+<html lang="{{ LANGUAGE_CODE }}" dir="{% if LANGUAGE_CODE == 'fa' %}rtl{% else %}ltr{% endif %}">
 <head>
+    <meta charset="UTF-8">
     <title>{% block title %}{% trans "Heart Center" %}{% endblock %}</title>
+    <!-- Include Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <!-- Include custom styles -->
     <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <!-- Include htmx -->
     <script src="https://unpkg.com/htmx.org@1.8.4"></script>
 </head>
 <body>
-    {% load i18n %}
-<!DOCTYPE html>
-<html lang="{{ LANGUAGE_CODE }}" {% if LANGUAGE_CODE == 'fa' %}dir="rtl"{% else %}dir="ltr"{% endif %}>
-<body>
+    <!-- Sidebar Toggle Button -->
+    <button id="sidebarToggle" class="sidebar-toggle" aria-label="{% trans 'Toggle Sidebar' %}">
+        <i class="fas fa-chevron-right" id="toggleIcon"></i>
+    </button>
+
+    <!-- Header with Search Bar -->
+    <header class="header">
+        <form method="GET" action="{% url 'search:search' %}" class="search-bar">
+            <input type="text" name="q" placeholder="{% trans 'Search...' %}" value="{{ request.GET.q }}">
+            <button type="submit">
+                <i class="fas fa-search"></i>
+            </button>
+        </form>
+    </header>
+
     <div class="container">
+        <div class="content" id="content">
+            {% block content %}{% endblock %}
+        </div>
         <div class="sidebar" id="sidebar">
+            <!-- Sidebar content -->
             <div class="language-switcher">
                 <form action="{% url 'set_language' %}" method="post">
                     {% csrf_token %}
                     <input name="next" type="hidden" value="{{ request.path }}">
                     {% if LANGUAGE_CODE == 'en' %}
-                        <button type="submit" name="language" value="fa">{% trans "Switch to Persian" %}</button>
+                    <button type="submit" name="language" value="fa">{% trans "Switch to Persian" %}</button>
                     {% else %}
-                        <button type="submit" name="language" value="en">{% trans "Switch to English" %}</button>
+                    <button type="submit" name="language" value="en">{% trans "Switch to English" %}</button>
                     {% endif %}
                 </form>
             </div>
@@ -30,15 +50,33 @@
                 <li><a href="{% url 'diseases:disease_list' %}">{% trans "Diseases" %}</a></li>
                 <li><a href="{% url 'medications:medication_list' %}">{% trans "Medications" %}</a></li>
                 <li><a href="{% url 'supplements:supplement_list' %}">{% trans "Supplements" %}</a></li>
-                <li><a href="{% url 'doctors:doctor_list' %}">{% trans "Doctors" %}</a></li>            </ul>
+                <li><a href="{% url 'doctors:doctor_list' %}">{% trans "Doctors" %}</a></li>
+            </ul>
             <div id="sidebar-content">
                 {% block sidebar %}{% endblock %}
-                <!-- This is where the disease list will load -->
             </div>
         </div>
-        <div class="content" id="content">
-            {% block content %}{% endblock %}
-        </div>
     </div>
+
+    <!-- JavaScript to handle the toggle -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const toggleButton = document.getElementById('sidebarToggle');
+            const toggleIcon = document.getElementById('toggleIcon');
+
+            toggleButton.addEventListener('click', function() {
+                document.body.classList.toggle('sidebar-hidden');
+
+                // Change the icon based on the sidebar state
+                if (document.body.classList.contains('sidebar-hidden')) {
+                    toggleIcon.classList.remove('fa-chevron-right');
+                    toggleIcon.classList.add('fa-bars');
+                } else {
+                    toggleIcon.classList.remove('fa-bars');
+                    toggleIcon.classList.add('fa-chevron-right');
+                }
+            });
+        });
+    </script>
 </body>
 </html>

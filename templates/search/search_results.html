@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block title %}{% trans "Search Results" %}{% endblock %}
+
+{% block content %}
+    <h1>{% trans "Search Results for" %} "{{ query }}"</h1>
+
+    {% if diseases %}
+        <h2>{% trans "Diseases" %}</h2>
+        <ul>
+            {% for disease in diseases %}
+                <li><a href="{% url 'diseases:disease_detail' disease.pk %}">{{ disease.name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if medications %}
+        <h2>{% trans "Medications" %}</h2>
+        <ul>
+            {% for medication in medications %}
+                <li><a href="{% url 'medications:medication_detail' medication.pk %}">{{ medication.name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if supplements %}
+        <h2>{% trans "Supplements" %}</h2>
+        <ul>
+            {% for supplement in supplements %}
+                <li><a href="{% url 'supplements:supplement_detail' supplement.pk %}">{{ supplement.name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if doctors %}
+        <h2>{% trans "Doctors" %}</h2>
+        <ul>
+            {% for doctor in doctors %}
+                <li><a href="{% url 'doctors:doctor_detail' doctor.pk %}">{{ doctor.name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if not diseases and not medications and not supplements and not doctors %}
+        <p>{% trans "No results found." %}</p>
+    {% endif %}
+{% endblock %}

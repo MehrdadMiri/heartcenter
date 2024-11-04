@@ -19,4 +19,5 @@ urlpatterns += i18n_patterns(
     path('medications/', include('medications.urls', namespace='medications')),
     path('supplements/', include('supplements.urls', namespace='supplements')),
     path('doctors/', include('doctors.urls', namespace='doctors')),
+    path('search/', include('search.urls', namespace='search')),
 )
