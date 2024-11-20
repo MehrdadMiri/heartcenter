@@ -149,8 +149,8 @@ body[dir="rtl"].sidebar-hidden .content {
 .search-bar {
     display: flex;
     flex: 1;
-    max-width: 500px;
-    margin: 0 auto;
+    max-width: 100px;
+    margin: auto;
     direction: ltr; /* Force LTR direction */
 }
 
@@ -194,6 +194,7 @@ h1, h2, h3 {
     display: block;
     padding: 12px 15px; /* Increased padding for better spacing */
     line-height: 1.6;
+    cursor: pointer;
 }
 
 .sidebar ul li a:hover {
@@ -218,6 +219,88 @@ h1, h2, h3 {
 
 .language-switcher button:hover {
     background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Adjustments for small screens */
+@media (max-width: 767px) {
+    /* Hide the sidebar by default on mobile */
+    .sidebar {
+        transform: translateX(100%);
+        position: fixed;
+        width: 250px;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 999;
+    }
+
+    /* Adjust the content area */
+    .content {
+        margin-right: 0;
+        padding: 70px 15px 15px 15px; /* Adjusted for the smaller header */
+    }
+
+    /* Adjust the header */
+    .header {
+        height: 50px;
+        padding: 0 10px;
+    }
+
+    /* Show the sidebar when active */
+    body.sidebar-hidden .sidebar {
+        transform: translateX(100%);
+    }
+
+    body.sidebar-active .sidebar {
+        transform: translateX(0);
+    }
+
+    /* Prevent body from scrolling when sidebar is open */
+    body.sidebar-active {
+        overflow: hidden;
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .content p {
+        font-size: 16px;
+    }
+
+    /* Adjust padding for touch-friendly interactions */
+    .sidebar ul li a {
+        font-size: 16px;
+        padding: 15px;
+    }
+
+    .language-switcher button {
+        padding: 15px;
+    }
+
+    /* Adjust the search bar */
+    .search-bar input, .search-bar button {
+        padding: 12px;
+        font-size: 14px;
+    }
+    .sidebar-toggle {
+        font-size: 30px;
+        top: 10px;
+        right: 10px;
+    }
+
 }
 
 /* Footer (optional) */
